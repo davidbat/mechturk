@@ -10,7 +10,7 @@
 1C2-E-TEST-0115-21.14/001	perot theatre	DEP=1C2-E-TEST-0115-21.14005	perot theater	
 1C2-E-TEST-0115-21.14/002	city		owned	
 1C2-E-TEST-0115-21.14/003	texas		texas	
-1C2-E-TEST-0115-21.14/004	regional arts humanities		operated	
+1C2-E-TEST-0115-21.14/004	regional arts humanities		operated	1
 1C2-E-TEST-0115-21.14/005	owned		regional arts humanities council	4
 1C2-E-TEST-0115-21.14/006	&	DEP=1C2-E-TEST-0115-21.14002		
 1C2-E-TEST-0115-21.14/007	operated	DEP=1C2-E-TEST-0115-21.14008		
@@ -43,16 +43,16 @@
 1C2-E-TEST-0115-48.6/009	&	DEP=1C2-E-TEST-0115-48.6004		
 1C2-E-TEST-0115-48.7	The Perot Theatre is operated by the Texarkana Regional Arts and Humanities Council.			
 1C2-E-TEST-0115-48.7/001	perot theatre	DEP=1C2-E-TEST-0115-48.7004	perot theater	
-1C2-E-TEST-0115-48.7/002	regional arts		operated	
+1C2-E-TEST-0115-48.7/002	regional arts		operated	1
 1C2-E-TEST-0115-48.7/003	humanities council	DEP=1C2-E-TEST-0115-48.7002	regional arts humanities council	2
 1C2-E-TEST-0115-48.7/004	operated			
 1C2-E-TEST-0115-6.5	"The beautiful restored Perot Theatre, located in downtown Texarkana at 3rd and Main St, has been a landmark since 1924 when it opened as the Saenger Amusement Company's ""Gateway to the West"" theatre."			
-1C2-E-TEST-0115-6.5/001	beautiful	DEP=1C2-E-TEST-0115-6.5006		
-1C2-E-TEST-0115-6.5/002	perot theatre	DEP=1C2-E-TEST-0115-6.5010		
-1C2-E-TEST-0115-6.5/003	downtown			
-1C2-E-TEST-0115-6.5/004	3rd			
-1C2-E-TEST-0115-6.5/005	main st	DEP=1C2-E-TEST-0115-6.5002		
-1C2-E-TEST-0115-6.5/006	landmark			
+1C2-E-TEST-0115-6.5/001	beautiful	DEP=1C2-E-TEST-0115-6.5006	beautiful restored	2
+1C2-E-TEST-0115-6.5/002	perot theatre	DEP=1C2-E-TEST-0115-6.5010	perot theater	
+1C2-E-TEST-0115-6.5/003	downtown		located downtown 3rd main st	2
+1C2-E-TEST-0115-6.5/004	3rd		Landmark 1924	
+1C2-E-TEST-0115-6.5/005	main st	DEP=1C2-E-TEST-0115-6.5002	saenger amusement company	6
+1C2-E-TEST-0115-6.5/006	landmark		gateway west theater	
 1C2-E-TEST-0115-6.5/007	1924			
 1C2-E-TEST-0115-6.5/008	saenger amusement company	DEP=1C2-E-TEST-0115-6.5013		
 1C2-E-TEST-0115-6.5/009	west theater			
@@ -61,11 +61,11 @@
 1C2-E-TEST-0115-6.5/012	opened	DEP=1C2-E-TEST-0115-6.5006		
 1C2-E-TEST-0115-6.5/013	gateway			
 1C2-E-TEST-0115-6.8	In recognition of this contribution, the Texarkana, TX City Council renamed theÃÂÃÂ building - The Perot Theatre. ÃÂÃÂ The theatre annually hosts the Perot Theatre Series, as well as numerous rentals throughout the year.			
-1C2-E-TEST-0115-6.8/001	recognition			
-1C2-E-TEST-0115-6.8/002	contribution			
-1C2-E-TEST-0115-6.8/003	tx city council	DEP=1C2-E-TEST-0115-6.8009		
-1C2-E-TEST-0115-6.8/004	theã â building	DEP=1C2-E-TEST-0115-6.8009		
-1C2-E-TEST-0115-6.8/005	perot theatre ã â	DEP=1C2-E-TEST-0115-6.8004		
+1C2-E-TEST-0115-6.8/001	recognition		recognition contribution	
+1C2-E-TEST-0115-6.8/002	contribution		tx city council	1
+1C2-E-TEST-0115-6.8/003	tx city council	DEP=1C2-E-TEST-0115-6.8009	renamed building perot theater	2
+1C2-E-TEST-0115-6.8/004	theã â building	DEP=1C2-E-TEST-0115-6.8009	annually hosts perot theater series	
+1C2-E-TEST-0115-6.8/005	perot theatre ã â	DEP=1C2-E-TEST-0115-6.8004	numerous rentals thought year	
 1C2-E-TEST-0115-6.8/006	theater	DEP=1C2-E-TEST-0115-6.8011		
 1C2-E-TEST-0115-6.8/007	perot theatre series	DEP=1C2-E-TEST-0115-6.8011		
 1C2-E-TEST-0115-6.8/008	numerous rentals	DEP=1C2-E-TEST-0115-6.8007		
@@ -73,11 +73,11 @@
 1C2-E-TEST-0115-6.8/010	annually	DEP=1C2-E-TEST-0115-6.8011		
 1C2-E-TEST-0115-6.8/011	hosts	DEP=1C2-E-TEST-0115-6.8005		
 1C2-E-TEST-0115-6.9	The Perot Theatre is owned by the City of Texarkana, TX and the Texarkana Regional Arts & Humanities Council is contracted to program and manage the theatre.			
-1C2-E-TEST-0115-6.9/001	perot theatre	DEP=1C2-E-TEST-0115-6.9008		
-1C2-E-TEST-0115-6.9/002	city			
-1C2-E-TEST-0115-6.9/003	tx	DEP=1C2-E-TEST-0115-6.9010		
-1C2-E-TEST-0115-6.9/004	regional arts	DEP=1C2-E-TEST-0115-6.9003		
-1C2-E-TEST-0115-6.9/005	humanities council	DEP=1C2-E-TEST-0115-6.9004		
+1C2-E-TEST-0115-6.9/001	perot theatre	DEP=1C2-E-TEST-0115-6.9008	perot theater	
+1C2-E-TEST-0115-6.9/002	city		owned	
+1C2-E-TEST-0115-6.9/003	tx	DEP=1C2-E-TEST-0115-6.9010	tx	
+1C2-E-TEST-0115-6.9/004	regional arts	DEP=1C2-E-TEST-0115-6.9003	contracted program manage	1
+1C2-E-TEST-0115-6.9/005	humanities council	DEP=1C2-E-TEST-0115-6.9004	regional arts humanities council	4
 1C2-E-TEST-0115-6.9/006	program			
 1C2-E-TEST-0115-6.9/007	theater	DEP=1C2-E-TEST-0115-6.9011		
 1C2-E-TEST-0115-6.9/008	owned	DEP=1C2-E-TEST-0115-6.9010		
@@ -85,11 +85,11 @@
 1C2-E-TEST-0115-6.9/010	contracted			
 1C2-E-TEST-0115-6.9/011	manage	DEP=1C2-E-TEST-0115-6.9010		
 1C2-E-TEST-0115-63.32	It is run by The Texarkana Regional Arts and Humanities Council (TRAHC), which also operates the nearby Texarkana Regional Arts Center which hosts national, regional and local gallery exhibits year-round.			
-1C2-E-TEST-0115-63.32/001	regional arts			
-1C2-E-TEST-0115-63.32/002	humanities council	DEP=1C2-E-TEST-0115-63.32001		
-1C2-E-TEST-0115-63.32/003	trahc	DEP=1C2-E-TEST-0115-63.32001		
-1C2-E-TEST-0115-63.32/004	nearby regional arts center	DEP=1C2-E-TEST-0115-63.32008		
-1C2-E-TEST-0115-63.32/005	hosts	DEP=1C2-E-TEST-0115-63.32013		
+1C2-E-TEST-0115-63.32/001	regional arts		regional arts humanities council trahc	2
+1C2-E-TEST-0115-63.32/002	humanities council	DEP=1C2-E-TEST-0115-63.32001	operates	3
+1C2-E-TEST-0115-63.32/003	trahc	DEP=1C2-E-TEST-0115-63.32001	nearby regional arts center	
+1C2-E-TEST-0115-63.32/004	nearby regional arts center	DEP=1C2-E-TEST-0115-63.32008	hosts national regional local gallery exhibits	5
+1C2-E-TEST-0115-63.32/005	hosts	DEP=1C2-E-TEST-0115-63.32013	year-round 	
 1C2-E-TEST-0115-63.32/006	year-round	DEP=1C2-E-TEST-0115-63.32013		
 1C2-E-TEST-0115-63.32/007	run			
 1C2-E-TEST-0115-63.32/008	operates	DEP=1C2-E-TEST-0115-63.32001		
