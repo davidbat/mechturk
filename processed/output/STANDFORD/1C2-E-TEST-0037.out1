@@ -1,36 +1,36 @@
-1C2-E-TEST-0037-132.12	"Cheryl Maisel, a spokesperson for Reeves, has issued a statement denying the allegations that reads, ?ƒ?›?›?‚?ª?…?“Karen Sala?ƒ?›?›?‚?ª?›?„?›s allegations are completely false and absurd."			
-1C2-E-TEST-0037-132.12/001	cheryl maisel	DEP=1C2-E-TEST-0037-132.12010	cheryl maisel	2
-1C2-E-TEST-0037-132.12/002	spokesperson	DEP=1C2-E-TEST-0037-132.12001	spokesman	
-1C2-E-TEST-0037-132.12/003	statement	DEP=1C2-E-TEST-0037-132.12010	issued statement 	4
-1C2-E-TEST-0037-132.12/004	allegations	DEP=1C2-E-TEST-0037-132.12011	denying allegations	
-1C2-E-TEST-0037-132.12/005	? cents	DEP=1C2-E-TEST-0037-132.12013	allegations completely false absurd	3
-1C2-E-TEST-0037-132.12/006	karen sala? cents			
-1C2-E-TEST-0037-132.12/007	ª	DEP=1C2-E-TEST-0037-132.12009		
-1C2-E-TEST-0037-132.12/008	ƒ cents	DEP=1C2-E-TEST-0037-132.12007		
+1C2-E-TEST-0037-132.12	"Cheryl Maisel, a spokesperson for Reeves, has issued a statement denying the allegations that reads, ÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ…Ã‚Â“Karen SalaÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢s allegations are completely false and absurd."			
+1C2-E-TEST-0037-132.12/001	cheryl maisel	DEP=1C2-E-TEST-0037-132.12010		
+1C2-E-TEST-0037-132.12/002	spokesperson	DEP=1C2-E-TEST-0037-132.12001		
+1C2-E-TEST-0037-132.12/003	statement	DEP=1C2-E-TEST-0037-132.12010		
+1C2-E-TEST-0037-132.12/004	allegations	DEP=1C2-E-TEST-0037-132.12011		
+1C2-E-TEST-0037-132.12/005	Ã£ cents	DEP=1C2-E-TEST-0037-132.12013		
+1C2-E-TEST-0037-132.12/006	karen salaÃ£ cents			
+1C2-E-TEST-0037-132.12/007	Â¬	DEP=1C2-E-TEST-0037-132.12009		
+1C2-E-TEST-0037-132.12/008	Ã¢ cents	DEP=1C2-E-TEST-0037-132.12007		
 1C2-E-TEST-0037-132.12/009	allegations			
 1C2-E-TEST-0037-132.12/010	issued			
 1C2-E-TEST-0037-132.12/011	denying	DEP=1C2-E-TEST-0037-132.12003		
 1C2-E-TEST-0037-132.12/012	reads	DEP=1C2-E-TEST-0037-132.12004		
-1C2-E-TEST-0037-132.12/013	ƒ	DEP=1C2-E-TEST-0037-132.12015		
-1C2-E-TEST-0037-132.12/014	ª	DEP=1C2-E-TEST-0037-132.12015		
-1C2-E-TEST-0037-132.12/015	†	DEP=1C2-E-TEST-0037-132.12012		
+1C2-E-TEST-0037-132.12/013	Ã¢	DEP=1C2-E-TEST-0037-132.12015		
+1C2-E-TEST-0037-132.12/014	Â¬	DEP=1C2-E-TEST-0037-132.12015		
+1C2-E-TEST-0037-132.12/015	Ã¥	DEP=1C2-E-TEST-0037-132.12012		
 1C2-E-TEST-0037-132.12/016	s	DEP=1C2-E-TEST-0037-132.12009		
 1C2-E-TEST-0037-132.12/017	completely	DEP=1C2-E-TEST-0037-132.12018		
 1C2-E-TEST-0037-132.12/018	FALSE	DEP=1C2-E-TEST-0037-132.12009		
 1C2-E-TEST-0037-132.12/019	absurd	DEP=1C2-E-TEST-0037-132.12018		
-1C2-E-TEST-0037-132.14	"Adds Paul Knell, Reeves?ƒ?›?›?‚?ª?›?„?› Los Angeles business manager, ?ƒ?›?›?‚?ª?…?“Before you disparage my client and lend validity to this, there?ƒ?›?›?‚?ª?›?„?›s clearly something wrong with someone who claims child support after all the kids have grown."			
-1C2-E-TEST-0037-132.14/001	paul knell	DEP=1C2-E-TEST-0037-132.14015	adds paul knell	
-1C2-E-TEST-0037-132.14/002	reeves? cents		los angeles business manager	1
-1C2-E-TEST-0037-132.14/003	ª		disparage client	4
-1C2-E-TEST-0037-132.14/004	ƒ cents	DEP=1C2-E-TEST-0037-132.14003	lend validity	
-1C2-E-TEST-0037-132.14/005	los angeles business manager	DEP=1C2-E-TEST-0037-132.14003	clearly wrong	
-1C2-E-TEST-0037-132.14/006	? cents	DEP=1C2-E-TEST-0037-132.14005	claims child support	5
-1C2-E-TEST-0037-132.14/007	ª †		kids grown	6
+1C2-E-TEST-0037-132.14	"Adds Paul Knell, ReevesÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢ Los Angeles business manager, ÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ…Ã‚Â“Before you disparage my client and lend validity to this, thereÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢s clearly something wrong with someone who claims child support after all the kids have grown."			
+1C2-E-TEST-0037-132.14/001	paul knell	DEP=1C2-E-TEST-0037-132.14015		
+1C2-E-TEST-0037-132.14/002	reevesÃ£ cents			
+1C2-E-TEST-0037-132.14/003	Â¬			
+1C2-E-TEST-0037-132.14/004	Ã¢ cents	DEP=1C2-E-TEST-0037-132.14003		
+1C2-E-TEST-0037-132.14/005	los angeles business manager	DEP=1C2-E-TEST-0037-132.14003		
+1C2-E-TEST-0037-132.14/006	Ã£ cents	DEP=1C2-E-TEST-0037-132.14005		
+1C2-E-TEST-0037-132.14/007	Â¬ Ã¥			
 1C2-E-TEST-0037-132.14/008	client			
 1C2-E-TEST-0037-132.14/009	validity			
-1C2-E-TEST-0037-132.14/010	there? cents			
-1C2-E-TEST-0037-132.14/011	ª			
-1C2-E-TEST-0037-132.14/012	ƒ cents	DEP=1C2-E-TEST-0037-132.14011		
+1C2-E-TEST-0037-132.14/010	thereÃ£ cents			
+1C2-E-TEST-0037-132.14/011	Â¬			
+1C2-E-TEST-0037-132.14/012	Ã¢ cents	DEP=1C2-E-TEST-0037-132.14011		
 1C2-E-TEST-0037-132.14/013	child support	DEP=1C2-E-TEST-0037-132.14019		
 1C2-E-TEST-0037-132.14/014	kids	DEP=1C2-E-TEST-0037-132.14020		
 1C2-E-TEST-0037-132.14/015	adds			
@@ -40,24 +40,24 @@
 1C2-E-TEST-0037-132.14/019	claims			
 1C2-E-TEST-0037-132.14/020	grown	DEP=1C2-E-TEST-0037-132.14019		
 1C2-E-TEST-0037-132.4	"Karen Sala, 46, filed a request in an Ontario court on Monday to force Reeves to provide a DNA sample in an effort to establish paternity."			
-1C2-E-TEST-0037-132.4/001	karen sala	DEP=1C2-E-TEST-0037-132.4008	karen sala	
-1C2-E-TEST-0037-132.4/002	46	DEP=1C2-E-TEST-0037-132.4001	46	1
-1C2-E-TEST-0037-132.4/003	request	DEP=1C2-E-TEST-0037-132.4008	filed request	4
-1C2-E-TEST-0037-132.4/004	ontario court		ontario court	
-1C2-E-TEST-0037-132.4/005	monday		Monday	
-1C2-E-TEST-0037-132.4/006	dna sample		force provide dna sample	7
-1C2-E-TEST-0037-132.4/007	paternity	DEP=1C2-E-TEST-0037-132.4011	establish paternity	
+1C2-E-TEST-0037-132.4/001	karen sala	DEP=1C2-E-TEST-0037-132.4008		
+1C2-E-TEST-0037-132.4/002	46	DEP=1C2-E-TEST-0037-132.4001		
+1C2-E-TEST-0037-132.4/003	request	DEP=1C2-E-TEST-0037-132.4008		
+1C2-E-TEST-0037-132.4/004	ontario court			
+1C2-E-TEST-0037-132.4/005	monday			
+1C2-E-TEST-0037-132.4/006	dna sample			
+1C2-E-TEST-0037-132.4/007	paternity	DEP=1C2-E-TEST-0037-132.4011		
 1C2-E-TEST-0037-132.4/008	filed			
 1C2-E-TEST-0037-132.4/009	force	DEP=1C2-E-TEST-0037-132.4008		
 1C2-E-TEST-0037-132.4/010	effort			
 1C2-E-TEST-0037-132.4/011	establish	DEP=1C2-E-TEST-0037-132.4010		
 1C2-E-TEST-0037-139.16	"Their marriage didn't last long, and Patricia packed up Keanu and his little sister, Kim, and relocated to New York City, where she married Paul Aaron, a Broadway and Hollywood director."			
-1C2-E-TEST-0037-139.16/001	marriage		marriage didn't last long	
-1C2-E-TEST-0037-139.16/002	patricia	DEP=1C2-E-TEST-0037-139.16012	patricia packed	1
-1C2-E-TEST-0037-139.16/003	sister		sister kim	2
-1C2-E-TEST-0037-139.16/004	kim	DEP=1C2-E-TEST-0037-139.16003	relocated new york city	
-1C2-E-TEST-0037-139.16/005	new york city		married paul aaron	5
-1C2-E-TEST-0037-139.16/006	paul aaron	DEP=1C2-E-TEST-0037-139.16014	broadway hollywood director	6
+1C2-E-TEST-0037-139.16/001	marriage			
+1C2-E-TEST-0037-139.16/002	patricia	DEP=1C2-E-TEST-0037-139.16012		
+1C2-E-TEST-0037-139.16/003	sister			
+1C2-E-TEST-0037-139.16/004	kim	DEP=1C2-E-TEST-0037-139.16003		
+1C2-E-TEST-0037-139.16/005	new york city			
+1C2-E-TEST-0037-139.16/006	paul aaron	DEP=1C2-E-TEST-0037-139.16014		
 1C2-E-TEST-0037-139.16/007	broadway	DEP=1C2-E-TEST-0037-139.16006		
 1C2-E-TEST-0037-139.16/008	hollywood director	DEP=1C2-E-TEST-0037-139.16006		
 1C2-E-TEST-0037-139.16/009	did			
@@ -67,26 +67,26 @@
 1C2-E-TEST-0037-139.16/013	relocated	DEP=1C2-E-TEST-0037-139.16012		
 1C2-E-TEST-0037-139.16/014	married	DEP=1C2-E-TEST-0037-139.16005		
 1C2-E-TEST-0037-139.4	"Relations: Mother: Patricia (costume designer); father: Samuel Nowlin Reeves (geologist); stepfathers:Paul Aaron (theater director), Robert Miller (promoter), Jack Bond (hair salon owner); siblings: Kim (horse breeder), Karina; ex-girlfriend: Jennifer Syme; companion: Amanda de Cadenet"			
-1C2-E-TEST-0037-139.4/001	relations		relations	
-1C2-E-TEST-0037-139.4/002	mother	DEP=1C2-E-TEST-0037-139.4001	mother patricia	1
-1C2-E-TEST-0037-139.4/003	patricia	DEP=1C2-E-TEST-0037-139.4002	costume designer	2
-1C2-E-TEST-0037-139.4/004	costume designer	DEP=1C2-E-TEST-0037-139.4003	father samuel nowlin	1
-1C2-E-TEST-0037-139.4/005	father	DEP=1C2-E-TEST-0037-139.4001	geologist	4
-1C2-E-TEST-0037-139.4/006	samuel nowlin		stepfathers	1
-1C2-E-TEST-0037-139.4/007	geologist		paul aaron	6
-1C2-E-TEST-0037-139.4/008	stepfathers	DEP=1C2-E-TEST-0037-139.4001	theater director	7
-1C2-E-TEST-0037-139.4/009	paul aaron	DEP=1C2-E-TEST-0037-139.4008	robert miller	6
-1C2-E-TEST-0037-139.4/010	theater director	DEP=1C2-E-TEST-0037-139.4009	promoter	9
-1C2-E-TEST-0037-139.4/011	robert miller	DEP=1C2-E-TEST-0037-139.4009	jack bond	6
-1C2-E-TEST-0037-139.4/012	promoter	DEP=1C2-E-TEST-0037-139.4011	hair salon owner	11
-1C2-E-TEST-0037-139.4/013	jack bond	DEP=1C2-E-TEST-0037-139.4009	siblings	1
-1C2-E-TEST-0037-139.4/014	hair salon owner	DEP=1C2-E-TEST-0037-139.4013	kim	13
-1C2-E-TEST-0037-139.4/015	siblings	DEP=1C2-E-TEST-0037-139.4001	horse breeder	14
-1C2-E-TEST-0037-139.4/016	kim	DEP=1C2-E-TEST-0037-139.4015	karina	13
-1C2-E-TEST-0037-139.4/017	horse breeder	DEP=1C2-E-TEST-0037-139.4016	ex-girlfriends	1
-1C2-E-TEST-0037-139.4/018	karina	DEP=1C2-E-TEST-0037-139.4016	jennifer syme	18
-1C2-E-TEST-0037-139.4/019	ex-girlfriend	DEP=1C2-E-TEST-0037-139.4001	companion	1
-1C2-E-TEST-0037-139.4/020	jennifer syme	DEP=1C2-E-TEST-0037-139.4019	amanda de cadenet	19
+1C2-E-TEST-0037-139.4/001	relations			
+1C2-E-TEST-0037-139.4/002	mother	DEP=1C2-E-TEST-0037-139.4001		
+1C2-E-TEST-0037-139.4/003	patricia	DEP=1C2-E-TEST-0037-139.4002		
+1C2-E-TEST-0037-139.4/004	costume designer	DEP=1C2-E-TEST-0037-139.4003		
+1C2-E-TEST-0037-139.4/005	father	DEP=1C2-E-TEST-0037-139.4001		
+1C2-E-TEST-0037-139.4/006	samuel nowlin			
+1C2-E-TEST-0037-139.4/007	geologist			
+1C2-E-TEST-0037-139.4/008	stepfathers	DEP=1C2-E-TEST-0037-139.4001		
+1C2-E-TEST-0037-139.4/009	paul aaron	DEP=1C2-E-TEST-0037-139.4008		
+1C2-E-TEST-0037-139.4/010	theater director	DEP=1C2-E-TEST-0037-139.4009		
+1C2-E-TEST-0037-139.4/011	robert miller	DEP=1C2-E-TEST-0037-139.4009		
+1C2-E-TEST-0037-139.4/012	promoter	DEP=1C2-E-TEST-0037-139.4011		
+1C2-E-TEST-0037-139.4/013	jack bond	DEP=1C2-E-TEST-0037-139.4009		
+1C2-E-TEST-0037-139.4/014	hair salon owner	DEP=1C2-E-TEST-0037-139.4013		
+1C2-E-TEST-0037-139.4/015	siblings	DEP=1C2-E-TEST-0037-139.4001		
+1C2-E-TEST-0037-139.4/016	kim	DEP=1C2-E-TEST-0037-139.4015		
+1C2-E-TEST-0037-139.4/017	horse breeder	DEP=1C2-E-TEST-0037-139.4016		
+1C2-E-TEST-0037-139.4/018	karina	DEP=1C2-E-TEST-0037-139.4016		
+1C2-E-TEST-0037-139.4/019	ex-girlfriend	DEP=1C2-E-TEST-0037-139.4001		
+1C2-E-TEST-0037-139.4/020	jennifer syme	DEP=1C2-E-TEST-0037-139.4019		
 1C2-E-TEST-0037-139.4/021	companion	DEP=1C2-E-TEST-0037-139.4001		
 1C2-E-TEST-0037-139.4/022	amanda de cadenet	DEP=1C2-E-TEST-0037-139.4021		
 1C2-E-TEST-0037-139.61	"What I know is that one of the producers had the idea for me as the part and then went to my agents and then I got the script and read it and then they told the idea to Sam and Sam was like, ""Uh, okay."			
@@ -123,7 +123,7 @@
 1C2-E-TEST-0037-140.19/007	Jun-88			
 1C2-E-TEST-0037-140.19/008	month			
 1C2-E-TEST-0037-140.19/009	spousal support			
-1C2-E-TEST-0037-140.19/010	6-Nov			
+1C2-E-TEST-0037-140.19/010	Nov-06			
 1C2-E-TEST-0037-140.19/011	seeking			
 1C2-E-TEST-0037-140.19/012	retroactive	DEP=1C2-E-TEST-0037-140.19004		
 1C2-E-TEST-0037-140.19/013	3			
@@ -140,81 +140,81 @@
 1C2-E-TEST-0037-140.29/008	lived	DEP=1C2-E-TEST-0037-140.29007		
 1C2-E-TEST-0037-140.29/009	moved	DEP=1C2-E-TEST-0037-140.29008		
 1C2-E-TEST-0037-140.33	"But Sala insisted that Reeves was aware that he might be the father of some or all of her children, noting that at least one of them bears a resemblance to him."			
-1C2-E-TEST-0037-140.33/001	sala	DEP=1C2-E-TEST-0037-140.33005	sala	
-1C2-E-TEST-0037-140.33/002	father	DEP=1C2-E-TEST-0037-140.33006	insisted	1
-1C2-E-TEST-0037-140.33/003	children		aware	1
-1C2-E-TEST-0037-140.33/004	resemblance	DEP=1C2-E-TEST-0037-140.33009	father children	
-1C2-E-TEST-0037-140.33/005	insisted		noting	
-1C2-E-TEST-0037-140.33/006	aware	DEP=1C2-E-TEST-0037-140.33005	bear resemblance	5
+1C2-E-TEST-0037-140.33/001	sala	DEP=1C2-E-TEST-0037-140.33005		
+1C2-E-TEST-0037-140.33/002	father	DEP=1C2-E-TEST-0037-140.33006		
+1C2-E-TEST-0037-140.33/003	children			
+1C2-E-TEST-0037-140.33/004	resemblance	DEP=1C2-E-TEST-0037-140.33009		
+1C2-E-TEST-0037-140.33/005	insisted			
+1C2-E-TEST-0037-140.33/006	aware	DEP=1C2-E-TEST-0037-140.33005		
 1C2-E-TEST-0037-140.33/007	noting	DEP=1C2-E-TEST-0037-140.33002		
 1C2-E-TEST-0037-140.33/008	least			
 1C2-E-TEST-0037-140.33/009	bears	DEP=1C2-E-TEST-0037-140.33007		
 1C2-E-TEST-0037-140.34	"Sala said her relationship continued with Reeves throughout her teens and early 20s, saying Reeves has stayed in touch over the years and played a minor role in her children's upbringing."			
-1C2-E-TEST-0037-140.34/001	sala		sala	
-1C2-E-TEST-0037-140.34/002	relationship	DEP=1C2-E-TEST-0037-140.34009	relationship continued	1
-1C2-E-TEST-0037-140.34/003	teens		teens	2
-1C2-E-TEST-0037-140.34/004	early 20s	DEP=1C2-E-TEST-0037-140.34003	early 20's	2
-1C2-E-TEST-0037-140.34/005	touch		stayed touch	
-1C2-E-TEST-0037-140.34/006	years		minor role	
-1C2-E-TEST-0037-140.34/007	minor role	DEP=1C2-E-TEST-0037-140.34012	children upbringing	6
+1C2-E-TEST-0037-140.34/001	sala			
+1C2-E-TEST-0037-140.34/002	relationship	DEP=1C2-E-TEST-0037-140.34009		
+1C2-E-TEST-0037-140.34/003	teens			
+1C2-E-TEST-0037-140.34/004	early 20s	DEP=1C2-E-TEST-0037-140.34003		
+1C2-E-TEST-0037-140.34/005	touch			
+1C2-E-TEST-0037-140.34/006	years			
+1C2-E-TEST-0037-140.34/007	minor role	DEP=1C2-E-TEST-0037-140.34012		
 1C2-E-TEST-0037-140.34/008	children	DEP=1C2-E-TEST-0037-140.34013		
 1C2-E-TEST-0037-140.34/009	continued			
 1C2-E-TEST-0037-140.34/010	saying	DEP=1C2-E-TEST-0037-140.34009		
 1C2-E-TEST-0037-140.34/011	stayed	DEP=1C2-E-TEST-0037-140.34010		
 1C2-E-TEST-0037-140.34/012	played	DEP=1C2-E-TEST-0037-140.34011		
 1C2-E-TEST-0037-140.34/013	upbringing			
-1C2-E-TEST-0037-140.48	Sala said she has a picture of Reeves when he was a teenager ?ƒ?›?›?‚?ª?›?€?œ though she was unable to produce it yesterday ?ƒ?›?›?‚?ª?›?€?œ and that she is hoping to get a photo from a friend of the two of them together more than 20 years ago.			
-1C2-E-TEST-0037-140.48/001	sala		sala	
-1C2-E-TEST-0037-140.48/002	picture		picture	
-1C2-E-TEST-0037-140.48/003	teenager	DEP=1C2-E-TEST-0037-140.48002	teenager	2
-1C2-E-TEST-0037-140.48/004	? cents	DEP=1C2-E-TEST-0037-140.48011	unable produce yesterday	2
-1C2-E-TEST-0037-140.48/005	? cents	DEP=1C2-E-TEST-0037-140.48016	hoping	
-1C2-E-TEST-0037-140.48/006	photo		photo	
-1C2-E-TEST-0037-140.48/007	friend		friend	
-1C2-E-TEST-0037-140.48/008	two		together	6
-1C2-E-TEST-0037-140.48/009	ƒ	DEP=1C2-E-TEST-0037-140.48010	20 years ago	8
-1C2-E-TEST-0037-140.48/010	ª	DEP=1C2-E-TEST-0037-140.48004		
-1C2-E-TEST-0037-140.48/011	ƒ	DEP=1C2-E-TEST-0037-140.48003		
+1C2-E-TEST-0037-140.48	Sala said she has a picture of Reeves when he was a teenager ÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â€Ã‚Âœ though she was unable to produce it yesterday ÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â€Ã‚Âœ and that she is hoping to get a photo from a friend of the two of them together more than 20 years ago.			
+1C2-E-TEST-0037-140.48/001	sala			
+1C2-E-TEST-0037-140.48/002	picture			
+1C2-E-TEST-0037-140.48/003	teenager	DEP=1C2-E-TEST-0037-140.48002		
+1C2-E-TEST-0037-140.48/004	Ã£ cents	DEP=1C2-E-TEST-0037-140.48011		
+1C2-E-TEST-0037-140.48/005	Ã£ cents	DEP=1C2-E-TEST-0037-140.48016		
+1C2-E-TEST-0037-140.48/006	photo			
+1C2-E-TEST-0037-140.48/007	friend			
+1C2-E-TEST-0037-140.48/008	two			
+1C2-E-TEST-0037-140.48/009	Ã¢	DEP=1C2-E-TEST-0037-140.48010		
+1C2-E-TEST-0037-140.48/010	Â¬	DEP=1C2-E-TEST-0037-140.48004		
+1C2-E-TEST-0037-140.48/011	Ã¢	DEP=1C2-E-TEST-0037-140.48003		
 1C2-E-TEST-0037-140.48/012	produce			
 1C2-E-TEST-0037-140.48/013	yesterday	DEP=1C2-E-TEST-0037-140.48012		
-1C2-E-TEST-0037-140.48/014	ƒ	DEP=1C2-E-TEST-0037-140.48015		
-1C2-E-TEST-0037-140.48/015	ª	DEP=1C2-E-TEST-0037-140.48005		
-1C2-E-TEST-0037-140.48/016	ƒ	DEP=1C2-E-TEST-0037-140.48012		
+1C2-E-TEST-0037-140.48/014	Ã¢	DEP=1C2-E-TEST-0037-140.48015		
+1C2-E-TEST-0037-140.48/015	Â¬	DEP=1C2-E-TEST-0037-140.48005		
+1C2-E-TEST-0037-140.48/016	Ã¢	DEP=1C2-E-TEST-0037-140.48012		
 1C2-E-TEST-0037-140.48/017	hoping			
 1C2-E-TEST-0037-140.48/018	20	DEP=1C2-E-TEST-0037-140.48019		
 1C2-E-TEST-0037-140.48/019	years	DEP=1C2-E-TEST-0037-140.48020		
 1C2-E-TEST-0037-140.48/020	ago	DEP=1C2-E-TEST-0037-140.48016		
 1C2-E-TEST-0037-140.49	"Sala has what she describes as a sample of his handwriting, and said she has Reeves' phone number and current address in Los Angeles."			
-1C2-E-TEST-0037-140.49/001	sala		sala	
-1C2-E-TEST-0037-140.49/002	sample		sample handwriting	
-1C2-E-TEST-0037-140.49/003	handwriting		phone number	
-1C2-E-TEST-0037-140.49/004	current address	DEP=1C2-E-TEST-0037-140.49006	current address	5
-1C2-E-TEST-0037-140.49/005	los angeles		los angeles	
+1C2-E-TEST-0037-140.49/001	sala			
+1C2-E-TEST-0037-140.49/002	sample			
+1C2-E-TEST-0037-140.49/003	handwriting			
+1C2-E-TEST-0037-140.49/004	current address	DEP=1C2-E-TEST-0037-140.49006		
+1C2-E-TEST-0037-140.49/005	los angeles			
 1C2-E-TEST-0037-140.49/006	describes			
 1C2-E-TEST-0037-140.49/007	phone	DEP=1C2-E-TEST-0037-140.49008		
 1C2-E-TEST-0037-140.49/008	number			
 1C2-E-TEST-0037-147.10	He did not have a normal childhood and had to move around a lot all over the world as a child.			
-1C2-E-TEST-0037-147.10/001	normal childhood		normal childhood	
-1C2-E-TEST-0037-147.10/002	lot		move around world	3
-1C2-E-TEST-0037-147.10/003	world		child	
+1C2-E-TEST-0037-147.10/001	normal childhood			
+1C2-E-TEST-0037-147.10/002	lot			
+1C2-E-TEST-0037-147.10/003	world			
 1C2-E-TEST-0037-147.10/004	child			
 1C2-E-TEST-0037-147.10/005	did			
 1C2-E-TEST-0037-147.10/006	move			
 1C2-E-TEST-0037-147.14	"Keanu was involved in a car accident himself and was sued for a hefty sum of $700,000. There are rumors today that Keanu has joined the group of scientologists along with Tom Cruise."			
-1C2-E-TEST-0037-147.14/001	car accident		involved	
-1C2-E-TEST-0037-147.14/002	hefty sum		car accident	
-1C2-E-TEST-0037-147.14/003	"700,000"		sued	
-1C2-E-TEST-0037-147.14/004	rumors		heft sum	
-1C2-E-TEST-0037-147.14/005	group	DEP=1C2-E-TEST-0037-147.14011	"700,000"	
-1C2-E-TEST-0037-147.14/006	scientologists		rumors	
-1C2-E-TEST-0037-147.14/007	tom cruise		joined group	6
-1C2-E-TEST-0037-147.14/008	involved		scientologist	7
-1C2-E-TEST-0037-147.14/009	sued	DEP=1C2-E-TEST-0037-147.14008	tom cruise	8
+1C2-E-TEST-0037-147.14/001	car accident			
+1C2-E-TEST-0037-147.14/002	hefty sum			
+1C2-E-TEST-0037-147.14/003	"700,000"			
+1C2-E-TEST-0037-147.14/004	rumors			
+1C2-E-TEST-0037-147.14/005	group	DEP=1C2-E-TEST-0037-147.14011		
+1C2-E-TEST-0037-147.14/006	scientologists			
+1C2-E-TEST-0037-147.14/007	tom cruise			
+1C2-E-TEST-0037-147.14/008	involved			
+1C2-E-TEST-0037-147.14/009	sued	DEP=1C2-E-TEST-0037-147.14008		
 1C2-E-TEST-0037-147.14/010	today	DEP=1C2-E-TEST-0037-147.14004		
 1C2-E-TEST-0037-147.14/011	joined	DEP=1C2-E-TEST-0037-147.14004		
 1C2-E-TEST-0037-147.3	For the most of his life Keanu Reeves lived in hotels and rented apartments even after rising to stardom.			
-1C2-E-TEST-0037-147.3/001	life		lived hotels rented apartments	
-1C2-E-TEST-0037-147.3/002	hotels		rising stardom	
+1C2-E-TEST-0037-147.3/001	life			
+1C2-E-TEST-0037-147.3/002	hotels			
 1C2-E-TEST-0037-147.3/003	apartments	DEP=1C2-E-TEST-0037-147.3006		
 1C2-E-TEST-0037-147.3/004	stardom			
 1C2-E-TEST-0037-147.3/005	lived			
@@ -234,18 +234,18 @@
 1C2-E-TEST-0037-147.7/011	later	DEP=1C2-E-TEST-0037-147.7012		
 1C2-E-TEST-0037-147.7/012	lost	DEP=1C2-E-TEST-0037-147.7009		
 1C2-E-TEST-0037-147.9	"In spite of his high profile life and a great career, Keanu Reeves has been very unlucky in his personal life."			
-1C2-E-TEST-0037-147.9/001	spite		high profile life	3
-1C2-E-TEST-0037-147.9/002	high profile life		great carrer	3
-1C2-E-TEST-0037-147.9/003	great career	DEP=1C2-E-TEST-0037-147.9002	in spite	
-1C2-E-TEST-0037-147.9/004	personal life		unlucky personal life	
+1C2-E-TEST-0037-147.9/001	spite			
+1C2-E-TEST-0037-147.9/002	high profile life			
+1C2-E-TEST-0037-147.9/003	great career	DEP=1C2-E-TEST-0037-147.9002		
+1C2-E-TEST-0037-147.9/004	personal life			
 1C2-E-TEST-0037-147.9/005	unlucky			
 1C2-E-TEST-0037-235.11	"Sala said she has tried ""privately"" over the years to persuade Reeves to provide support....""Karen Sala's allegations are completely false and absurd."			
-1C2-E-TEST-0037-235.11/001	sala		sala	
-1C2-E-TEST-0037-235.11/002	years		tried privately	1
-1C2-E-TEST-0037-235.11/003	support		years	
-1C2-E-TEST-0037-235.11/004	karen sala	DEP=1C2-E-TEST-0037-235.11008	provide support	
-1C2-E-TEST-0037-235.11/005	tried		karen sala	
-1C2-E-TEST-0037-235.11/006	privately		allegation completely false absurd	5
+1C2-E-TEST-0037-235.11/001	sala			
+1C2-E-TEST-0037-235.11/002	years			
+1C2-E-TEST-0037-235.11/003	support			
+1C2-E-TEST-0037-235.11/004	karen sala	DEP=1C2-E-TEST-0037-235.11008		
+1C2-E-TEST-0037-235.11/005	tried			
+1C2-E-TEST-0037-235.11/006	privately			
 1C2-E-TEST-0037-235.11/007	persuade	DEP=1C2-E-TEST-0037-235.11005		
 1C2-E-TEST-0037-235.11/008	allegations	DEP=1C2-E-TEST-0037-235.11010		
 1C2-E-TEST-0037-235.11/009	completely	DEP=1C2-E-TEST-0037-235.11010		
@@ -264,25 +264,15 @@
 1C2-E-TEST-0037-235.13/010	motives	DEP=1C2-E-TEST-0037-235.13009		
 1C2-E-TEST-0037-235.13/011	noting	DEP=1C2-E-TEST-0037-235.13009		
 1C2-E-TEST-0037-235.14	"Before you disparage my client and lend validity to this, there's clearly something wrong with someone who claims child support after all the kids have grown.
-
 1C2-E-TEST-0037-235.14/001	client
-
 1C2-E-TEST-0037-235.14/002	validity
-
 1C2-E-TEST-0037-235.14/003	child support	DEP=1C2-E-TEST-0037-235.14008
-
 1C2-E-TEST-0037-235.14/004	kids	DEP=1C2-E-TEST-0037-235.14009
-
 1C2-E-TEST-0037-235.14/005	's
-
 1C2-E-TEST-0037-235.14/006	clearly	DEP=1C2-E-TEST-0037-235.14005
-
 1C2-E-TEST-0037-235.14/007	wrong
-
 1C2-E-TEST-0037-235.14/008	claims
-
 1C2-E-TEST-0037-235.14/009	grown	DEP=1C2-E-TEST-0037-235.14008
-
 1C2-E-TEST-0037-235.17	He (Reeves) is a high-profile person in Hollywood so people come out of the woodwork."			
 1C2-E-TEST-0037-235.17/001	high-profile person			
 1C2-E-TEST-0037-235.17/002	hollywood			
@@ -414,17 +404,17 @@
 1C2-E-TEST-0037-66.21/007	Jun-88			
 1C2-E-TEST-0037-66.21/008	month			
 1C2-E-TEST-0037-66.21/009	spousal support			
-1C2-E-TEST-0037-66.21/010	6-Nov			
+1C2-E-TEST-0037-66.21/010	Nov-06			
 1C2-E-TEST-0037-66.21/011	seeking			
 1C2-E-TEST-0037-66.21/012	retroactive	DEP=1C2-E-TEST-0037-66.21004		
 1C2-E-TEST-0037-66.21/013	3			
 1C2-E-TEST-0037-66.21/014	million			
 1C2-E-TEST-0037-66.21/015	retroactive	DEP=1C2-E-TEST-0037-66.21009		
-1C2-E-TEST-0037-66.4	"According to 46-year old Karen Sala from Canada, he?ƒ?›?›?‚?ª?›?„?›s the father of her four children!"			
+1C2-E-TEST-0037-66.4	"According to 46-year old Karen Sala from Canada, heÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢s the father of her four children!"			
 1C2-E-TEST-0037-66.4/001	canada			
-1C2-E-TEST-0037-66.4/002	he? cents			
-1C2-E-TEST-0037-66.4/003	ª			
-1C2-E-TEST-0037-66.4/004	ƒ cents	DEP=1C2-E-TEST-0037-66.4005		
+1C2-E-TEST-0037-66.4/002	heÃ£ cents			
+1C2-E-TEST-0037-66.4/003	Â¬			
+1C2-E-TEST-0037-66.4/004	Ã¢ cents	DEP=1C2-E-TEST-0037-66.4005		
 1C2-E-TEST-0037-66.4/005	father	DEP=1C2-E-TEST-0037-66.4003		
 1C2-E-TEST-0037-66.4/006	four children			
 1C2-E-TEST-0037-66.4/007	46-year	DEP=1C2-E-TEST-0037-66.4008		
@@ -432,13 +422,13 @@
 1C2-E-TEST-0037-66.4/009	karen	DEP=1C2-E-TEST-0037-66.4010		
 1C2-E-TEST-0037-66.4/010	sala			
 1C2-E-TEST-0037-66.4/011	s	DEP=1C2-E-TEST-0037-66.4005		
-1C2-E-TEST-0037-66.5	"According to the Toronto Star Sala is seeking child support from Keanu for herself and her four children, whom she claims are the actor?ƒ?›?›?‚?ª?›?„?›s."			
+1C2-E-TEST-0037-66.5	"According to the Toronto Star Sala is seeking child support from Keanu for herself and her four children, whom she claims are the actorÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢s."			
 1C2-E-TEST-0037-66.5/001	toronto star sala			
 1C2-E-TEST-0037-66.5/002	child support	DEP=1C2-E-TEST-0037-66.5008		
 1C2-E-TEST-0037-66.5/003	four children			
-1C2-E-TEST-0037-66.5/004	actor?	DEP=1C2-E-TEST-0037-66.5009		
+1C2-E-TEST-0037-66.5/004	actorÃ£	DEP=1C2-E-TEST-0037-66.5009		
 1C2-E-TEST-0037-66.5/005	cents			
-1C2-E-TEST-0037-66.5/006	ª			
-1C2-E-TEST-0037-66.5/007	ƒ cents	DEP=1C2-E-TEST-0037-66.5008		
+1C2-E-TEST-0037-66.5/006	Â¬			
+1C2-E-TEST-0037-66.5/007	Ã¢ cents	DEP=1C2-E-TEST-0037-66.5008		
 1C2-E-TEST-0037-66.5/008	seeking			
 1C2-E-TEST-0037-66.5/009	claims	DEP=1C2-E-TEST-0037-66.5003		
