@@ -5,9 +5,9 @@
 1C2-E-TEST-0082-1.8/004	91 wins	DEP=1C2-E-TEST-0082-1.8007	91 wins	2
 1C2-E-TEST-0082-1.8/005	155 podium finishes	DEP=1C2-E-TEST-0082-1.8004	155 podium finishes	2
 1C2-E-TEST-0082-1.8/006	68 pole positions		68 pole positions	2
-1C2-E-TEST-0082-1.8/007	records	DEP=1C2-E-TEST-0082-1.8003		 
-1C2-E-TEST-0082-1.8/008	holds			
-1C2-E-TEST-0082-1.8/009	3	DEP=1C2-E-TEST-0082-1.8005		
+1C2-E-TEST-0082-1.8/007	records	DEP=1C2-E-TEST-0082-1.8003
+1C2-E-TEST-0082-1.8/008	holds
+1C2-E-TEST-0082-1.8/009	3	DEP=1C2-E-TEST-0082-1.8005
 1C2-E-TEST-0082-107.116	"This has not always been the case, and in the earlier history of Formula One many races took place outside the world championship."			
 1C2-E-TEST-0082-107.116/001	case		earlier history	
 1C2-E-TEST-0082-107.116/002	earlier history		races	1
@@ -45,7 +45,7 @@
 1C2-E-TEST-0082-107.17	"[3] [4] Fangio, however, is remembered for dominating Formula One's first decade and has long been considered the ""grand master"" of Formula One."			
 1C2-E-TEST-0082-107.17/001	fangio	DEP=1C2-E-TEST-0082-107.17002	Fangio	
 1C2-E-TEST-0082-107.17/002	remembered		dominating 	1
-1C2-E-TEST-0082-107.17/003	grand master	DEP=1C2-E-TEST-0082-107.17009	"considered ""grand master"""	2
+1C2-E-TEST-0082-107.17/003	grand master	DEP=1C2-E-TEST-0082-107.17009	considered grand master	2
 1C2-E-TEST-0082-107.17/004	3	DEP=1C2-E-TEST-0082-107.17002		
 1C2-E-TEST-0082-107.17/005	4	DEP=1C2-E-TEST-0082-107.17002		
 1C2-E-TEST-0082-107.17/006	dominating			

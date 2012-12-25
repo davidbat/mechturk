@@ -3,12 +3,21 @@ require 'pp'
 
 final = '/home/dave/Documents/vitalstring/mechturk/final/output/STANFORD/'
 processed = '/home/dave/Documents/vitalstring/mechturk/processed/output/STANDFORD/'
+args = []
+ARGV.each do |arg|
+  args << "1C2-E-TEST-0" + "%03d" % arg + ".out"
+end
 Dir[processed + "*"].each do |full_path|
   ip = open(full_path, "r")
   file_name = full_path.split("/").last
+  # uncomment below line for specific file debugging
+  next if !args.empty? && !args.include?(file_name)
+  puts "processing #{file_name}"
   op = open(final + file_name, "w")
   ip.readlines.each do |line|
     line = line.chomp
+    # Uncomment below line for debugging
+    #puts line
     str = ""
     parts=line.split("\t")
     if parts[0].include?("/")
@@ -31,6 +40,5 @@ Dir[processed + "*"].each do |full_path|
   end
   op.close
   ip.close
-  exit
 end
 
