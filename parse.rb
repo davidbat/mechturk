@@ -26,7 +26,7 @@ Dir[processed + "*"].each do |full_path|
       str = line
     end
     if !str.empty?
-      op.write(str)
+      op.write(str+"\n")
     end
   end
   op.close
