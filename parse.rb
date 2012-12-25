@@ -4,10 +4,15 @@ require 'pp'
 final = '/home/dave/Documents/vitalstring/mechturk/final/output/STANFORD/'
 processed = '/home/dave/Documents/vitalstring/mechturk/processed/output/STANDFORD/'
 args = []
+debug = false
 ARGV.each do |arg|
+  if arg == "-d"
+    debug = true
+    next
+  end
   args << "1C2-E-TEST-0" + "%03d" % arg + ".out"
 end
-Dir[processed + "*"].each do |full_path|
+Dir[processed + "*.out"].each do |full_path|
   ip = open(full_path, "r")
   file_name = full_path.split("/").last
   # uncomment below line for specific file debugging
@@ -16,8 +21,7 @@ Dir[processed + "*"].each do |full_path|
   op = open(final + file_name, "w")
   ip.readlines.each do |line|
     line = line.chomp
-    # Uncomment below line for debugging
-    #puts line
+    puts line if debug
     str = ""
     parts=line.split("\t")
     if parts[0].include?("/")
