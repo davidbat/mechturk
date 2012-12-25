@@ -19,9 +19,11 @@ Dir[processed + "*.out"].each do |full_path|
   next if !args.empty? && !args.include?(file_name)
   puts "processing #{file_name}"
   op = open(final + file_name, "w")
+ 
   ip.readlines.each do |line|
-    line = line.chomp
-    puts line if debug
+    line = line.chomp.sub(/\t*$/,'')
+    puts line.inspect if debug
+    next if line.empty?
     str = ""
     parts=line.split("\t")
     if parts[0].include?("/")
@@ -29,7 +31,11 @@ Dir[processed + "*.out"].each do |full_path|
       if !parts[3].nil?
         str += "\t" + parts[3]
         if !parts[4].nil?
-          str += "\t" + "DEP=" + parts[0].split("/").first + "%03d" % parts[4]
+          if parts[4].grep(/^DEP/).empty?
+            str += "\t" + "DEP=" + parts[0].split("/").first + "%03d" % parts[4]
+          else
+            str += "\t" + parts[4]
+          end
         end
       else
         # we don't have new vital string here so don't add anything

@@ -1,116 +1,116 @@
-1C2-E-TEST-0032-1.29	"While reporting on the Boer War in South Africa, he was taken prisoner by the Boers while on a scouting expedition."			
+1C2-E-TEST-0032-1.29	"While reporting on the Boer War in South Africa, he was taken prisoner by the Boers while on a scouting expedition."
 1C2-E-TEST-0032-1.29/001	boer war south africa
 1C2-E-TEST-0032-1.29/002	taken prisoner
 1C2-E-TEST-0032-1.29/003	scouting expedition
-1C2-E-TEST-0032-1.33	"In 1900, Churchill became a Member of Parliament in the Conservative Party for Oldham, a town in Manchester."			
+1C2-E-TEST-0032-1.33	"In 1900, Churchill became a Member of Parliament in the Conservative Party for Oldham, a town in Manchester."
 1C2-E-TEST-0032-1.33/001	member parliament
 1C2-E-TEST-0032-1.33/002	conservative party	DEP=1C2-E-TEST-0032-1.33001
 1C2-E-TEST-0032-1.33/003	oldham manchester
 1C2-E-TEST-0032-1.33/004	1900	DEP=1C2-E-TEST-0032-1.33001
-1C2-E-TEST-0032-10.222	Winston Churchill - Prime Minister and Minister of Defense			
+1C2-E-TEST-0032-10.222	Winston Churchill - Prime Minister and Minister of Defense
 1C2-E-TEST-0032-10.222/001	prime ministor
 1C2-E-TEST-0032-10.222/002	minister defense
-1C2-E-TEST-0032-10.34	"When Asquith formed a all-party coalition government, the Conservatives demanded Churchill's demotion as the price for entry."			
+1C2-E-TEST-0032-10.34	"When Asquith formed a all-party coalition government, the Conservatives demanded Churchill's demotion as the price for entry."
 1C2-E-TEST-0032-10.34/001	asquith	DEP=1C2-E-TEST-0032-10.34005
 1C2-E-TEST-0032-10.34/002	all-party coalition government	DEP=1C2-E-TEST-0032-10.34005
 1C2-E-TEST-0032-10.34/003	conservatives demanded demotion	DEP=1C2-E-TEST-0032-10.34004
 1C2-E-TEST-0032-10.34/004	price entry
 1C2-E-TEST-0032-10.34/005	formed
-1C2-E-TEST-0032-10.45	"Churchill was also a staunch advocate of foreign intervention in the Russian Civil War, declaring that Bolshevism must be ""strangled in its cradle."""			
+1C2-E-TEST-0032-10.45	"Churchill was also a staunch advocate of foreign intervention in the Russian Civil War, declaring that Bolshevism must be ""strangled in its cradle."""
 1C2-E-TEST-0032-10.45/001	staunch advocate	DEP=1C2-E-TEST-0032-10.45002
 1C2-E-TEST-0032-10.45/002	foreign intervention
 1C2-E-TEST-0032-10.45/003	russian civil war
 1C2-E-TEST-0032-10.45/004	bolshevism	DEP=1C2-E-TEST-0032-10.45005
 1C2-E-TEST-0032-10.45/005	strangled cradle
-1C2-E-TEST-0032-10.46	He became Secretary of State for the Colonies 1921 and was a signatory of the Anglo-Irish treaty of 1921 which established the Irish Free State.			
+1C2-E-TEST-0032-10.46	He became Secretary of State for the Colonies 1921 and was a signatory of the Anglo-Irish treaty of 1921 which established the Irish Free State.
 1C2-E-TEST-0032-10.46/001	secretary state	DEP=1C2-E-TEST-0032-10.46002
 1C2-E-TEST-0032-10.46/002	colonies 1921
 1C2-E-TEST-0032-10.46/003	signatory	DEP=1C2-E-TEST-0032-10.46004
 1C2-E-TEST-0032-10.46/004	anglo-irish treaty	DEP=1C2-E-TEST-0032-10.46005
 1C2-E-TEST-0032-10.46/005	established irish free state 1921
-1C2-E-TEST-0032-10.60	In the next two years Churchill became estranged from the Conservative leadership over the issues of protective tariffs and Indian Home Rule.			
+1C2-E-TEST-0032-10.60	In the next two years Churchill became estranged from the Conservative leadership over the issues of protective tariffs and Indian Home Rule.
 1C2-E-TEST-0032-10.60/001	estranged	DEP=1C2-E-TEST-0032-10.60003
 1C2-E-TEST-0032-10.60/002	conservative leadership
 1C2-E-TEST-0032-10.60/003	protective tariffs
 1C2-E-TEST-0032-10.60/004	indian home rule
-1C2-E-TEST-0032-10.67	Churchill was a fierce critic of Neville Chamberlain's appeasement of Hitler.			
+1C2-E-TEST-0032-10.67	Churchill was a fierce critic of Neville Chamberlain's appeasement of Hitler.
 1C2-E-TEST-0032-10.67/001	fierce critic	DEP=1C2-E-TEST-0032-10.67002
 1C2-E-TEST-0032-10.67/002	neville chamberlain	DEP=1C2-E-TEST-0032-10.67003
 1C2-E-TEST-0032-10.67/003	hitler appeasement
-1C2-E-TEST-0032-159.105	"Churchill was convinced that the only way to alleviate tensions between the two populations was the transfer of people, to match the national borders."			
+1C2-E-TEST-0032-159.105	"Churchill was convinced that the only way to alleviate tensions between the two populations was the transfer of people, to match the national borders."
 1C2-E-TEST-0032-159.105/001	alleviate tension	DEP=1C2-E-TEST-0032-159.105002
 1C2-E-TEST-0032-159.105/002	transfer people	DEP=1C2-E-TEST-0032-159.105003
 1C2-E-TEST-0032-159.105/003	two populations
 1C2-E-TEST-0032-159.105/004	match national borders
-1C2-E-TEST-0032-159.23	However in July 1917 Churchill was appointed Minister of Munitions .			
+1C2-E-TEST-0032-159.23	However in July 1917 Churchill was appointed Minister of Munitions .
 1C2-E-TEST-0032-159.23/001	july 1917
 1C2-E-TEST-0032-159.23/002	minister of munitions
-1C2-E-TEST-0032-159.24	After the end of the war Churchill served as both Secretary of State for War and Secretary of State for Air ( 1919 - 1921 ).			
+1C2-E-TEST-0032-159.24	After the end of the war Churchill served as both Secretary of State for War and Secretary of State for Air ( 1919 - 1921 ).
 1C2-E-TEST-0032-159.24/001	secretary state war	DEP=1C2-E-TEST-0032-159.24003
 1C2-E-TEST-0032-159.24/002	secretary state air	DEP=1C2-E-TEST-0032-159.24003
 1C2-E-TEST-0032-159.24/003	after end war
 1C2-E-TEST-0032-159.24/004	1919 - 1921
-1C2-E-TEST-0032-159.34	"Churchill was a staunch advocate of foreign intervention, declaring that Bolshevism must be ""strangled in its cradle."""			
+1C2-E-TEST-0032-159.34	"Churchill was a staunch advocate of foreign intervention, declaring that Bolshevism must be ""strangled in its cradle."""
 1C2-E-TEST-0032-159.34/001	staunch advocate	DEP=1C2-E-TEST-0032-159.34002
 1C2-E-TEST-0032-159.34/002	foreign intervention
 1C2-E-TEST-0032-159.34/003	bolshevism	DEP=1C2-E-TEST-0032-159.34004
 1C2-E-TEST-0032-159.34/004	strangled cradle
-1C2-E-TEST-0032-159.52	"Churchill edited the Government's newspaper, the British Gazette , and during the dispute he argued that ""either the country will break the General Strike, or the General Strike will break the country."""			
+1C2-E-TEST-0032-159.52	"Churchill edited the Government's newspaper, the British Gazette , and during the dispute he argued that ""either the country will break the General Strike, or the General Strike will break the country."""
 1C2-E-TEST-0032-159.52/001	edited	DEP=1C2-E-TEST-0032-159.52002
 1C2-E-TEST-0032-159.52/002	government newspaper	DEP=1C2-E-TEST-0032-159.52003
 1C2-E-TEST-0032-159.52/003	british gazette
 1C2-E-TEST-0032-159.52/004	country break general strike
 1C2-E-TEST-0032-159.52/005	general strike break country
-1C2-E-TEST-0032-159.53	"Furthermore, he was to controversially claim that the Fascism of Benito Mussolini had ""rendered a service to the whole world,"" showing as it had ""a way to combat subversive forces"" ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ that is, he considered the regime to be a bulwark against the perceived threat of Communist revolution."			
+1C2-E-TEST-0032-159.53	"Furthermore, he was to controversially claim that the Fascism of Benito Mussolini had ""rendered a service to the whole world,"" showing as it had ""a way to combat subversive forces"" ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ that is, he considered the regime to be a bulwark against the perceived threat of Communist revolution."
 1C2-E-TEST-0032-159.53/001	controversially claim	DEP=1C2-E-TEST-0032-159.53003
 1C2-E-TEST-0032-159.53/002	fascism benito mussolini	DEP=1C2-E-TEST-0032-159.53003
 1C2-E-TEST-0032-159.53/003	rendered service world
 1C2-E-TEST-0032-159.53/004	showing	DEP=1C2-E-TEST-0032-159.53005
 1C2-E-TEST-0032-159.53/005	combat subversive forces
-1C2-E-TEST-0032-159.62	Churchill was a fierce critic of Neville Chamberlain 's appeasement of Hitler .			
+1C2-E-TEST-0032-159.62	Churchill was a fierce critic of Neville Chamberlain 's appeasement of Hitler .
 1C2-E-TEST-0032-159.62/001	fierce critic	DEP=1C2-E-TEST-0032-159.62002
 1C2-E-TEST-0032-159.62/002	neville chamberlain	DEP=1C2-E-TEST-0032-159.62003
 1C2-E-TEST-0032-159.62/003	hitler appeasement
-1C2-E-TEST-0032-159.67	At the outbreak of the Second World War Churchill was appointed First Lord of the Admiralty .			
+1C2-E-TEST-0032-159.67	At the outbreak of the Second World War Churchill was appointed First Lord of the Admiralty .
 1C2-E-TEST-0032-159.67/001	outbreak second world war
 1C2-E-TEST-0032-159.67/002	appointed	DEP=1C2-E-TEST-0032-159.67003
 1C2-E-TEST-0032-159.67/003	first lord admiralty
-1C2-E-TEST-0032-159.71	"Chamberlain resigned, and Churchill was appointed Prime Minister and formed an all-party government."			
+1C2-E-TEST-0032-159.71	"Chamberlain resigned, and Churchill was appointed Prime Minister and formed an all-party government."
 1C2-E-TEST-0032-159.71/001	chamberlain resigned
 1C2-E-TEST-0032-159.71/002	appointed
 1C2-E-TEST-0032-159.71/003	prime minister	DEP=1C2-E-TEST-0032-159.71002
 1C2-E-TEST-0032-159.71/004	formed
 1C2-E-TEST-0032-159.71/005	all-party government	DEP=1C2-E-TEST-0032-159.71004
-1C2-E-TEST-0032-159.79	Churchill's speeches were a great inspiration to the embattled United Kingdom.			
+1C2-E-TEST-0032-159.79	Churchill's speeches were a great inspiration to the embattled United Kingdom.
 1C2-E-TEST-0032-159.79/001	speeches	DEP=1C2-E-TEST-0032-159.79002
 1C2-E-TEST-0032-159.79/002	great inspiration
 1C2-E-TEST-0032-159.79/003	embattled united kingdom
-1C2-E-TEST-0032-159.80	"His first speech as Prime Minister was the famous ""I have nothing to offer but blood, toil, tears, and sweat "" speech."			
-1C2-E-TEST-0032-159.90	"Churchill had 12 strategic conferences with Roosevelt which covered the Atlantic Charter , Europe first strategy, the Declaration by the United Nations and other war policies. Churchill initiated the Special Operations Executive (SOE), under Hugh Dalton 's Ministry of Economic Warfare , which established, conducted and fostered covert, subversive and partisan operations in occupied territories with notable success; and also the Commandos which established the pattern for most of the world's current Special Forces ."			
-1C2-E-TEST-0032-206.11	"Years later when Sir Winston was prime minister of England, he was stricken with pneumonia."			
-1C2-E-TEST-0032-217.261	"Churchill edited the Government's newspaper, the British Gazette , and, during the dispute, he argued that ""either the country will break the General Strike, or the General Strike will break the country"" and claimed that the fascism of Benito Mussolini had ""rendered a service to the whole world,"" showing, as it had, ""a way to combat subversive forces"" ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ that is, he considered the regime to be a bulwark against the perceived threat of Communist revolution ."			
-1C2-E-TEST-0032-217.393	"Churchill's speeches were a great inspiration to the embattled British. His first speech as Prime Minister was the famous ""I have nothing to offer but blood, toil, tears, and sweat ""."			
-1C2-E-TEST-0032-217.420	"Upon re-election, Roosevelt immediately set about implementing a new method of providing military hardware and shipping to Britain without the need for monetary payment. Put simply, Roosevelt persuaded Congress that repayment for this immensely costly service would take the form of defending the USA; and so Lend-lease was born."			
-1C2-E-TEST-0032-217.448	"Churchill opposed the effective annexation of Poland by the Soviet Union and wrote bitterly about it in his books, but he was unable to prevent it at the conferences."			
-1C2-E-TEST-0032-308.14	"[64] When Campbell-Bannerman was succeeded by Herbert Henry Asquith in 1908, Churchill was promoted to the Cabinet as President of the Board of Trade ."			
-1C2-E-TEST-0032-67.11	"After the resignation of Neville Chamberlain in May 1940, Churchill became Prime Minister in an all-party coalition government with Labour and the Liberals."			
-1C2-E-TEST-0032-67.115	"When Ramsay MacDonald formed the National Government in 1931, Churchill was not invited to join the Cabinet."			
-1C2-E-TEST-0032-67.197	"After Labour's defeat in the General Election of 1951, Churchill again became Prime Minister, serving until his resignation in 1955."			
-1C2-E-TEST-0032-68.111	"Churchill edited the government's newspaper, the British Gazette, and during the dispute he argued that ""either the country will break the General Strike, or the General Strike will break the country."""			
-1C2-E-TEST-0032-68.114	"In the next two years, Churchill became estranged from the Conservative leadership over the issues of protective tariffs and Indian Home Rule."			
-1C2-E-TEST-0032-68.117	"He spent much of the next few years concentrating on his writing, including Marlborough: His Life and TimesÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂa biography of his ancestor John Churchill, 1st Duke of MarlboroughÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂand A History of the English Speaking Peoples (which was not published until well after WWII)."			
-1C2-E-TEST-0032-68.126	For a time he was a lone voice calling on Britain to strengthen itself and counter the belligerence of Germany.			
-1C2-E-TEST-0032-68.127	Churchill was a fierce critic of Neville Chamberlain 's appeasement of Hitler.			
-1C2-E-TEST-0032-68.136	"Chamberlain resigned, and Churchill was appointed prime minister and formed an all-party government."			
-1C2-E-TEST-0032-68.137	"In response to previous criticisms that there had been no clear single minister in charge of the prosecution of the war, he created and took the additional position of minister of defense."			
-1C2-E-TEST-0032-68.146	"The other included the equally famous ""Let us therefore brace ourselves to our duties, and so bear ourselves that, if the British Empire and its Commonwealth last for a thousand years, men will still say, 'This was their finest hour.'"""			
-1C2-E-TEST-0032-68.147	"At the height of the Battle of Britain, his bracing survey of the situation included the memorable line ""Never in the field of human conflict was so much owed by so many to so few,"" which engendered the enduring nickname ""The Few"" for the Allied fighter pilots who won it."			
-1C2-E-TEST-0032-68.182	"Churchill was convinced that the only way to alleviate tensions between the two populations was the transfer of people, to match the national borders."			
-1C2-E-TEST-0032-68.188	"Churchill opposed the effective annexation of Poland by the Soviet Union and wrote bitterly about it in his books, but he was unable to prevent it at the conferences."			
-1C2-E-TEST-0032-68.190	"Although the importance of Churchill's role in World War II was undeniable, he had many enemies in his own country."			
-1C2-E-TEST-0032-68.209	"Warsaw, Poland, Berlin, Prague, Vienna, Budapest, Belgrade, Bucharest and Sofia, all these famous cities and the populations around them lie in what I must call the Soviet sphere."			
-1C2-E-TEST-0032-68.216	"Being a strong proponent of Britain as an international power, Churchill would often meet such moments with direct action."			
-1C2-E-TEST-0032-68.63	"Under the law at the time, a newly appointed Cabinet minister was obliged to seek re-election at a by-election."			
-1C2-E-TEST-0032-68.80	"When Asquith formed an all-party coalition government, the Conservatives demanded Churchill's demotion as the price for entry."			
-1C2-E-TEST-0032-68.94	"Churchill was a staunch advocate of foreign intervention, declaring that Bolshevism must be ""strangled in its cradle."""			
-1C2-E-TEST-0032-68.96	"In 1920, after the last British forces had been withdrawn, Churchill was instrumental in having arms sent to the Poles when they invaded Ukraine ."			
+1C2-E-TEST-0032-159.80	"His first speech as Prime Minister was the famous ""I have nothing to offer but blood, toil, tears, and sweat "" speech."
+1C2-E-TEST-0032-159.90	"Churchill had 12 strategic conferences with Roosevelt which covered the Atlantic Charter , Europe first strategy, the Declaration by the United Nations and other war policies. Churchill initiated the Special Operations Executive (SOE), under Hugh Dalton 's Ministry of Economic Warfare , which established, conducted and fostered covert, subversive and partisan operations in occupied territories with notable success; and also the Commandos which established the pattern for most of the world's current Special Forces ."
+1C2-E-TEST-0032-206.11	"Years later when Sir Winston was prime minister of England, he was stricken with pneumonia."
+1C2-E-TEST-0032-217.261	"Churchill edited the Government's newspaper, the British Gazette , and, during the dispute, he argued that ""either the country will break the General Strike, or the General Strike will break the country"" and claimed that the fascism of Benito Mussolini had ""rendered a service to the whole world,"" showing, as it had, ""a way to combat subversive forces"" ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ that is, he considered the regime to be a bulwark against the perceived threat of Communist revolution ."
+1C2-E-TEST-0032-217.393	"Churchill's speeches were a great inspiration to the embattled British. His first speech as Prime Minister was the famous ""I have nothing to offer but blood, toil, tears, and sweat ""."
+1C2-E-TEST-0032-217.420	"Upon re-election, Roosevelt immediately set about implementing a new method of providing military hardware and shipping to Britain without the need for monetary payment. Put simply, Roosevelt persuaded Congress that repayment for this immensely costly service would take the form of defending the USA; and so Lend-lease was born."
+1C2-E-TEST-0032-217.448	"Churchill opposed the effective annexation of Poland by the Soviet Union and wrote bitterly about it in his books, but he was unable to prevent it at the conferences."
+1C2-E-TEST-0032-308.14	"[64] When Campbell-Bannerman was succeeded by Herbert Henry Asquith in 1908, Churchill was promoted to the Cabinet as President of the Board of Trade ."
+1C2-E-TEST-0032-67.11	"After the resignation of Neville Chamberlain in May 1940, Churchill became Prime Minister in an all-party coalition government with Labour and the Liberals."
+1C2-E-TEST-0032-67.115	"When Ramsay MacDonald formed the National Government in 1931, Churchill was not invited to join the Cabinet."
+1C2-E-TEST-0032-67.197	"After Labour's defeat in the General Election of 1951, Churchill again became Prime Minister, serving until his resignation in 1955."
+1C2-E-TEST-0032-68.111	"Churchill edited the government's newspaper, the British Gazette, and during the dispute he argued that ""either the country will break the General Strike, or the General Strike will break the country."""
+1C2-E-TEST-0032-68.114	"In the next two years, Churchill became estranged from the Conservative leadership over the issues of protective tariffs and Indian Home Rule."
+1C2-E-TEST-0032-68.117	"He spent much of the next few years concentrating on his writing, including Marlborough: His Life and TimesÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂa biography of his ancestor John Churchill, 1st Duke of MarlboroughÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂand A History of the English Speaking Peoples (which was not published until well after WWII)."
+1C2-E-TEST-0032-68.126	For a time he was a lone voice calling on Britain to strengthen itself and counter the belligerence of Germany.
+1C2-E-TEST-0032-68.127	Churchill was a fierce critic of Neville Chamberlain 's appeasement of Hitler.
+1C2-E-TEST-0032-68.136	"Chamberlain resigned, and Churchill was appointed prime minister and formed an all-party government."
+1C2-E-TEST-0032-68.137	"In response to previous criticisms that there had been no clear single minister in charge of the prosecution of the war, he created and took the additional position of minister of defense."
+1C2-E-TEST-0032-68.146	"The other included the equally famous ""Let us therefore brace ourselves to our duties, and so bear ourselves that, if the British Empire and its Commonwealth last for a thousand years, men will still say, 'This was their finest hour.'"""
+1C2-E-TEST-0032-68.147	"At the height of the Battle of Britain, his bracing survey of the situation included the memorable line ""Never in the field of human conflict was so much owed by so many to so few,"" which engendered the enduring nickname ""The Few"" for the Allied fighter pilots who won it."
+1C2-E-TEST-0032-68.182	"Churchill was convinced that the only way to alleviate tensions between the two populations was the transfer of people, to match the national borders."
+1C2-E-TEST-0032-68.188	"Churchill opposed the effective annexation of Poland by the Soviet Union and wrote bitterly about it in his books, but he was unable to prevent it at the conferences."
+1C2-E-TEST-0032-68.190	"Although the importance of Churchill's role in World War II was undeniable, he had many enemies in his own country."
+1C2-E-TEST-0032-68.209	"Warsaw, Poland, Berlin, Prague, Vienna, Budapest, Belgrade, Bucharest and Sofia, all these famous cities and the populations around them lie in what I must call the Soviet sphere."
+1C2-E-TEST-0032-68.216	"Being a strong proponent of Britain as an international power, Churchill would often meet such moments with direct action."
+1C2-E-TEST-0032-68.63	"Under the law at the time, a newly appointed Cabinet minister was obliged to seek re-election at a by-election."
+1C2-E-TEST-0032-68.80	"When Asquith formed an all-party coalition government, the Conservatives demanded Churchill's demotion as the price for entry."
+1C2-E-TEST-0032-68.94	"Churchill was a staunch advocate of foreign intervention, declaring that Bolshevism must be ""strangled in its cradle."""
+1C2-E-TEST-0032-68.96	"In 1920, after the last British forces had been withdrawn, Churchill was instrumental in having arms sent to the Poles when they invaded Ukraine ."

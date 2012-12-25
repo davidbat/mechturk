@@ -1,0 +1,69 @@
+1C2-E-TEST-0171-2.103	"Multiple client devices can appear to share IP addresses: either because they are part of a shared hosting web server environment or because an IPv4 network address translator (NAT) or proxy server acts as an intermediary agent on behalf of its customers, in which case the real originating IP addresses might be hidden from the server receiving a request ."
+1C2-E-TEST-0171-2.103/001	multiple client devices
+1C2-E-TEST-0171-2.103/002	share adresses	DEP=1C2-E-TEST-0171-2.103001
+1C2-E-TEST-0171-2.103/003	shared hosting web server environment
+1C2-E-TEST-0171-2.103/004	network adress translator nat	DEP=1C2-E-TEST-0171-2.103006
+1C2-E-TEST-0171-2.103/005	proxy server	DEP=1C2-E-TEST-0171-2.103006
+1C2-E-TEST-0171-2.103/006	acts intermediary agent behalf customer
+1C2-E-TEST-0171-2.103/007	real originating addresses	DEP=1C2-E-TEST-0171-2.103008
+1C2-E-TEST-0171-2.103/008	hidden	DEP=1C2-E-TEST-0171-2.103009
+1C2-E-TEST-0171-2.103/009	server receiving request
+1C2-E-TEST-0171-2.50	"In this, the IP address is followed by a slash and the number (in decimal) of bits used for the network part, also called the routing prefix."
+1C2-E-TEST-0171-2.50/001	followed
+1C2-E-TEST-0171-2.50/002	slash
+1C2-E-TEST-0171-2.50/003	number decimal	DEP=1C2-E-TEST-0171-2.50002
+1C2-E-TEST-0171-2.50/004	bits used network part
+1C2-E-TEST-0171-2.50/005	routing prefix	DEP=1C2-E-TEST-0171-2.50004
+1C2-E-TEST-0171-2.55	Persistent configuration is also known as using a static IP address.
+1C2-E-TEST-0171-2.55/001	persistent configuration
+1C2-E-TEST-0171-2.55/002	static	DEP=1C2-E-TEST-0171-2.55001
+1C2-E-TEST-0171-2.61	"Even though IP addresses assigned using DHCP may stay the same for long periods of time, they can generally change."
+1C2-E-TEST-0171-2.61/001	assigned dhcp addresses
+1C2-E-TEST-0171-2.61/002	stay same long periods time	DEP=1C2-E-TEST-0171-2.61001
+1C2-E-TEST-0171-2.61/003	generally change	DEP=1C2-E-TEST-0171-2.61001
+1C2-E-TEST-0171-2.74	A sticky dynamic IP address is an informal term used by cable and DSL Internet access subscribers to describe a dynamically assigned IP address which seldom changes.
+1C2-E-TEST-0171-2.74/001	sticky dynamic
+1C2-E-TEST-0171-2.74/002	informal term	DEP=1C2-E-TEST-0171-2.74001
+1C2-E-TEST-0171-2.74/003	cable dsl internet access subscribers	DEP=1C2-E-TEST-0171-2.74001
+1C2-E-TEST-0171-2.74/004	describe
+1C2-E-TEST-0171-2.74/005	dynamically assigned
+1C2-E-TEST-0171-2.74/006	seldom changes	DEP=1C2-E-TEST-0171-2.74005
+1C2-E-TEST-0171-2.91	Even static IP addresses do change as a result of network administration ( RFC 2072 ).
+1C2-E-TEST-0171-2.91/001	static adresses
+1C2-E-TEST-0171-2.91/002	change	DEP=1C2-E-TEST-0171-2.91001
+1C2-E-TEST-0171-2.91/003	result
+1C2-E-TEST-0171-2.91/004	network administration
+1C2-E-TEST-0171-2.91/005	rfc 2072
+1C2-E-TEST-0171-3.7	"An IP address (Internet Protocol address) is a logical address of a network adapter, and each and every network device has one."
+1C2-E-TEST-0171-3.7/001	internet protocol
+1C2-E-TEST-0171-3.7/002	logical address	DEP=1C2-E-TEST-0171-3.7001
+1C2-E-TEST-0171-3.7/003	network adapters	DEP=1C2-E-TEST-0171-3.7002
+1C2-E-TEST-0171-3.7/004	network device	DEP=1C2-E-TEST-0171-3.7001
+1C2-E-TEST-0171-3.8	"An IP address is a unique series of numbers that identifies computers on a network, so an IP address can easily be used to determine the location of a device or origin of an internet message."
+1C2-E-TEST-0171-3.8/001	unique series numbers
+1C2-E-TEST-0171-3.8/002	identifies computers network	DEP=1C2-E-TEST-0171-3.8001
+1C2-E-TEST-0171-3.8/003	determine location device	DEP=1C2-E-TEST-0171-3.8002
+1C2-E-TEST-0171-3.8/004	origin internet message	DEP=1C2-E-TEST-0171-3.8002
+1C2-E-TEST-0171-4.12	"An IP address is similar to a home address in the sense that it is an identifier. Each computer, printer or device uses an IP address in order to communicate. When IP addresses are assigned to a particular group, they are referred to as IP address Classes. IP address Classes may be assigned to organizations, businesses or government operations."
+1C2-E-TEST-0171-4.12/001	similar
+1C2-E-TEST-0171-4.12/002	home
+1C2-E-TEST-0171-4.12/003	identifier	DEP=1C2-E-TEST-0171-4.12002
+1C2-E-TEST-0171-4.12/004	computer printer device	DEP=1C2-E-TEST-0171-4.12005
+1C2-E-TEST-0171-4.12/005	communicate
+1C2-E-TEST-0171-4.12/006	assigned particular group
+1C2-E-TEST-0171-4.12/007	classes	DEP=1C2-E-TEST-0171-4.12006
+1C2-E-TEST-0171-4.12/008	classes assigned
+1C2-E-TEST-0171-4.12/009	organizations businesses government operations	DEP=1C2-E-TEST-0171-4.12008
+1C2-E-TEST-0171-4.3	IP addresses consist of a series of four numbers separated by decimal points. There are two types of IP addresses: static and dynamic. Static IP addresses remain the same and are unchanging. They are permanent and are used as easy identifiers. Dynamic IP addresses are temporary and change.
+1C2-E-TEST-0171-4.3/001	consist series four numbers
+1C2-E-TEST-0171-4.3/002	separated decimal points	DEP=1C2-E-TEST-0171-4.3001
+1C2-E-TEST-0171-4.3/003	two types
+1C2-E-TEST-0171-4.3/004	static dynamic	DEP=1C2-E-TEST-0171-4.3003
+1C2-E-TEST-0171-4.3/005	static addresses same unchanging	DEP=1C2-E-TEST-0171-4.3003
+1C2-E-TEST-0171-4.3/006	dynamic addresses temporary change	DEP=1C2-E-TEST-0171-4.3003
+1C2-E-TEST-0171-4.9	Those who choose not to change their IP address may decide they would like to hide their IP address instead. An IP address may be successfully hidden through the use of a proxy server. There are several types of proxy servers but each (except transparent proxy) is used to hide an IP address.
+1C2-E-TEST-0171-4.9/001	hide
+1C2-E-TEST-0171-4.9/002	proxy server	DEP=1C2-E-TEST-0171-4.9001
+1C2-E-TEST-0171-4.9/003	several types proxy servers
+1C2-E-TEST-0171-4.9/004	used hide	DEP=1C2-E-TEST-0171-4.9003
+1C2-E-TEST-0171-4.9/005	except transparent proxy	DEP=1C2-E-TEST-0171-4.9003
