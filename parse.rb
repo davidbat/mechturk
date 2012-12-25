@@ -4,13 +4,13 @@ require 'pp'
 final = '/home/dave/Documents/vitalstring/mechturk/final/output/STANFORD/'
 processed = '/home/dave/Documents/vitalstring/mechturk/processed/output/STANDFORD/'
 Dir[processed + "*"].each do |full_path|
-  puts "here"
   ip = open(full_path, "r")
   file_name = full_path.split("/").last
   op = open(final + file_name, "w")
   ip.readlines.each do |line|
+    line = line.chomp
     str = ""
-    parts=line.chomp.split("\t")
+    parts=line.split("\t")
     if parts[0].include?("/")
       str=parts[0]
       if !parts[3].nil?
