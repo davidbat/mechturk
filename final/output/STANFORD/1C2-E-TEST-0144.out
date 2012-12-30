@@ -1,0 +1,278 @@
+1C2-E-TEST-0144-139.4	"MannvitÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s geothermal energy projects involve harnessing high-temperature geothermal fields and designing flash steam power plants that produce electricity and hot water (combined heat and power), as well as designing geothermal power plants that produce electricity utilizing low-temperature geothermal fields via binary cycle."
+1C2-E-TEST-0144-139.4/001	mannvit	DEP=1C2-E-TEST-0144-139.4002
+1C2-E-TEST-0144-139.4/002	projects	DEP=1C2-E-TEST-0144-139.4003
+1C2-E-TEST-0144-139.4/003	harnessing high-temparature	DEP=1C2-E-TEST-0144-139.4004
+1C2-E-TEST-0144-139.4/004	fields
+1C2-E-TEST-0144-139.4/005	designing flash team power plants	DEP=1C2-E-TEST-0144-139.4002
+1C2-E-TEST-0144-139.4/006	produce electricity	DEP=1C2-E-TEST-0144-139.4005
+1C2-E-TEST-0144-139.4/007	hot water	DEP=1C2-E-TEST-0144-139.4005
+1C2-E-TEST-0144-139.4/008	combined heat power	DEP=1C2-E-TEST-0144-139.4005
+1C2-E-TEST-0144-139.4/009	designing power plants	DEP=1C2-E-TEST-0144-139.4010
+1C2-E-TEST-0144-139.4/010	produce electricity
+1C2-E-TEST-0144-139.4/011	utilizing low-temperature	DEP=1C2-E-TEST-0144-139.4012
+1C2-E-TEST-0144-139.4/012	fields	DEP=1C2-E-TEST-0144-139.4013
+1C2-E-TEST-0144-139.4/013	binary cycle
+1C2-E-TEST-0144-139.8	"Mannvit is also involved in plans to develop new geothermal power plants in Iceland in conjunction with Reykjavik Energy and other partners, a team that has worked together on the design and development of geothermal power plants in Iceland for over twenty years.ÃÂÃÂ ÃÂÃÂ "
+1C2-E-TEST-0144-139.8/001	mannvit	DEP=1C2-E-TEST-0144-139.8002
+1C2-E-TEST-0144-139.8/002	involved
+1C2-E-TEST-0144-139.8/003	plans	DEP=1C2-E-TEST-0144-139.8001
+1C2-E-TEST-0144-139.8/004	develop	DEP=1C2-E-TEST-0144-139.8005
+1C2-E-TEST-0144-139.8/005	new power plants	DEP=1C2-E-TEST-0144-139.8006
+1C2-E-TEST-0144-139.8/006	iceland
+1C2-E-TEST-0144-139.8/007	conjuction
+1C2-E-TEST-0144-139.8/008	reykjavik energy	DEP=1C2-E-TEST-0144-139.8007
+1C2-E-TEST-0144-139.8/009	other partners	DEP=1C2-E-TEST-0144-139.8007
+1C2-E-TEST-0144-139.8/010	team	DEP=1C2-E-TEST-0144-139.8011
+1C2-E-TEST-0144-139.8/011	worked	DEP=1C2-E-TEST-0144-139.8012
+1C2-E-TEST-0144-139.8/012	design development
+1C2-E-TEST-0144-139.8/013	power plants iceland	DEP=1C2-E-TEST-0144-139.8012
+1C2-E-TEST-0144-139.8/014	twenty years	DEP=1C2-E-TEST-0144-139.8012
+1C2-E-TEST-0144-17.112	Electricity generation is the most important form of utilization of high-temperature geothermal resources (> 150 ÃÂÃÂ°C).
+1C2-E-TEST-0144-17.112/001	electricity generation
+1C2-E-TEST-0144-17.112/002	utilization	DEP=1C2-E-TEST-0144-17.112001
+1C2-E-TEST-0144-17.112/003	high-temperature resources	DEP=1C2-E-TEST-0144-17.112002
+1C2-E-TEST-0144-17.112/004	important form	DEP=1C2-E-TEST-0144-17.112002
+1C2-E-TEST-0144-17.27	This category includes high-temperature (>150 ÃÂÃÂ°C) and low-temperature (<150 ÃÂÃÂ°C) systems.
+1C2-E-TEST-0144-17.27/001	high-temperature
+1C2-E-TEST-0144-17.27/002	low-temperature
+1C2-E-TEST-0144-17.27/003	systems
+1C2-E-TEST-0144-17.27/004	category
+1C2-E-TEST-0144-17.40	The most critical factor for the classification of geothermal energy as a renewable energy source is the rate of energy recharge.
+1C2-E-TEST-0144-17.40/001	critical factor	DEP=1C2-E-TEST-0144-17.40002
+1C2-E-TEST-0144-17.40/002	classification	DEP=1C2-E-TEST-0144-17.40003
+1C2-E-TEST-0144-17.40/003	renewable source	DEP=1C2-E-TEST-0144-17.40004
+1C2-E-TEST-0144-17.40/004	rate recharge
+1C2-E-TEST-0144-17.42	This justifies our classification of geothermal energy as a renewable energy resource.
+1C2-E-TEST-0144-17.42/001	justifies
+1C2-E-TEST-0144-17.42/002	classification	DEP=1C2-E-TEST-0144-17.42003
+1C2-E-TEST-0144-17.42/003	renewable resource
+1C2-E-TEST-0144-18.10	"Accelerating oil and electricity prices have also encouraged the use of the earth's heat, which is generated both from drilling wells deep into the earth to produce electricity from heated water (hydrothermal heat) and from the the high temperatures of the earth itself closer to the surface, which is used to heat and cool buildings and homes."
+1C2-E-TEST-0144-18.10/001	accelarating	DEP=1C2-E-TEST-0144-18.10002
+1C2-E-TEST-0144-18.10/002	oil electricity prices	DEP=1C2-E-TEST-0144-18.10003
+1C2-E-TEST-0144-18.10/003	encouraged	DEP=1C2-E-TEST-0144-18.10004
+1C2-E-TEST-0144-18.10/004	use earth heat
+1C2-E-TEST-0144-18.10/005	generated
+1C2-E-TEST-0144-18.10/006	drilling wells deep earth	DEP=1C2-E-TEST-0144-18.10005
+1C2-E-TEST-0144-18.10/007	produce electricity	DEP=1C2-E-TEST-0144-18.10008
+1C2-E-TEST-0144-18.10/008	heated water	DEP=1C2-E-TEST-0144-18.10009
+1C2-E-TEST-0144-18.10/009	hydrothermal heat
+1C2-E-TEST-0144-18.10/010	high temperatures earth	DEP=1C2-E-TEST-0144-18.10005
+1C2-E-TEST-0144-18.10/011	closer surface	DEP=1C2-E-TEST-0144-18.10010
+1C2-E-TEST-0144-18.10/012	heat cool buildings homes	DEP=1C2-E-TEST-0144-18.10004
+1C2-E-TEST-0144-18.103	Power plants using dry steam systems were the first type of geothermal power generation plants built.
+1C2-E-TEST-0144-18.103/001	power plants	DEP=1C2-E-TEST-0144-18.103002
+1C2-E-TEST-0144-18.103/002	dry steam systems
+1C2-E-TEST-0144-18.103/003	first type	DEP=1C2-E-TEST-0144-18.103004
+1C2-E-TEST-0144-18.103/004	power generation plants
+1C2-E-TEST-0144-18.110	Flash steam plants are the most common type of geothermal power generation plants in operation today.
+1C2-E-TEST-0144-18.110/001	flash steam plants	DEP=1C2-E-TEST-0144-18.110003
+1C2-E-TEST-0144-18.110/002	common	DEP=1C2-E-TEST-0144-18.110001
+1C2-E-TEST-0144-18.110/003	power generation plants
+1C2-E-TEST-0144-18.110/004	operation today	DEP=1C2-E-TEST-0144-18.110001
+1C2-E-TEST-0144-18.131	"The hot water produced from these oil field wells is regarded as a waste product, but geothermal technologies can use this hot water to generate electricity to power on-site operations."
+1C2-E-TEST-0144-18.131/001	hot water
+1C2-E-TEST-0144-18.131/002	produced	DEP=1C2-E-TEST-0144-18.131001
+1C2-E-TEST-0144-18.131/003	oil field wells
+1C2-E-TEST-0144-18.131/004	regarded waste product	DEP=1C2-E-TEST-0144-18.131001
+1C2-E-TEST-0144-18.131/005	technologies	DEP=1C2-E-TEST-0144-18.131006
+1C2-E-TEST-0144-18.131/006	use hot water
+1C2-E-TEST-0144-18.131/007	generate electricity	DEP=1C2-E-TEST-0144-18.131008
+1C2-E-TEST-0144-18.131/008	power on-site operations
+1C2-E-TEST-0144-18.17	The white areas show low temperature areas good for geothermal heat pumps (geoexchange systems) that can work almost anywhere in the United States.
+1C2-E-TEST-0144-18.17/001	white areas	DEP=1C2-E-TEST-0144-18.17002
+1C2-E-TEST-0144-18.17/002	low temperature areas
+1C2-E-TEST-0144-18.17/003	good heat pumps
+1C2-E-TEST-0144-18.17/004	geoexchange systems	DEP=1C2-E-TEST-0144-18.17003
+1C2-E-TEST-0144-18.17/005	work	DEP=1C2-E-TEST-0144-18.17006
+1C2-E-TEST-0144-18.17/006	united states
+1C2-E-TEST-0144-18.18	"The blue areas have hotter water for direct use projects, and the pink areas have the high temperatures required for most geothermal electrical power generation. Geothermal electrical power generation has traditionally been more restricted to the western states where high temperatures are closer to the surface of the Earth."
+1C2-E-TEST-0144-18.18/001	blue areas	DEP=1C2-E-TEST-0144-18.18002
+1C2-E-TEST-0144-18.18/002	hotter water	DEP=1C2-E-TEST-0144-18.18003
+1C2-E-TEST-0144-18.18/003	direct use projects
+1C2-E-TEST-0144-18.18/004	pink areas	DEP=1C2-E-TEST-0144-18.18005
+1C2-E-TEST-0144-18.18/005	high temperatures
+1C2-E-TEST-0144-18.18/006	required
+1C2-E-TEST-0144-18.18/007	electrical power generation
+1C2-E-TEST-0144-18.18/008	electrical power generation	DEP=1C2-E-TEST-0144-18.18010
+1C2-E-TEST-0144-18.18/009	traditionally
+1C2-E-TEST-0144-18.18/010	restricted western states
+1C2-E-TEST-0144-18.18/011	high temperatures	DEP=1C2-E-TEST-0144-18.18010
+1C2-E-TEST-0144-18.18/012	close surface earth	DEP=1C2-E-TEST-0144-18.18011
+1C2-E-TEST-0144-18.48	One new geothermal project being developed is geothermal energy generation from oil and gas waste fluids.
+1C2-E-TEST-0144-18.48/001	new project	DEP=1C2-E-TEST-0144-18.48002
+1C2-E-TEST-0144-18.48/002	developed
+1C2-E-TEST-0144-18.48/003	generation
+1C2-E-TEST-0144-18.48/004	oil gas	DEP=1C2-E-TEST-0144-18.48005
+1C2-E-TEST-0144-18.48/005	waste fuilds	DEP=1C2-E-TEST-0144-18.48001
+1C2-E-TEST-0144-18.73	A geothermal heat pump system consists of pipes buried in the shallow ground near the building.
+1C2-E-TEST-0144-18.73/001	heat pump system	DEP=1C2-E-TEST-0144-18.73002
+1C2-E-TEST-0144-18.73/002	pipes
+1C2-E-TEST-0144-18.73/003	buried	DEP=1C2-E-TEST-0144-18.73004
+1C2-E-TEST-0144-18.73/004	shallow ground	DEP=1C2-E-TEST-0144-18.73005
+1C2-E-TEST-0144-18.73/005	near buildings
+1C2-E-TEST-0144-18.92	A geothermal power plant (photo) uses geothermal steam or heat to drive turbine-generators to produce electricity.
+1C2-E-TEST-0144-18.92/001	power plant
+1C2-E-TEST-0144-18.92/002	steam heat	DEP=1C2-E-TEST-0144-18.92003
+1C2-E-TEST-0144-18.92/003	drive turbine-generators	DEP=1C2-E-TEST-0144-18.92004
+1C2-E-TEST-0144-18.92/004	produce electricity
+1C2-E-TEST-0144-222.11	"Uses of geothermal energy for central heating of the buildings and for generating electricity are the main ways of its exploration, but not the only ones."
+1C2-E-TEST-0144-222.11/001	central heating	DEP=1C2-E-TEST-0144-222.11004
+1C2-E-TEST-0144-222.11/002	building	DEP=1C2-E-TEST-0144-222.11001
+1C2-E-TEST-0144-222.11/003	generating electricity	DEP=1C2-E-TEST-0144-222.11004
+1C2-E-TEST-0144-222.11/004	main ways	DEP=1C2-E-TEST-0144-222.11005
+1C2-E-TEST-0144-222.11/005	exploration
+1C2-E-TEST-0144-222.17	It's also important to mention that use of geothermal energy isn't expensive and has significantly smaller operational costs than many other energy sources and geothermal water is source of many minerals and other chemical elements which have healing effects on many skin diseases.
+1C2-E-TEST-0144-222.17/001	important mention
+1C2-E-TEST-0144-222.17/002	isn't expensive
+1C2-E-TEST-0144-222.17/003	siginificantly smaller operation costs	DEP=1C2-E-TEST-0144-222.17002
+1C2-E-TEST-0144-222.17/004	sources
+1C2-E-TEST-0144-222.17/005	water
+1C2-E-TEST-0144-222.17/006	source minerals	DEP=1C2-E-TEST-0144-222.17005
+1C2-E-TEST-0144-222.17/007	chemical elements	DEP=1C2-E-TEST-0144-222.17005
+1C2-E-TEST-0144-222.17/008	healing effect	DEP=1C2-E-TEST-0144-222.17005
+1C2-E-TEST-0144-222.17/009	skin diseases	DEP=1C2-E-TEST-0144-222.17008
+1C2-E-TEST-0144-222.22	"First step needed is to extract the geothermal energy from steam, hot water and hot rocks from Earth's crust."
+1C2-E-TEST-0144-222.23	"The success of this process depends on how hot the water gets, and water temperature depends on how hot were rocks to start with, and how much water is pumped down to these rocks."
+1C2-E-TEST-0144-222.23/001	success process
+1C2-E-TEST-0144-222.23/002	depends	DEP=1C2-E-TEST-0144-222.23001
+1C2-E-TEST-0144-222.23/003	hot water	DEP=1C2-E-TEST-0144-222.23001
+1C2-E-TEST-0144-222.23/004	water temperature depends	DEP=1C2-E-TEST-0144-222.23005
+1C2-E-TEST-0144-222.23/005	hot rocks
+1C2-E-TEST-0144-222.23/006	water pumped rocks
+1C2-E-TEST-0144-228.14	Generating electricity with geothermal energy is similar to the direct use method.
+1C2-E-TEST-0144-228.14/001	generating electricity	DEP=1C2-E-TEST-0144-228.14003
+1C2-E-TEST-0144-228.14/002	direct use method
+1C2-E-TEST-0144-228.14/003	similar	DEP=1C2-E-TEST-0144-228.14002
+1C2-E-TEST-0144-228.17	Geothermal energy is localized and no fuel is required.
+1C2-E-TEST-0144-228.17/001	no fuel required
+1C2-E-TEST-0144-228.17/002	localized
+1C2-E-TEST-0144-228.21	"Although the utilization of geothermal energy has existed for more than a century, it has yet to be perfected."
+1C2-E-TEST-0144-228.21/001	utilization	DEP=1C2-E-TEST-0144-228.21002
+1C2-E-TEST-0144-228.21/002	existed	DEP=1C2-E-TEST-0144-228.21003
+1C2-E-TEST-0144-228.21/003	century
+1C2-E-TEST-0144-228.21/004	perfected
+1C2-E-TEST-0144-228.4	Geothermal energy is the heat contained within the earth.
+1C2-E-TEST-0144-228.4/001	heat	DEP=1C2-E-TEST-0144-228.4003
+1C2-E-TEST-0144-228.4/002	earth
+1C2-E-TEST-0144-228.4/003	contained
+1C2-E-TEST-0144-228.9	Areas around the plate margins make for the best geothermal energy extraction sites - that is because the crusts in those areas are much thinner.
+1C2-E-TEST-0144-228.9/001	areas
+1C2-E-TEST-0144-228.9/002	plate margins	DEP=1C2-E-TEST-0144-228.9003
+1C2-E-TEST-0144-228.9/003	best extraction sites	DEP=1C2-E-TEST-0144-228.9004
+1C2-E-TEST-0144-228.9/004	crust	DEP=1C2-E-TEST-0144-228.9005
+1C2-E-TEST-0144-228.9/005	thinner
+1C2-E-TEST-0144-243.23	"The GHP takes advantage of this by exchanging heat with the earth through a ground heat exchanger. As with any heat pump, geothermal and water-source heat pumps are able to heat, cool, and, if so equipped, supply the house with hot water."
+1C2-E-TEST-0144-243.23/001	ghp	DEP=1C2-E-TEST-0144-243.23002
+1C2-E-TEST-0144-243.23/002	takes advantage	DEP=1C2-E-TEST-0144-243.23003
+1C2-E-TEST-0144-243.23/003	exchanging heat
+1C2-E-TEST-0144-243.23/004	earth
+1C2-E-TEST-0144-243.23/005	ground heat exchanger	DEP=1C2-E-TEST-0144-243.23003
+1C2-E-TEST-0144-243.23/006	heat pump
+1C2-E-TEST-0144-243.23/007	water-source heat pumps	DEP=1C2-E-TEST-0144-243.23008
+1C2-E-TEST-0144-243.23/008	able
+1C2-E-TEST-0144-243.23/009	heat	DEP=1C2-E-TEST-0144-243.23008
+1C2-E-TEST-0144-243.23/010	cool	DEP=1C2-E-TEST-0144-243.23008
+1C2-E-TEST-0144-243.23/011	supply house hot water	DEP=1C2-E-TEST-0144-243.23008
+1C2-E-TEST-0144-252.31	"As with all renewable energy sources, the energy is produced where it is found, regardless of whether it is used for generating electricity or direct applications."
+1C2-E-TEST-0144-252.31/001	renewable sources
+1C2-E-TEST-0144-252.31/002	generating electricity	DEP=1C2-E-TEST-0144-252.31004
+1C2-E-TEST-0144-252.31/003	direct applications	DEP=1C2-E-TEST-0144-252.31004
+1C2-E-TEST-0144-252.31/004	produced	DEP=1C2-E-TEST-0144-252.31005
+1C2-E-TEST-0144-252.31/005	found
+1C2-E-TEST-0144-252.31/006	regardless
+1C2-E-TEST-0144-28.13	"Geothermal waters at lower temperatures can be used for many direct applications (eg, heating buildings, drying crops)."
+1C2-E-TEST-0144-28.13/001	waters
+1C2-E-TEST-0144-28.13/002	lower temperatures	DEP=1C2-E-TEST-0144-28.13003
+1C2-E-TEST-0144-28.13/003	direct applications
+1C2-E-TEST-0144-28.13/004	heating buildings	DEP=1C2-E-TEST-0144-28.13003
+1C2-E-TEST-0144-28.13/005	drying crops	DEP=1C2-E-TEST-0144-28.13003
+1C2-E-TEST-0144-28.30	"The US, Japan, Italy, New Zealand, Iceland, France, Hungary and several other countries are already using geothermal energy for electric-power generation, residential and commercial heating, and agricultural and industrial processes."
+1C2-E-TEST-0144-28.30/001	us japan italy new zealand iceland france hungary	DEP=1C2-E-TEST-0144-28.30003
+1C2-E-TEST-0144-28.30/002	countries
+1C2-E-TEST-0144-28.30/003	electric-power generation
+1C2-E-TEST-0144-28.30/004	residential commercial heating	DEP=1C2-E-TEST-0144-28.30003
+1C2-E-TEST-0144-28.30/005	agricultural industrial processes	DEP=1C2-E-TEST-0144-28.30003
+1C2-E-TEST-0144-302.5	"Despite the promise of cheap, clean power, geothermal energy development may be on shaky ground."
+1C2-E-TEST-0144-302.5/001	despite promise	DEP=1C2-E-TEST-0144-302.5002
+1C2-E-TEST-0144-302.5/002	cheap clean power
+1C2-E-TEST-0144-302.5/003	development	DEP=1C2-E-TEST-0144-302.5004
+1C2-E-TEST-0144-302.5/004	shaky ground
+1C2-E-TEST-0144-4.105	Thus geothermal heat pumps can be used to help heat and cool homes anywhere.
+1C2-E-TEST-0144-4.105/001	heat pumps	DEP=1C2-E-TEST-0144-4.105002
+1C2-E-TEST-0144-4.105/002	heat cool homes
+1C2-E-TEST-0144-4.105/003	help
+1C2-E-TEST-0144-4.24	"Geologists, geochemists, drillers and engineers do a lot of exploring and testing to locate underground areas that contain this geothermal water, so we'll know where to drill geothermal production wells. Then, once the hot water and/or steam travels up the wells to the surface, they can be used to generate electricity in geothermal power plants or for energy saving non-electrical purposes."
+1C2-E-TEST-0144-4.24/001	geologists geochemists drillers engineers	DEP=1C2-E-TEST-0144-4.24002
+1C2-E-TEST-0144-4.24/002	exploring testing	DEP=1C2-E-TEST-0144-4.24003
+1C2-E-TEST-0144-4.24/003	locate underground areas
+1C2-E-TEST-0144-4.24/004	contain water	DEP=1C2-E-TEST-0144-4.24003
+1C2-E-TEST-0144-4.24/005	drill production wells	DEP=1C2-E-TEST-0144-4.24003
+1C2-E-TEST-0144-4.24/006	hot water	DEP=1C2-E-TEST-0144-4.24008
+1C2-E-TEST-0144-4.24/007	steam	DEP=1C2-E-TEST-0144-4.24008
+1C2-E-TEST-0144-4.24/008	travels wells
+1C2-E-TEST-0144-4.24/009	surface
+1C2-E-TEST-0144-4.24/010	generate electricity	DEP=1C2-E-TEST-0144-4.24011
+1C2-E-TEST-0144-4.24/011	power plants
+1C2-E-TEST-0144-4.24/012	energy saving non-electrical purposes
+1C2-E-TEST-0144-4.26	"In geothermal power plants steam, heat or hot water from geothermal reservoirs provides the force that spins the turbine generators and produces electricity. The used geothermal water is then returned down an injection well into the reservoir to be reheated, to maintain pressure, and to sustain the reservoir."
+1C2-E-TEST-0144-4.26/001	power plants
+1C2-E-TEST-0144-4.26/002	steam heat hot water	DEP=1C2-E-TEST-0144-4.26004
+1C2-E-TEST-0144-4.26/003	reservoirs
+1C2-E-TEST-0144-4.26/004	provides force	DEP=1C2-E-TEST-0144-4.26005
+1C2-E-TEST-0144-4.26/005	spins turbine generators	DEP=1C2-E-TEST-0144-4.26006
+1C2-E-TEST-0144-4.26/006	produce electricity
+1C2-E-TEST-0144-4.26/007	used water	DEP=1C2-E-TEST-0144-4.26008
+1C2-E-TEST-0144-4.26/008	returned down	DEP=1C2-E-TEST-0144-4.26009
+1C2-E-TEST-0144-4.26/009	injection well
+1C2-E-TEST-0144-4.26/010	reservoirs
+1C2-E-TEST-0144-4.26/011	reheated
+1C2-E-TEST-0144-4.26/012	maintain pressure
+1C2-E-TEST-0144-4.26/013	sustain reservoir
+1C2-E-TEST-0144-4.33	"A geothermal reservoir that produces mostly hot water is called a ""hot water reservoir"" and is used in a ""flash"" power plant."
+1C2-E-TEST-0144-4.33/001	reservoir	DEP=1C2-E-TEST-0144-4.33002
+1C2-E-TEST-0144-4.33/002	produces	DEP=1C2-E-TEST-0144-4.33003
+1C2-E-TEST-0144-4.33/003	hot water
+1C2-E-TEST-0144-4.33/004	hot water reservoir	DEP=1C2-E-TEST-0144-4.33001
+1C2-E-TEST-0144-4.33/005	flash power plant
+1C2-E-TEST-0144-4.47	The land area required for geothermal power plants is smaller per megawatt than for almost every other type of power plant.
+1C2-E-TEST-0144-4.47/001	land area	DEP=1C2-E-TEST-0144-4.47003
+1C2-E-TEST-0144-4.47/002	power plants
+1C2-E-TEST-0144-4.47/003	smaller per megawatt
+1C2-E-TEST-0144-4.47/004	other type power plant
+1C2-E-TEST-0144-4.50	"Geothermal power plants are designed to run 24 hours a day, all year."
+1C2-E-TEST-0144-4.50/001	designed
+1C2-E-TEST-0144-4.50/002	run 24 hours day	DEP=1C2-E-TEST-0144-4.50002
+1C2-E-TEST-0144-4.50/003	power plants	DEP=1C2-E-TEST-0144-4.50001
+1C2-E-TEST-0144-4.59	"Since the first geothermally-generated electricity in the world was produced at Larderello, Italy, in 1904 the use of geothermal energy for electricity has grown worldwide to about 7,000 megawatts in twenty-one countries around the world."
+1C2-E-TEST-0144-4.59/001	geothermally-generated electricity	DEP=1C2-E-TEST-0144-4.59002
+1C2-E-TEST-0144-4.59/002	produced	DEP=1C2-E-TEST-0144-4.59003
+1C2-E-TEST-0144-4.59/003	larderello italy	DEP=1C2-E-TEST-0144-4.59004
+1C2-E-TEST-0144-4.59/004	1904
+1C2-E-TEST-0144-4.59/005	use electricity
+1C2-E-TEST-0144-4.59/006	grown worldwide	DEP=1C2-E-TEST-0144-4.59007
+1C2-E-TEST-0144-4.59/007	7000 megawatts	DEP=1C2-E-TEST-0144-4.59008
+1C2-E-TEST-0144-4.59/008	twenty-one countries
+1C2-E-TEST-0144-4.60	"The United States alone produces 2700 megawatts of electricity from geothermal energy, electricity comparable to burning sixty million barrels of oil each year."
+1C2-E-TEST-0144-4.60/001	united states
+1C2-E-TEST-0144-4.60/002	produces 2700 megawatts electricity	DEP=1C2-E-TEST-0144-4.60003
+1C2-E-TEST-0144-4.60/003	comparable burning	DEP=1C2-E-TEST-0144-4.60004
+1C2-E-TEST-0144-4.60/004	sixty million barrels oil
+1C2-E-TEST-0144-4.62	"Geothermal water is used around the world, even when it is not hot enough to generate electricity. Anytime geothermal water or heat are used directly, less electricity is used."
+1C2-E-TEST-0144-4.62/001	water heat	DEP=1C2-E-TEST-0144-4.62002
+1C2-E-TEST-0144-4.62/002	used directly	DEP=1C2-E-TEST-0144-4.62003
+1C2-E-TEST-0144-4.62/003	less electricity
+1C2-E-TEST-0144-4.64	The main non-electric ways we use geothermal energy are DIRECT USES and GEOTHERMAL HEAT PUMPS.
+1C2-E-TEST-0144-4.64/001	main non-electric ways
+1C2-E-TEST-0144-4.64/002	direct uses	DEP=1C2-E-TEST-0144-4.64001
+1C2-E-TEST-0144-4.64/003	heat pumps	DEP=1C2-E-TEST-0144-4.64001
+1C2-E-TEST-0144-4.71	"Geothermal district heating systems pump geothermal water through a heat exchanger, where it transfers its heat to clean city water that is piped to buildings in the district. There, a second heat exchanger transfers the heat to the building's heating system."
+1C2-E-TEST-0144-4.71/001	district heating systems
+1C2-E-TEST-0144-4.71/002	pump water	DEP=1C2-E-TEST-0144-4.71003
+1C2-E-TEST-0144-4.71/003	heat exchanger	DEP=1C2-E-TEST-0144-4.71004
+1C2-E-TEST-0144-4.71/004	transfers heat
+1C2-E-TEST-0144-4.71/005	clean city water	DEP=1C2-E-TEST-0144-4.71006
+1C2-E-TEST-0144-4.71/006	piped	DEP=1C2-E-TEST-0144-4.71007
+1C2-E-TEST-0144-4.71/007	building
+1C2-E-TEST-0144-4.71/008	second heat exchanger	DEP=1C2-E-TEST-0144-4.71009
+1C2-E-TEST-0144-4.71/009	transfers heat	DEP=1C2-E-TEST-0144-4.71010
+1C2-E-TEST-0144-4.71/010	building heating system

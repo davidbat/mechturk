@@ -1,0 +1,293 @@
+1C2-E-TEST-0202-113.12	However I think the losses will be short term as the market mayÃÂ already have priced in expectations for this.
+1C2-E-TEST-0202-113.12/001	losses
+1C2-E-TEST-0202-113.12/002	short term	DEP=1C2-E-TEST-0202-113.12001
+1C2-E-TEST-0202-113.12/003	market	DEP=1C2-E-TEST-0202-113.12004
+1C2-E-TEST-0202-113.12/004	priced expectation
+1C2-E-TEST-0202-119.105	"The increased pressure on the pound to fall meant the government had to maintain interest rates at very high levels, which in turn exacerbated the downturn in the economy."
+1C2-E-TEST-0202-119.105/001	increased pressure	DEP=1C2-E-TEST-0202-119.105002
+1C2-E-TEST-0202-119.105/002	pound	DEP=1C2-E-TEST-0202-119.105003
+1C2-E-TEST-0202-119.105/003	fall
+1C2-E-TEST-0202-119.105/004	government maintain interest rates	DEP=1C2-E-TEST-0202-119.105005
+1C2-E-TEST-0202-119.105/005	high levels
+1C2-E-TEST-0202-119.105/006	exacerbated downturn economy
+1C2-E-TEST-0202-119.34	"The disparity between member states could lead to further social and economic problems, particularly in countries that used to be part of the former Soviet bloc where it is acknowledged that they are a long way behind the economic development of existing members."
+1C2-E-TEST-0202-119.34/001	disparity
+1C2-E-TEST-0202-119.34/002	member states
+1C2-E-TEST-0202-119.34/003	further social economic problems
+1C2-E-TEST-0202-119.34/004	countries	DEP=1C2-E-TEST-0202-119.34005
+1C2-E-TEST-0202-119.34/005	part soviet bloc
+1C2-E-TEST-0202-119.34/006	behind economic development	DEP=1C2-E-TEST-0202-119.34007
+1C2-E-TEST-0202-119.34/007	existing members
+1C2-E-TEST-0202-119.37	The euro is the common currency used by 12 of the 25 EU member states.
+1C2-E-TEST-0202-119.37/001	common currency
+1C2-E-TEST-0202-119.37/002	12 25 eu member states
+1C2-E-TEST-0202-119.52	Are UK business cycles and economic structures compatible with euro interest rates on a permanent basis?
+1C2-E-TEST-0202-119.52/001	business cycles
+1C2-E-TEST-0202-119.52/002	economic structures
+1C2-E-TEST-0202-119.52/003	compatible	DEP=1C2-E-TEST-0202-119.52004
+1C2-E-TEST-0202-119.52/004	interest rates	DEP=1C2-E-TEST-0202-119.52005
+1C2-E-TEST-0202-119.52/005	permanent basis
+1C2-E-TEST-0202-119.62	"What effect would joining the euro have on the competitive position of the UK's financial services industry, particularly on the City of London's wholesale markets?"
+1C2-E-TEST-0202-119.62/001	effect
+1C2-E-TEST-0202-119.62/002	joining
+1C2-E-TEST-0202-119.62/003	competitve position
+1C2-E-TEST-0202-119.62/004	financial services industry	DEP=1C2-E-TEST-0202-119.62003
+1C2-E-TEST-0202-119.62/005	city london wholesale markets	DEP=1C2-E-TEST-0202-119.62003
+1C2-E-TEST-0202-119.75	"Stability would increase as vulnerability to short term shocks would be reduced, (such as house price and interest rate rises), as would changes in the exchange rate which affect the level of exports."
+1C2-E-TEST-0202-119.75/001	stability increase
+1C2-E-TEST-0202-119.75/002	vulnerability short term shocks reduced
+1C2-E-TEST-0202-119.75/003	house price	DEP=1C2-E-TEST-0202-119.75002
+1C2-E-TEST-0202-119.75/004	interest rate rises	DEP=1C2-E-TEST-0202-119.75002
+1C2-E-TEST-0202-119.75/005	changes exchange rate	DEP=1C2-E-TEST-0202-119.75006
+1C2-E-TEST-0202-119.75/006	level export
+1C2-E-TEST-0202-119.8	This strengthened monetary policy co-ordination and prepared for the establishment of the European System of Central Banks (ESCB).
+1C2-E-TEST-0202-119.8/001	strengthened monetary policy co-ordination
+1C2-E-TEST-0202-119.8/002	prepared establishment	DEP=1C2-E-TEST-0202-119.8003
+1C2-E-TEST-0202-119.8/003	european system central banks
+1C2-E-TEST-0202-119.8/004	escb	DEP=1C2-E-TEST-0202-119.8003
+1C2-E-TEST-0202-119.9	"ÃÂ  The final stage started in January 1999 with the irrevocable fixing of exchange rates of the old currencies to the euro, the transfer of monetary policy to the European Central Bank and the introduction of the euro."
+1C2-E-TEST-0202-119.9/001	final stage
+1C2-E-TEST-0202-119.9/002	 january 1999	DEP=1C2-E-TEST-0202-119.9001
+1C2-E-TEST-0202-119.9/003	irrevocable fixing exchange rate
+1C2-E-TEST-0202-119.9/004	old currencies	DEP=1C2-E-TEST-0202-119.9003
+1C2-E-TEST-0202-119.9/005	transfer monetary policy	DEP=1C2-E-TEST-0202-119.9006
+1C2-E-TEST-0202-119.9/006	european central bank
+1C2-E-TEST-0202-119.9/007	introduction
+1C2-E-TEST-0202-119.97	The rate at which the UK might join the euro is important because this would determine relative prices.
+1C2-E-TEST-0202-119.97/001	rate	DEP=1C2-E-TEST-0202-119.97002
+1C2-E-TEST-0202-119.97/002	join
+1C2-E-TEST-0202-119.97/003	determine relative prices
+1C2-E-TEST-0202-119.98	"If the UK joined at too high a rate, it would mean that exporters would find that their prices had effectively risen making them less competitive whilst imports would appear cheaper."
+1C2-E-TEST-0202-119.98/001	joined	DEP=1C2-E-TEST-0202-119.98002
+1C2-E-TEST-0202-119.98/002	high rate
+1C2-E-TEST-0202-119.98/003	mean
+1C2-E-TEST-0202-119.98/004	exporters find	DEP=1C2-E-TEST-0202-119.98003
+1C2-E-TEST-0202-119.98/005	prices effectively risen	DEP=1C2-E-TEST-0202-119.98004
+1C2-E-TEST-0202-119.98/006	less competitive	DEP=1C2-E-TEST-0202-119.98005
+1C2-E-TEST-0202-119.98/007	imports	DEP=1C2-E-TEST-0202-119.98003
+1C2-E-TEST-0202-119.98/008	appear cheapear	DEP=1C2-E-TEST-0202-119.98007
+1C2-E-TEST-0202-119.99	The disruption to our competitive position could have long-term effects as businesses would have to find ways of regaining the competitiveness that they had lost.
+1C2-E-TEST-0202-119.99/001	disruption competitve position	DEP=1C2-E-TEST-0202-119.99002
+1C2-E-TEST-0202-119.99/002	long-term effects	DEP=1C2-E-TEST-0202-119.99003
+1C2-E-TEST-0202-119.99/003	businesses
+1C2-E-TEST-0202-119.99/004	find ways	DEP=1C2-E-TEST-0202-119.99005
+1C2-E-TEST-0202-119.99/005	regaining competitiveness lost
+1C2-E-TEST-0202-131.100	"Rising economic powers like China will have their own agendas, virtually assuring that any place at the table we would be given in exchange for abdicating our sovereignty over accounting standards used by US companies would be temporary."
+1C2-E-TEST-0202-131.100/001	rising economic powers	DEP=1C2-E-TEST-0202-131.100003
+1C2-E-TEST-0202-131.100/002	china
+1C2-E-TEST-0202-131.100/003	agenda
+1C2-E-TEST-0202-131.100/004	virtually assuring
+1C2-E-TEST-0202-131.100/005	place table
+1C2-E-TEST-0202-131.100/006	exhange abdicating sovereignty	DEP=1C2-E-TEST-0202-131.100007
+1C2-E-TEST-0202-131.100/007	accounting standards	DEP=1C2-E-TEST-0202-131.100008
+1C2-E-TEST-0202-131.100/008	us companies	DEP=1C2-E-TEST-0202-131.100009
+1C2-E-TEST-0202-131.100/009	temporary
+1C2-E-TEST-0202-15.3	"The UK did not meet the monetary conditions to join the Euro in the early 90s (remember John Major and mini recession). Also, from working in UK banks in the late 90s I got the impression they didn't want to take a risk, and adopted a wait and see attitude, I would have meant a loosening of control by the Bank of England."
+1C2-E-TEST-0202-15.3/001	not meet monetary condition	DEP=1C2-E-TEST-0202-15.3002
+1C2-E-TEST-0202-15.3/002	join	DEP=1C2-E-TEST-0202-15.3003
+1C2-E-TEST-0202-15.3/003	early 90s
+1C2-E-TEST-0202-15.3/004	john major
+1C2-E-TEST-0202-15.3/005	mini recession	DEP=1C2-E-TEST-0202-15.3004
+1C2-E-TEST-0202-15.3/006	working banks
+1C2-E-TEST-0202-15.3/007	late 90s
+1C2-E-TEST-0202-15.3/008	impression	DEP=1C2-E-TEST-0202-15.3009
+1C2-E-TEST-0202-15.3/009	risk
+1C2-E-TEST-0202-15.3/010	adopted	DEP=1C2-E-TEST-0202-15.3011
+1C2-E-TEST-0202-15.3/011	wait see attitude
+1C2-E-TEST-0202-15.3/012	loosening control	DEP=1C2-E-TEST-0202-15.3013
+1C2-E-TEST-0202-15.3/013	bank england
+1C2-E-TEST-0202-15.4	"So since then its more of a media campaign against it, seen as unpatriotic etc, rather than an educated debate, which is unfortunate. To say a country looses its identity because of the money in its pocket is ludicrous, I have yet to wake up and think I was living in a different country - and when in Greece, Spain, Belgium etc, I still manage to remember where I am. As I'm sure a British person would too."
+1C2-E-TEST-0202-15.4/001	media campaign against	DEP=1C2-E-TEST-0202-15.4002
+1C2-E-TEST-0202-15.4/002	upatriotic	DEP=1C2-E-TEST-0202-15.4003
+1C2-E-TEST-0202-15.4/003	rather	DEP=1C2-E-TEST-0202-15.4004
+1C2-E-TEST-0202-15.4/004	educated debate
+1C2-E-TEST-0202-15.4/005	unfortunate
+1C2-E-TEST-0202-15.4/006	country looses identity	DEP=1C2-E-TEST-0202-15.4007
+1C2-E-TEST-0202-15.4/007	money pocket
+1C2-E-TEST-0202-15.4/008	ludicrous
+1C2-E-TEST-0202-15.47	Gordon Brown actually sold a large portion of our gold to buy Euro currency to replace it. Total madness.
+1C2-E-TEST-0202-15.47/001	gordon brown
+1C2-E-TEST-0202-15.47/002	sold large portion	DEP=1C2-E-TEST-0202-15.47003
+1C2-E-TEST-0202-15.47/003	gold	DEP=1C2-E-TEST-0202-15.47004
+1C2-E-TEST-0202-15.47/004	buy currency
+1C2-E-TEST-0202-15.47/005	replace
+1C2-E-TEST-0202-15.47/006	total madness	DEP=1C2-E-TEST-0202-15.47004
+1C2-E-TEST-0202-15.6	"Even when I was in the States I was asked if I wanted my credit card charged in Euro or USD, I chose USD because it would be cheaper. But the USD will recover, it has to."
+1C2-E-TEST-0202-15.6/001	states
+1C2-E-TEST-0202-15.6/002	credit card charged	DEP=1C2-E-TEST-0202-15.6003
+1C2-E-TEST-0202-15.6/003	usd
+1C2-E-TEST-0202-15.6/004	chose usd	DEP=1C2-E-TEST-0202-15.6006
+1C2-E-TEST-0202-15.6/005	cheaper
+1C2-E-TEST-0202-15.6/006	usd recover
+1C2-E-TEST-0202-24.15	"Yes, but only if the government had been prepared to raise taxes and cut spending to compensate for interest rates that would have been far too low for comfort."
+1C2-E-TEST-0202-24.15/001	government
+1C2-E-TEST-0202-24.15/002	prepared raise taxes	DEP=1C2-E-TEST-0202-24.15001
+1C2-E-TEST-0202-24.15/003	cut spending	DEP=1C2-E-TEST-0202-24.15001
+1C2-E-TEST-0202-24.15/004	compensate interest rates	DEP=1C2-E-TEST-0202-24.15003
+1C2-E-TEST-0202-24.15/005	low	DEP=1C2-E-TEST-0202-24.15006
+1C2-E-TEST-0202-24.15/006	comfort
+1C2-E-TEST-0202-24.2	"For more than six years, Britain's membership of the single currency has been a dead issue."
+1C2-E-TEST-0202-24.2/001	six years
+1C2-E-TEST-0202-24.2/002	britain membership	DEP=1C2-E-TEST-0202-24.2003
+1C2-E-TEST-0202-24.2/003	single currency	DEP=1C2-E-TEST-0202-24.2004
+1C2-E-TEST-0202-24.2/004	dead issue
+1C2-E-TEST-0202-272.10	"Another option to stimulate growth is for the few other countries that markets are still willing to lend to to borrow and spend more, offsetting spending cuts in southern Europe."
+1C2-E-TEST-0202-272.10/001	stimulate growth
+1C2-E-TEST-0202-272.10/002	few countries	DEP=1C2-E-TEST-0202-272.10003
+1C2-E-TEST-0202-272.10/003	markets willing	DEP=1C2-E-TEST-0202-272.10004
+1C2-E-TEST-0202-272.10/004	lend borrow spend
+1C2-E-TEST-0202-272.10/005	offsetting speding cuts	DEP=1C2-E-TEST-0202-272.10006
+1C2-E-TEST-0202-272.10/006	southern europe
+1C2-E-TEST-0202-272.1013	"If national currencies still existed, countries like Greece and Portugal could resort to a proven means of reducing their lack of competitiveness."
+1C2-E-TEST-0202-272.1013/001	national currencies existed
+1C2-E-TEST-0202-272.1013/002	countries	DEP=1C2-E-TEST-0202-272.1013003
+1C2-E-TEST-0202-272.1013/003	greece portugal	DEP=1C2-E-TEST-0202-272.1013004
+1C2-E-TEST-0202-272.1013/004	resort proven means	DEP=1C2-E-TEST-0202-272.1013005
+1C2-E-TEST-0202-272.1013/005	reducing lack competitiveness
+1C2-E-TEST-0202-272.1212	"Banks, in turn, would come under pressure, both in Greece and in the rest of the euro zone."
+1C2-E-TEST-0202-272.1212/001	banks
+1C2-E-TEST-0202-272.1212/002	pressure	DEP=1C2-E-TEST-0202-272.1212001
+1C2-E-TEST-0202-272.1212/003	greece	DEP=1C2-E-TEST-0202-272.1212002
+1C2-E-TEST-0202-272.1212/004	rest zone	DEP=1C2-E-TEST-0202-272.1212002
+1C2-E-TEST-0202-272.23	"Before the financial crisis, Spain's government had lower debt levels than Germany's, and (unlike Germany) actually spent less than it earned in taxes."
+1C2-E-TEST-0202-272.23/001	financial crisis
+1C2-E-TEST-0202-272.23/002	spain government	DEP=1C2-E-TEST-0202-272.23003
+1C2-E-TEST-0202-272.23/003	lower debt levels	DEP=1C2-E-TEST-0202-272.23004
+1C2-E-TEST-0202-272.23/004	germany
+1C2-E-TEST-0202-272.23/005	spent less	DEP=1C2-E-TEST-0202-272.23006
+1C2-E-TEST-0202-272.23/006	earned taxes
+1C2-E-TEST-0202-272.251	Many European banks will also be offered state money to shore up their balance sheets.
+1C2-E-TEST-0202-272.251/001	european banks	DEP=1C2-E-TEST-0202-272.251002
+1C2-E-TEST-0202-272.251/002	offered state money	DEP=1C2-E-TEST-0202-272.251003
+1C2-E-TEST-0202-272.251/003	shore balance sheets
+1C2-E-TEST-0202-272.252	"However, there are concerns that the scheme will not go far enough and that the European Central Bank will not pay a central role."
+1C2-E-TEST-0202-272.252/001	concerns	DEP=1C2-E-TEST-0202-272.252002
+1C2-E-TEST-0202-272.252/002	scheme
+1C2-E-TEST-0202-272.252/003	european central bank	DEP=1C2-E-TEST-0202-272.252004
+1C2-E-TEST-0202-272.252/004	pay	DEP=1C2-E-TEST-0202-272.252005
+1C2-E-TEST-0202-272.252/005	central role
+1C2-E-TEST-0202-272.368	"They were not merely right about the single currency, the greatest economic issue of our age Ã¢ÂÂ they were right for the right reasons."
+1C2-E-TEST-0202-272.368/001	right
+1C2-E-TEST-0202-272.368/002	single currency
+1C2-E-TEST-0202-272.368/003	greatest economic issue age	DEP=1C2-E-TEST-0202-272.368002
+1C2-E-TEST-0202-272.368/004	right reasons
+1C2-E-TEST-0202-272.426	"The corporation's twisted coverage of the EU is a serious problem, because the economic collapse of the eurozone means a new treaty may be needed very soon."
+1C2-E-TEST-0202-272.426/001	corporation
+1C2-E-TEST-0202-272.426/002	twised coverage	DEP=1C2-E-TEST-0202-272.426003
+1C2-E-TEST-0202-272.426/003	serious problem
+1C2-E-TEST-0202-272.426/004	economic collapse	DEP=1C2-E-TEST-0202-272.426005
+1C2-E-TEST-0202-272.426/005	eurozone	DEP=1C2-E-TEST-0202-272.426006
+1C2-E-TEST-0202-272.426/006	new treaty	DEP=1C2-E-TEST-0202-272.426007
+1C2-E-TEST-0202-272.426/007	needed
+1C2-E-TEST-0202-272.616	We were promised that the introduction of the euro would not lead to a fiscal transfer union in Europe.
+1C2-E-TEST-0202-272.616/001	promised
+1C2-E-TEST-0202-272.616/002	introduction
+1C2-E-TEST-0202-272.616/003	lead	DEP=1C2-E-TEST-0202-272.616004
+1C2-E-TEST-0202-272.616/004	fiscal transfer union
+1C2-E-TEST-0202-272.616/005	europe
+1C2-E-TEST-0202-272.661	"One of the key strengths of the British economy, the flexibility of its labour markets, will be undermined at a stroke."
+1C2-E-TEST-0202-272.661/001	key strengths	DEP=1C2-E-TEST-0202-272.661002
+1C2-E-TEST-0202-272.661/002	british economy	DEP=1C2-E-TEST-0202-272.661003
+1C2-E-TEST-0202-272.661/003	flexibility labour markets
+1C2-E-TEST-0202-272.661/004	undermined	DEP=1C2-E-TEST-0202-272.661005
+1C2-E-TEST-0202-272.661/005	stroke
+1C2-E-TEST-0202-272.954	"This is why the crises of a few euro countries are a crisis for the euro, as well as a crisis for the European Union, its governments and its institutions."
+1C2-E-TEST-0202-272.954/001	crises	DEP=1C2-E-TEST-0202-272.954002
+1C2-E-TEST-0202-272.954/002	few countries
+1C2-E-TEST-0202-272.954/003	crisis	DEP=1C2-E-TEST-0202-272.954004
+1C2-E-TEST-0202-272.954/004	european union
+1C2-E-TEST-0202-272.954/005	government	DEP=1C2-E-TEST-0202-272.954004
+1C2-E-TEST-0202-272.954/006	institutions	DEP=1C2-E-TEST-0202-272.954004
+1C2-E-TEST-0202-98.103	The European Central Bank makes monetary policy for the whole of euroland.
+1C2-E-TEST-0202-98.106	"Only the ECB can truly bailout Greece or one of the other European nations, but it's precluded to do so by the Maastricht Treaty, which is the framework of European governance. So where will the money come from?"
+1C2-E-TEST-0202-98.106/001	ecb	DEP=1C2-E-TEST-0202-98.106002
+1C2-E-TEST-0202-98.106/002	truly bailout
+1C2-E-TEST-0202-98.106/003	greece	DEP=1C2-E-TEST-0202-98.106002
+1C2-E-TEST-0202-98.106/004	european nations	DEP=1C2-E-TEST-0202-98.106002
+1C2-E-TEST-0202-98.106/005	precluded
+1C2-E-TEST-0202-98.106/006	maastricht treaty
+1C2-E-TEST-0202-98.106/007	framework european governanace	DEP=1C2-E-TEST-0202-98.106006
+1C2-E-TEST-0202-98.106/008	money
+1C2-E-TEST-0202-98.107	From investors around the world who are now asking for ever higher interest rates because of the risk that goes with lending to these shaky economies?
+1C2-E-TEST-0202-98.107/001	investors
+1C2-E-TEST-0202-98.107/002	world
+1C2-E-TEST-0202-98.107/003	higher interest rates	DEP=1C2-E-TEST-0202-98.107004
+1C2-E-TEST-0202-98.107/004	risk	DEP=1C2-E-TEST-0202-98.107005
+1C2-E-TEST-0202-98.107/005	lending shaky economies
+1C2-E-TEST-0202-98.118	Then that means Greece simply knuckles under to the demands of the bureaucrats and the financial markets and it will have to continue to cut spending dramatically.
+1C2-E-TEST-0202-98.118/001	greece
+1C2-E-TEST-0202-98.118/002	knuckles under	DEP=1C2-E-TEST-0202-98.118003
+1C2-E-TEST-0202-98.118/003	demands
+1C2-E-TEST-0202-98.118/004	financial markets	DEP=1C2-E-TEST-0202-98.118003
+1C2-E-TEST-0202-98.118/005	bureaucrats	DEP=1C2-E-TEST-0202-98.118003
+1C2-E-TEST-0202-98.118/006	cut spending dramatically
+1C2-E-TEST-0202-98.118/007	continue
+1C2-E-TEST-0202-98.130	"Political leaders are trying everything to put the best face on this and hold the euro together, but is there really any chance of saving the euro from collapse?"
+1C2-E-TEST-0202-98.130/001	political leaders	DEP=1C2-E-TEST-0202-98.130002
+1C2-E-TEST-0202-98.130/002	trying	DEP=1C2-E-TEST-0202-98.130003
+1C2-E-TEST-0202-98.130/003	best face
+1C2-E-TEST-0202-98.130/004	hold together
+1C2-E-TEST-0202-98.130/005	chance saving collapse
+1C2-E-TEST-0202-98.134	Even if the European countries all toe the line and impose austerity measures to reduce deficits it will only make things worse.
+1C2-E-TEST-0202-98.134/001	european countries	DEP=1C2-E-TEST-0202-98.134002
+1C2-E-TEST-0202-98.134/002	toe line	DEP=1C2-E-TEST-0202-98.134003
+1C2-E-TEST-0202-98.134/003	impose austerity measures
+1C2-E-TEST-0202-98.134/004	reduce deficits
+1C2-E-TEST-0202-98.134/005	make things worse	DEP=1C2-E-TEST-0202-98.134002
+1C2-E-TEST-0202-98.15	On the surface and in their speeches and rhetoric they said that having a single currency would unite the European economy and make it more efficient and productive.
+1C2-E-TEST-0202-98.15/001	surface
+1C2-E-TEST-0202-98.15/002	speeches rhetoric
+1C2-E-TEST-0202-98.15/003	having single currency	DEP=1C2-E-TEST-0202-98.15004
+1C2-E-TEST-0202-98.15/004	unite european economy	DEP=1C2-E-TEST-0202-98.15005
+1C2-E-TEST-0202-98.15/005	efficient productive
+1C2-E-TEST-0202-98.20	Under a single currency all countries that adopted the euro would have to give up their own monetary sovereignty.
+1C2-E-TEST-0202-98.20/001	single currency
+1C2-E-TEST-0202-98.20/002	countries	DEP=1C2-E-TEST-0202-98.20003
+1C2-E-TEST-0202-98.20/003	give up	DEP=1C2-E-TEST-0202-98.20004
+1C2-E-TEST-0202-98.20/004	monetary sovereignty
+1C2-E-TEST-0202-98.29	Everybody was hopping on board and the euro started to look like an unbelievable success.
+1C2-E-TEST-0202-98.29/001	hopping board
+1C2-E-TEST-0202-98.29/002	unbelievable success
+1C2-E-TEST-0202-98.44	"When push comes to shove only the Federal Government can bail out a state, but that's the difference."
+1C2-E-TEST-0202-98.44/001	push comes shove
+1C2-E-TEST-0202-98.44/002	federal government	DEP=1C2-E-TEST-0202-98.44003
+1C2-E-TEST-0202-98.44/003	bail state
+1C2-E-TEST-0202-98.44/004	difference
+1C2-E-TEST-0202-98.6	I'm going to tell you something you may or may not already know...the European monetary system is on the brink of collapse and this could mean a fortune to you if you play it right..ÃÂ 
+1C2-E-TEST-0202-98.6/001	european monetary system	DEP=1C2-E-TEST-0202-98.6002
+1C2-E-TEST-0202-98.6/002	brink collapse
+1C2-E-TEST-0202-98.6/003	fortune	DEP=1C2-E-TEST-0202-98.6004
+1C2-E-TEST-0202-98.6/004	play right
+1C2-E-TEST-0202-98.73	"The politicians are forcing this on the Greek people, but it can only be done with heavy handed crackdowns, which are not working because we see that the protests are escalating."
+1C2-E-TEST-0202-98.73/001	politicians
+1C2-E-TEST-0202-98.73/002	forcing	DEP=1C2-E-TEST-0202-98.73003
+1C2-E-TEST-0202-98.73/003	greek people
+1C2-E-TEST-0202-98.73/004	heavy handed crackdown	DEP=1C2-E-TEST-0202-98.73005
+1C2-E-TEST-0202-98.73/005	done
+1C2-E-TEST-0202-98.73/006	not working
+1C2-E-TEST-0202-98.73/007	protests escalating	DEP=1C2-E-TEST-0202-98.73007
+1C2-E-TEST-0202-98.83	"Where do the Europeans get the money to bail out Greece or if necessary, the others that are on life support?"
+1C2-E-TEST-0202-98.83/001	europeans
+1C2-E-TEST-0202-98.83/002	money
+1C2-E-TEST-0202-98.83/003	bail greece
+1C2-E-TEST-0202-98.83/004	life support
+1C2-E-TEST-0202-98.9	Pressures had been mounting in the British economy and it was forced to de-peg its currency from the other European currencies and allow it to float freely in order to avoid skyrocketing interest rates and an economic crash.
+1C2-E-TEST-0202-98.9/001	pressure mounting	DEP=1C2-E-TEST-0202-98.9002
+1C2-E-TEST-0202-98.9/002	british economy
+1C2-E-TEST-0202-98.9/003	forced de-peg currency
+1C2-E-TEST-0202-98.9/004	european currencies
+1C2-E-TEST-0202-98.9/005	allow float freely	DEP=1C2-E-TEST-0202-98.9003
+1C2-E-TEST-0202-98.9/006	avoid skyrocketing interest rates	DEP=1C2-E-TEST-0202-98.9005
+1C2-E-TEST-0202-98.9/007	economic crash	DEP=1C2-E-TEST-0202-98.9006
+1C2-E-TEST-0202-98.92	"The credit default swaps of European countries is rising and in the case of Greece they have gone parabolic. Billions in speculative bets are pouring in making the collapse almost a ""fait accompli.""."
+1C2-E-TEST-0202-98.92/001	credit default swaps	DEP=1C2-E-TEST-0202-98.92002
+1C2-E-TEST-0202-98.92/002	european countires	DEP=1C2-E-TEST-0202-98.92003
+1C2-E-TEST-0202-98.92/003	rising
+1C2-E-TEST-0202-98.92/004	case
+1C2-E-TEST-0202-98.92/005	greece	DEP=1C2-E-TEST-0202-98.92006
+1C2-E-TEST-0202-98.92/006	parabolic	DEP=1C2-E-TEST-0202-98.92001
+1C2-E-TEST-0202-98.92/007	billions	DEP=1C2-E-TEST-0202-98.92008
+1C2-E-TEST-0202-98.92/008	speculative bets	DEP=1C2-E-TEST-0202-98.92009
+1C2-E-TEST-0202-98.92/009	poring
+1C2-E-TEST-0202-98.92/010	making collapse	DEP=1C2-E-TEST-0202-98.92011
+1C2-E-TEST-0202-98.92/011	fait accompli

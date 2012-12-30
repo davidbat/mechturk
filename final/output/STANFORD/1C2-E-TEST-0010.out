@@ -1,0 +1,304 @@
+1C2-E-TEST-0010-112.11	"He spent the next five years working on songs, and in 2002, he released his debut album Honesty"
+1C2-E-TEST-0010-112.11/001	five years	DEP=1C2-E-TEST-0010-112.11002
+1C2-E-TEST-0010-112.11/002	working songs
+1C2-E-TEST-0010-112.11/003	2002	DEP=1C2-E-TEST-0010-112.11004
+1C2-E-TEST-0010-112.11/004	released debut album	DEP=1C2-E-TEST-0010-112.11005
+1C2-E-TEST-0010-112.11/005	honesty
+1C2-E-TEST-0010-112.13	"In 2006 Rodney graced the charts again.ÃÂÃÂ  He released ""If You're Going Through Hell (Before the Devil Even Knows)"" as the first single from his sophomore album If You're Going Through Hell."
+1C2-E-TEST-0010-112.13/001	2006
+1C2-E-TEST-0010-112.13/002	graced charts
+1C2-E-TEST-0010-112.13/003	released	DEP=1C2-E-TEST-0010-112.13004
+1C2-E-TEST-0010-112.13/004	you're going through hell	DEP=1C2-E-TEST-0010-112.13005
+1C2-E-TEST-0010-112.13/005	before devil knows
+1C2-E-TEST-0010-112.13/006	single	DEP=1C2-E-TEST-0010-112.13004
+1C2-E-TEST-0010-112.13/007	sophmore album	DEP=1C2-E-TEST-0010-112.13008
+1C2-E-TEST-0010-112.13/008	you're going through hell
+1C2-E-TEST-0010-112.18	"The next two -- ""These Are My People"" and ""Cleaning This Gun (Come On In Boy)"" also reached No. 1, while the fifth, ""Invisibly Shaken"" peaked at No. 41."
+1C2-E-TEST-0010-112.18/001	two
+1C2-E-TEST-0010-112.18/002	these  my people	DEP=1C2-E-TEST-0010-112.18005
+1C2-E-TEST-0010-112.18/003	cleaning gun	DEP=1C2-E-TEST-0010-112.18005
+1C2-E-TEST-0010-112.18/004	come boy	DEP=1C2-E-TEST-0010-112.18003
+1C2-E-TEST-0010-112.18/005	reached no. 1
+1C2-E-TEST-0010-112.18/006	fifth	DEP=1C2-E-TEST-0010-112.18007
+1C2-E-TEST-0010-112.18/007	invisibly shaken	DEP=1C2-E-TEST-0010-112.18008
+1C2-E-TEST-0010-112.18/008	peaked no. 41
+1C2-E-TEST-0010-112.20	"Rodney debuted his first single from his third album (""It's America "") on the CMA Awards show in November 2008."
+1C2-E-TEST-0010-112.20/001	debuted single
+1C2-E-TEST-0010-112.20/002	third album
+1C2-E-TEST-0010-112.20/003	america
+1C2-E-TEST-0010-112.20/004	cma awards show	DEP=1C2-E-TEST-0010-112.20005
+1C2-E-TEST-0010-112.20/005	november 2008
+1C2-E-TEST-0010-112.5	"A third couple from Cumberland Gap, Tennesse, adopted him as well and, even though his ailments worsened, refused to give him up."
+1C2-E-TEST-0010-112.5/001	third couple	DEP=1C2-E-TEST-0010-112.5002
+1C2-E-TEST-0010-112.5/002	cumberland gap	DEP=1C2-E-TEST-0010-112.5003
+1C2-E-TEST-0010-112.5/003	tennesse
+1C2-E-TEST-0010-112.5/004	adopted	DEP=1C2-E-TEST-0010-112.5001
+1C2-E-TEST-0010-112.5/005	ailments worsened
+1C2-E-TEST-0010-112.5/006	refused give up
+1C2-E-TEST-0010-120.14	"A twelfth single, ""It's America"", was released in late 2008 as the first release from his third album It's America and the song became his fifth Number One on the chart dated May 2, 2009."
+1C2-E-TEST-0010-120.14/001	twelfth single	DEP=1C2-E-TEST-0010-120.14003
+1C2-E-TEST-0010-120.14/002	america	DEP=1C2-E-TEST-0010-120.14001
+1C2-E-TEST-0010-120.14/003	released	DEP=1C2-E-TEST-0010-120.14004
+1C2-E-TEST-0010-120.14/004	late 2008
+1C2-E-TEST-0010-120.14/005	first release
+1C2-E-TEST-0010-120.14/006	third album
+1C2-E-TEST-0010-120.14/007	america	DEP=1C2-E-TEST-0010-120.14006
+1C2-E-TEST-0010-120.14/008	song
+1C2-E-TEST-0010-120.14/009	fifth number one
+1C2-E-TEST-0010-120.14/010	may 2 2009	DEP=1C2-E-TEST-0010-120.14009
+1C2-E-TEST-0010-120.4	"Signed to Curb Records since 1997, Atkins charted his first single on the Billboard country charts that year."
+1C2-E-TEST-0010-120.4/001	signed	DEP=1C2-E-TEST-0010-120.4002
+1C2-E-TEST-0010-120.4/002	curb records	DEP=1C2-E-TEST-0010-120.4003
+1C2-E-TEST-0010-120.4/003	1997
+1C2-E-TEST-0010-120.4/004	first single	DEP=1C2-E-TEST-0010-120.4005
+1C2-E-TEST-0010-120.4/005	billboard country chart
+1C2-E-TEST-0010-15.2	"Rodney Atkins, born March 28, 1969 in Knoxville, Tennessee, is an American country singer."
+1C2-E-TEST-0010-15.6	"His adoptive mother had been raised in a coal mining family near a tannery camp, and his dad survived an upbringing marked by poverty and episodes of abuse."
+1C2-E-TEST-0010-15.6/001	adoptive mother	DEP=1C2-E-TEST-0010-15.6002
+1C2-E-TEST-0010-15.6/002	raised coal mining family	DEP=1C2-E-TEST-0010-15.6003
+1C2-E-TEST-0010-15.6/003	tannery camp
+1C2-E-TEST-0010-15.6/004	dad survived	DEP=1C2-E-TEST-0010-15.6005
+1C2-E-TEST-0010-15.6/005	upbringing 	DEP=1C2-E-TEST-0010-15.6006
+1C2-E-TEST-0010-15.6/006	poverty
+1C2-E-TEST-0010-15.6/007	espisodes abuse	DEP=1C2-E-TEST-0010-15.6004
+1C2-E-TEST-0010-153.21	The first time I heard Rodney AtkinsÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢ ÃÂ¢Ã¢ÂÂ¬ÃÂHonestyÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢ I knew it was a very important song for the country radio format.
+1C2-E-TEST-0010-153.21/001	honesty
+1C2-E-TEST-0010-153.21/002	important song	DEP=1C2-E-TEST-0010-153.21001
+1C2-E-TEST-0010-153.21/003	country radio format	DEP=1C2-E-TEST-0010-153.21002
+1C2-E-TEST-0010-153.29	"Atkins was an adopted child; as an infant at the Holston Methodist Home for Children in Greenville, thirty miles from his birthplace in Knoxville, he was so sick that two couples who had taken him home returned him just a few days later."
+1C2-E-TEST-0010-153.29/001	adopted child
+1C2-E-TEST-0010-153.29/002	infant	DEP=1C2-E-TEST-0010-153.29003
+1C2-E-TEST-0010-153.29/003	holston methodist home children	DEP=1C2-E-TEST-0010-153.29004
+1C2-E-TEST-0010-153.29/004	greenville
+1C2-E-TEST-0010-153.29/005	thirty miles birthplace	DEP=1C2-E-TEST-0010-153.29003
+1C2-E-TEST-0010-153.29/006	knoxville	DEP=1C2-E-TEST-0010-153.29005
+1C2-E-TEST-0010-153.29/007	sick	DEP=1C2-E-TEST-0010-153.29008
+1C2-E-TEST-0010-153.29/008	two couples	DEP=1C2-E-TEST-0010-153.29009
+1C2-E-TEST-0010-153.29/009	returned later
+1C2-E-TEST-0010-153.92	"He talks about the concert where, as he sang Honesty,"" he saw a troubled couple in the audience soften toward each other, tears coming from her eyes and a kind of understanding coming into his."
+1C2-E-TEST-0010-153.92/001	concert	DEP=1C2-E-TEST-0010-153.92002
+1C2-E-TEST-0010-153.92/002	honesty
+1C2-E-TEST-0010-153.92/003	troubled couple	DEP=1C2-E-TEST-0010-153.92005
+1C2-E-TEST-0010-153.92/004	audience
+1C2-E-TEST-0010-153.92/005	soften toward each other
+1C2-E-TEST-0010-153.92/006	tears eyes	DEP=1C2-E-TEST-0010-153.92005
+1C2-E-TEST-0010-153.92/007	understanding	DEP=1C2-E-TEST-0010-153.92005
+1C2-E-TEST-0010-17.87	"Rodney volunteers for the council on a large scale, but also makes plenty of time to return to the Holston Methodist Home for Children in Greenville, TN, where he was adopted as a small baby as well, for visits."
+1C2-E-TEST-0010-17.87/001	volunteers	DEP=1C2-E-TEST-0010-17.87002
+1C2-E-TEST-0010-17.87/002	council	DEP=1C2-E-TEST-0010-17.87003
+1C2-E-TEST-0010-17.87/003	large scale
+1C2-E-TEST-0010-17.87/004	time
+1C2-E-TEST-0010-17.87/005	return	DEP=1C2-E-TEST-0010-17.87006
+1C2-E-TEST-0010-17.87/006	holston methodist home children	DEP=1C2-E-TEST-0010-17.87007
+1C2-E-TEST-0010-17.87/007	greenville	DEP=1C2-E-TEST-0010-17.87008
+1C2-E-TEST-0010-17.87/008	tn
+1C2-E-TEST-0010-17.87/009	adopted	DEP=1C2-E-TEST-0010-17.87010
+1C2-E-TEST-0010-17.87/010	baby
+1C2-E-TEST-0010-17.87/011	visits	DEP=1C2-E-TEST-0010-17.87006
+1C2-E-TEST-0010-184.11	"Its first two singles, ""If You're Going Through Hell (Before the Devil Even Knows)"" and ""Watching You"", each spent four weeks at the top of the country music chart, and were respectively ranked as the top country songs of 2006 and 2007 according to Billboard Year-End."
+1C2-E-TEST-0010-184.11/001	two singles	DEP=1C2-E-TEST-0010-184.11005
+1C2-E-TEST-0010-184.11/002	you're going through hell	DEP=1C2-E-TEST-0010-184.11001
+1C2-E-TEST-0010-184.11/003	before devil knows	DEP=1C2-E-TEST-0010-184.11002
+1C2-E-TEST-0010-184.11/004	watching you	DEP=1C2-E-TEST-0010-184.11001
+1C2-E-TEST-0010-184.11/005	spent four weeks	DEP=1C2-E-TEST-0010-184.11006
+1C2-E-TEST-0010-184.11/006	top	DEP=1C2-E-TEST-0010-184.11007
+1C2-E-TEST-0010-184.11/007	country music chart
+1C2-E-TEST-0010-184.11/008	respectively ranked	DEP=1C2-E-TEST-0010-184.11009
+1C2-E-TEST-0010-184.11/009	top country song
+1C2-E-TEST-0010-184.11/010	2006 2007
+1C2-E-TEST-0010-184.11/011	billboard year-end
+1C2-E-TEST-0010-184.12	"The album, which has since been certified platinum in the United States, produced two more number 1 singles in ""These Are My People"" and ""Cleaning This Gun (Come On In Boy)""."
+1C2-E-TEST-0010-184.12/001	album
+1C2-E-TEST-0010-184.12/002	certified platinum
+1C2-E-TEST-0010-184.12/003	united states
+1C2-E-TEST-0010-184.12/004	produced two number 1 singles
+1C2-E-TEST-0010-184.12/005	these are my people	DEP=1C2-E-TEST-0010-184.12004
+1C2-E-TEST-0010-184.12/006	cleaning gun	DEP=1C2-E-TEST-0010-184.12004
+1C2-E-TEST-0010-184.12/007	come boy	DEP=1C2-E-TEST-0010-184.12006
+1C2-E-TEST-0010-184.13	"It's America (2009) included the number 1 single ""It's America"" and the top 5 hit ""Farmer's Daughter"", which was added to a later reissue of the album."
+1C2-E-TEST-0010-184.13/001	america
+1C2-E-TEST-0010-184.13/002	2009	DEP=1C2-E-TEST-0010-184.13001
+1C2-E-TEST-0010-184.13/003	number 1 single
+1C2-E-TEST-0010-184.13/004	america	DEP=1C2-E-TEST-0010-184.13003
+1C2-E-TEST-0010-184.13/005	top 5 hit	DEP=1C2-E-TEST-0010-184.13006
+1C2-E-TEST-0010-184.13/006	farmer daughter	DEP=1C2-E-TEST-0010-184.13007
+1C2-E-TEST-0010-184.13/007	added later reissue album	DEP=1C2-E-TEST-0010-184.13001
+1C2-E-TEST-0010-184.4	"Signed to Curb Records in 1996, he charted his first single on the Billboard country chart in 1997, but did not release an album until 2003's Honesty, which included the number 4 hit ""Honesty (Write Me a List)""."
+1C2-E-TEST-0010-184.4/001	signed	DEP=1C2-E-TEST-0010-184.4002
+1C2-E-TEST-0010-184.4/002	curb records	DEP=1C2-E-TEST-0010-184.4003
+1C2-E-TEST-0010-184.4/003	1996
+1C2-E-TEST-0010-184.4/004	charted first single	DEP=1C2-E-TEST-0010-184.4005
+1C2-E-TEST-0010-184.4/005	billboard country chart	DEP=1C2-E-TEST-0010-184.4006
+1C2-E-TEST-0010-184.4/006	1997
+1C2-E-TEST-0010-184.4/007	release album	DEP=1C2-E-TEST-0010-184.4009
+1C2-E-TEST-0010-184.4/008	2003
+1C2-E-TEST-0010-184.4/009	honesty	DEP=1C2-E-TEST-0010-184.4008
+1C2-E-TEST-0010-184.4/010	number 4 hit	DEP=1C2-E-TEST-0010-184.4011
+1C2-E-TEST-0010-184.4/011	honesty write list
+1C2-E-TEST-0010-198.10	"Both songs also were named as the number one country song of the year, Billboard magazine (""If you're going through hell"" in 2006, and ""watching you"" in 2007)."
+1C2-E-TEST-0010-198.10/001	songs
+1C2-E-TEST-0010-198.10/002	named
+1C2-E-TEST-0010-198.10/003	number one country song	DEP=1C2-E-TEST-0010-198.10004
+1C2-E-TEST-0010-198.10/004	billboard magazine
+1C2-E-TEST-0010-198.10/005	if you�re going through hell	DEP=1C2-E-TEST-0010-198.10003
+1C2-E-TEST-0010-198.10/006	2006	DEP=1C2-E-TEST-0010-198.10005
+1C2-E-TEST-0010-198.10/007	watching you	DEP=1C2-E-TEST-0010-198.10003
+1C2-E-TEST-0010-198.10/008	2007	DEP=1C2-E-TEST-0010-198.10007
+1C2-E-TEST-0010-198.11	"The album has since been certified Platinum in the United States, has produced two more number one singles in ""these are my people"" and ""cleaning this gun (come on in boy)"", and ""invisibly shaken"" which peaked at # 12, ""41.A of America,"" was released in November 2008 as the first version of his album and song of America His fifth number one became sketch and made many offers of prizes and national television shows."
+1C2-E-TEST-0010-198.11/001	certified platinum
+1C2-E-TEST-0010-198.11/002	united states
+1C2-E-TEST-0010-198.11/003	two number one singles
+1C2-E-TEST-0010-198.11/004	these are my people	DEP=1C2-E-TEST-0010-198.11003
+1C2-E-TEST-0010-198.11/005	cleaning gun	DEP=1C2-E-TEST-0010-198.11003
+1C2-E-TEST-0010-198.11/006	come boy	DEP=1C2-E-TEST-0010-198.11005
+1C2-E-TEST-0010-198.11/007	invisibly shaken	DEP=1C2-E-TEST-0010-198.11008
+1C2-E-TEST-0010-198.11/008	peaked 12
+1C2-E-TEST-0010-198.11/009	41.a america	DEP=1C2-E-TEST-0010-198.11010
+1C2-E-TEST-0010-198.11/010	released	DEP=1C2-E-TEST-0010-198.11011
+1C2-E-TEST-0010-198.11/011	november 2008
+1C2-E-TEST-0010-198.11/012	first version	DEP=1C2-E-TEST-0010-198.11013
+1C2-E-TEST-0010-198.11/013	album
+1C2-E-TEST-0010-198.11/014	song america	DEP=1C2-E-TEST-0010-198.11015
+1C2-E-TEST-0010-198.11/015	fifth number one
+1C2-E-TEST-0010-198.11/016	sketch
+1C2-E-TEST-0010-198.11/017	offers
+1C2-E-TEST-0010-198.11/018	prizes	DEP=1C2-E-TEST-0010-198.11017
+1C2-E-TEST-0010-198.11/019	national telivision shows	DEP=1C2-E-TEST-0010-198.11017
+1C2-E-TEST-0010-198.7	"Rodney Allan Atkins (born 28 March 1969 in Knoxville, Tennessee) is an American country music artist."
+1C2-E-TEST-0010-198.7/001	born
+1C2-E-TEST-0010-198.7/002	28 march 1969	DEP=1C2-E-TEST-0010-198.7001
+1C2-E-TEST-0010-198.7/003	knoxville	DEP=1C2-E-TEST-0010-198.7001
+1C2-E-TEST-0010-198.7/004	tennessee	DEP=1C2-E-TEST-0010-198.7003
+1C2-E-TEST-0010-198.7/005	american country music artist
+1C2-E-TEST-0010-198.8	"Restrict records ""signed"" since 1996, Atkins charted one single on the country Billboard charts in that year, but did not disclose the albums even honesty in 2003, which included hit the top 5 ""honesty (write me a list).""."
+1C2-E-TEST-0010-198.8/001	restrict records	DEP=1C2-E-TEST-0010-198.8002
+1C2-E-TEST-0010-198.8/002	signed	DEP=1C2-E-TEST-0010-198.8003
+1C2-E-TEST-0010-198.8/003	1996
+1C2-E-TEST-0010-198.8/004	charted single	DEP=1C2-E-TEST-0010-198.8005
+1C2-E-TEST-0010-198.8/005	country billboard charts
+1C2-E-TEST-0010-198.8/006	did not disclose	DEP=1C2-E-TEST-0010-198.8007
+1C2-E-TEST-0010-198.8/007	albums
+1C2-E-TEST-0010-198.8/008	honesty 2003
+1C2-E-TEST-0010-198.8/009	top 5 hit
+1C2-E-TEST-0010-198.8/010	honesty write list	DEP=1C2-E-TEST-0010-198.8009
+1C2-E-TEST-0010-198.9	"If you're going through hell "", OWL II, released in 2006.Its first and second singles,"" If you're going through hell (before the devil even knows) """" Watch "", each spent four weeks at the top of the country music charts."
+1C2-E-TEST-0010-198.9/001	you're going through hell	DEP=1C2-E-TEST-0010-198.9002
+1C2-E-TEST-0010-198.9/002	owl ii	DEP=1C2-E-TEST-0010-198.9003
+1C2-E-TEST-0010-198.9/003	released 2006
+1C2-E-TEST-0010-198.9/004	first second singles
+1C2-E-TEST-0010-198.9/005	if you�re going through hell	DEP=1C2-E-TEST-0010-198.9004
+1C2-E-TEST-0010-198.9/006	before devil knows	DEP=1C2-E-TEST-0010-198.9005
+1C2-E-TEST-0010-198.9/007	watch	DEP=1C2-E-TEST-0010-198.9004
+1C2-E-TEST-0010-198.9/008	spent four weeks	DEP=1C2-E-TEST-0010-198.9009
+1C2-E-TEST-0010-198.9/009	top country music charts
+1C2-E-TEST-0010-2.16	"He signed with Curb Records in 1996, the same week that LeAnn Rimes did."
+1C2-E-TEST-0010-2.16/001	signed	DEP=1C2-E-TEST-0010-2.16002
+1C2-E-TEST-0010-2.16/002	curb records	DEP=1C2-E-TEST-0010-2.16003
+1C2-E-TEST-0010-2.16/003	1996
+1C2-E-TEST-0010-2.16/004	leann rimes
+1C2-E-TEST-0010-2.19	"Atkins's debut single, ""In a Heartbeat"", spent one week at number 74 on the Billboard Hot Country Singles & Tracks (now Hot Country Songs ) chart dated for August 30, 1997."
+1C2-E-TEST-0010-2.19/001	heartbeat	DEP=1C2-E-TEST-0010-2.19002
+1C2-E-TEST-0010-2.19/002	number 74	DEP=1C2-E-TEST-0010-2.19003
+1C2-E-TEST-0010-2.19/003	billboard hot country singles tracks
+1C2-E-TEST-0010-2.19/004	hot country songs	DEP=1C2-E-TEST-0010-2.19003
+1C2-E-TEST-0010-2.19/005	chart dated	DEP=1C2-E-TEST-0010-2.19001
+1C2-E-TEST-0010-2.19/006	august 30 1997	DEP=1C2-E-TEST-0010-2.19005
+1C2-E-TEST-0010-2.20	"[9] Its b-side , ""God Only Knows"", was also released as a single, but did not chart."
+1C2-E-TEST-0010-2.20/001	b-side	DEP=1C2-E-TEST-0010-2.20002
+1C2-E-TEST-0010-2.20/002	god only knows
+1C2-E-TEST-0010-2.20/003	released single
+1C2-E-TEST-0010-2.20/004	not chart
+1C2-E-TEST-0010-2.40	"He started wearing baseball caps and performing ""songs about his life."" [16] ""If You're Going Through Hell"" became his first number 1, spending four weeks at the top of the Hot Country Songs charts; it was also the top country hit of 2006 according to Billboard Year-End ."
+1C2-E-TEST-0010-2.40/001	wearing baseball caps
+1C2-E-TEST-0010-2.40/002	performing
+1C2-E-TEST-0010-2.40/003	song about life
+1C2-E-TEST-0010-2.40/004	if you�re going through hell	DEP=1C2-E-TEST-0010-2.40005
+1C2-E-TEST-0010-2.40/005	first number 1	DEP=1C2-E-TEST-0010-2.40006
+1C2-E-TEST-0010-2.40/006	four weeks	DEP=1C2-E-TEST-0010-2.40007
+1C2-E-TEST-0010-2.40/007	top	DEP=1C2-E-TEST-0010-2.40008
+1C2-E-TEST-0010-2.40/008	hot country songs charts
+1C2-E-TEST-0010-2.40/009	top country hit 20006	DEP=1C2-E-TEST-0010-2.40004
+1C2-E-TEST-0010-2.40/010	billboard year-end
+1C2-E-TEST-0010-2.45	"[19] "" These Are My People "" and "" Cleaning This Gun (Come On In Boy) "" also went to number 1, making If You're Going Through Hell the first country album to include four number 1 singles since Tim McGraw's 2001 album Set This Circus Down ."
+1C2-E-TEST-0010-2.45/001	these are my people	DEP=1C2-E-TEST-0010-2.45004
+1C2-E-TEST-0010-2.45/002	cleaning gun	DEP=1C2-E-TEST-0010-2.45004
+1C2-E-TEST-0010-2.45/003	come boy	DEP=1C2-E-TEST-0010-2.45002
+1C2-E-TEST-0010-2.45/004	number 1
+1C2-E-TEST-0010-2.45/005	if you�re going through hell	DEP=1C2-E-TEST-0010-2.45006
+1C2-E-TEST-0010-2.45/006	first country album	DEP=1C2-E-TEST-0010-2.45007
+1C2-E-TEST-0010-2.45/007	four number 1 singles
+1C2-E-TEST-0010-2.45/008	tim mcgraw	DEP=1C2-E-TEST-0010-2.45009
+1C2-E-TEST-0010-2.45/009	2001 album set	DEP=1C2-E-TEST-0010-2.45010
+1C2-E-TEST-0010-2.45/010	circus down
+1C2-E-TEST-0010-33.8	"While at college at Tennessee Tech in Cookeville, Atkins used the opportunity to go into Nashville as often as he could, and by the time he graduated, he was starting to make himself known as a performer in the area."
+1C2-E-TEST-0010-33.8/001	college	DEP=1C2-E-TEST-0010-33.8002
+1C2-E-TEST-0010-33.8/002	tennessee tech	DEP=1C2-E-TEST-0010-33.8003
+1C2-E-TEST-0010-33.8/003	cookeville
+1C2-E-TEST-0010-33.8/004	nashville
+1C2-E-TEST-0010-33.8/005	time graduated
+1C2-E-TEST-0010-33.8/006	know performer
+1C2-E-TEST-0010-33.8/007	area
+1C2-E-TEST-0010-43.2	"Rodney Atkins was born March 28, 1969, in Knoxville, Tenn., and was an adopted child."
+1C2-E-TEST-0010-43.2/001	born
+1C2-E-TEST-0010-43.2/002	march 28 1969	DEP=1C2-E-TEST-0010-43.2001
+1C2-E-TEST-0010-43.2/003	knoxville	DEP=1C2-E-TEST-0010-43.2001
+1C2-E-TEST-0010-43.2/004	tenn	DEP=1C2-E-TEST-0010-43.2003
+1C2-E-TEST-0010-43.2/005	adopted child
+1C2-E-TEST-0010-6.11	"This was an unfortunate verbal dispute between Mr. and Mrs. Atkins within hearing range of their child, and when Mr. Atkins realized their child was in hearing range of the argument, his first priority became getting out of the earshot of the child, Rodney's lawyer, Rose Palermo, writes in a statement given to The Boot."
+1C2-E-TEST-0010-6.11/001	verbal dispute	DEP=1C2-E-TEST-0010-6.11002
+1C2-E-TEST-0010-6.11/002	hearing range	DEP=1C2-E-TEST-0010-6.11003
+1C2-E-TEST-0010-6.11/003	child
+1C2-E-TEST-0010-6.11/004	realized child hearing range argument
+1C2-E-TEST-0010-6.11/005	priority	DEP=1C2-E-TEST-0010-6.11006
+1C2-E-TEST-0010-6.11/006	earshot child
+1C2-E-TEST-0010-6.11/007	lawyer	DEP=1C2-E-TEST-0010-6.11008
+1C2-E-TEST-0010-6.11/008	rose palermo
+1C2-E-TEST-0010-6.11/009	statement boot
+1C2-E-TEST-0010-6.5	"Rodney Atkins has filed for divorce from his wife, Tammy Jo Atkins, in the wake of what he claims are false accusations of domestic violence."
+1C2-E-TEST-0010-6.5/001	filed divorece	DEP=1C2-E-TEST-0010-6.5002
+1C2-E-TEST-0010-6.5/002	wife	DEP=1C2-E-TEST-0010-6.5003
+1C2-E-TEST-0010-6.5/003	tammy jo
+1C2-E-TEST-0010-6.5/004	false accusations	DEP=1C2-E-TEST-0010-6.5005
+1C2-E-TEST-0010-6.5/005	domestic violence
+1C2-E-TEST-0010-67.21	"During high school, Atkins played guitar in his spare time at events and festivals."
+1C2-E-TEST-0010-67.21/001	high school	DEP=1C2-E-TEST-0010-67.21002
+1C2-E-TEST-0010-67.21/002	played guitar	DEP=1C2-E-TEST-0010-67.21004
+1C2-E-TEST-0010-67.21/003	spare time
+1C2-E-TEST-0010-67.21/004	events festivals
+1C2-E-TEST-0010-67.22	"He went to college at Tennessee Tech in Cookeville, Tennessee, where he worked various jobs in order to pay for his education."
+1C2-E-TEST-0010-67.22/001	college	DEP=1C2-E-TEST-0010-67.22002
+1C2-E-TEST-0010-67.22/002	tennessee tech	DEP=1C2-E-TEST-0010-67.22003
+1C2-E-TEST-0010-67.22/003	cookeville	DEP=1C2-E-TEST-0010-67.22004
+1C2-E-TEST-0010-67.22/004	tennessee
+1C2-E-TEST-0010-67.28	"He had also planned to release a self-titled debut album that year on September 17; however, after deciding that he was not satisfied with the album's contents at that point, he asked Mike Curb (the label's president) to allow him more time to work on the album."
+1C2-E-TEST-0010-67.28/001	planned release	DEP=1C2-E-TEST-0010-67.28002
+1C2-E-TEST-0010-67.28/002	self-titled debut album	DEP=1C2-E-TEST-0010-67.28003
+1C2-E-TEST-0010-67.28/003	september 17
+1C2-E-TEST-0010-67.28/004	deciding	DEP=1C2-E-TEST-0010-67.28005
+1C2-E-TEST-0010-67.28/005	not satisfied
+1C2-E-TEST-0010-67.28/006	album content
+1C2-E-TEST-0010-67.28/007	mike curb	DEP=1C2-E-TEST-0010-67.28008
+1C2-E-TEST-0010-67.28/008	label president
+1C2-E-TEST-0010-67.28/009	allow more time work album
+1C2-E-TEST-0010-67.40	"The album went on to achieve RIAA platinum certification in the United States, in addition to producing two more Number One hits, for a total of four consecutive Number Ones: ""These Are My People"" and ""Cleaning This Gun (Come On In Boy)""."
+1C2-E-TEST-0010-67.40/001	album achieve	DEP=1C2-E-TEST-0010-67.40002
+1C2-E-TEST-0010-67.40/002	riaa platinum certification	DEP=1C2-E-TEST-0010-67.40003
+1C2-E-TEST-0010-67.40/003	united states
+1C2-E-TEST-0010-67.40/004	producing two	DEP=1C2-E-TEST-0010-67.40005
+1C2-E-TEST-0010-67.40/005	number one hits
+1C2-E-TEST-0010-67.40/006	total	DEP=1C2-E-TEST-0010-67.40007
+1C2-E-TEST-0010-67.40/007	four consecutive number ones
+1C2-E-TEST-0010-67.40/008	these are my people	DEP=1C2-E-TEST-0010-67.40004
+1C2-E-TEST-0010-67.40/009	cleaning gun	DEP=1C2-E-TEST-0010-67.40004
+1C2-E-TEST-0010-67.40/010	come boy	DEP=1C2-E-TEST-0010-67.40009
+1C2-E-TEST-0010-67.9	"The album, which has since been certified platinum in the United States, has since produced two more Number One singles in ""These Are My People"" and ""Cleaning This Gun (Come On In Boy)"", as well as ""Invisibly Shaken"" which peaked at #41."
+1C2-E-TEST-0010-67.9/001	album	DEP=1C2-E-TEST-0010-67.9002
+1C2-E-TEST-0010-67.9/002	certified platinum	DEP=1C2-E-TEST-0010-67.9003
+1C2-E-TEST-0010-67.9/003	united states
+1C2-E-TEST-0010-67.9/004	produced two	DEP=1C2-E-TEST-0010-67.9005
+1C2-E-TEST-0010-67.9/005	number one singles
+1C2-E-TEST-0010-67.9/006	these are my people	DEP=1C2-E-TEST-0010-67.9004
+1C2-E-TEST-0010-67.9/007	cleaning gun	DEP=1C2-E-TEST-0010-67.9004
+1C2-E-TEST-0010-67.9/008	come boy	DEP=1C2-E-TEST-0010-67.9007
+1C2-E-TEST-0010-67.9/009	invisibly shaken	DEP=1C2-E-TEST-0010-67.9010
+1C2-E-TEST-0010-67.9/010	peaked 41

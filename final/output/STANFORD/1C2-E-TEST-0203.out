@@ -1,0 +1,360 @@
+1C2-E-TEST-0203-1.33	"Typical tours include a discussion about the 3 R's (reduce, reuse, recycle), our community's waste handling practices, and a tour of the waste-to-energy facility and/or a driving tour of the landfill."
+1C2-E-TEST-0203-1.33/001	typical tours
+1C2-E-TEST-0203-1.33/002	discussions	DEP=1C2-E-TEST-0203-1.33001
+1C2-E-TEST-0203-1.33/003	3 r
+1C2-E-TEST-0203-1.33/004	reduce reuse recycle	DEP=1C2-E-TEST-0203-1.33003
+1C2-E-TEST-0203-1.33/005	community waste handling practices	DEP=1C2-E-TEST-0203-1.33001
+1C2-E-TEST-0203-1.33/006	waste-to-energy facility	DEP=1C2-E-TEST-0203-1.33001
+1C2-E-TEST-0203-1.33/007	driving tour landfill	DEP=1C2-E-TEST-0203-1.33001
+1C2-E-TEST-0203-114.17	"The high temperatures break down organic material -- plastic, paper and food, for example -- to basic elements."
+1C2-E-TEST-0203-114.17/001	high temperatures
+1C2-E-TEST-0203-114.17/002	break down	DEP=1C2-E-TEST-0203-114.17001
+1C2-E-TEST-0203-114.17/003	organic material	DEP=1C2-E-TEST-0203-114.17002
+1C2-E-TEST-0203-114.17/004	plastic paper food	DEP=1C2-E-TEST-0203-114.17003
+1C2-E-TEST-0203-114.17/005	basic elements	DEP=1C2-E-TEST-0203-114.17002
+1C2-E-TEST-0203-114.28	Oregon classifies energy derived from solid waste as renewable under its renewable power goals.
+1C2-E-TEST-0203-114.28/001	oregon
+1C2-E-TEST-0203-114.28/002	classifies energy derived
+1C2-E-TEST-0203-114.28/003	solid waste	DEP=1C2-E-TEST-0203-114.28002
+1C2-E-TEST-0203-114.28/004	renewable	DEP=1C2-E-TEST-0203-114.28002
+1C2-E-TEST-0203-114.28/005	renewable power goals
+1C2-E-TEST-0203-126.14	"It is a still further object of the invention to introduce minimum changes into the present, conventional routine of garbage collection, as well as at the garbage dump sites."
+1C2-E-TEST-0203-126.14/001	minimum changes
+1C2-E-TEST-0203-126.14/002	conventional routine 
+1C2-E-TEST-0203-126.14/003	garbage collection	DEP=1C2-E-TEST-0203-126.14002
+1C2-E-TEST-0203-126.14/004	garbage dump sites
+1C2-E-TEST-0203-144.23	Converting municipal solid waste to fuel is expensive.
+1C2-E-TEST-0203-144.23/001	converting municipal solid waste
+1C2-E-TEST-0203-144.23/002	fuel	DEP=1C2-E-TEST-0203-144.23001
+1C2-E-TEST-0203-144.23/003	expensive	DEP=1C2-E-TEST-0203-144.23001
+1C2-E-TEST-0203-144.24	Landfilling garbage costs less than processing it to make fuel.
+1C2-E-TEST-0203-177.129	Ze-gen - Developer of waste gasification technology which converts construction and demolition waste and municipal solid waste into near zero-emissions synthetic natural gas and electrical energy.
+1C2-E-TEST-0203-177.129/001	ze-gen
+1C2-E-TEST-0203-177.129/002	developer	DEP=1C2-E-TEST-0203-177.129001
+1C2-E-TEST-0203-177.129/003	waste gasification technology
+1C2-E-TEST-0203-177.129/004	construction demolition	DEP=1C2-E-TEST-0203-177.129010
+1C2-E-TEST-0203-177.129/005	municipal solid waste	DEP=1C2-E-TEST-0203-177.129010
+1C2-E-TEST-0203-177.129/006	near zero-emissions
+1C2-E-TEST-0203-177.129/007	synthetic natural gas	DEP=1C2-E-TEST-0203-177.129006
+1C2-E-TEST-0203-177.129/008	electrical energy	DEP=1C2-E-TEST-0203-177.129006
+1C2-E-TEST-0203-177.129/009	converts	DEP=1C2-E-TEST-0203-177.129003
+1C2-E-TEST-0203-177.129/010	waste	DEP=1C2-E-TEST-0203-177.129009
+1C2-E-TEST-0203-177.185	"BioEnergy Partners - Biomass will be efficiently converted into biofuel using pyrolysis technology, from paper, wood and Municipal wastes, sludge from water treatment plants, animal wastes and agricultural wastes remaining after harvests."
+1C2-E-TEST-0203-177.185/001	bioenergy partners
+1C2-E-TEST-0203-177.185/002	biomass
+1C2-E-TEST-0203-177.185/003	efficiently converted
+1C2-E-TEST-0203-177.185/004	biofuel	DEP=1C2-E-TEST-0203-177.185003
+1C2-E-TEST-0203-177.185/005	pyrolysis technology	DEP=1C2-E-TEST-0203-177.185004
+1C2-E-TEST-0203-177.185/006	paper wood municipal wastes	DEP=1C2-E-TEST-0203-177.185004
+1C2-E-TEST-0203-177.185/007	sludge	DEP=1C2-E-TEST-0203-177.185004
+1C2-E-TEST-0203-177.185/008	water treatment plants	DEP=1C2-E-TEST-0203-177.185007
+1C2-E-TEST-0203-177.185/009	animal wastes	DEP=1C2-E-TEST-0203-177.185004
+1C2-E-TEST-0203-177.185/010	agricultural wastes	DEP=1C2-E-TEST-0203-177.185004
+1C2-E-TEST-0203-177.185/011	harvests	DEP=1C2-E-TEST-0203-177.185010
+1C2-E-TEST-0203-198.1053	"The recovery center is the way to process waste material and recyclables, rather than transfer stations and landfills."
+1C2-E-TEST-0203-198.1053/001	recovery center
+1C2-E-TEST-0203-198.1053/002	way
+1C2-E-TEST-0203-198.1053/003	process waste material
+1C2-E-TEST-0203-198.1053/004	recyclables
+1C2-E-TEST-0203-198.1053/005	stations landfills
+1C2-E-TEST-0203-198.1053/006	transfer
+1C2-E-TEST-0203-198.301	"The invention is designed to give municipalities choices in the way they handle their waste, produce energy, use energy and produce more employment locally through recovery manufacturing."
+1C2-E-TEST-0203-198.301/001	invention
+1C2-E-TEST-0203-198.301/002	designed	DEP=1C2-E-TEST-0203-198.301001
+1C2-E-TEST-0203-198.301/003	give	DEP=1C2-E-TEST-0203-198.301002
+1C2-E-TEST-0203-198.301/004	municipalities
+1C2-E-TEST-0203-198.301/005	choices handle waste	DEP=1C2-E-TEST-0203-198.301004
+1C2-E-TEST-0203-198.301/006	produce energy	DEP=1C2-E-TEST-0203-198.301004
+1C2-E-TEST-0203-198.301/007	produce employment locally	DEP=1C2-E-TEST-0203-198.301004
+1C2-E-TEST-0203-198.301/008	recovery manufacturing	DEP=1C2-E-TEST-0203-198.301007
+1C2-E-TEST-0203-198.511	The relevancy in the recovery plant to this application is that the energy made to operate the plant will in part or wholely come from a power plant converting combustible waste to electricity via incineration to steam or gasification.
+1C2-E-TEST-0203-198.511/001	relevancy
+1C2-E-TEST-0203-198.511/002	recovery plant
+1C2-E-TEST-0203-198.511/003	apllication
+1C2-E-TEST-0203-198.511/004	energy operate plant
+1C2-E-TEST-0203-198.511/005	power plant
+1C2-E-TEST-0203-198.511/006	conveting combustible waste	DEP=1C2-E-TEST-0203-198.511005
+1C2-E-TEST-0203-198.511/007	electricity	DEP=1C2-E-TEST-0203-198.511006
+1C2-E-TEST-0203-198.511/008	incineration steam
+1C2-E-TEST-0203-198.511/009	gasification
+1C2-E-TEST-0203-198.63	"A claim according to claim 1 (one) is made for a modular mobile version of The Recovery Center (the Invention to be trucked or transported by rail to a location for the rapid processing of waste materials and recyclable products, and to make sub products, fuel and electrical energy."
+1C2-E-TEST-0203-198.63/001	claim 1
+1C2-E-TEST-0203-198.63/002	modular mobile version
+1C2-E-TEST-0203-198.63/003	recovery center	DEP=1C2-E-TEST-0203-198.63002
+1C2-E-TEST-0203-198.63/004	trucked
+1C2-E-TEST-0203-198.63/005	transported rail
+1C2-E-TEST-0203-198.63/006	rapid processing
+1C2-E-TEST-0203-198.63/007	waste materials	DEP=1C2-E-TEST-0203-198.63006
+1C2-E-TEST-0203-198.63/008	recyclable products	DEP=1C2-E-TEST-0203-198.63006
+1C2-E-TEST-0203-198.63/009	sub products	DEP=1C2-E-TEST-0203-198.63012
+1C2-E-TEST-0203-198.63/010	fuel	DEP=1C2-E-TEST-0203-198.63012
+1C2-E-TEST-0203-198.63/011	electrical energy	DEP=1C2-E-TEST-0203-198.63012
+1C2-E-TEST-0203-198.63/012	make
+1C2-E-TEST-0203-198.742	"This is another area where the waste and recycle industries have not policed themselves well in their service to the community, and why government and municipalities should embrace this technology."
+1C2-E-TEST-0203-198.742/001	waste recycle industries
+1C2-E-TEST-0203-198.742/002	not policied	DEP=1C2-E-TEST-0203-198.742001
+1C2-E-TEST-0203-198.742/003	service community
+1C2-E-TEST-0203-198.742/004	government	DEP=1C2-E-TEST-0203-198.742006
+1C2-E-TEST-0203-198.742/005	municipalities	DEP=1C2-E-TEST-0203-198.742006
+1C2-E-TEST-0203-198.742/006	embrace technology
+1C2-E-TEST-0203-198.808	Progressively the recovery process is to become more and more automated for health and safety reasons.
+1C2-E-TEST-0203-198.808/001	recovery process
+1C2-E-TEST-0203-198.808/002	automated	DEP=1C2-E-TEST-0203-198.808001
+1C2-E-TEST-0203-198.808/003	health safety reasons
+1C2-E-TEST-0203-228.15	"ÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ…Ã‚Â“[In this] new solid waste management plan with the city council, it will provide for transfer station facilities in all boroughs,ÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ‚Ã‚Âù says Doherty."
+1C2-E-TEST-0203-228.15/001	new solid waste management plan
+1C2-E-TEST-0203-228.15/002	city council
+1C2-E-TEST-0203-228.15/003	transfer station facilities
+1C2-E-TEST-0203-228.15/004	boroughs	DEP=1C2-E-TEST-0203-228.15003
+1C2-E-TEST-0203-228.43	"There are other alternatives for getting rid of garbage too, including the use of waste energy facilities."
+1C2-E-TEST-0203-228.43/001	alternatives
+1C2-E-TEST-0203-228.43/002	rid garbage	DEP=1C2-E-TEST-0203-228.43003
+1C2-E-TEST-0203-228.43/003	waste energy facilities
+1C2-E-TEST-0203-228.46	"ÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ…Ã‚Â“The waste energy generates electricity and you donÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢t have to landfill it, but some areas donÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢t want to accept these facilities.ÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ‚Ã‚Âù"
+1C2-E-TEST-0203-228.46/001	waste energy
+1C2-E-TEST-0203-228.46/002	generates electricity	DEP=1C2-E-TEST-0203-228.46001
+1C2-E-TEST-0203-228.46/003	landfill
+1C2-E-TEST-0203-228.46/004	accept facilities
+1C2-E-TEST-0203-228.69	"The bottom-line success of this new management plan is that each borough is becoming responsible for handling its own waste and, as we get new technology, the city will have to approach it the same way."
+1C2-E-TEST-0203-228.69/001	bottom-line success
+1C2-E-TEST-0203-228.69/002	new management plan
+1C2-E-TEST-0203-228.69/003	borough	DEP=1C2-E-TEST-0203-228.69004
+1C2-E-TEST-0203-228.69/004	responsible	DEP=1C2-E-TEST-0203-228.69005
+1C2-E-TEST-0203-228.69/005	handling waste
+1C2-E-TEST-0203-228.69/006	new technology
+1C2-E-TEST-0203-228.69/007	city	DEP=1C2-E-TEST-0203-228.69008
+1C2-E-TEST-0203-228.69/008	approach	DEP=1C2-E-TEST-0203-228.69009
+1C2-E-TEST-0203-228.69/009	same way
+1C2-E-TEST-0203-274.24	"There are 11 landfills currently operating in the state that accept the majority of the solid waste we generate, including the ash and residues from the waste to energy incineration facilities:"
+1C2-E-TEST-0203-274.24/001	11 landfills
+1C2-E-TEST-0203-274.24/002	currently operating	DEP=1C2-E-TEST-0203-274.24001
+1C2-E-TEST-0203-274.24/003	state
+1C2-E-TEST-0203-274.24/004	accept majority solid waste
+1C2-E-TEST-0203-274.24/005	ash	DEP=1C2-E-TEST-0203-274.24004
+1C2-E-TEST-0203-274.24/006	residues	DEP=1C2-E-TEST-0203-274.24006
+1C2-E-TEST-0203-274.24/007	waste energy incineration facilities	DEP=1C2-E-TEST-0203-274.24004
+1C2-E-TEST-0203-297.119	Garbage may also be dumped onto a waste pile on the ground where it is stored and may eventually be treated.
+1C2-E-TEST-0203-297.119/001	garbage	DEP=1C2-E-TEST-0203-297.119002
+1C2-E-TEST-0203-297.119/002	dumped	DEP=1C2-E-TEST-0203-297.119003
+1C2-E-TEST-0203-297.119/003	waste pile	DEP=1C2-E-TEST-0203-297.119004
+1C2-E-TEST-0203-297.119/004	ground
+1C2-E-TEST-0203-297.119/005	stored	DEP=1C2-E-TEST-0203-297.119003
+1C2-E-TEST-0203-297.119/006	eventually treated
+1C2-E-TEST-0203-297.132	"Management of municipal solid waste (MSW), 1960ÃƒÂ¢Ã‚Â€Ã‚Â“2001"
+1C2-E-TEST-0203-297.147	"Number of municipal solid waste (MSW) landfills and waste to energy (WTE) plants, average tip fees, and capacity by state, 2000"
+1C2-E-TEST-0203-297.147/001	municipal solid waste landfills
+1C2-E-TEST-0203-297.147/002	waste enegy plants
+1C2-E-TEST-0203-297.147/003	msw	DEP=1C2-E-TEST-0203-297.147001
+1C2-E-TEST-0203-297.147/004	wte	DEP=1C2-E-TEST-0203-297.147002
+1C2-E-TEST-0203-297.147/005	average tip fees
+1C2-E-TEST-0203-297.147/006	capacity state
+1C2-E-TEST-0203-297.147/007	2000
+1C2-E-TEST-0203-297.4	This is the type of garbage that the EPA calls municipal solid waste (MSW).
+1C2-E-TEST-0203-297.4/001	type garbage	DEP=1C2-E-TEST-0203-297.4002
+1C2-E-TEST-0203-297.4/002	epa calls	DEP=1C2-E-TEST-0203-297.4003
+1C2-E-TEST-0203-297.4/003	municipal solid waste
+1C2-E-TEST-0203-297.4/004	msw	DEP=1C2-E-TEST-0203-297.4003
+1C2-E-TEST-0203-297.93	In 1874 the first systematic incineration (burning) of municipal waste was tested in England.
+1C2-E-TEST-0203-297.93/001	1874
+1C2-E-TEST-0203-297.93/002	first systematic incineration	DEP=1C2-E-TEST-0203-297.93001
+1C2-E-TEST-0203-297.93/003	burning
+1C2-E-TEST-0203-297.93/004	municipal waste	DEP=1C2-E-TEST-0203-297.93002
+1C2-E-TEST-0203-297.93/005	tested	DEP=1C2-E-TEST-0203-297.93004
+1C2-E-TEST-0203-297.93/006	england
+1C2-E-TEST-0203-299.26	"This is especially true for landfills and waste-to-energy plants, since they track all of the disposed waste by simply weighing incoming and outgoing trucks."
+1C2-E-TEST-0203-299.26/001	true
+1C2-E-TEST-0203-299.26/002	landfills
+1C2-E-TEST-0203-299.26/003	waste-to-energy plants
+1C2-E-TEST-0203-299.26/004	track	DEP=1C2-E-TEST-0203-299.26005
+1C2-E-TEST-0203-299.26/005	disposed waste	DEP=1C2-E-TEST-0203-299.26006
+1C2-E-TEST-0203-299.26/006	weighing	DEP=1C2-E-TEST-0203-299.26007
+1C2-E-TEST-0203-299.26/007	incoming outgoing truck
+1C2-E-TEST-0203-300.225	"It found that all but one of the curbside recycling programs, and all the composting operations and waste-to-energy incinerators, increased the cost of waste disposal."
+1C2-E-TEST-0203-300.225/001	found
+1C2-E-TEST-0203-300.225/002	curbside recycling programs	DEP=1C2-E-TEST-0203-300.225005
+1C2-E-TEST-0203-300.225/003	composition operations	DEP=1C2-E-TEST-0203-300.225005
+1C2-E-TEST-0203-300.225/004	waste-to-energy incinerators	DEP=1C2-E-TEST-0203-300.225005
+1C2-E-TEST-0203-300.225/005	increased cost waste disposal
+1C2-E-TEST-0203-40.103	"The new incinerators, many of which are still in operation, are called resource recovery or waste-to-energy plants."
+1C2-E-TEST-0203-40.103/001	new incinerators
+1C2-E-TEST-0203-40.103/002	operation
+1C2-E-TEST-0203-40.103/003	resource recovery	DEP=1C2-E-TEST-0203-40.103001
+1C2-E-TEST-0203-40.103/004	waste-to-enegy plants	DEP=1C2-E-TEST-0203-40.103001
+1C2-E-TEST-0203-40.127	Industrial wastes that are not hazardous have traditionally been sent to landfills or incinerators.
+1C2-E-TEST-0203-40.127/001	industrial wastes	DEP=1C2-E-TEST-0203-40.127002
+1C2-E-TEST-0203-40.127/002	not hazardous
+1C2-E-TEST-0203-40.127/003	landfills
+1C2-E-TEST-0203-40.127/004	incinerators
+1C2-E-TEST-0203-40.135	"This export often takes place with the stated intent of recycling, but some of the wastes end up being dumped."
+1C2-E-TEST-0203-40.135/001	export
+1C2-E-TEST-0203-40.135/002	takes place
+1C2-E-TEST-0203-40.135/003	stated intent	DEP=1C2-E-TEST-0203-40.135004
+1C2-E-TEST-0203-40.135/004	recycling
+1C2-E-TEST-0203-40.135/005	wastes	DEP=1C2-E-TEST-0203-40.135006
+1C2-E-TEST-0203-40.135/006	dumped
+1C2-E-TEST-0203-40.19	"Municipal solid waste is what most people think of as garbage, refuse, or trash."
+1C2-E-TEST-0203-40.19/001	municipal solid waste
+1C2-E-TEST-0203-40.19/002	people think
+1C2-E-TEST-0203-40.19/003	garbage	DEP=1C2-E-TEST-0203-40.19001
+1C2-E-TEST-0203-40.19/004	refuse	DEP=1C2-E-TEST-0203-40.19001
+1C2-E-TEST-0203-40.24	Dump (or open dump): An area in which wastes are simply deposited and left to rot or decay.
+1C2-E-TEST-0203-40.24/001	open dump
+1C2-E-TEST-0203-40.24/002	area	DEP=1C2-E-TEST-0203-40.24001
+1C2-E-TEST-0203-40.24/003	wastes deposited	DEP=1C2-E-TEST-0203-40.24004
+1C2-E-TEST-0203-40.24/004	left rot decay
+1C2-E-TEST-0203-40.27	Landfilling: A land disposal method for solid waste in which garbage is covered every day with several inches of soil.
+1C2-E-TEST-0203-40.27/001	landfilling
+1C2-E-TEST-0203-40.27/002	land disposal method	DEP=1C2-E-TEST-0203-40.27001
+1C2-E-TEST-0203-40.27/003	solid waste
+1C2-E-TEST-0203-40.27/004	garbage covered	DEP=1C2-E-TEST-0203-40.27005
+1C2-E-TEST-0203-40.27/005	inches soil
+1C2-E-TEST-0203-40.29	"Recycling: The use of waste materials, also known as secondary materials or recyclables, to produce new products."
+1C2-E-TEST-0203-40.29/001	recycling
+1C2-E-TEST-0203-40.29/002	waste materials
+1C2-E-TEST-0203-40.29/003	secondary materials	DEP=1C2-E-TEST-0203-40.29002
+1C2-E-TEST-0203-40.29/004	recyclables	DEP=1C2-E-TEST-0203-40.29003
+1C2-E-TEST-0203-40.29/005	produce new products	DEP=1C2-E-TEST-0203-40.29001
+1C2-E-TEST-0203-40.30	Resource recovery plant: An incinerator that uses energy produced by the burning of solid wastes for some useful purpose.
+1C2-E-TEST-0203-40.30/001	resource recovery plant	DEP=1C2-E-TEST-0203-40.30002
+1C2-E-TEST-0203-40.30/002	incinerator	DEP=1C2-E-TEST-0203-40.30003
+1C2-E-TEST-0203-40.30/003	uses energy produced	DEP=1C2-E-TEST-0203-40.30004
+1C2-E-TEST-0203-40.30/004	burning solid wastes	DEP=1C2-E-TEST-0203-40.30005
+1C2-E-TEST-0203-40.30/005	useful purpose
+1C2-E-TEST-0203-40.34	Waste-to-energy plant: An incinerator that uses energy produced by the burning of solid wastes for some useful purpose.
+1C2-E-TEST-0203-40.34/001	waste-to-energy plant	DEP=1C2-E-TEST-0203-40.34002
+1C2-E-TEST-0203-40.34/002	incinerator	DEP=1C2-E-TEST-0203-40.34003
+1C2-E-TEST-0203-40.34/003	uses energy produced	DEP=1C2-E-TEST-0203-40.34004
+1C2-E-TEST-0203-40.34/004	burning solid wastes	DEP=1C2-E-TEST-0203-40.34005
+1C2-E-TEST-0203-40.34/005	useful purpose
+1C2-E-TEST-0203-40.35	"Although we may be very conscious of municipal wastes, they actually represent only a small fraction of all solid wastes produced annually. Indeed, more than 95 percent of the 4.5 billion tons of solid waste generated in the United States each year come from agriculture, mining, and industry."
+1C2-E-TEST-0203-40.35/001	concious
+1C2-E-TEST-0203-40.35/002	municipal wastes
+1C2-E-TEST-0203-40.35/003	small fraction	DEP=1C2-E-TEST-0203-40.35004
+1C2-E-TEST-0203-40.35/004	solid wastes produced annually
+1C2-E-TEST-0203-40.35/005	95 percent	DEP=1C2-E-TEST-0203-40.35006
+1C2-E-TEST-0203-40.35/006	4.5 billion tons	DEP=1C2-E-TEST-0203-40.35007
+1C2-E-TEST-0203-40.35/007	solid waste
+1C2-E-TEST-0203-40.35/008	united states
+1C2-E-TEST-0203-40.35/009	agriculture	DEP=1C2-E-TEST-0203-40.35005
+1C2-E-TEST-0203-40.35/010	mining	DEP=1C2-E-TEST-0203-40.35005
+1C2-E-TEST-0203-40.35/011	industry	DEP=1C2-E-TEST-0203-40.35005
+1C2-E-TEST-0203-40.4	"The term most commonly applies to the disposition of solid wastes, which is often described as solid waste management."
+1C2-E-TEST-0203-40.4/001	term applies	DEP=1C2-E-TEST-0203-40.4002
+1C2-E-TEST-0203-40.4/002	disposition solid waste
+1C2-E-TEST-0203-40.4/003	solid waste management
+1C2-E-TEST-0203-40.6	"But recycling and composting, which transform waste into useful products, also are forms of waste management."
+1C2-E-TEST-0203-40.6/001	recycling composting
+1C2-E-TEST-0203-40.6/002	waste
+1C2-E-TEST-0203-40.6/003	useful products
+1C2-E-TEST-0203-40.6/004	forms	DEP=1C2-E-TEST-0203-40.6005
+1C2-E-TEST-0203-40.6/005	waste management
+1C2-E-TEST-0203-40.69	"Throughout history, four basic methods for managing wastes have been used: dumping; incineration (burning); recycling; and waste prevention."
+1C2-E-TEST-0203-40.69/001	four basic methods
+1C2-E-TEST-0203-40.69/002	managing wastes	DEP=1C2-E-TEST-0203-40.69001
+1C2-E-TEST-0203-40.69/003	dumping	DEP=1C2-E-TEST-0203-40.69002
+1C2-E-TEST-0203-40.69/004	incineration burning	DEP=1C2-E-TEST-0203-40.69002
+1C2-E-TEST-0203-40.69/005	recycling	DEP=1C2-E-TEST-0203-40.69002
+1C2-E-TEST-0203-40.69/006	waste prevention	DEP=1C2-E-TEST-0203-40.69002
+1C2-E-TEST-0203-40.71	"Municipal solid waste is much different than industrial, agricultural, or mining waste."
+1C2-E-TEST-0203-40.71/001	municipal solid waste
+1C2-E-TEST-0203-40.71/002	industrial	DEP=1C2-E-TEST-0203-40.71005
+1C2-E-TEST-0203-40.71/003	mining	DEP=1C2-E-TEST-0203-40.71005
+1C2-E-TEST-0203-40.71/004	agricultural	DEP=1C2-E-TEST-0203-40.71005
+1C2-E-TEST-0203-40.71/005	waste
+1C2-E-TEST-0203-40.76	"But as permanent communities developed, people began to place their waste in designated dumping areas."
+1C2-E-TEST-0203-40.76/001	permanent communities developed
+1C2-E-TEST-0203-40.76/002	place waste
+1C2-E-TEST-0203-40.76/003	designated dumping areas	DEP=1C2-E-TEST-0203-40.76002
+1C2-E-TEST-0203-48.300	"The city claimed the recycling service fee would be $10 million a year the first year, $30 million a year by the time the program covered the whole city."
+1C2-E-TEST-0203-48.300/001	city claimed
+1C2-E-TEST-0203-48.300/002	recycling service fee
+1C2-E-TEST-0203-48.300/003	10 million	DEP=1C2-E-TEST-0203-48.300002
+1C2-E-TEST-0203-48.300/004	first year	DEP=1C2-E-TEST-0203-48.300003
+1C2-E-TEST-0203-48.300/005	30 million	DEP=1C2-E-TEST-0203-48.300002
+1C2-E-TEST-0203-48.300/006	program covered city	DEP=1C2-E-TEST-0203-48.300005
+1C2-E-TEST-0203-48.35	Illinois now requires its counties and the city of Chicago to develop plans to reduce waste and to recycle at least 25 percent of municipal solid waste by 1996.
+1C2-E-TEST-0203-48.35/001	illinois
+1C2-E-TEST-0203-48.35/002	counties city
+1C2-E-TEST-0203-48.35/003	chicago
+1C2-E-TEST-0203-48.35/004	develop plan	DEP=1C2-E-TEST-0203-48.35006
+1C2-E-TEST-0203-48.35/005	reduce waste
+1C2-E-TEST-0203-48.35/006	recycle	DEP=1C2-E-TEST-0203-48.35007
+1C2-E-TEST-0203-48.35/007	25 percent	DEP=1C2-E-TEST-0203-48.35008
+1C2-E-TEST-0203-48.35/008	municipal solid waste
+1C2-E-TEST-0203-48.35/009	1996
+1C2-E-TEST-0203-55.10	"While Pyrolysis is not new, itÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢s use to process Municipal Solid Waste (MSW) is a recent development."
+1C2-E-TEST-0203-55.10/001	pyrolysis
+1C2-E-TEST-0203-55.10/002	not new
+1C2-E-TEST-0203-55.10/003	use process	DEP=1C2-E-TEST-0203-55.10001
+1C2-E-TEST-0203-55.10/004	municipal solid waste
+1C2-E-TEST-0203-55.10/005	msw	DEP=1C2-E-TEST-0203-55.10004
+1C2-E-TEST-0203-55.10/006	recent development	DEP=1C2-E-TEST-0203-55.10003
+1C2-E-TEST-0203-55.13	"Municipal Solid Waste (MSW) however, is about as ÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ…Ã‚Â“heterogeneousÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ‚Ã‚Âù (made up of different substances) as it gets."
+1C2-E-TEST-0203-55.13/001	municipal solid waste
+1C2-E-TEST-0203-55.13/002	msw	DEP=1C2-E-TEST-0203-55.13001
+1C2-E-TEST-0203-55.13/003	different substances	DEP=1C2-E-TEST-0203-55.13004
+1C2-E-TEST-0203-55.13/004	heterogenous	DEP=1C2-E-TEST-0203-55.13001
+1C2-E-TEST-0203-55.14	This is one of the things that makes Bill ComptonÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢s process for Municipal Solid Waste Pyrolysis different.
+1C2-E-TEST-0203-55.14/001	bill compton
+1C2-E-TEST-0203-55.14/002	process	DEP=1C2-E-TEST-0203-55.14001
+1C2-E-TEST-0203-55.14/003	municipal solid waste pyrolysis	DEP=1C2-E-TEST-0203-55.14002
+1C2-E-TEST-0203-55.14/004	different	DEP=1C2-E-TEST-0203-55.14001
+1C2-E-TEST-0203-55.4	"For years the answer in one form or another has been to burn it (incineration) or bury it (landfills), but is there a better way?"
+1C2-E-TEST-0203-55.4/001	answer
+1C2-E-TEST-0203-55.4/002	burn incineration	DEP=1C2-E-TEST-0203-55.4001
+1C2-E-TEST-0203-55.4/003	bury landfill	DEP=1C2-E-TEST-0203-55.4001
+1C2-E-TEST-0203-57.108	"Cities and counties cannot afford the cost of building waste-to-energy plants, which typically cost $650 million per plant."
+1C2-E-TEST-0203-57.108/001	cities counties
+1C2-E-TEST-0203-57.108/002	cannot afford	DEP=1C2-E-TEST-0203-57.108001
+1C2-E-TEST-0203-57.108/003	cost building	DEP=1C2-E-TEST-0203-57.108002
+1C2-E-TEST-0203-57.108/004	waste-to-energy plants	DEP=1C2-E-TEST-0203-57.108005
+1C2-E-TEST-0203-57.108/005	typically cost	DEP=1C2-E-TEST-0203-57.108006
+1C2-E-TEST-0203-57.108/006	650 million
+1C2-E-TEST-0203-57.108/007	plant	DEP=1C2-E-TEST-0203-57.108006
+1C2-E-TEST-0203-57.21	"It may be a good time to develop the technology to make smaller, cost-effective waste plants. If we all had to manage our own garbage, maybe weÃƒÂ¢Ã‚Â€Ã‚Â™d figure out a way to make less of it."
+1C2-E-TEST-0203-57.21/001	good time
+1C2-E-TEST-0203-57.21/002	develop technology
+1C2-E-TEST-0203-57.21/003	smaller cost-effective
+1C2-E-TEST-0203-57.21/004	waste plants	DEP=1C2-E-TEST-0203-57.21003
+1C2-E-TEST-0203-57.21/005	manage own garbage
+1C2-E-TEST-0203-57.21/006	make less	DEP=1C2-E-TEST-0203-57.21005
+1C2-E-TEST-0203-57.35	"Conversely, recycling recovers three to five times more energy than incineration produces."
+1C2-E-TEST-0203-57.35/001	recycling recovers
+1C2-E-TEST-0203-57.35/002	three five times energy	DEP=1C2-E-TEST-0203-57.35001
+1C2-E-TEST-0203-57.35/003	incineration produces
+1C2-E-TEST-0203-57.42	"More than 90 percent of municipal waste can be recycled, re-used or composted, to create thousands of good, long-term jobs."
+1C2-E-TEST-0203-57.42/001	90 percent
+1C2-E-TEST-0203-57.42/002	municipal waste
+1C2-E-TEST-0203-57.42/003	recycled	DEP=1C2-E-TEST-0203-57.42002
+1C2-E-TEST-0203-57.42/004	re-used	DEP=1C2-E-TEST-0203-57.42002
+1C2-E-TEST-0203-57.42/005	composted	DEP=1C2-E-TEST-0203-57.42002
+1C2-E-TEST-0203-57.42/006	create	DEP=1C2-E-TEST-0203-57.42007
+1C2-E-TEST-0203-57.42/007	thousands good long-term jobs
+1C2-E-TEST-0203-57.54	"Siting waste-to-energy facilities is really the issue in the U.S., particularly in congested areas like the Northeast.."
+1C2-E-TEST-0203-57.70	"Waste-to-energy competes with recycling and composting programs for many of the same materials, such as paper, plastic, textiles and organic wastes. Over 85 percent of New YorkÃƒÂ¢Ã‚Â€Ã‚Â™s municipal solid waste (MSW) is recyclable. Recycling saves three to five times the amount of energy that incineration generates."
+1C2-E-TEST-0203-57.70/001	waste-to-energy
+1C2-E-TEST-0203-57.70/002	competes
+1C2-E-TEST-0203-57.70/003	recycling composting programs	DEP=1C2-E-TEST-0203-57.70002
+1C2-E-TEST-0203-57.70/004	same materials
+1C2-E-TEST-0203-57.70/005	paper plastic textiles organic wastes	DEP=1C2-E-TEST-0203-57.70004
+1C2-E-TEST-0203-57.70/006	85 percent	DEP=1C2-E-TEST-0203-57.70007
+1C2-E-TEST-0203-57.70/007	new york	DEP=1C2-E-TEST-0203-57.70008
+1C2-E-TEST-0203-57.70/008	municipal solid waste
+1C2-E-TEST-0203-57.70/009	msw	DEP=1C2-E-TEST-0203-57.70009
+1C2-E-TEST-0203-57.70/010	recyclable	DEP=1C2-E-TEST-0203-57.70008
+1C2-E-TEST-0203-57.70/011	recycling saves	DEP=1C2-E-TEST-0203-57.70012
+1C2-E-TEST-0203-57.70/012	three five times energy	DEP=1C2-E-TEST-0203-57.70013
+1C2-E-TEST-0203-57.70/013	incineration generates
+1C2-E-TEST-0203-57.9	"When you add the cost of transportation to landfilling, waste-to-energy incineration is competitive, but no one wants a plant in their backyard."
+1C2-E-TEST-0203-57.9/001	add cost transportation
+1C2-E-TEST-0203-57.9/002	landfilling	DEP=1C2-E-TEST-0203-57.9001
+1C2-E-TEST-0203-57.9/003	waste-to-energy incineration	DEP=1C2-E-TEST-0203-57.9004
+1C2-E-TEST-0203-57.9/004	competitive
+1C2-E-TEST-0203-57.9/005	plant backyard
+1C2-E-TEST-0203-59.25	"However, the Carthage plant currently does not have enough waste material to keep itself running 24/7 and meet its consumersÃƒÂ‚Ã‚Â’ demand for products, Adams says."
+1C2-E-TEST-0203-59.25/001	carthage plant
+1C2-E-TEST-0203-59.25/002	currently not enough waste material	DEP=1C2-E-TEST-0203-59.25001
+1C2-E-TEST-0203-59.25/003	running 24/7	DEP=1C2-E-TEST-0203-59.25002
+1C2-E-TEST-0203-59.25/004	meet consumer demand	DEP=1C2-E-TEST-0203-59.25005
+1C2-E-TEST-0203-59.25/005	products
+1C2-E-TEST-0203-59.25/006	adam

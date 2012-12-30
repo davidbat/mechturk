@@ -1,0 +1,295 @@
+1C2-E-TEST-0078-1.13	"After initially playing backup to Antonio Daniels , [9] Parker was made a starter and made 77 regular season appearances in his rookie season, averaging 9.2 points , 4.3 assists and 2.6 rebounds in 29.4 minutes per game."
+1C2-E-TEST-0078-1.13/001	initially playing
+1C2-E-TEST-0078-1.13/002	backup
+1C2-E-TEST-0078-1.13/003	antonio daniels
+1C2-E-TEST-0078-1.13/004	made starter
+1C2-E-TEST-0078-1.13/005	77 regular season appearances	DEP=1C2-E-TEST-0078-1.13006
+1C2-E-TEST-0078-1.13/006	rookie season
+1C2-E-TEST-0078-1.13/007	averaging 9.2 points	DEP=1C2-E-TEST-0078-1.13011
+1C2-E-TEST-0078-1.13/008	4.3 assists	DEP=1C2-E-TEST-0078-1.13011
+1C2-E-TEST-0078-1.13/009	2.6 rebounds	DEP=1C2-E-TEST-0078-1.13011
+1C2-E-TEST-0078-1.13/010	29.4 minutes	DEP=1C2-E-TEST-0078-1.13011
+1C2-E-TEST-0078-1.13/011	per game
+1C2-E-TEST-0078-1.14	"[3] When he played against the Los Angeles Clippers on 30 November 2001, he became the third French player ever to play in an NBA game, after Tariq Abdul-Wahad and Jerome Moiso ."
+1C2-E-TEST-0078-1.14/001	los angeles clippers
+1C2-E-TEST-0078-1.14/002	30 november 2001	DEP=1C2-E-TEST-0078-1.14001
+1C2-E-TEST-0078-1.14/003	third french player	DEP=1C2-E-TEST-0078-1.14008
+1C2-E-TEST-0078-1.14/004	play	DEP=1C2-E-TEST-0078-1.14005
+1C2-E-TEST-0078-1.14/005	nba game
+1C2-E-TEST-0078-1.14/006	tariq abdul-wahad	DEP=1C2-E-TEST-0078-1.14008
+1C2-E-TEST-0078-1.14/007	jerome moiso	DEP=1C2-E-TEST-0078-1.14008
+1C2-E-TEST-0078-1.14/008	after	DEP=1C2-E-TEST-0078-1.14004
+1C2-E-TEST-0078-1.20	"In 2002-03, Parker played in all 82 regular season games as San Antonio's starting point guard [14] on a team that was largely revamped from previous years."
+1C2-E-TEST-0078-1.20/001	2002-03
+1C2-E-TEST-0078-1.20/002	played	DEP=1C2-E-TEST-0078-1.20003
+1C2-E-TEST-0078-1.20/003	82 regular season games	DEP=1C2-E-TEST-0078-1.20004
+1C2-E-TEST-0078-1.20/004	san antonio starting point guard
+1C2-E-TEST-0078-1.20/005	team largely revamped	DEP=1C2-E-TEST-0078-1.20006
+1C2-E-TEST-0078-1.20/006	previous years
+1C2-E-TEST-0078-1.36	"[14] He was also ranked 13th in the league in total assists, and was third among point guards in field goal percentage ."
+1C2-E-TEST-0078-1.36/001	ranked 13th	DEP=1C2-E-TEST-0078-1.36002
+1C2-E-TEST-0078-1.36/002	league	DEP=1C2-E-TEST-0078-1.36003
+1C2-E-TEST-0078-1.36/003	total assists
+1C2-E-TEST-0078-1.36/004	third	DEP=1C2-E-TEST-0078-1.36005
+1C2-E-TEST-0078-1.36/005	point guards	DEP=1C2-E-TEST-0078-1.36006
+1C2-E-TEST-0078-1.36/006	field goal percentage
+1C2-E-TEST-0078-1.53	"On 14 February 2007, after delivering consistent numbers in the first half of the 2006ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ07 season , Parker was selected to play in the 2007 NBA All-Star Game as a reserve guard."
+1C2-E-TEST-0078-1.53/001	14 february 2007	DEP=1C2-E-TEST-0078-1.53002
+1C2-E-TEST-0078-1.53/002	delivering consistent numbers	DEP=1C2-E-TEST-0078-1.53003
+1C2-E-TEST-0078-1.53/003	first half 2006 season
+1C2-E-TEST-0078-1.53/004	selected play	DEP=1C2-E-TEST-0078-1.53005
+1C2-E-TEST-0078-1.53/005	2007 nba all-star game	DEP=1C2-E-TEST-0078-1.53006
+1C2-E-TEST-0078-1.53/006	reserve guard
+1C2-E-TEST-0078-1.59	[22] Parker and the Spurs went on to face the Cleveland Cavaliers and swept them 4ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ0 to win the 2007 NBA Finals .
+1C2-E-TEST-0078-1.59/001	spurs
+1C2-E-TEST-0078-1.59/002	face	DEP=1C2-E-TEST-0078-1.59003
+1C2-E-TEST-0078-1.59/003	cleveland cavaliers
+1C2-E-TEST-0078-1.59/004	swept	DEP=1C2-E-TEST-0078-1.59005
+1C2-E-TEST-0078-1.59/005	4-0
+1C2-E-TEST-0078-1.59/006	win 2007 nba finals
+1C2-E-TEST-0078-1.68	"In the 2007ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ08 regular season, Parker recorded similar averages as the previous two seasons for points and rebounds, and set a career-high for assists per game."
+1C2-E-TEST-0078-1.68/001	2007 regular season	DEP=1C2-E-TEST-0078-1.68002
+1C2-E-TEST-0078-1.68/002	recorded	DEP=1C2-E-TEST-0078-1.68003
+1C2-E-TEST-0078-1.68/003	similar averages	DEP=1C2-E-TEST-0078-1.68004
+1C2-E-TEST-0078-1.68/004	previous two season
+1C2-E-TEST-0078-1.68/005	points rebounds	DEP=1C2-E-TEST-0078-1.68004
+1C2-E-TEST-0078-1.68/006	set	DEP=1C2-E-TEST-0078-1.68007
+1C2-E-TEST-0078-1.68/007	career-high assists per game
+1C2-E-TEST-0078-1.80	"Assisting the team to a 54ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ28 record and the third seed for the playoffs , [30] Parker also registered career-highs in points and assists per game."
+1C2-E-TEST-0078-1.80/001	assisting team	DEP=1C2-E-TEST-0078-1.80002
+1C2-E-TEST-0078-1.80/002	record
+1C2-E-TEST-0078-1.80/003	third seed playoffs
+1C2-E-TEST-0078-1.80/004	registered career-highs
+1C2-E-TEST-0078-1.80/005	points	DEP=1C2-E-TEST-0078-1.80004
+1C2-E-TEST-0078-1.80/006	assists per game	DEP=1C2-E-TEST-0078-1.80004
+1C2-E-TEST-0078-128.10	"Employing his pace and high field goal percentage to great effect, Parker has been named to four NBA All-Star games, an All-NBA Second Team, and an All-NBA Third Team."
+1C2-E-TEST-0078-128.10/001	employing	DEP=1C2-E-TEST-0078-128.10004
+1C2-E-TEST-0078-128.10/002	pace	DEP=1C2-E-TEST-0078-128.10001
+1C2-E-TEST-0078-128.10/003	high field goal percentage	DEP=1C2-E-TEST-0078-128.10001
+1C2-E-TEST-0078-128.10/004	great effect
+1C2-E-TEST-0078-128.10/005	named
+1C2-E-TEST-0078-128.10/006	four nba all-star games	DEP=1C2-E-TEST-0078-128.10005
+1C2-E-TEST-0078-128.10/007	all-nba second team	DEP=1C2-E-TEST-0078-128.10005
+1C2-E-TEST-0078-128.10/008	all-nba third team	DEP=1C2-E-TEST-0078-128.10005
+1C2-E-TEST-0078-128.7	"William Anthony ""Tony"" Parker Jr. (born 17 May 1982) is a French professional basketball player who plays for the San Antonio Spurs of the National Basketball Association (NBA) in the United States."
+1C2-E-TEST-0078-128.7/001	william anthony jr.
+1C2-E-TEST-0078-128.7/002	born	DEP=1C2-E-TEST-0078-128.7001
+1C2-E-TEST-0078-128.7/003	17 may 1982	DEP=1C2-E-TEST-0078-128.7002
+1C2-E-TEST-0078-128.7/004	french professional basketball player	DEP=1C2-E-TEST-0078-128.7001
+1C2-E-TEST-0078-128.7/005	plays	DEP=1C2-E-TEST-0078-128.7006
+1C2-E-TEST-0078-128.7/006	san antonio spurs
+1C2-E-TEST-0078-128.7/007	national basketball association nba	DEP=1C2-E-TEST-0078-128.7008
+1C2-E-TEST-0078-128.7/008	united states
+1C2-E-TEST-0078-144.6	"He quickly became their starting point guard, helping the Spurs win three NBA Championships."
+1C2-E-TEST-0078-144.6/001	quickly
+1C2-E-TEST-0078-144.6/002	starting point guard
+1C2-E-TEST-0078-144.6/003	helping spurs win	DEP=1C2-E-TEST-0078-144.6004
+1C2-E-TEST-0078-144.6/004	three nba championships
+1C2-E-TEST-0078-144.7	Parker has been selected as an NBA All-Star twice and was the 2007 NBA ...
+1C2-E-TEST-0078-144.7/001	selected	DEP=1C2-E-TEST-0078-144.7002
+1C2-E-TEST-0078-144.7/002	nba all-star	DEP=1C2-E-TEST-0078-144.7003
+1C2-E-TEST-0078-144.7/003	twice
+1C2-E-TEST-0078-28.10	"French professional basketball player with NBA's San Antonio Spurs, Tony Parker helped the Spurs win three NBA Championships in 2003, 2005 and 2007."
+1C2-E-TEST-0078-28.10/001	french professional basketball player
+1C2-E-TEST-0078-28.10/002	nba
+1C2-E-TEST-0078-28.10/003	san antonio spurs	DEP=1C2-E-TEST-0078-28.10002
+1C2-E-TEST-0078-28.10/004	helped spurs win	DEP=1C2-E-TEST-0078-28.10005
+1C2-E-TEST-0078-28.10/005	three nba championships
+1C2-E-TEST-0078-28.10/006	2003 2005 2007	DEP=1C2-E-TEST-0078-28.10005
+1C2-E-TEST-0078-28.11	"The 6' 1"" starting point guard was selected as an NBA All-Star twice (2006; 2007) and was the 2007 NBA Finals MVP."
+1C2-E-TEST-0078-28.11/001	6 1
+1C2-E-TEST-0078-28.11/002	starting point guard
+1C2-E-TEST-0078-28.11/003	selected	DEP=1C2-E-TEST-0078-28.11004
+1C2-E-TEST-0078-28.11/004	nba all-star	DEP=1C2-E-TEST-0078-28.11005
+1C2-E-TEST-0078-28.11/005	twice	DEP=1C2-E-TEST-0078-28.11006
+1C2-E-TEST-0078-28.11/006	2006 2007
+1C2-E-TEST-0078-28.11/007	2007 nba finals mvp
+1C2-E-TEST-0078-28.14	He is also branching out into music and plans to release a French hip-hop album.
+1C2-E-TEST-0078-28.14/001	branching out	DEP=1C2-E-TEST-0078-28.14002
+1C2-E-TEST-0078-28.14/002	music
+1C2-E-TEST-0078-28.14/003	release	DEP=1C2-E-TEST-0078-28.14004
+1C2-E-TEST-0078-28.14/004	french hip-hop album	DEP=1C2-E-TEST-0078-28.14001
+1C2-E-TEST-0078-28.15	"One of ÃÂ¢Ã¢ÂÂ¬ÃÂPeople Magazine'sÃÂ¢Ã¢ÂÂ¬ÃÂ ÃÂ¢Ã¢ÂÂ¬ÃÂ50 Most Beautiful People,ÃÂ¢Ã¢ÂÂ¬ÃÂ Parker has been married to ÃÂ¢Ã¢ÂÂ¬ÃÂDesperate HousewivesÃÂ¢Ã¢ÂÂ¬ÃÂ star Eva Longoria since July 2007."
+1C2-E-TEST-0078-28.15/001	people magazine	DEP=1C2-E-TEST-0078-28.15002
+1C2-E-TEST-0078-28.15/002	50 most beautiful people
+1C2-E-TEST-0078-28.15/003	married	DEP=1C2-E-TEST-0078-28.15005
+1C2-E-TEST-0078-28.15/004	desperate housewives star	DEP=1C2-E-TEST-0078-28.15005
+1C2-E-TEST-0078-28.15/005	eva longoria	DEP=1C2-E-TEST-0078-28.15002
+1C2-E-TEST-0078-28.15/006	july 2007	DEP=1C2-E-TEST-0078-28.15003
+1C2-E-TEST-0078-28.18	"Born William Anthony Parker on May 17, 1982 in Brugge, Belgium, Tony Parker was raised in France."
+1C2-E-TEST-0078-28.18/001	born
+1C2-E-TEST-0078-28.18/002	william anthony	DEP=1C2-E-TEST-0078-28.18001
+1C2-E-TEST-0078-28.18/003	may 17 1982	DEP=1C2-E-TEST-0078-28.18001
+1C2-E-TEST-0078-28.18/004	brugge belgium	DEP=1C2-E-TEST-0078-28.18001
+1C2-E-TEST-0078-28.18/005	raised	DEP=1C2-E-TEST-0078-28.18006
+1C2-E-TEST-0078-28.18/006	france
+1C2-E-TEST-0078-28.35	"He began building his skills and decided to play the point guard position after considering his relatively small size for a basketball player (6'2"") and speed."
+1C2-E-TEST-0078-28.35/001	building skills
+1C2-E-TEST-0078-28.35/002	decided play	DEP=1C2-E-TEST-0078-28.35003
+1C2-E-TEST-0078-28.35/003	point guard position
+1C2-E-TEST-0078-28.35/004	considering
+1C2-E-TEST-0078-28.35/005	relatively small size	DEP=1C2-E-TEST-0078-28.35004
+1C2-E-TEST-0078-28.35/006	basket ball player	DEP=1C2-E-TEST-0078-28.35005
+1C2-E-TEST-0078-28.35/007	6 2	DEP=1C2-E-TEST-0078-28.35006
+1C2-E-TEST-0078-28.35/008	speed	DEP=1C2-E-TEST-0078-28.35004
+1C2-E-TEST-0078-28.42	"In 2001, Parker was drafted by NBA's San Antonio Spurs."
+1C2-E-TEST-0078-28.42/001	2001
+1C2-E-TEST-0078-28.42/002	drafted	DEP=1C2-E-TEST-0078-28.42001
+1C2-E-TEST-0078-28.42/003	nba san antonio spurs	DEP=1C2-E-TEST-0078-28.42002
+1C2-E-TEST-0078-28.45	"As a backup player to Antonio Daniels, Parker made 77 regular season appearances in his rookie season."
+1C2-E-TEST-0078-28.45/001	backup player
+1C2-E-TEST-0078-28.45/002	antonio daniels
+1C2-E-TEST-0078-28.45/003	made
+1C2-E-TEST-0078-28.45/004	rookie season	DEP=1C2-E-TEST-0078-28.45005
+1C2-E-TEST-0078-28.45/005	77 regular season appearances	DEP=1C2-E-TEST-0078-28.45003
+1C2-E-TEST-0078-28.47	He eventually led San Antonio in assists and steals by the end of the season and was named to the All-Rookie First Team for 2001ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ02.
+1C2-E-TEST-0078-28.47/001	eventually led	DEP=1C2-E-TEST-0078-28.47002
+1C2-E-TEST-0078-28.47/002	san antonio	DEP=1C2-E-TEST-0078-28.47003
+1C2-E-TEST-0078-28.47/003	assists steals	DEP=1C2-E-TEST-0078-28.47004
+1C2-E-TEST-0078-28.47/004	end season
+1C2-E-TEST-0078-28.47/005	named	DEP=1C2-E-TEST-0078-28.47006
+1C2-E-TEST-0078-28.47/006	all-rookie first team	DEP=1C2-E-TEST-0078-28.47007
+1C2-E-TEST-0078-28.47/007	2001
+1C2-E-TEST-0078-28.48	"Parker became San Antonio's starting point guard and playmaker in his sophomore season (2002-2003), where he won his first championship ring."
+1C2-E-TEST-0078-28.48/001	san antonio
+1C2-E-TEST-0078-28.48/002	starting point guard	DEP=1C2-E-TEST-0078-28.48001
+1C2-E-TEST-0078-28.48/003	playmaker	DEP=1C2-E-TEST-0078-28.48001
+1C2-E-TEST-0078-28.48/004	sophomore season	DEP=1C2-E-TEST-0078-28.48005
+1C2-E-TEST-0078-28.48/005	2002-2003
+1C2-E-TEST-0078-28.48/006	won 	DEP=1C2-E-TEST-0078-28.48007
+1C2-E-TEST-0078-28.48/007	first championship ring
+1C2-E-TEST-0078-28.49	"In the post season (2003), he went on to record two career bests in scoring and earned his first NBA championship ring when his team beat the New Jersey Nets 4ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ2 in the finals."
+1C2-E-TEST-0078-28.49/001	post season	DEP=1C2-E-TEST-0078-28.49002
+1C2-E-TEST-0078-28.49/002	2003
+1C2-E-TEST-0078-28.49/003	record two career bests	DEP=1C2-E-TEST-0078-28.49004
+1C2-E-TEST-0078-28.49/004	scoring
+1C2-E-TEST-0078-28.49/005	earned	DEP=1C2-E-TEST-0078-28.49006
+1C2-E-TEST-0078-28.49/006	first championship ring	DEP=1C2-E-TEST-0078-28.49007
+1C2-E-TEST-0078-28.49/007	team beat	DEP=1C2-E-TEST-0078-28.49008
+1C2-E-TEST-0078-28.49/008	new jersey nets
+1C2-E-TEST-0078-28.57	"Parker, who scored a series-high 24.5 points, accompanied by a high field goal percentage of 56.8% and of 57.1% from three point range, was named the 2007 NBA Finals MVP, becoming the first European-born player to receive the award."
+1C2-E-TEST-0078-28.57/001	scored	DEP=1C2-E-TEST-0078-28.57002
+1C2-E-TEST-0078-28.57/002	series-high 24.5 points	DEP=1C2-E-TEST-0078-28.57003
+1C2-E-TEST-0078-28.57/003	accompanied	DEP=1C2-E-TEST-0078-28.57004
+1C2-E-TEST-0078-28.57/004	high field goal percentage
+1C2-E-TEST-0078-28.57/005	56.80%	DEP=1C2-E-TEST-0078-28.57004
+1C2-E-TEST-0078-28.57/006	57.10%	DEP=1C2-E-TEST-0078-28.57004
+1C2-E-TEST-0078-28.57/007	three point range	DEP=1C2-E-TEST-0078-28.57004
+1C2-E-TEST-0078-28.57/008	named	DEP=1C2-E-TEST-0078-28.57009
+1C2-E-TEST-0078-28.57/009	2007 nba finals mvp	DEP=1C2-E-TEST-0078-28.57010
+1C2-E-TEST-0078-28.57/010	first european-born player	DEP=1C2-E-TEST-0078-28.57011
+1C2-E-TEST-0078-28.57/011	receive award
+1C2-E-TEST-0078-28.61	Parker set a career-high for assists per game in the 2007ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ08 regular seasons.
+1C2-E-TEST-0078-28.61/001	set career-high	DEP=1C2-E-TEST-0078-28.61002
+1C2-E-TEST-0078-28.61/002	assists per game	DEP=1C2-E-TEST-0078-28.61003
+1C2-E-TEST-0078-28.61/003	2007 regular season
+1C2-E-TEST-0078-28.62	"In the first round of the 2008 NBA Playoffs, the Spurs faced the Phoenix Suns, where Parker had an outstanding first round series, averaging nearly 30 points and 7 assists a game."
+1C2-E-TEST-0078-28.62/001	first round	DEP=1C2-E-TEST-0078-28.62002
+1C2-E-TEST-0078-28.62/002	2008 nba playoffs
+1C2-E-TEST-0078-28.62/003	spurs face pheonix suns	DEP=1C2-E-TEST-0078-28.62001
+1C2-E-TEST-0078-28.62/004	outstanding first round series
+1C2-E-TEST-0078-28.62/005	averaging
+1C2-E-TEST-0078-28.62/006	30 points	DEP=1C2-E-TEST-0078-28.62005
+1C2-E-TEST-0078-28.62/007	7 assists	DEP=1C2-E-TEST-0078-28.62005
+1C2-E-TEST-0078-28.68	"In the next round, Parker and teammate Manu Ginobili both scored 31 points to lead the Spurs to a 110-99 victory over the New Orleans Hornets in Game 3 of the Western Conference semifinals."
+1C2-E-TEST-0078-28.68/001	next round
+1C2-E-TEST-0078-28.68/002	teammate	DEP=1C2-E-TEST-0078-28.68003
+1C2-E-TEST-0078-28.68/003	manu ginobili	DEP=1C2-E-TEST-0078-28.68004
+1C2-E-TEST-0078-28.68/004	scored 31 points
+1C2-E-TEST-0078-28.68/005	lead spurs	DEP=1C2-E-TEST-0078-28.68006
+1C2-E-TEST-0078-28.68/006	110-99 victory	DEP=1C2-E-TEST-0078-28.68007
+1C2-E-TEST-0078-28.68/007	new orleans hornets
+1C2-E-TEST-0078-28.68/008	game 3	DEP=1C2-E-TEST-0078-28.68009
+1C2-E-TEST-0078-28.68/009	western conference semifinals
+1C2-E-TEST-0078-63.16	"Parker's father, an American, also played basketball. His mother resides in Paris, though she is originally from Amsterdam."
+1C2-E-TEST-0078-63.16/001	father	DEP=1C2-E-TEST-0078-63.16002
+1C2-E-TEST-0078-63.16/002	american	DEP=1C2-E-TEST-0078-63.16003
+1C2-E-TEST-0078-63.16/003	played basketball
+1C2-E-TEST-0078-63.16/004	mother	DEP=1C2-E-TEST-0078-63.16005
+1C2-E-TEST-0078-63.16/005	resides	DEP=1C2-E-TEST-0078-63.16006
+1C2-E-TEST-0078-63.16/006	paris
+1C2-E-TEST-0078-63.16/007	originally	DEP=1C2-E-TEST-0078-63.16008
+1C2-E-TEST-0078-63.16/008	amsterdam	DEP=1C2-E-TEST-0078-63.16004
+1C2-E-TEST-0078-63.2	Tony Parker is an All-Star guard for the San Antonio Spurs in the National Basketball Association . He plays point guard in the NBA and his statistics reflect his speed and effective outside shooting.
+1C2-E-TEST-0078-63.2/001	all-star guard	DEP=1C2-E-TEST-0078-63.2002
+1C2-E-TEST-0078-63.2/002	san antonio spurs	DEP=1C2-E-TEST-0078-63.2003
+1C2-E-TEST-0078-63.2/003	national basketball association
+1C2-E-TEST-0078-63.2/004	plays	DEP=1C2-E-TEST-0078-63.2005
+1C2-E-TEST-0078-63.2/005	point guard	DEP=1C2-E-TEST-0078-63.2006
+1C2-E-TEST-0078-63.2/006	nba
+1C2-E-TEST-0078-63.2/007	statistics reflect
+1C2-E-TEST-0078-63.2/008	speed	DEP=1C2-E-TEST-0078-63.2007
+1C2-E-TEST-0078-63.2/009	effective outside shooting	DEP=1C2-E-TEST-0078-63.2007
+1C2-E-TEST-0078-63.21	Parker was selected in the 2001 NBA draft by the San Antonio Spurs with the 28th pick.
+1C2-E-TEST-0078-63.21/001	selected	DEP=1C2-E-TEST-0078-63.21002
+1C2-E-TEST-0078-63.21/002	2001 nba draft	DEP=1C2-E-TEST-0078-63.21003
+1C2-E-TEST-0078-63.21/003	san antonio spurs
+1C2-E-TEST-0078-63.21/004	28th pick
+1C2-E-TEST-0078-63.5	"On July 7, 2007, Parker married actress Eva Longoria."
+1C2-E-TEST-0078-63.5/001	july 7 2007	DEP=1C2-E-TEST-0078-63.5002
+1C2-E-TEST-0078-63.5/002	married	DEP=1C2-E-TEST-0078-63.5003
+1C2-E-TEST-0078-63.5/003	eva longoria
+1C2-E-TEST-0078-96.3	"Born in 1982, Anthony ""Tony"" Parker was in the French basketball league before entering the NBA Draft in 2001."
+1C2-E-TEST-0078-96.3/001	born	DEP=1C2-E-TEST-0078-96.3002
+1C2-E-TEST-0078-96.3/002	1982
+1C2-E-TEST-0078-96.3/003	french basketball league
+1C2-E-TEST-0078-96.3/004	entering
+1C2-E-TEST-0078-96.3/005	nba draft 2001
+1C2-E-TEST-0078-96.4	"Currently, Parker is a point guard on the San Antonio Spurs, helping the Spurs win three NBA Championships in 2003, 2005 and 2007."
+1C2-E-TEST-0078-96.4/001	currently	DEP=1C2-E-TEST-0078-96.4002
+1C2-E-TEST-0078-96.4/002	point guard	DEP=1C2-E-TEST-0078-96.4003
+1C2-E-TEST-0078-96.4/003	san antonio spurs
+1C2-E-TEST-0078-96.4/004	helping spurs	DEP=1C2-E-TEST-0078-96.4005
+1C2-E-TEST-0078-96.4/005	win	DEP=1C2-E-TEST-0078-96.4006
+1C2-E-TEST-0078-96.4/006	three nba championships	DEP=1C2-E-TEST-0078-96.4007
+1C2-E-TEST-0078-96.4/007	2003 2005 2007
+1C2-E-TEST-0078-98.14	"His two younger brothers, T.J. and Pierre, would go on to play basketball at professional and college levels, respectively."
+1C2-E-TEST-0078-98.14/001	two younger brothers
+1C2-E-TEST-0078-98.14/002	t.j.	DEP=1C2-E-TEST-0078-98.14002
+1C2-E-TEST-0078-98.14/003	pierre	DEP=1C2-E-TEST-0078-98.14003
+1C2-E-TEST-0078-98.14/004	play basketball	DEP=1C2-E-TEST-0078-98.14005
+1C2-E-TEST-0078-98.14/005	professional college levels
+1C2-E-TEST-0078-98.18	"After playing in the French minors for two seasons, Parker turned professional and signed with Paris Basket Racing in 1999."
+1C2-E-TEST-0078-98.18/001	playing	DEP=1C2-E-TEST-0078-98.18002
+1C2-E-TEST-0078-98.18/002	french minors two seasons
+1C2-E-TEST-0078-98.18/003	turned professional	DEP=1C2-E-TEST-0078-98.18004
+1C2-E-TEST-0078-98.18/004	signed	DEP=1C2-E-TEST-0078-98.18005
+1C2-E-TEST-0078-98.18/005	paris basket racing	DEP=1C2-E-TEST-0078-98.18006
+1C2-E-TEST-0078-98.18/006	1999
+1C2-E-TEST-0078-98.2	"William Anthony ""Tony"" Parker, II (born May 17, 1982(1982-05-17) (birth time source: birth certificate nÃÂÃÂ° 929, AndrÃÂÃÂ© Dekoster)) is a French National Basketball Association (NBA) player with the San Antonio Spurs and captain of France's national basketball team."
+1C2-E-TEST-0078-98.2/001	william anthony ii
+1C2-E-TEST-0078-98.2/002	born	DEP=1C2-E-TEST-0078-98.2003
+1C2-E-TEST-0078-98.2/003	may 17 1982
+1C2-E-TEST-0078-98.2/004	french	DEP=1C2-E-TEST-0078-98.2005
+1C2-E-TEST-0078-98.2/005	national basketball association	DEP=1C2-E-TEST-0078-98.2006
+1C2-E-TEST-0078-98.2/006	nba
+1C2-E-TEST-0078-98.2/007	played	DEP=1C2-E-TEST-0078-98.2008
+1C2-E-TEST-0078-98.2/008	san antonio spurs
+1C2-E-TEST-0078-98.2/009	captain	DEP=1C2-E-TEST-0078-98.2010
+1C2-E-TEST-0078-98.2/010	france	DEP=1C2-E-TEST-0078-98.2011
+1C2-E-TEST-0078-98.2/011	national basketball team
+1C2-E-TEST-0078-98.23	"His mother, a health-food coach, gives him tips on healthy eating, while he discusses his performance after each game with his father over the phone."
+1C2-E-TEST-0078-98.23/001	mother	DEP=1C2-E-TEST-0078-98.23002
+1C2-E-TEST-0078-98.23/002	health-food coach	DEP=1C2-E-TEST-0078-98.23003
+1C2-E-TEST-0078-98.23/003	tips	DEP=1C2-E-TEST-0078-98.23004
+1C2-E-TEST-0078-98.23/004	healthy eating
+1C2-E-TEST-0078-98.23/005	performance game	DEP=1C2-E-TEST-0078-98.23006
+1C2-E-TEST-0078-98.23/006	father	DEP=1C2-E-TEST-0078-98.23007
+1C2-E-TEST-0078-98.23/007	phone
+1C2-E-TEST-0078-98.3	"After playing for two years in the French basketball league, Parker entered the 2001 NBA Draft and was selected by the San Antonio Spurs."
+1C2-E-TEST-0078-98.3/001	playing	DEP=1C2-E-TEST-0078-98.3002
+1C2-E-TEST-0078-98.3/002	two years	DEP=1C2-E-TEST-0078-98.3003
+1C2-E-TEST-0078-98.3/003	french basketball league
+1C2-E-TEST-0078-98.3/004	entered	DEP=1C2-E-TEST-0078-98.3005
+1C2-E-TEST-0078-98.3/005	2001 nba draft	DEP=1C2-E-TEST-0078-98.3006
+1C2-E-TEST-0078-98.3/006	selected	DEP=1C2-E-TEST-0078-98.3007
+1C2-E-TEST-0078-98.3/007	san antonio spurs
+1C2-E-TEST-0078-98.35	Parker is an avid fan of hip-hop music and rap.
+1C2-E-TEST-0078-98.6	He married Desperate Housewives actress Eva Longoria on 6 July 2007 in a civil ceremony with a lavish religious ceremony to follow on 7 July 2007.
+1C2-E-TEST-0078-98.6/001	married	DEP=1C2-E-TEST-0078-98.6002
+1C2-E-TEST-0078-98.6/002	desperate housewives actress	DEP=1C2-E-TEST-0078-98.6003
+1C2-E-TEST-0078-98.6/003	eva longoria
+1C2-E-TEST-0078-98.6/004	6 july 2007
+1C2-E-TEST-0078-98.6/005	civil ceremony	DEP=1C2-E-TEST-0078-98.6004
+1C2-E-TEST-0078-98.6/006	lavish religion ceremony	DEP=1C2-E-TEST-0078-98.6007
+1C2-E-TEST-0078-98.6/007	7 july 2007

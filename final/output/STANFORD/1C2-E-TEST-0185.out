@@ -1,0 +1,311 @@
+1C2-E-TEST-0185-152.126	"Like every other cocktail on this list, the history behind the Bloody Mary is also a bit cloudy."
+1C2-E-TEST-0185-152.126/001	cocktail
+1C2-E-TEST-0185-152.126/002	list
+1C2-E-TEST-0185-152.126/003	history	DEP=1C2-E-TEST-0185-152.126004
+1C2-E-TEST-0185-152.126/004	cloudy
+1C2-E-TEST-0185-152.127	"One popular legend says that the original Bloody Mary, which was then made using equal parts tomato juice and vodka and used as a hangover cure, was invented by comedian, songwriter and movie producer George Jessel (aka the Ã¢ÂÂToastmaster General of the United StatesÃ¢ÂÂ)."
+1C2-E-TEST-0185-152.127/001	popular legend
+1C2-E-TEST-0185-152.127/002	original
+1C2-E-TEST-0185-152.127/003	equal parts
+1C2-E-TEST-0185-152.127/004	tomato juice	DEP=1C2-E-TEST-0185-152.127003
+1C2-E-TEST-0185-152.127/005	vodka	DEP=1C2-E-TEST-0185-152.127003
+1C2-E-TEST-0185-152.127/006	hangover cure
+1C2-E-TEST-0185-152.127/007	songwriter movie producer
+1C2-E-TEST-0185-152.127/008	george jessel
+1C2-E-TEST-0185-152.127/009	toastmaster general	DEP=1C2-E-TEST-0185-152.127010
+1C2-E-TEST-0185-152.127/010	united states
+1C2-E-TEST-0185-152.127/011	invented
+1C2-E-TEST-0185-152.127/012	comedian
+1C2-E-TEST-0185-152.128	"Jessel claimed he created the drink one morning in Palm Beach during the 1950s, when he mixed tomato juice and vodka as a way to recover from an entire night spent drinking."
+1C2-E-TEST-0185-152.128/001	jessel
+1C2-E-TEST-0185-152.128/002	claimed
+1C2-E-TEST-0185-152.128/003	created drink	DEP=1C2-E-TEST-0185-152.128004
+1C2-E-TEST-0185-152.128/004	morning palm beach	DEP=1C2-E-TEST-0185-152.128005
+1C2-E-TEST-0185-152.128/005	1950s
+1C2-E-TEST-0185-152.128/006	mixed
+1C2-E-TEST-0185-152.128/007	tomato juice	DEP=1C2-E-TEST-0185-152.128006
+1C2-E-TEST-0185-152.128/008	vodka	DEP=1C2-E-TEST-0185-152.128006
+1C2-E-TEST-0185-152.128/009	recover night drinking
+1C2-E-TEST-0185-152.129	"Jessel even appeared in Smirnoff vodka ads in the 1950s declaring, Ã¢ÂÂI, George Jessel invented the Bloody Mary.Ã¢ÂÂ"
+1C2-E-TEST-0185-152.129/001	jessel	DEP=1C2-E-TEST-0185-152.129002
+1C2-E-TEST-0185-152.129/002	appeared	DEP=1C2-E-TEST-0185-152.129003
+1C2-E-TEST-0185-152.129/003	smirnoff vodka ads	DEP=1C2-E-TEST-0185-152.129004
+1C2-E-TEST-0185-152.129/004	1950s
+1C2-E-TEST-0185-152.129/005	declaring	DEP=1C2-E-TEST-0185-152.129006
+1C2-E-TEST-0185-152.129/006	george jessel	DEP=1C2-E-TEST-0185-152.129007
+1C2-E-TEST-0185-152.129/007	invented
+1C2-E-TEST-0185-152.130	"However, as aptly put by Wall Street Journal columnist and cocktail historian Eric Felten, Ã¢ÂÂGiven JesselÃ¢ÂÂs knack for self-promotion, many doubted his claim,Ã¢ÂÂ which made skeptics to search for the true origin of the drink and opened the door for a legend involving the head bartender at the St. Regis Hotel in New York named Fernand Ã¢ÂÂPeterÃ¢ÂÂ Petriot."
+1C2-E-TEST-0185-152.130/001	wall street journal columnist	DEP=1C2-E-TEST-0185-152.130002
+1C2-E-TEST-0185-152.130/002	cocktail historian	DEP=1C2-E-TEST-0185-152.130003
+1C2-E-TEST-0185-152.130/003	eric felten
+1C2-E-TEST-0185-152.130/004	jessel	DEP=1C2-E-TEST-0185-152.130005
+1C2-E-TEST-0185-152.130/005	knack	DEP=1C2-E-TEST-0185-152.130006
+1C2-E-TEST-0185-152.130/006	self-promotion
+1C2-E-TEST-0185-152.130/007	doubted claim
+1C2-E-TEST-0185-152.130/008	skeptics	DEP=1C2-E-TEST-0185-152.130009
+1C2-E-TEST-0185-152.130/009	search origin	DEP=1C2-E-TEST-0185-152.130010
+1C2-E-TEST-0185-152.130/010	drink
+1C2-E-TEST-0185-152.130/011	legend	DEP=1C2-E-TEST-0185-152.130012
+1C2-E-TEST-0185-152.130/012	head bartender	DEP=1C2-E-TEST-0185-152.130013
+1C2-E-TEST-0185-152.130/013	st. regis hotel
+1C2-E-TEST-0185-152.130/014	new york	DEP=1C2-E-TEST-0185-152.130013
+1C2-E-TEST-0185-152.130/015	fernand peter petriot	DEP=1C2-E-TEST-0185-152.130012
+1C2-E-TEST-0185-152.50	"A classic cocktail dating back about 100 years, the Sidecar mixes equal parts brandy or Cognac, Cointreau and lemon juice."
+1C2-E-TEST-0185-152.50/001	classic cocktail	DEP=1C2-E-TEST-0185-152.50002
+1C2-E-TEST-0185-152.50/002	dating 100 years
+1C2-E-TEST-0185-152.50/003	sidecar	DEP=1C2-E-TEST-0185-152.50003
+1C2-E-TEST-0185-152.50/004	mixes	DEP=1C2-E-TEST-0185-152.50004
+1C2-E-TEST-0185-152.50/005	equal parts
+1C2-E-TEST-0185-152.50/006	branch cognac	DEP=1C2-E-TEST-0185-152.50005
+1C2-E-TEST-0185-152.50/007	cointreau	DEP=1C2-E-TEST-0185-152.50005
+1C2-E-TEST-0185-152.50/008	lemon juice	DEP=1C2-E-TEST-0185-152.50005
+1C2-E-TEST-0185-152.51	"The origin of the Sidecar is largely debated, but popular wisdom is that the drink was probably first created in Paris sometime during or just following WWI."
+1C2-E-TEST-0185-152.51/001	origin	DEP=1C2-E-TEST-0185-152.51002
+1C2-E-TEST-0185-152.51/002	sidecar	DEP=1C2-E-TEST-0185-152.51003
+1C2-E-TEST-0185-152.51/003	largely debated
+1C2-E-TEST-0185-152.51/004	popular wisdom
+1C2-E-TEST-0185-152.51/005	first created
+1C2-E-TEST-0185-152.51/006	paris
+1C2-E-TEST-0185-152.51/007	following	DEP=1C2-E-TEST-0185-152.51008
+1C2-E-TEST-0185-152.51/008	wwi
+1C2-E-TEST-0185-152.68	"The drink immediately became so popular that other major hotels began serving it in their bars also, quickly popularizing the cocktail with a international crowd."
+1C2-E-TEST-0185-152.68/001	drink	DEP=1C2-E-TEST-0185-152.68002
+1C2-E-TEST-0185-152.68/002	popular
+1C2-E-TEST-0185-152.68/003	major hotels	DEP=1C2-E-TEST-0185-152.68004
+1C2-E-TEST-0185-152.68/004	serving bars
+1C2-E-TEST-0185-152.68/005	quickly popularizing	DEP=1C2-E-TEST-0185-152.68006
+1C2-E-TEST-0185-152.68/006	cocktail	DEP=1C2-E-TEST-0185-152.68007
+1C2-E-TEST-0185-152.68/007	internation crowd
+1C2-E-TEST-0185-32.29	The history of the children's game Bloody Mary is a difficult one to extract from the large amount of mixed up legends and history that over the years has become the main basis for the story surrounding the game.
+1C2-E-TEST-0185-32.29/001	history	DEP=1C2-E-TEST-0185-32.29002
+1C2-E-TEST-0185-32.29/002	children game	DEP=1C2-E-TEST-0185-32.29003
+1C2-E-TEST-0185-32.29/003	difficult extract
+1C2-E-TEST-0185-32.29/004	large amount	DEP=1C2-E-TEST-0185-32.29005
+1C2-E-TEST-0185-32.29/005	mixed up legends history
+1C2-E-TEST-0185-32.29/006	main basis	DEP=1C2-E-TEST-0185-32.29007
+1C2-E-TEST-0185-32.29/007	story surrounding game
+1C2-E-TEST-0185-32.3	Bloody Mary is the children's game of summoning an evil and vengeful witch of the same name.
+1C2-E-TEST-0185-32.3/001	children game	DEP=1C2-E-TEST-0185-32.3002
+1C2-E-TEST-0185-32.3/002	summoning	DEP=1C2-E-TEST-0185-32.3003
+1C2-E-TEST-0185-32.3/003	evil vengeful witch
+1C2-E-TEST-0185-32.33	"The other story accompanying the ritual is a local woman was involved in a fatal car accident nearby, her face horribly mutilated."
+1C2-E-TEST-0185-32.33/001	story accompanying ritual	DEP=1C2-E-TEST-0185-32.33002
+1C2-E-TEST-0185-32.33/002	local woman	DEP=1C2-E-TEST-0185-32.33003
+1C2-E-TEST-0185-32.33/003	fatal car accident	DEP=1C2-E-TEST-0185-32.33004
+1C2-E-TEST-0185-32.33/004	face horribly mutilated
+1C2-E-TEST-0185-32.35	"It is largely believed that the origins of the names ""Mary Worth"" and ""Bloody Mary"" came from a slight mix up of characters from history."
+1C2-E-TEST-0185-32.35/001	origin names	DEP=1C2-E-TEST-0185-32.35002
+1C2-E-TEST-0185-32.35/002	worth
+1C2-E-TEST-0185-32.35/003	sligh mix up	DEP=1C2-E-TEST-0185-32.35003
+1C2-E-TEST-0185-32.35/004	characters	DEP=1C2-E-TEST-0185-32.35004
+1C2-E-TEST-0185-32.35/005	history
+1C2-E-TEST-0185-32.36	"There is a lot of speculation as to the names being taken from Mary I, Queen of England who reigned during the Tudor period."
+1C2-E-TEST-0185-32.36/001	speculation
+1C2-E-TEST-0185-32.36/002	names
+1C2-E-TEST-0185-32.36/003	queen england	DEP=1C2-E-TEST-0185-32.36004
+1C2-E-TEST-0185-32.36/004	reigned	DEP=1C2-E-TEST-0185-32.36005
+1C2-E-TEST-0185-32.36/005	tudor period
+1C2-E-TEST-0185-32.38	"Her nickname of ""Bloody Mary"" became attached to her when she violently executed and burnt"
+1C2-E-TEST-0185-32.38/001	nickname	DEP=1C2-E-TEST-0185-32.38002
+1C2-E-TEST-0185-32.38/002	attached	DEP=1C2-E-TEST-0185-32.38003
+1C2-E-TEST-0185-32.38/003	violently	DEP=1C2-E-TEST-0185-32.38004
+1C2-E-TEST-0185-32.38/004	executed burnt
+1C2-E-TEST-0185-32.4	"This is done by standing in a bathroom, with one candle lit and calling the name ""Bloody Mary"" into the mirror three times in a row."
+1C2-E-TEST-0185-32.4/001	standing	DEP=1C2-E-TEST-0185-32.4002
+1C2-E-TEST-0185-32.4/002	bathroom	DEP=1C2-E-TEST-0185-32.4003
+1C2-E-TEST-0185-32.4/003	candle lit
+1C2-E-TEST-0185-32.4/004	calling name	DEP=1C2-E-TEST-0185-32.4005
+1C2-E-TEST-0185-32.4/005	mirror	DEP=1C2-E-TEST-0185-32.4006
+1C2-E-TEST-0185-32.4/006	three times
+1C2-E-TEST-0185-32.40	"She also was unable to bear children and suffered two phantom pregnancies, this is where it is speculated that the Bloody Mary game involving chanting ""I stole your baby"" or ""I killed your baby"" became tangled up with the now known Bloody Mary game."
+1C2-E-TEST-0185-32.40/001	unable	DEP=1C2-E-TEST-0185-32.40003
+1C2-E-TEST-0185-32.40/002	bear children
+1C2-E-TEST-0185-32.40/003	suffered	DEP=1C2-E-TEST-0185-32.40004
+1C2-E-TEST-0185-32.40/004	two phantom pregnancies
+1C2-E-TEST-0185-32.40/005	speculated	DEP=1C2-E-TEST-0185-32.40006
+1C2-E-TEST-0185-32.40/006	game involving chating
+1C2-E-TEST-0185-32.40/007	stole baby	DEP=1C2-E-TEST-0185-32.40006
+1C2-E-TEST-0185-32.40/008	killed baby	DEP=1C2-E-TEST-0185-32.40006
+1C2-E-TEST-0185-32.40/009	tangled up	DEP=1C2-E-TEST-0185-32.40010
+1C2-E-TEST-0185-32.40/010	game
+1C2-E-TEST-0185-4.12	"The second answer is not correct, no offense to anyone but the first answer is correct, Mary did kill (not herself) but did send out her soldiers or something, she did send out people... to kill the protestants of England."
+1C2-E-TEST-0185-4.12/001	sent soilders	DEP=1C2-E-TEST-0185-4.12002
+1C2-E-TEST-0185-4.12/002	kill protestants	DEP=1C2-E-TEST-0185-4.12003
+1C2-E-TEST-0185-4.12/003	england
+1C2-E-TEST-0185-7.11	"In folklore and children's street culture, ""Bloody Mary"" is a game in which a ghost of the same name (or sometimes other names, such as ""Mary Worth"") is said to appear in a mirror when her name is stated three times, though there are many variations."
+1C2-E-TEST-0185-7.11/001	folklore	DEP=1C2-E-TEST-0185-7.11002
+1C2-E-TEST-0185-7.11/002	children street culture
+1C2-E-TEST-0185-7.11/003	game
+1C2-E-TEST-0185-7.11/004	ghost	DEP=1C2-E-TEST-0185-7.11005
+1C2-E-TEST-0185-7.11/005	appear mirror	DEP=1C2-E-TEST-0185-7.11006
+1C2-E-TEST-0185-7.11/006	name stated three times
+1C2-E-TEST-0185-7.12	"Other variations say that the querier must not look directly at her, but at her image in the mirror; she will then reveal the querent's future, particularly concerning marriage and children."
+1C2-E-TEST-0185-7.14	"On the other hand, various people have surmised that the lore about taunting Bloody Mary about her baby may relate her tenuously to folklore about Queen Mary I, known in history by the sobriquet ""Bloody Mary""."
+1C2-E-TEST-0185-7.14/001	people	DEP=1C2-E-TEST-0185-7.14002
+1C2-E-TEST-0185-7.14/002	surmised	DEP=1C2-E-TEST-0185-7.14003
+1C2-E-TEST-0185-7.14/003	lore	DEP=1C2-E-TEST-0185-7.14004
+1C2-E-TEST-0185-7.14/004	taunting baby
+1C2-E-TEST-0185-7.14/005	relate	DEP=1C2-E-TEST-0185-7.14006
+1C2-E-TEST-0185-7.14/006	queen
+1C2-E-TEST-0185-7.17	"As a result, some retelling of the tale make Bloody Mary the queen driven to madness by the loss of her children."
+1C2-E-TEST-0185-7.17/001	retelling tale
+1C2-E-TEST-0185-7.17/002	queen driven madness	DEP=1C2-E-TEST-0185-7.17003
+1C2-E-TEST-0185-7.17/003	loss children
+1C2-E-TEST-0185-7.2	"The epithet ""Bloody Mary"" is associated with a number of historical (particularly Queen Mary I of England) and fictional women, especially from folklore."
+1C2-E-TEST-0185-7.2/001	epithet	DEP=1C2-E-TEST-0185-7.2002
+1C2-E-TEST-0185-7.2/002	associated	DEP=1C2-E-TEST-0185-7.2003
+1C2-E-TEST-0185-7.2/003	number historical
+1C2-E-TEST-0185-7.2/004	especially queen england	DEP=1C2-E-TEST-0185-7.2001
+1C2-E-TEST-0185-7.2/005	fictional women	DEP=1C2-E-TEST-0185-7.2001
+1C2-E-TEST-0185-7.2/006	folklore
+1C2-E-TEST-0185-7.3	"It is believed that inspiration for the cocktail was the Hollywood star Mary Pickford who earlier had a similarly red cocktail consisting of rum, Grenadine and Maraschino named after her."
+1C2-E-TEST-0185-7.3/001	inspiration cocktail	DEP=1C2-E-TEST-0185-7.3002
+1C2-E-TEST-0185-7.3/002	hollywood star	DEP=1C2-E-TEST-0185-7.3003
+1C2-E-TEST-0185-7.3/003	mary pickford
+1C2-E-TEST-0185-7.3/004	red cocktail	DEP=1C2-E-TEST-0185-7.3005
+1C2-E-TEST-0185-7.3/005	consisting rum	DEP=1C2-E-TEST-0185-7.3006
+1C2-E-TEST-0185-7.3/006	grenadine maraschino
+1C2-E-TEST-0185-7.4	Other sources trace the name to a waitress named Mary who worked at a Chicago bar called the Bucket of Blood.
+1C2-E-TEST-0185-7.4/001	trace name	DEP=1C2-E-TEST-0185-7.4002
+1C2-E-TEST-0185-7.4/002	waitress	DEP=1C2-E-TEST-0185-7.4003
+1C2-E-TEST-0185-7.4/003	worked	DEP=1C2-E-TEST-0185-7.4004
+1C2-E-TEST-0185-7.4/004	chicago bar	DEP=1C2-E-TEST-0185-7.4005
+1C2-E-TEST-0185-7.4/005	bucket
+1C2-E-TEST-0185-7.5	"In 1934, the cocktail was called ""Red Snapper"" at the St. Regis Hotel, where Petriot was hired at the time."
+1C2-E-TEST-0185-7.5/001	1934	DEP=1C2-E-TEST-0185-7.5002
+1C2-E-TEST-0185-7.5/002	red snapper	DEP=1C2-E-TEST-0185-7.5003
+1C2-E-TEST-0185-7.5/003	st.regis hotel
+1C2-E-TEST-0185-7.5/004	petriot hired	DEP=1C2-E-TEST-0185-7.5003
+1C2-E-TEST-0185-7.6	"It was here that Tabasco sauce was added to the drink, and the name ""Bloody Mary"" eventually won popularity."
+1C2-E-TEST-0185-7.6/001	tobasco sause	DEP=1C2-E-TEST-0185-7.6002
+1C2-E-TEST-0185-7.6/002	added drink
+1C2-E-TEST-0185-7.6/003	name	DEP=1C2-E-TEST-0185-7.6004
+1C2-E-TEST-0185-7.6/004	won popularity
+1C2-E-TEST-0185-80.12	"It is the epicentre of uncertainty: the birthplace of a multitude of falsified or misrepresented stories - from the Da Vinci code to the death of Princess Diana, that Thierry Henry handball and, most importantly, the Bloody Mary."
+1C2-E-TEST-0185-80.12/001	epicenter uncertainty	DEP=1C2-E-TEST-0185-80.12002
+1C2-E-TEST-0185-80.12/002	birthplace multitude
+1C2-E-TEST-0185-80.12/003	falsified	DEP=1C2-E-TEST-0185-80.12005
+1C2-E-TEST-0185-80.12/004	misrepresented	DEP=1C2-E-TEST-0185-80.12005
+1C2-E-TEST-0185-80.12/005	stories
+1C2-E-TEST-0185-80.12/006	da vinci code	DEP=1C2-E-TEST-0185-80.12003
+1C2-E-TEST-0185-80.12/007	death princess diana	DEP=1C2-E-TEST-0185-80.12003
+1C2-E-TEST-0185-80.12/008	thierry henry handball	DEP=1C2-E-TEST-0185-80.12003
+1C2-E-TEST-0185-80.33	"Harry's had by this time become a frequent hangout for Ernest Hemingway, Sinclair Lewis, Rita Hayworth, Humphrey Bogart and many other famous international and American icons."
+1C2-E-TEST-0185-80.33/001	harry	DEP=1C2-E-TEST-0185-80.33002
+1C2-E-TEST-0185-80.33/002	frequent hangout
+1C2-E-TEST-0185-80.33/003	ernest hemingway	DEP=1C2-E-TEST-0185-80.33002
+1C2-E-TEST-0185-80.33/004	sinclair lewis	DEP=1C2-E-TEST-0185-80.33002
+1C2-E-TEST-0185-80.33/005	rita hayworth	DEP=1C2-E-TEST-0185-80.33002
+1C2-E-TEST-0185-80.33/006	humphrey bogart	DEP=1C2-E-TEST-0185-80.33002
+1C2-E-TEST-0185-80.33/007	famous	DEP=1C2-E-TEST-0185-80.33002
+1C2-E-TEST-0185-80.33/008	american	DEP=1C2-E-TEST-0185-80.33011
+1C2-E-TEST-0185-80.33/009	international	DEP=1C2-E-TEST-0185-80.33011
+1C2-E-TEST-0185-80.33/010	icons	DEP=1C2-E-TEST-0185-80.33007
+1C2-E-TEST-0185-80.36	The most popular story is that Petiot named it after Queen Mary Tudor of England.
+1C2-E-TEST-0185-80.36/001	popular story
+1C2-E-TEST-0185-80.36/002	petiot	DEP=1C2-E-TEST-0185-80.36003
+1C2-E-TEST-0185-80.36/003	named	DEP=1C2-E-TEST-0185-80.36004
+1C2-E-TEST-0185-80.36/004	queen tudor	DEP=1C2-E-TEST-0185-80.36005
+1C2-E-TEST-0185-80.36/005	england
+1C2-E-TEST-0185-80.37	"She had taken the throne after a short battle against her dying brother Edward VI's wishes and the machinations of John Dudley, the Duke of Northumberland."
+1C2-E-TEST-0185-80.37/001	taken throne	DEP=1C2-E-TEST-0185-80.37002
+1C2-E-TEST-0185-80.37/002	short battle
+1C2-E-TEST-0185-80.37/003	against	DEP=1C2-E-TEST-0185-80.37004
+1C2-E-TEST-0185-80.37/004	dying brother	DEP=1C2-E-TEST-0185-80.37005
+1C2-E-TEST-0185-80.37/005	edward vi	DEP=1C2-E-TEST-0185-80.37006
+1C2-E-TEST-0185-80.37/006	wishes
+1C2-E-TEST-0185-80.37/007	machinations	DEP=1C2-E-TEST-0185-80.37008
+1C2-E-TEST-0185-80.37/008	john dudley	DEP=1C2-E-TEST-0185-80.37009
+1C2-E-TEST-0185-80.37/009	duke nothumberland
+1C2-E-TEST-0185-80.38	Queen Mary was fanatical supporter of the Catholic religion and it's well documented how much she detested the exploits of her father's divorce and schism that saw the creation of The Church of England.
+1C2-E-TEST-0185-80.38/001	fanatical supporter	DEP=1C2-E-TEST-0185-80.38002
+1C2-E-TEST-0185-80.38/002	catholic religion
+1C2-E-TEST-0185-80.38/003	well documented	DEP=1C2-E-TEST-0185-80.38004
+1C2-E-TEST-0185-80.38/004	detested exploits
+1C2-E-TEST-0185-80.38/005	father divorce	DEP=1C2-E-TEST-0185-80.38004
+1C2-E-TEST-0185-80.38/006	schism	DEP=1C2-E-TEST-0185-80.38004
+1C2-E-TEST-0185-80.38/007	creation	DEP=1C2-E-TEST-0185-80.38006
+1C2-E-TEST-0185-80.38/008	church england	DEP=1C2-E-TEST-0185-80.38007
+1C2-E-TEST-0185-80.39	Mary's 'Bloody' moniker is related to some of her first acts as Queen: first came the execution of Dudley and then the reinstitution of the Heresy Acts in 1554.
+1C2-E-TEST-0185-80.39/001	moniker
+1C2-E-TEST-0185-80.39/002	related	DEP=1C2-E-TEST-0185-80.39003
+1C2-E-TEST-0185-80.39/003	first act	DEP=1C2-E-TEST-0185-80.39004
+1C2-E-TEST-0185-80.39/004	Queen
+1C2-E-TEST-0185-80.39/005	execution Dudley	DEP=1C2-E-TEST-0185-80.39003
+1C2-E-TEST-0185-80.39/006	reinstitution	DEP=1C2-E-TEST-0185-80.39003
+1C2-E-TEST-0185-80.39/007	heresy acts	DEP=1C2-E-TEST-0185-80.39006
+1C2-E-TEST-0185-80.39/008	1554	DEP=1C2-E-TEST-0185-80.39007
+1C2-E-TEST-0185-80.40	"Under the Acts many, many protestants were killed under the Marian Persecutions, the main method of execution being death by fire."
+1C2-E-TEST-0185-80.40/001	under acts	DEP=1C2-E-TEST-0185-80.40002
+1C2-E-TEST-0185-80.40/002	protestants killed
+1C2-E-TEST-0185-80.40/003	marian persecutions	DEP=1C2-E-TEST-0185-80.40002
+1C2-E-TEST-0185-80.40/004	method execution	DEP=1C2-E-TEST-0185-80.40005
+1C2-E-TEST-0185-80.40/005	death fire
+1C2-E-TEST-0185-80.41	"It's believed many of the 283 killed under the Heresy Act died this way and gave Mary the unofficial title Queen ""Bloody"" Mary."
+1C2-E-TEST-0185-80.41/001	283 killed	DEP=1C2-E-TEST-0185-80.41002
+1C2-E-TEST-0185-80.41/002	heresy act
+1C2-E-TEST-0185-80.41/003	unofficial title
+1C2-E-TEST-0185-80.41/004	queen
+1C2-E-TEST-0185-80.44	"It said the Bucket of Blood was ""a small, dark, sordid, dismal place and we couldn't stand it very long""."
+1C2-E-TEST-0185-80.44/001	bucket	DEP=1C2-E-TEST-0185-80.44002
+1C2-E-TEST-0185-80.44/002	small dark sordid dismal place	DEP=1C2-E-TEST-0185-80.44003
+1C2-E-TEST-0185-80.44/003	couldn't stand long
+1C2-E-TEST-0185-80.45	"It was owned by George B. Dulgate, whose wife was indicted for the death of Marie Benzing, resulting from a botched abortion."
+1C2-E-TEST-0185-80.45/001	owned	DEP=1C2-E-TEST-0185-80.45002
+1C2-E-TEST-0185-80.45/002	george b. dulgate
+1C2-E-TEST-0185-80.45/003	wife	DEP=1C2-E-TEST-0185-80.45003
+1C2-E-TEST-0185-80.45/004	indicted	DEP=1C2-E-TEST-0185-80.45004
+1C2-E-TEST-0185-80.45/005	death	DEP=1C2-E-TEST-0185-80.45008
+1C2-E-TEST-0185-80.45/006	marie benzing	DEP=1C2-E-TEST-0185-80.45005
+1C2-E-TEST-0185-80.45/007	botched abortion
+1C2-E-TEST-0185-80.45/008	resulting	DEP=1C2-E-TEST-0185-80.45007
+1C2-E-TEST-0185-80.47	"The actual name for Bucket of Blood is believed to stem from the way bar owners would throw the dirty, blood-stained water mopped from the floor after brawls and fatal stabbings into the street."
+1C2-E-TEST-0185-80.47/001	actual name	DEP=1C2-E-TEST-0185-80.47002
+1C2-E-TEST-0185-80.47/002	bucket	DEP=1C2-E-TEST-0185-80.47003
+1C2-E-TEST-0185-80.47/003	stem	DEP=1C2-E-TEST-0185-80.47004
+1C2-E-TEST-0185-80.47/004	way bar owners	DEP=1C2-E-TEST-0185-80.47005
+1C2-E-TEST-0185-80.47/005	throw	DEP=1C2-E-TEST-0185-80.47006
+1C2-E-TEST-0185-80.47/006	dirty blood-stained water
+1C2-E-TEST-0185-80.47/007	mopped floor	DEP=1C2-E-TEST-0185-80.47006
+1C2-E-TEST-0185-80.47/008	brawls	DEP=1C2-E-TEST-0185-80.47010
+1C2-E-TEST-0185-80.47/009	fatal stabbings	DEP=1C2-E-TEST-0185-80.47010
+1C2-E-TEST-0185-80.47/010	street
+1C2-E-TEST-0185-80.57	"As one story has it, it was Vincent Astor, who took ownership of the hotel in 1935, who objected to the Bloody Mary name and insisted it be changed due to its vulgarity."
+1C2-E-TEST-0185-80.57/001	vincent astor	DEP=1C2-E-TEST-0185-80.57002
+1C2-E-TEST-0185-80.57/002	took ownership	DEP=1C2-E-TEST-0185-80.57003
+1C2-E-TEST-0185-80.57/003	hotel	DEP=1C2-E-TEST-0185-80.57004
+1C2-E-TEST-0185-80.57/004	1935
+1C2-E-TEST-0185-80.57/005	objected name
+1C2-E-TEST-0185-80.57/006	insisted	DEP=1C2-E-TEST-0185-80.57007
+1C2-E-TEST-0185-80.57/007	changed
+1C2-E-TEST-0185-80.57/008	vulgarity
+1C2-E-TEST-0185-80.63	"In his autobiography, The World I lived In!, he claimed to have created the drink during 1927 in Palm Beach, providing another narrative to its birth but arguably clouding the issue even further."
+1C2-E-TEST-0185-80.63/001	autobiography	DEP=1C2-E-TEST-0185-80.63002
+1C2-E-TEST-0185-80.63/002	world lived in
+1C2-E-TEST-0185-80.63/003	claimed created	DEP=1C2-E-TEST-0185-80.63004
+1C2-E-TEST-0185-80.63/004	drink	DEP=1C2-E-TEST-0185-80.63005
+1C2-E-TEST-0185-80.63/005	1927
+1C2-E-TEST-0185-80.63/006	palm beach	DEP=1C2-E-TEST-0185-80.63003
+1C2-E-TEST-0185-80.63/007	providing narrative	DEP=1C2-E-TEST-0185-80.63008
+1C2-E-TEST-0185-80.63/008	birth
+1C2-E-TEST-0185-80.63/009	clouding issue	DEP=1C2-E-TEST-0185-80.63010
+1C2-E-TEST-0185-80.63/010	further
+1C2-E-TEST-0185-80.8	"My whole raison d'etre as a bartender is to find out as much about my passion as is humanly possible: I'm fuelled by inquisitiveness and if ever I get the merest sniff of something that could overturn a previously-held belief, I will stop at nothing until I consider my opinion well-versed."
+1C2-E-TEST-0185-80.8/001	raison d'etre	DEP=1C2-E-TEST-0185-80.8002
+1C2-E-TEST-0185-80.8/002	bartender
+1C2-E-TEST-0185-80.8/003	find	DEP=1C2-E-TEST-0185-80.8004
+1C2-E-TEST-0185-80.8/004	passion	DEP=1C2-E-TEST-0185-80.8005
+1C2-E-TEST-0185-80.8/005	humanly possible
+1C2-E-TEST-0185-80.8/006	fuelled	DEP=1C2-E-TEST-0185-80.8007
+1C2-E-TEST-0185-80.8/007	inquisitiveness
+1C2-E-TEST-0185-80.8/008	merest sniff	DEP=1C2-E-TEST-0185-80.8009
+1C2-E-TEST-0185-80.8/009	overturn perviously-held belief
+1C2-E-TEST-0185-80.8/010	stop nothing	DEP=1C2-E-TEST-0185-80.8011
+1C2-E-TEST-0185-80.8/011	consider opinion	DEP=1C2-E-TEST-0185-80.8012
+1C2-E-TEST-0185-80.8/012	well-versed
+1C2-E-TEST-0185-80.82	"Following the game myself, and a guy named Elliott Sperver, a Philadelphia playboy, went to La Maze's and started swilling champagne."
+1C2-E-TEST-0185-80.82/001	following game
+1C2-E-TEST-0185-80.82/002	elliot sprerver	DEP=1C2-E-TEST-0185-80.82003
+1C2-E-TEST-0185-80.82/003	philadelphia playboy
+1C2-E-TEST-0185-80.82/004	la maze	DEP=1C2-E-TEST-0185-80.82005
+1C2-E-TEST-0185-80.82/005	started swilling champagne

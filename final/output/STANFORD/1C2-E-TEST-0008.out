@@ -1,0 +1,220 @@
+1C2-E-TEST-0008-108.3	"American Grammy Award-winning rapper Lil Wayne (birth name Dwayne Michael Carter, Jr.) was born on September 27, 1982, in New Orleans, Louisiana, United States."
+1C2-E-TEST-0008-108.3/001	american grammy award-winning rapper
+1C2-E-TEST-0008-108.3/002	birth name	DEP=1C2-E-TEST-0008-108.3003
+1C2-E-TEST-0008-108.3/003	dwayne micheal carter jr
+1C2-E-TEST-0008-108.3/004	born
+1C2-E-TEST-0008-108.3/005	september 27 1982	DEP=1C2-E-TEST-0008-108.3004
+1C2-E-TEST-0008-108.3/006	new orleans	DEP=1C2-E-TEST-0008-108.3007
+1C2-E-TEST-0008-108.3/007	louisiana united states	DEP=1C2-E-TEST-0008-108.3004
+1C2-E-TEST-0008-108.6	"In 1997, Wayne joined the group Hot Boys along with rappers Juvenile, Turk, and B.G. During their career, the Hot Boys had two charting singles."
+1C2-E-TEST-0008-108.6/001	1997	DEP=1C2-E-TEST-0008-108.6002
+1C2-E-TEST-0008-108.6/002	joined group	DEP=1C2-E-TEST-0008-108.6003
+1C2-E-TEST-0008-108.6/003	hot boys
+1C2-E-TEST-0008-108.6/004	rappers juvenile	DEP=1C2-E-TEST-0008-108.6003
+1C2-E-TEST-0008-108.6/005	turk	DEP=1C2-E-TEST-0008-108.6004
+1C2-E-TEST-0008-108.6/006	b.g.	DEP=1C2-E-TEST-0008-108.6004
+1C2-E-TEST-0008-108.6/007	two charting singles	DEP=1C2-E-TEST-0008-108.6003
+1C2-E-TEST-0008-108.7	"In 1999, he released his debut album, Tha Block Is Hot, which produced two singles, ""Tha Block Is Hot"" (featuring Juvenile & BG) and ""Respect Us"" (feat."
+1C2-E-TEST-0008-108.7/001	1999
+1C2-E-TEST-0008-108.7/002	releaed debut album	DEP=1C2-E-TEST-0008-108.7003
+1C2-E-TEST-0008-108.7/003	tha block hot	DEP=1C2-E-TEST-0008-108.7004
+1C2-E-TEST-0008-108.7/004	two singles
+1C2-E-TEST-0008-108.7/005	featuring 	DEP=1C2-E-TEST-0008-108.7006
+1C2-E-TEST-0008-108.7/006	juvenile bg
+1C2-E-TEST-0008-108.7/007	repect	DEP=1C2-E-TEST-0008-108.7004
+1C2-E-TEST-0008-12.21	"In 1999, Lil Wayne scored a No. 1 single with the title track from his solo debut album, The Block is Hot, which sold over two million units."
+1C2-E-TEST-0008-12.21/001	1999	DEP=1C2-E-TEST-0008-12.21002
+1C2-E-TEST-0008-12.21/002	scored no 1 single	DEP=1C2-E-TEST-0008-12.21003
+1C2-E-TEST-0008-12.21/003	title track
+1C2-E-TEST-0008-12.21/004	solo debut album	DEP=1C2-E-TEST-0008-12.21005
+1C2-E-TEST-0008-12.21/005	tha block hot
+1C2-E-TEST-0008-12.21/006	sold	DEP=1C2-E-TEST-0008-12.21007
+1C2-E-TEST-0008-12.21/007	two million units
+1C2-E-TEST-0008-120.6	Lil Wayne is a popular American born rapper/ hip-hop artist.
+1C2-E-TEST-0008-120.6/001	popular
+1C2-E-TEST-0008-120.6/002	american born
+1C2-E-TEST-0008-120.6/003	rapper
+1C2-E-TEST-0008-120.6/004	hip-hop artist
+1C2-E-TEST-0008-120.8	He joined Cash Money Records at age nine; he was the youngest artist on the label at the time.
+1C2-E-TEST-0008-120.8/001	joined	DEP=1C2-E-TEST-0008-120.8002
+1C2-E-TEST-0008-120.8/002	cash money records	DEP=1C2-E-TEST-0008-120.8003
+1C2-E-TEST-0008-120.8/003	age nine
+1C2-E-TEST-0008-120.8/004	youngest artist	DEP=1C2-E-TEST-0008-120.8005
+1C2-E-TEST-0008-120.8/005	label
+1C2-E-TEST-0008-127.14	"Also in 1999, Lil Wayne released his Platinum debut album Tha Block Is Hot, selling over one million copies in the U.S. Although his next two albums Lights Out (2000) and 500 Degreez (2002) were not as successful (only reaching Gold status), Lil Wayne reached higher popularity in 2004 with Tha Carter, which included the single ""Go D.J."""
+1C2-E-TEST-0008-127.14/001	1999
+1C2-E-TEST-0008-127.14/002	released platinum debut album	DEP=1C2-E-TEST-0008-127.14003
+1C2-E-TEST-0008-127.14/003	tha block hot	DEP=1C2-E-TEST-0008-127.14004
+1C2-E-TEST-0008-127.14/004	selling one million copies	DEP=1C2-E-TEST-0008-127.14005
+1C2-E-TEST-0008-127.14/005	u.s.
+1C2-E-TEST-0008-127.14/006	two albums
+1C2-E-TEST-0008-127.14/007	lights out 2000	DEP=1C2-E-TEST-0008-127.14010
+1C2-E-TEST-0008-127.14/008	500 degreez 2002	DEP=1C2-E-TEST-0008-127.14010
+1C2-E-TEST-0008-127.14/009	not successful
+1C2-E-TEST-0008-127.14/010	gold status	DEP=1C2-E-TEST-0008-127.14010
+1C2-E-TEST-0008-127.14/011	higher popularity 2004	DEP=1C2-E-TEST-0008-127.14012
+1C2-E-TEST-0008-127.14/012	tha carter
+1C2-E-TEST-0008-127.14/013	go d.j.
+1C2-E-TEST-0008-127.14/014	single	DEP=1C2-E-TEST-0008-127.14013
+1C2-E-TEST-0008-127.4	"At the age of nine, Lil Wayne joined Cash Money Records as the youngest member of the label, and half of the duo, The B.G.'z, with B.G.."
+1C2-E-TEST-0008-127.4/001	nine
+1C2-E-TEST-0008-127.4/002	joined	DEP=1C2-E-TEST-0008-127.4003
+1C2-E-TEST-0008-127.4/003	cash money records
+1C2-E-TEST-0008-127.4/004	youngest member label	DEP=1C2-E-TEST-0008-127.4003
+1C2-E-TEST-0008-127.4/005	half duo
+1C2-E-TEST-0008-127.4/006	b.g.z
+1C2-E-TEST-0008-127.4/007	b.g	DEP=1C2-E-TEST-0008-127.4006
+1C2-E-TEST-0008-127.5	"In 1997, Lil Wayne joined the group Hot Boys, which also included rappers Juvenile, B.G., and Young Turk."
+1C2-E-TEST-0008-127.5/001	1997
+1C2-E-TEST-0008-127.5/002	joined	DEP=1C2-E-TEST-0008-127.5003
+1C2-E-TEST-0008-127.5/003	hot boys
+1C2-E-TEST-0008-127.5/004	rappers
+1C2-E-TEST-0008-127.5/005	juvenile	DEP=1C2-E-TEST-0008-127.5004
+1C2-E-TEST-0008-127.5/006	b.g.	DEP=1C2-E-TEST-0008-127.5004
+1C2-E-TEST-0008-127.5/007	young turk	DEP=1C2-E-TEST-0008-127.5004
+1C2-E-TEST-0008-127.9	"Dwayne Michael Carter, Jr. (born September 27, 1982), better known by his stage name Lil Wayne, is an American rapper."
+1C2-E-TEST-0008-127.9/001	dwayne micheal carter jr
+1C2-E-TEST-0008-127.9/002	born	DEP=1C2-E-TEST-0008-127.9003
+1C2-E-TEST-0008-127.9/003	september 27 1982
+1C2-E-TEST-0008-127.9/004	american rapper
+1C2-E-TEST-0008-128.4	"Get It How U Live, released in 1997, was Lil Wayne's first album with Hot Boys, and Tha Block is Hot, his solo debut, came out in 1999."
+1C2-E-TEST-0008-128.4/001	get it how u live
+1C2-E-TEST-0008-128.4/002	released 1994	DEP=1C2-E-TEST-0008-128.4001
+1C2-E-TEST-0008-128.4/003	first album	DEP=1C2-E-TEST-0008-128.4001
+1C2-E-TEST-0008-128.4/004	hot boys
+1C2-E-TEST-0008-128.4/005	tha block hot	DEP=1C2-E-TEST-0008-128.4006
+1C2-E-TEST-0008-128.4/006	solo debut	DEP=1C2-E-TEST-0008-128.4007
+1C2-E-TEST-0008-128.4/007	1999
+1C2-E-TEST-0008-159.6	"After gaining fame with twÃÂÃÂ¾ other albums in the early 2000s, Lil Wayne reached higher popularity with 2004ÃÂ¢Ã¢ÂÂ¬ÃÂ²s Tha Carter and its two subsequent albums Tha Carter II (2005) and Tha Carter III (2008)."
+1C2-E-TEST-0008-159.6/001	gaining fame
+1C2-E-TEST-0008-159.6/002	two albums
+1C2-E-TEST-0008-159.6/003	early 2000s
+1C2-E-TEST-0008-159.6/004	higher popularity 2004	DEP=1C2-E-TEST-0008-159.6005
+1C2-E-TEST-0008-159.6/005	tha carter
+1C2-E-TEST-0008-159.6/006	two subsequent albums
+1C2-E-TEST-0008-159.6/007	tha carter ii	DEP=1C2-E-TEST-0008-159.6008
+1C2-E-TEST-0008-159.6/008	2005
+1C2-E-TEST-0008-159.6/009	tha carter iii	DEP=1C2-E-TEST-0008-159.6010
+1C2-E-TEST-0008-159.6/010	2008
+1C2-E-TEST-0008-181.3	"Dwayne Michael Carter Jr. (born September 27, 1982 in New Orleans, Louisiana) better known by his stage name Lil 'Wayne (Weezy-F-Baby) is an American rapper Former member of the rap group Hot Boys, he joined the Cash Money Records collective as a teenager Get It How U Live released in 1997, was Lil Wayne's first album with Hot Boys, and Tha Block Is Hot's solo debut came in 1999"
+1C2-E-TEST-0008-181.3/001	dwayne micheal carter jr
+1C2-E-TEST-0008-181.3/002	born
+1C2-E-TEST-0008-181.3/003	september 27 1982	DEP=1C2-E-TEST-0008-181.3002
+1C2-E-TEST-0008-181.3/004	new orleans	DEP=1C2-E-TEST-0008-181.3002
+1C2-E-TEST-0008-181.3/005	louisiana	DEP=1C2-E-TEST-0008-181.3004
+1C2-E-TEST-0008-181.3/006	stage name	DEP=1C2-E-TEST-0008-181.3007
+1C2-E-TEST-0008-181.3/007	weezy-f-baby
+1C2-E-TEST-0008-181.3/008	american rapper
+1C2-E-TEST-0008-181.3/009	rap group	DEP=1C2-E-TEST-0008-181.3010
+1C2-E-TEST-0008-181.3/010	hot boys
+1C2-E-TEST-0008-181.3/011	cash money records collective
+1C2-E-TEST-0008-181.3/012	teenager
+1C2-E-TEST-0008-181.3/013	get it how u live	DEP=1C2-E-TEST-0008-181.3014
+1C2-E-TEST-0008-181.3/014	released 1997
+1C2-E-TEST-0008-181.3/015	first album
+1C2-E-TEST-0008-181.3/016	tha block hot	DEP=1C2-E-TEST-0008-181.3015
+1C2-E-TEST-0008-181.3/017	solo debut	DEP=1C2-E-TEST-0008-181.3016
+1C2-E-TEST-0008-181.3/018	1999	DEP=1C2-E-TEST-0008-181.3017
+1C2-E-TEST-0008-2.119	"[52] He won the Grammy Award for Best Rap Solo Performance for "" A Milli "", Best Rap Performance by a Duo or Group for his appearance in T.I. 's single "" Swagga Like Us "", and Best Rap Song for ""Lollipop""."
+1C2-E-TEST-0008-2.119/001	grammy award
+1C2-E-TEST-0008-2.119/002	best rap solo performance	DEP=1C2-E-TEST-0008-2.119003
+1C2-E-TEST-0008-2.119/003	milli
+1C2-E-TEST-0008-2.119/004	best rap solo performance duo group	DEP=1C2-E-TEST-0008-2.119005
+1C2-E-TEST-0008-2.119/005	t.i. single	DEP=1C2-E-TEST-0008-2.119006
+1C2-E-TEST-0008-2.119/006	swagga like us
+1C2-E-TEST-0008-2.119/007	best rap song	DEP=1C2-E-TEST-0008-2.119008
+1C2-E-TEST-0008-2.119/008	lollipop
+1C2-E-TEST-0008-2.135	"On December 3, 2009, Lil Wayne's second single from the album, "" On Fire "", was released on iTunes."
+1C2-E-TEST-0008-2.135/001	december 3 2009
+1C2-E-TEST-0008-2.135/002	second single album	DEP=1C2-E-TEST-0008-2.135003
+1C2-E-TEST-0008-2.135/003	fire
+1C2-E-TEST-0008-2.135/004	released itunes
+1C2-E-TEST-0008-2.158	"[71] On March 8, 2011, Lil Wayne released another song called ""We Back Soon."""
+1C2-E-TEST-0008-2.158/001	march 8 2011	DEP=1C2-E-TEST-0008-2.158002
+1C2-E-TEST-0008-2.158/002	released song	DEP=1C2-E-TEST-0008-2.158003
+1C2-E-TEST-0008-2.158/003	we back soon
+1C2-E-TEST-0008-2.173	"The album debuted at No. 1 on the Billboard 200 with 964,000 copies sold in its first week, making it Lil Wayne's third chart topping album of his career."
+1C2-E-TEST-0008-2.173/001	album debuted
+1C2-E-TEST-0008-2.173/002	no. 1	DEP=1C2-E-TEST-0008-2.173003
+1C2-E-TEST-0008-2.173/003	billboard 200	DEP=1C2-E-TEST-0008-2.173001
+1C2-E-TEST-0008-2.173/004	"964,000 copies sold"	DEP=1C2-E-TEST-0008-2.173005
+1C2-E-TEST-0008-2.173/005	first week
+1C2-E-TEST-0008-2.173/006	third chart topping album
+1C2-E-TEST-0008-2.3	"Lil Wayne was born Dwayne Michael Carter, Jr. and grew up in the Hollygrove neighborhood of New Orleans, Louisiana."
+1C2-E-TEST-0008-2.3/001	born	DEP=1C2-E-TEST-0008-2.3002
+1C2-E-TEST-0008-2.3/002	dwayne micheal carter jr
+1C2-E-TEST-0008-2.3/003	grew	DEP=1C2-E-TEST-0008-2.3004
+1C2-E-TEST-0008-2.3/004	hollygrove neighborhood	DEP=1C2-E-TEST-0008-2.3005
+1C2-E-TEST-0008-2.3/005	new orleans	DEP=1C2-E-TEST-0008-2.3006
+1C2-E-TEST-0008-2.3/006	louisiana
+1C2-E-TEST-0008-2.32	"In 1997, Carter joined the Hot Boys along with rappers Juvenile , B.G., and Turk ."
+1C2-E-TEST-0008-2.32/001	1997	DEP=1C2-E-TEST-0008-2.32003
+1C2-E-TEST-0008-2.32/002	carter
+1C2-E-TEST-0008-2.32/003	joined	DEP=1C2-E-TEST-0008-2.32004
+1C2-E-TEST-0008-2.32/004	hot boys
+1C2-E-TEST-0008-2.32/005	rappers
+1C2-E-TEST-0008-2.32/006	juvenile b.g. turk	DEP=1C2-E-TEST-0008-2.32005
+1C2-E-TEST-0008-2.51	"Lil Wayne's third album 500 Degreez , released in 2002, followed the format of his previous two, with significant contributions from the Hot Boys and Mannie Fresh ."
+1C2-E-TEST-0008-2.51/001	third album
+1C2-E-TEST-0008-2.51/002	500 degreez	DEP=1C2-E-TEST-0008-2.51001
+1C2-E-TEST-0008-2.51/003	released 2002	DEP=1C2-E-TEST-0008-2.51002
+1C2-E-TEST-0008-2.51/004	followed format
+1C2-E-TEST-0008-2.51/005	previous two	DEP=1C2-E-TEST-0008-2.51004
+1C2-E-TEST-0008-2.51/006	significant contributions
+1C2-E-TEST-0008-2.51/007	hot boys	DEP=1C2-E-TEST-0008-2.51006
+1C2-E-TEST-0008-2.51/008	mannie fresh	DEP=1C2-E-TEST-0008-2.51006
+1C2-E-TEST-0008-2.60	"[26] After the release of Tha Carter, Lil Wayne was featured in Destiny's Child's single "" Soldier "" with T.I. , which peaked at No. 3 on the U.S. Hot 100 and the U.S. R&B Charts."
+1C2-E-TEST-0008-2.60/001	release
+1C2-E-TEST-0008-2.60/002	tha carter
+1C2-E-TEST-0008-2.60/003	featured
+1C2-E-TEST-0008-2.60/004	destiny child single	DEP=1C2-E-TEST-0008-2.60005
+1C2-E-TEST-0008-2.60/005	soilder
+1C2-E-TEST-0008-2.60/006	t.i.
+1C2-E-TEST-0008-2.60/007	peaked no. 3
+1C2-E-TEST-0008-2.60/008	u.s. hot 100	DEP=1C2-E-TEST-0008-2.60007
+1C2-E-TEST-0008-2.60/009	u.s. rb chart	DEP=1C2-E-TEST-0008-2.60007
+1C2-E-TEST-0008-32.10	"Formerly a member of the rap group the Hot Boys, he joined the Cash Money Records collective as a teenager."
+1C2-E-TEST-0008-32.10/001	member
+1C2-E-TEST-0008-32.10/002	rap group	DEP=1C2-E-TEST-0008-32.10003
+1C2-E-TEST-0008-32.10/003	hot boys
+1C2-E-TEST-0008-32.10/004	joined	DEP=1C2-E-TEST-0008-32.10005
+1C2-E-TEST-0008-32.10/005	cash money records collective	DEP=1C2-E-TEST-0008-32.10006
+1C2-E-TEST-0008-32.10/006	teenager
+1C2-E-TEST-0008-32.14	"He has had two number one singles on the Billboard Hot 100 (""Lollipop"" with Static Major and being featured on ""Down"" by Jay Sean)."
+1C2-E-TEST-0008-32.14/001	two number one singles	DEP=1C2-E-TEST-0008-32.14002
+1C2-E-TEST-0008-32.14/002	billboard hot 100
+1C2-E-TEST-0008-32.14/003	lollipop
+1C2-E-TEST-0008-32.14/004	static major	DEP=1C2-E-TEST-0008-32.14003
+1C2-E-TEST-0008-32.14/005	down
+1C2-E-TEST-0008-32.14/006	jay sean	DEP=1C2-E-TEST-0008-32.14006
+1C2-E-TEST-0008-45.21	"That same year, Lil Wayne launched his solo career with Tha Block Is Hot (1999)."
+1C2-E-TEST-0008-45.21/001	solo career
+1C2-E-TEST-0008-45.21/002	tha block hot
+1C2-E-TEST-0008-45.21/003	1999	DEP=1C2-E-TEST-0008-45.21002
+1C2-E-TEST-0008-45.21/004	launched	DEP=1C2-E-TEST-0008-45.21001
+1C2-E-TEST-0008-45.9	"Lil Wayne's first recording for Cash Money Records was True Stories (1993), performing with another skilled rapper B.G. under the name the BGs."
+1C2-E-TEST-0008-45.9/001	recording
+1C2-E-TEST-0008-45.9/002	cash money records
+1C2-E-TEST-0008-45.9/003	true stories 1993
+1C2-E-TEST-0008-45.9/004	performing	DEP=1C2-E-TEST-0008-45.9005
+1C2-E-TEST-0008-45.9/005	skilled rapper
+1C2-E-TEST-0008-45.9/006	b.g.
+1C2-E-TEST-0008-45.9/007	under name	DEP=1C2-E-TEST-0008-45.9003
+1C2-E-TEST-0008-45.9/008	bgs	DEP=1C2-E-TEST-0008-45.9007
+1C2-E-TEST-0008-59.2	"Lil Wayne is a rapper from New Orleans, Louisiana."
+1C2-E-TEST-0008-59.2/001	rapper	DEP=1C2-E-TEST-0008-59.2002
+1C2-E-TEST-0008-59.2/002	new orleans	DEP=1C2-E-TEST-0008-59.2003
+1C2-E-TEST-0008-59.2/003	louisiana
+1C2-E-TEST-0008-59.3	"His album, Tha Carter III , sold over one million copies in the first week of its release."
+1C2-E-TEST-0008-59.3/001	album
+1C2-E-TEST-0008-59.3/002	tha carter iii
+1C2-E-TEST-0008-59.3/003	sold one million copies	DEP=1C2-E-TEST-0008-59.3004
+1C2-E-TEST-0008-59.3/004	first week release
+1C2-E-TEST-0008-59.48	"In 1997 Wayne joined the group Hot Boys, with whom he recorded two albums before releasing his solo debut, Tha Block is Hot in 1999."
+1C2-E-TEST-0008-59.48/001	1997	DEP=1C2-E-TEST-0008-59.48002
+1C2-E-TEST-0008-59.48/002	joined group	DEP=1C2-E-TEST-0008-59.48003
+1C2-E-TEST-0008-59.48/003	hot boys	DEP=1C2-E-TEST-0008-59.48004
+1C2-E-TEST-0008-59.48/004	recorded two albums
+1C2-E-TEST-0008-59.48/005	releasing solo debut	DEP=1C2-E-TEST-0008-59.48006
+1C2-E-TEST-0008-59.48/006	tha block hot
+1C2-E-TEST-0008-59.48/007	1999	DEP=1C2-E-TEST-0008-59.48006
