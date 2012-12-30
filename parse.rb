@@ -1,8 +1,8 @@
 #!/usr/bin/ruby
 require 'pp'
 
-final = '/home/dave/Documents/vitalstring/mechturk/final/output/STANFORD/'
-processed = '/home/dave/Documents/vitalstring/mechturk/processed/output/STANDFORD/'
+final = File.expand_path("../", __FILE__) + '/final/output/STANFORD/'
+processed = File.expand_path("../", __FILE__) + '/processed/output/STANDFORD/'
 args = []
 debug = false
 ARGV.each do |arg|
