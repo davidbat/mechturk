@@ -1,0 +1,152 @@
+﻿1C2-E-TEST-0119-117.5	The store is Apple's second-largest, after the one on Regent Street in London.			
+1C2-E-TEST-0119-117.5/001	store		store	
+1C2-E-TEST-0119-117.5/002	regent street		second-largest	1
+1C2-E-TEST-0119-117.5/003	london		regent street	
+1C2-E-TEST-0119-117.5/004	second-largest		london	
+1C2-E-TEST-0119-117.7	The Boston store also features a glass spiral staircase from the ground floor to the third.			
+1C2-E-TEST-0119-117.7/001	boston store	DEP=1C2-E-TEST-0119-117.7005	boston store	
+1C2-E-TEST-0119-117.7/002	glass spiral staircase	DEP=1C2-E-TEST-0119-117.7005	features	
+1C2-E-TEST-0119-117.7/003	ground floor		glass spiral staircase	
+1C2-E-TEST-0119-117.7/004	third		ground floor	
+1C2-E-TEST-0119-117.7/005	features		third	
+1C2-E-TEST-0119-206.60	Apple Inc. is opening its first retail store in the heart of Boston at 815 Boylston Street.			
+1C2-E-TEST-0119-206.60/001	inc.	DEP=1C2-E-TEST-0119-206.60007	inc.	
+1C2-E-TEST-0119-206.60/002	retail store	DEP=1C2-E-TEST-0119-206.60007	opening	
+1C2-E-TEST-0119-206.60/003	heart		retail store	2
+1C2-E-TEST-0119-206.60/004	boston		heart	
+1C2-E-TEST-0119-206.60/005	815		boston	4
+1C2-E-TEST-0119-206.60/006	street	DEP=1C2-E-TEST-0119-206.60003	815	
+1C2-E-TEST-0119-206.60/007	opening		street	6
+1C2-E-TEST-0119-206.74	The flagship Apple store was reviewed and approved by the Back Bay Architectural Commission and the Neighborhood Association of Back Bay in August 2006, Yessian said.			
+1C2-E-TEST-0119-206.74/001	flagship store	DEP=1C2-E-TEST-0119-206.74007	flagship store	
+1C2-E-TEST-0119-206.74/002	back bay architectural commission		reviewed	1
+1C2-E-TEST-0119-206.74/003	neighborhood association	DEP=1C2-E-TEST-0119-206.74002	approved	1
+1C2-E-TEST-0119-206.74/004	back bay		back bay architectural commission	
+1C2-E-TEST-0119-206.74/005	august 2006		neighborhood association	
+1C2-E-TEST-0119-206.74/006	yessian		back bay	5
+1C2-E-TEST-0119-206.74/007	reviewed		august 2006	6
+1C2-E-TEST-0119-206.74/008	approved	DEP=1C2-E-TEST-0119-206.74007	yessian	
+1C2-E-TEST-0119-206.75	San Francisco based architect company Bohlin Cywinski Jackson designed the 22,116 square foot structure.			
+1C2-E-TEST-0119-206.75/001	san francisco	DEP=1C2-E-TEST-0119-206.75005	san francisco	
+1C2-E-TEST-0119-206.75/002	architect company bohlin cywinski jackson	DEP=1C2-E-TEST-0119-206.75004	based	
+1C2-E-TEST-0119-206.75/003	22,116 square foot structure	DEP=1C2-E-TEST-0119-206.75005	architect company bohlin cywinski jackson	2
+1C2-E-TEST-0119-206.75/004	based	DEP=1C2-E-TEST-0119-206.75001	designed	3
+1C2-E-TEST-0119-206.75/005	designed		22,116 square foot structure	4
+1C2-E-TEST-0119-3.19	In the course of planning the store, Apple worked closely with the city of Boston and the Boston Redevelopment Authority to make the store fit into the neighborhood.			
+1C2-E-TEST-0119-3.19/001	course		course	
+1C2-E-TEST-0119-3.19/002	store	DEP=1C2-E-TEST-0119-3.19008	planning	
+1C2-E-TEST-0119-3.19/003	city		store	2
+1C2-E-TEST-0119-3.19/004	boston		worked closely	
+1C2-E-TEST-0119-3.19/005	boston redevelopment authority	DEP=1C2-E-TEST-0119-3.19004	city	
+1C2-E-TEST-0119-3.19/006	store fit	DEP=1C2-E-TEST-0119-3.19011	boston	5
+1C2-E-TEST-0119-3.19/007	neighborhood		boston redevelopment authority	
+1C2-E-TEST-0119-3.19/008	planning		make	
+1C2-E-TEST-0119-3.19/009	worked		store fit	8
+1C2-E-TEST-0119-3.19/010	closely	DEP=1C2-E-TEST-0119-3.19009	neighborhood	9
+1C2-E-TEST-0119-3.19/011	make	DEP=1C2-E-TEST-0119-3.19009		
+1C2-E-TEST-0119-3.23	For example, the company planted natural grass on the buildingÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s roof in an effort to provide some greenery in the urban environment.			
+1C2-E-TEST-0119-3.23/001	example		example	
+1C2-E-TEST-0119-3.23/002	company	DEP=1C2-E-TEST-0119-3.23010	company	
+1C2-E-TEST-0119-3.23/003	natural grass		planted natural grass	2
+1C2-E-TEST-0119-3.23/004	buildingã cents		building	
+1C2-E-TEST-0119-3.23/005	¬	DEP=1C2-E-TEST-0119-3.23007	roof	
+1C2-E-TEST-0119-3.23/006	â cents	DEP=1C2-E-TEST-0119-3.23005	effort	
+1C2-E-TEST-0119-3.23/007	roof		provide	6
+1C2-E-TEST-0119-3.23/008	greenery		greenery	7
+1C2-E-TEST-0119-3.23/009	urban environment		urban environment	8
+1C2-E-TEST-0119-3.23/010	planted			
+1C2-E-TEST-0119-3.23/011	s	DEP=1C2-E-TEST-0119-3.23007		
+1C2-E-TEST-0119-3.23/012	effort			
+1C2-E-TEST-0119-3.26	In addition, the store is set up to collect and filter rainwater in order to help rebuild the Back BayÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s water table, an issue that both Johnson and Menino said was important for the city.			
+1C2-E-TEST-0119-3.26/001	addition		addition	
+1C2-E-TEST-0119-3.26/002	store	DEP=1C2-E-TEST-0119-3.26012	store	
+1C2-E-TEST-0119-3.26/003	filter rainwater	DEP=1C2-E-TEST-0119-3.26007	set	2
+1C2-E-TEST-0119-3.26/004	back bayã cents		collect	
+1C2-E-TEST-0119-3.26/005	¬		filter rainwater	4
+1C2-E-TEST-0119-3.26/006	â cents	DEP=1C2-E-TEST-0119-3.26015	order	
+1C2-E-TEST-0119-3.26/007	water table	DEP=1C2-E-TEST-0119-3.26012	help rebuild	
+1C2-E-TEST-0119-3.26/008	issue	DEP=1C2-E-TEST-0119-3.26007	back bay	7
+1C2-E-TEST-0119-3.26/009	johnson		water table	
+1C2-E-TEST-0119-3.26/010	menino	DEP=1C2-E-TEST-0119-3.26009	issue	
+1C2-E-TEST-0119-3.26/011	city		johnson	
+1C2-E-TEST-0119-3.26/012	set		menino	
+1C2-E-TEST-0119-3.26/013	collect	DEP=1C2-E-TEST-0119-3.26012	important	
+1C2-E-TEST-0119-3.26/014	order		city	13
+1C2-E-TEST-0119-3.26/015	help	DEP=1C2-E-TEST-0119-3.26014		
+1C2-E-TEST-0119-3.26/016	rebuild	DEP=1C2-E-TEST-0119-3.26015		
+1C2-E-TEST-0119-3.26/017	s	DEP=1C2-E-TEST-0119-3.26007		
+1C2-E-TEST-0119-3.26/018	important			
+1C2-E-TEST-0119-3.27	And while the large amounts of glass and metal in the storeÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s construction might present an air-conditioning challenge, Johnson also said that Apple worked hard to utilize natural light where possible to reduce heating costs in the winter.			
+1C2-E-TEST-0119-3.27/001	large amounts		large amounts	
+1C2-E-TEST-0119-3.27/002	glass metal		glass metal	1
+1C2-E-TEST-0119-3.27/003	storeã cents		store	2
+1C2-E-TEST-0119-3.27/004	¬	DEP=1C2-E-TEST-0119-3.27006	construction	
+1C2-E-TEST-0119-3.27/005	â cents	DEP=1C2-E-TEST-0119-3.27004	present	4
+1C2-E-TEST-0119-3.27/006	construction		air-conditioning challenge	5
+1C2-E-TEST-0119-3.27/007	air-conditioning challenge	DEP=1C2-E-TEST-0119-3.27013	johnson	
+1C2-E-TEST-0119-3.27/008	johnson		worked hard	7
+1C2-E-TEST-0119-3.27/009	natural light	DEP=1C2-E-TEST-0119-3.27016	utilize natural light	
+1C2-E-TEST-0119-3.27/010	heating costs	DEP=1C2-E-TEST-0119-3.27018	possible	
+1C2-E-TEST-0119-3.27/011	winter		reduce heating costs	
+1C2-E-TEST-0119-3.27/012	s	DEP=1C2-E-TEST-0119-3.27006	winter	11
+1C2-E-TEST-0119-3.27/013	present	DEP=1C2-E-TEST-0119-3.27006		
+1C2-E-TEST-0119-3.27/014	worked			
+1C2-E-TEST-0119-3.27/015	hard	DEP=1C2-E-TEST-0119-3.27014		
+1C2-E-TEST-0119-3.27/016	utilize	DEP=1C2-E-TEST-0119-3.27015		
+1C2-E-TEST-0119-3.27/017	possible	DEP=1C2-E-TEST-0119-3.27016		
+1C2-E-TEST-0119-3.27/018	reduce	DEP=1C2-E-TEST-0119-3.27016		
+1C2-E-TEST-0119-3.30	Like most Apple stores, the Boylston Street location features copious amounts of glass and stainless steel, though Johnson also pointed out that the stone that makes up the floor is the same used in sidewalks in Florence, Italy.			
+1C2-E-TEST-0119-3.30/001	stores		stores	
+1C2-E-TEST-0119-3.30/002	street location	DEP=1C2-E-TEST-0119-3.30010	street location features	
+1C2-E-TEST-0119-3.30/003	copious amounts	DEP=1C2-E-TEST-0119-3.30010	copious amounts	2
+1C2-E-TEST-0119-3.30/004	glass stainless	DEP=1C2-E-TEST-0119-3.30011	glass stainless steel	3
+1C2-E-TEST-0119-3.30/005	johnson	DEP=1C2-E-TEST-0119-3.30012	johnson	
+1C2-E-TEST-0119-3.30/006	stone		pointed	5
+1C2-E-TEST-0119-3.30/007	floor	DEP=1C2-E-TEST-0119-3.30013	stone	
+1C2-E-TEST-0119-3.30/008	sidewalks		makes	7
+1C2-E-TEST-0119-3.30/009	florence italy		floor	8
+1C2-E-TEST-0119-3.30/010	features		sidewalks	
+1C2-E-TEST-0119-3.30/011	steel		florence italy	
+1C2-E-TEST-0119-3.30/012	pointed	DEP=1C2-E-TEST-0119-3.30010		
+1C2-E-TEST-0119-3.30/013	makes	DEP=1C2-E-TEST-0119-3.30006		
+1C2-E-TEST-0119-3.42	The storeÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s layout and size arenÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢t the only things that distinguish the Boylston Street location from most of its counterparts.			
+1C2-E-TEST-0119-3.42/001	storeã cents		store	
+1C2-E-TEST-0119-3.42/002	¬	DEP=1C2-E-TEST-0119-3.42012	layout size	1
+1C2-E-TEST-0119-3.42/003	â cents	DEP=1C2-E-TEST-0119-3.42002	things	
+1C2-E-TEST-0119-3.42/004	layout size	DEP=1C2-E-TEST-0119-3.42012	Distinguish	3
+1C2-E-TEST-0119-3.42/005	¬	DEP=1C2-E-TEST-0119-3.42013	street location	4
+1C2-E-TEST-0119-3.42/006	â cents	DEP=1C2-E-TEST-0119-3.42005	counterparts	
+1C2-E-TEST-0119-3.42/007	things			
+1C2-E-TEST-0119-3.42/008	street location			
+1C2-E-TEST-0119-3.42/009	counterparts			
+1C2-E-TEST-0119-3.42/010	s	DEP=1C2-E-TEST-0119-3.42012		
+1C2-E-TEST-0119-3.42/011	arenã	DEP=1C2-E-TEST-0119-3.42012		
+1C2-E-TEST-0119-3.42/012	cents			
+1C2-E-TEST-0119-3.42/013	t			
+1C2-E-TEST-0119-47.18	With a living green roof for eco-friendly insulation, the new Apple flagship in Boston is one of the most innovatively designed Apple stores in the world.			
+1C2-E-TEST-0119-47.18/001	living green roof		living green roof	
+1C2-E-TEST-0119-47.18/002	eco-friendly insulation		eco-friendly insulation	
+1C2-E-TEST-0119-47.18/003	new flagship		new flagship	
+1C2-E-TEST-0119-47.18/004	boston		boston	
+1C2-E-TEST-0119-47.18/005	stores		innovatively designed	
+1C2-E-TEST-0119-47.18/006	world		stores	5
+1C2-E-TEST-0119-47.18/007	innovatively	DEP=1C2-E-TEST-0119-47.18008	world	
+1C2-E-TEST-0119-47.18/008	designed			
+1C2-E-TEST-0119-52.5	EDT Where: Apple Store(R) Boylston Street 815 Boylston St. Boston, MA 02116 Accredited journalists may confirm their attendance by calling (408) 974-2046. Grand Opening The Apple Store Boylston Street will open to the public on Thursday, May 15, 2008 at 6:00 p.m.			
+1C2-E-TEST-0119-52.5/001	edt	DEP=1C2-E-TEST-0119-52.5016	edt	
+1C2-E-TEST-0119-52.5/002	r		Store	
+1C2-E-TEST-0119-52.5/003	street 815 st. boston		street 815 st. boston MA 02116	
+1C2-E-TEST-0119-52.5/004	ma		accredited journalists	
+1C2-E-TEST-0119-52.5/005	2116	DEP=1C2-E-TEST-0119-52.5004	confirm	4
+1C2-E-TEST-0119-52.5/006	accredited journalists		attendance	5
+1C2-E-TEST-0119-52.5/007	attendance	DEP=1C2-E-TEST-0119-52.5014	calling	6
+1C2-E-TEST-0119-52.5/008	-lrb-408-rrb- 974-2046 grand	DEP=1C2-E-TEST-0119-52.5009	(408) 974-2046	7
+1C2-E-TEST-0119-52.5/009	opening store street	DEP=1C2-E-TEST-0119-52.5015	grand opening	
+1C2-E-TEST-0119-52.5/010	public		store	
+1C2-E-TEST-0119-52.5/011	thursday 15 2008		street	
+1C2-E-TEST-0119-52.5/012	 6:00		open	
+1C2-E-TEST-0119-52.5/013	store		public	12
+1C2-E-TEST-0119-52.5/014	confirm	DEP=1C2-E-TEST-0119-52.5001	thursday may 15 2008	
+1C2-E-TEST-0119-52.5/015	calling		6:00 p.m	14
+1C2-E-TEST-0119-52.5/016	open			
+1C2-E-TEST-0119-52.5/017	p.m.	DEP=1C2-E-TEST-0119-52.5016		
