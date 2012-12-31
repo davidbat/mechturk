@@ -210,15 +210,15 @@
 1C2-E-TEST-0173-79.31	"Although Seiko and E Ink demonstrated the prototype together in 2005 , it didnÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢t become a commercial reality until 2006, and even then rumor has it that less than 500 were ever made, all priced at 262,500 yen ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ the modern equivalent of $2,700."			
 1C2-E-TEST-0173-79.31/001	seiko e		seiko	
 1C2-E-TEST-0173-79.31/002	prototype	DEP=1C2-E-TEST-0173-79.31013	e	
-1C2-E-TEST-0173-79.31/003	2005		demonstrated prototype	
+1C2-E-TEST-0173-79.31/003	2005		demonstrated prototype	4
 1C2-E-TEST-0173-79.31/004	didnã cents		2005	
-1C2-E-TEST-0173-79.31/005	¬		commercial reality	
+1C2-E-TEST-0173-79.31/005	¬		commercial reality	6
 1C2-E-TEST-0173-79.31/006	â cents t	DEP=1C2-E-TEST-0173-79.31007	2006	
-1C2-E-TEST-0173-79.31/007	commercial reality	DEP=1C2-E-TEST-0173-79.31005		
-1C2-E-TEST-0173-79.31/008	2006			
-1C2-E-TEST-0173-79.31/009	rumor			
-1C2-E-TEST-0173-79.31/010	"262,500 yen ã cents"			
-1C2-E-TEST-0173-79.31/011	¬	DEP=1C2-E-TEST-0173-79.31017		
+1C2-E-TEST-0173-79.31/007	commercial reality	DEP=1C2-E-TEST-0173-79.31005	rumor	8
+1C2-E-TEST-0173-79.31/008	2006		less 500 made	
+1C2-E-TEST-0173-79.31/009	rumor		"262,500 yen"	
+1C2-E-TEST-0173-79.31/010	"262,500 yen ã cents"		modern equivalent	11
+1C2-E-TEST-0173-79.31/011	¬	DEP=1C2-E-TEST-0173-79.31017	"2,700"	
 1C2-E-TEST-0173-79.31/012	"2,700"			
 1C2-E-TEST-0173-79.31/013	demonstrated			
 1C2-E-TEST-0173-79.31/014	500	DEP=1C2-E-TEST-0173-79.31015		
@@ -228,16 +228,16 @@
 1C2-E-TEST-0173-79.31/018	modern	DEP=1C2-E-TEST-0173-79.31019		
 1C2-E-TEST-0173-79.31/019	equivalent			
 1C2-E-TEST-0173-79.32	"In 2007, the company showed off a newer version catering to ladies , which wrapped entirely around the wrist and could be set to ÃÂ¢Ã¢ÂÂ¬ÃÂefficiencyÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢ for quick time telling, or ÃÂ¢Ã¢ÂÂ¬ÃÂmysteryÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢ for a more elegant, interperative telling of the time."			
-1C2-E-TEST-0173-79.32/001	2007			
-1C2-E-TEST-0173-79.32/002	company	DEP=1C2-E-TEST-0173-79.32015		
-1C2-E-TEST-0173-79.32/003	newer version catering	DEP=1C2-E-TEST-0173-79.32015		
-1C2-E-TEST-0173-79.32/004	ladies			
-1C2-E-TEST-0173-79.32/005	wrist			
-1C2-E-TEST-0173-79.32/006	¬ ë efficiencyã cents			
-1C2-E-TEST-0173-79.32/007	¬			
-1C2-E-TEST-0173-79.32/008	â cents			
-1C2-E-TEST-0173-79.32/009	quick time			
-1C2-E-TEST-0173-79.32/010	ã cents			
+1C2-E-TEST-0173-79.32/001	2007		2007	
+1C2-E-TEST-0173-79.32/002	company	DEP=1C2-E-TEST-0173-79.32015	company showed	
+1C2-E-TEST-0173-79.32/003	newer version catering	DEP=1C2-E-TEST-0173-79.32015	newer version	4
+1C2-E-TEST-0173-79.32/004	ladies		catering ladies	5
+1C2-E-TEST-0173-79.32/005	wrist		wrapped entirely wrist	
+1C2-E-TEST-0173-79.32/006	¬ ë efficiencyã cents		set	
+1C2-E-TEST-0173-79.32/007	¬		efficiency	6
+1C2-E-TEST-0173-79.32/008	â cents		quick time telling	7
+1C2-E-TEST-0173-79.32/009	quick time		mystery	6
+1C2-E-TEST-0173-79.32/010	ã cents		elegant interperative telling time	9
 1C2-E-TEST-0173-79.32/011	¬ ë mysteryã cents			
 1C2-E-TEST-0173-79.32/012	¬			
 1C2-E-TEST-0173-79.32/013	â cents			
@@ -254,14 +254,14 @@
 1C2-E-TEST-0173-79.32/024	interperative			
 1C2-E-TEST-0173-79.32/025	telling	DEP=1C2-E-TEST-0173-79.32024		
 1C2-E-TEST-0173-79.43	"In October 2008, Esquire became the first magazine ever to feature an E Ink cover when it plastered the blinking line ""The 21st Century Begins Now"" across that monthÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s issue."			
-1C2-E-TEST-0173-79.43/001	Oct-08			
-1C2-E-TEST-0173-79.43/002	esquire	DEP=1C2-E-TEST-0173-79.43003		
-1C2-E-TEST-0173-79.43/003	magazine			
-1C2-E-TEST-0173-79.43/004	e cover	DEP=1C2-E-TEST-0173-79.43011		
-1C2-E-TEST-0173-79.43/005	21st	DEP=1C2-E-TEST-0173-79.43015		
-1C2-E-TEST-0173-79.43/006	century	DEP=1C2-E-TEST-0173-79.43005		
-1C2-E-TEST-0173-79.43/007	monthã cents			
-1C2-E-TEST-0173-79.43/008	¬	DEP=1C2-E-TEST-0173-79.43010		
+1C2-E-TEST-0173-79.43/001	Oct-08		october 2008	
+1C2-E-TEST-0173-79.43/002	esquire	DEP=1C2-E-TEST-0173-79.43003	esquire	3
+1C2-E-TEST-0173-79.43/003	magazine		first magazine	4
+1C2-E-TEST-0173-79.43/004	e cover	DEP=1C2-E-TEST-0173-79.43011	feature e cover	
+1C2-E-TEST-0173-79.43/005	21st	DEP=1C2-E-TEST-0173-79.43015	plastered	6
+1C2-E-TEST-0173-79.43/006	century	DEP=1C2-E-TEST-0173-79.43005	blinking line	7
+1C2-E-TEST-0173-79.43/007	monthã cents		21st century begins	8
+1C2-E-TEST-0173-79.43/008	¬	DEP=1C2-E-TEST-0173-79.43010	across months issue	
 1C2-E-TEST-0173-79.43/009	â cents	DEP=1C2-E-TEST-0173-79.43008		
 1C2-E-TEST-0173-79.43/010	issue			
 1C2-E-TEST-0173-79.43/011	feature	DEP=1C2-E-TEST-0173-79.43003		
@@ -271,16 +271,16 @@
 1C2-E-TEST-0173-79.43/015	begins	DEP=1C2-E-TEST-0173-79.43014		
 1C2-E-TEST-0173-79.43/016	s	DEP=1C2-E-TEST-0173-79.43010		
 1C2-E-TEST-0173-79.47	Phones have also begun to harness the practical battery-stretching power of E Ink displays.			
-1C2-E-TEST-0173-79.47/001	phones	DEP=1C2-E-TEST-0173-79.47004		
-1C2-E-TEST-0173-79.47/002	practical battery-stretching power	DEP=1C2-E-TEST-0173-79.47005		
-1C2-E-TEST-0173-79.47/003	e displays			
-1C2-E-TEST-0173-79.47/004	begun			
+1C2-E-TEST-0173-79.47/001	phones	DEP=1C2-E-TEST-0173-79.47004	phones	2
+1C2-E-TEST-0173-79.47/002	practical battery-stretching power	DEP=1C2-E-TEST-0173-79.47005	harness	3
+1C2-E-TEST-0173-79.47/003	e displays		practical battery-stretching power	4
+1C2-E-TEST-0173-79.47/004	begun		e displays	
 1C2-E-TEST-0173-79.47/005	harness	DEP=1C2-E-TEST-0173-79.47004		
 1C2-E-TEST-0173-79.80	"To that end, flexible and low-cost E Ink screens could easily begin to perform tasks LCD screens never could ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ like taking over for paint."			
-1C2-E-TEST-0173-79.80/001	end			
-1C2-E-TEST-0173-79.80/002	low-cost e	DEP=1C2-E-TEST-0173-79.80008		
-1C2-E-TEST-0173-79.80/003	tasks	DEP=1C2-E-TEST-0173-79.80012		
-1C2-E-TEST-0173-79.80/004	lcd screens			
+1C2-E-TEST-0173-79.80/001	end		flexible low cost e screens	
+1C2-E-TEST-0173-79.80/002	low-cost e	DEP=1C2-E-TEST-0173-79.80008	perform task	3
+1C2-E-TEST-0173-79.80/003	tasks	DEP=1C2-E-TEST-0173-79.80012	lcd screens never could	
+1C2-E-TEST-0173-79.80/004	lcd screens		taking over paint	2
 1C2-E-TEST-0173-79.80/005	ã cents			
 1C2-E-TEST-0173-79.80/006	¬ â			
 1C2-E-TEST-0173-79.80/007	paint			
@@ -291,55 +291,44 @@
 1C2-E-TEST-0173-79.80/012	perform	DEP=1C2-E-TEST-0173-79.80011		
 1C2-E-TEST-0173-79.80/013	taking			
 1C2-E-TEST-0173-87.15	"The principal components of electronic ink are millions of tiny microcapsules, about the diameter of a human hair."			
-1C2-E-TEST-0173-87.15/001	principal components	DEP=1C2-E-TEST-0173-87.15002		
-1C2-E-TEST-0173-87.15/002	millions			
-1C2-E-TEST-0173-87.15/003	tiny microcapsules			
-1C2-E-TEST-0173-87.15/004	diameter			
-1C2-E-TEST-0173-87.15/005	human hair			
-1C2-E-TEST-0173-87.16	Each microcapsule contains positively charged white particles and negatively charged black particles suspended in a clear fluid.			
-1C2-E-TEST-0173-87.16/001	microcapsule	DEP=1C2-E-TEST-0173-87.16005		
-1C2-E-TEST-0173-87.16/002	white particles	DEP=1C2-E-TEST-0173-87.16007		
-1C2-E-TEST-0173-87.16/003	black particles	DEP=1C2-E-TEST-0173-87.16009		
-1C2-E-TEST-0173-87.16/004	clear fluid			
-1C2-E-TEST-0173-87.16/005	contains			
-1C2-E-TEST-0173-87.16/006	positively	DEP=1C2-E-TEST-0173-87.16007		
-1C2-E-TEST-0173-87.16/007	charged	DEP=1C2-E-TEST-0173-87.16005		
-1C2-E-TEST-0173-87.16/008	negatively	DEP=1C2-E-TEST-0173-87.16007		
-1C2-E-TEST-0173-87.16/009	charged	DEP=1C2-E-TEST-0173-87.16007		
-1C2-E-TEST-0173-87.16/010	suspended	DEP=1C2-E-TEST-0173-87.16003		
+1C2-E-TEST-0173-87.15/001	principal components	DEP=1C2-E-TEST-0173-87.15002	principal components	2
+1C2-E-TEST-0173-87.15/002	millions		millions	3
+1C2-E-TEST-0173-87.15/003	tiny microcapsules		tiny microcapsules	
+1C2-E-TEST-0173-87.15/004	diameter		diameter	5
+1C2-E-TEST-0173-87.15/005	human hair		human hair	
 1C2-E-TEST-0173-87.17	"When a negative electric field is applied, the white particles move to the top of the microcapsule where they become visible to the user."			
-1C2-E-TEST-0173-87.17/001	negative electric field	DEP=1C2-E-TEST-0173-87.17006		
-1C2-E-TEST-0173-87.17/002	white particles			
-1C2-E-TEST-0173-87.17/003	top			
-1C2-E-TEST-0173-87.17/004	microcapsule			
-1C2-E-TEST-0173-87.17/005	user			
-1C2-E-TEST-0173-87.17/006	applied			
+1C2-E-TEST-0173-87.17/001	negative electric field	DEP=1C2-E-TEST-0173-87.17006	negative electric field	2
+1C2-E-TEST-0173-87.17/002	white particles		applied	
+1C2-E-TEST-0173-87.17/003	top		white particles	4
+1C2-E-TEST-0173-87.17/004	microcapsule		move top	5
+1C2-E-TEST-0173-87.17/005	user		microcapsules	
+1C2-E-TEST-0173-87.17/006	applied		visible user	
 1C2-E-TEST-0173-87.17/007	visible			
 1C2-E-TEST-0173-87.20	"By reversing this process, the black particles appear at the top of the capsule, which now makes the surface appear dark at that spot.ÃÂ¢Ã¢ÂÂ¬ÃÂ"			
-1C2-E-TEST-0173-87.20/001	process	DEP=1C2-E-TEST-0173-87.20009		
-1C2-E-TEST-0173-87.20/002	black particles			
-1C2-E-TEST-0173-87.20/003	top			
-1C2-E-TEST-0173-87.20/004	capsule			
-1C2-E-TEST-0173-87.20/005	surface	DEP=1C2-E-TEST-0173-87.20011		
-1C2-E-TEST-0173-87.20/006	spot			
+1C2-E-TEST-0173-87.20/001	process	DEP=1C2-E-TEST-0173-87.20009	reversing process	
+1C2-E-TEST-0173-87.20/002	black particles		black particles	3
+1C2-E-TEST-0173-87.20/003	top		appear top	4
+1C2-E-TEST-0173-87.20/004	capsule		capsule	
+1C2-E-TEST-0173-87.20/005	surface	DEP=1C2-E-TEST-0173-87.20011	makes surface appear dark	6
+1C2-E-TEST-0173-87.20/006	spot		spot	
 1C2-E-TEST-0173-87.20/007	ã cents			
 1C2-E-TEST-0173-87.20/008	¬ â			
 1C2-E-TEST-0173-87.20/009	reversing			
 1C2-E-TEST-0173-87.20/010	makes	DEP=1C2-E-TEST-0173-87.20003		
 1C2-E-TEST-0173-87.20/011	dark	DEP=1C2-E-TEST-0173-87.20010		
 1C2-E-TEST-0173-87.5	"Ultra thin: The display is much thinner than is possible with any conventional watch technology, analog or digital."			
-1C2-E-TEST-0173-87.5/001	ultra thin			
-1C2-E-TEST-0173-87.5/002	display			
-1C2-E-TEST-0173-87.5/003	conventional watch technology			
-1C2-E-TEST-0173-87.5/004	analog	DEP=1C2-E-TEST-0173-87.5003		
-1C2-E-TEST-0173-87.5/005	digital	DEP=1C2-E-TEST-0173-87.5003		
-1C2-E-TEST-0173-87.5/006	thinner			
+1C2-E-TEST-0173-87.5/001	ultra thin		ultra thin	
+1C2-E-TEST-0173-87.5/002	display		display thinner	3
+1C2-E-TEST-0173-87.5/003	conventional watch technology		possible	
+1C2-E-TEST-0173-87.5/004	analog	DEP=1C2-E-TEST-0173-87.5003	conventional watch technology	
+1C2-E-TEST-0173-87.5/005	digital	DEP=1C2-E-TEST-0173-87.5003	analog	5
+1C2-E-TEST-0173-87.5/006	thinner		digital	5
 1C2-E-TEST-0173-87.5/007	possible			
 1C2-E-TEST-0173-87.7	"Low power consumption: The display is readable under very low light conditions, so no backlighting is required."			
-1C2-E-TEST-0173-87.7/001	low power consumption			
-1C2-E-TEST-0173-87.7/002	display	DEP=1C2-E-TEST-0173-87.7004		
-1C2-E-TEST-0173-87.7/003	backlighting	DEP=1C2-E-TEST-0173-87.7008		
-1C2-E-TEST-0173-87.7/004	readable	DEP=1C2-E-TEST-0173-87.7001		
+1C2-E-TEST-0173-87.7/001	low power consumption		lower power consumption	
+1C2-E-TEST-0173-87.7/002	display	DEP=1C2-E-TEST-0173-87.7004	display readable	3
+1C2-E-TEST-0173-87.7/003	backlighting	DEP=1C2-E-TEST-0173-87.7008	low light conditions	
+1C2-E-TEST-0173-87.7/004	readable	DEP=1C2-E-TEST-0173-87.7001	no backlighting required	1
 1C2-E-TEST-0173-87.7/005	low	DEP=1C2-E-TEST-0173-87.7007		
 1C2-E-TEST-0173-87.7/006	light	DEP=1C2-E-TEST-0173-87.7007		
 1C2-E-TEST-0173-87.7/007	conditions			
