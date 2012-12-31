@@ -1,5 +1,5 @@
 1C2-E-TEST-0087-2.100	"[102] In October 2011 the University of Texas System Board of Regents approved a $25 million funding program to build a 100,000 square feet (9,300ÃÂ m2) addition to the Naveen Jindal School of Management with an estimated completion date in 2014."			
-1C2-E-TEST-0087-2.100/001	Oct-11		october 2011	
+1C2-E-TEST-0087-2.100/001	11-Oct		october 2011	
 1C2-E-TEST-0087-2.100/002	university	DEP=1C2-E-TEST-0087-2.100001	university 	
 1C2-E-TEST-0087-2.100/003	texas		texas system board	1
 1C2-E-TEST-0087-2.100/004	regents		regents	1
@@ -36,7 +36,7 @@
 1C2-E-TEST-0087-2.101/014	2011	DEP=1C2-E-TEST-0087-2.101013		
 1C2-E-TEST-0087-2.101/015	approved			
 1C2-E-TEST-0087-2.103	"[105] In February 2012 the UT System Board of Regents approved a 172,000-square-foot (16,000ÃÂ m2) Bioengineering and Sciences Building to be completed in 2015."		 	
-1C2-E-TEST-0087-2.103/001	Feb-12		february 2012	
+1C2-E-TEST-0087-2.103/001	12-Feb		february 2012	
 1C2-E-TEST-0087-2.103/002	regents		system board	
 1C2-E-TEST-0087-2.103/003	"16,000 â m2"	DEP=1C2-E-TEST-0087-2.103010	regents	2
 1C2-E-TEST-0087-2.103/004	sciences building	DEP=1C2-E-TEST-0087-2.103011	"approved 172,000-square-foot"	2
@@ -134,7 +134,7 @@
 1C2-E-TEST-0087-2.117/004	quarterfinals		advance team 	
 1C2-E-TEST-0087-2.117/005	64th annual national debate tournament		quarterfinals	
 1C2-E-TEST-0087-2.117/006	cross examination debate association	DEP=1C2-E-TEST-0087-2.117005	64th annual national debate tournament	
-1C2-E-TEST-0087-2.117/007	Mar-10		cross examination debate association	
+1C2-E-TEST-0087-2.117/007	10-Mar		cross examination debate association	
 1C2-E-TEST-0087-2.117/008	university		held march 2010	
 1C2-E-TEST-0087-2.117/009	california berkeley		university	
 1C2-E-TEST-0087-2.117/010	finished		california berkeley	11
@@ -165,7 +165,7 @@
 1C2-E-TEST-0087-2.123/008	compete	DEP=1C2-E-TEST-0087-2.123001		
 1C2-E-TEST-0087-2.123/009	pre-law	DEP=1C2-E-TEST-0087-2.123001		
 1C2-E-TEST-0087-2.124	"[113] In November 2009, the UT Dallas team won the National Mediation Tournament championship in the advocate/client division."			
-1C2-E-TEST-0087-2.124/001	Nov-09		november 2009	
+1C2-E-TEST-0087-2.124/001	9-Nov		november 2009	
 1C2-E-TEST-0087-2.124/002	team	DEP=1C2-E-TEST-0087-2.124006	team	1
 1C2-E-TEST-0087-2.124/003	national mediation tournament championship	DEP=1C2-E-TEST-0087-2.124006	won national mediation tournament championship	2
 1C2-E-TEST-0087-2.124/004	advocate\/client division		advocate\/client division	3
@@ -184,7 +184,7 @@
 1C2-E-TEST-0087-2.126/010	win	DEP=1C2-E-TEST-0087-2.126009		
 1C2-E-TEST-0087-2.128	"[115] UTD received first, second and fourth place at the November 2010, South Central Regional Moot Court Championships."			
 1C2-E-TEST-0087-2.128/001	utd	DEP=1C2-E-TEST-0087-2.128004	utd	
-1C2-E-TEST-0087-2.128/002	Nov-10		received first second fourth place	1
+1C2-E-TEST-0087-2.128/002	10-Nov		received first second fourth place	1
 1C2-E-TEST-0087-2.128/003	south central regional moot court championships	DEP=1C2-E-TEST-0087-2.128002	november 2010	
 1C2-E-TEST-0087-2.128/004	115		south central regional moot court championships	2
 1C2-E-TEST-0087-2.128/005	received	DEP=1C2-E-TEST-0087-2.128001		
@@ -308,7 +308,7 @@
 1C2-E-TEST-0087-2.92/001	second	DEP=1C2-E-TEST-0087-2.92009	31 million 150000-square-foot 	
 1C2-E-TEST-0087-2.92/002	"14,000 â m2"	DEP=1C2-E-TEST-0087-2.92008	freshman residence hall north	1
 1C2-E-TEST-0087-2.92/003	freshman residence hall north	DEP=1C2-E-TEST-0087-2.92008	started july 2010	2
-1C2-E-TEST-0087-2.92/004	Jul-10		officially completed june 27  2011	2
+1C2-E-TEST-0087-2.92/004	10-Jul		officially completed june 27  2011	2
 1C2-E-TEST-0087-2.92/005	june 27 2011			
 1C2-E-TEST-0087-2.92/006	31			
 1C2-E-TEST-0087-2.92/007	million			
