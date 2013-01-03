@@ -1,0 +1,161 @@
+1C2-E-TEST-0005-124.12	"The biggest hit from this album was ""I Want Her"" and the title track from the album was hit #2 on the R&B charts."
+1C2-E-TEST-0005-124.12/001	biggest hit	DEP=1C2-E-TEST-0005-124.12002
+1C2-E-TEST-0005-124.12/002	album	DEP=1C2-E-TEST-0005-124.12003
+1C2-E-TEST-0005-124.12/003	I want her
+1C2-E-TEST-0005-124.12/004	title track	DEP=1C2-E-TEST-0005-124.12005
+1C2-E-TEST-0005-124.12/005	hit 2 r&b charts
+1C2-E-TEST-0005-124.6	"Keith Crier (born July 22, 1961 in Harlem, New York), better known as Keith Sweat, is an American R&B/soul, singer-songwriter, record producer and a major contributor to the New jack swing era."
+1C2-E-TEST-0005-124.6/001	crier
+1C2-E-TEST-0005-124.6/002	born
+1C2-E-TEST-0005-124.6/003	july 22 1961	DEP=1C2-E-TEST-0005-124.6002
+1C2-E-TEST-0005-124.6/004	harlem new york	DEP=1C2-E-TEST-0005-124.6002
+1C2-E-TEST-0005-124.6/005	american r&b soul
+1C2-E-TEST-0005-124.6/006	singer-songwriter	DEP=1C2-E-TEST-0005-124.6005
+1C2-E-TEST-0005-124.6/007	record producer	DEP=1C2-E-TEST-0005-124.6005
+1C2-E-TEST-0005-124.6/008	major contributor	DEP=1C2-E-TEST-0005-124.6009
+1C2-E-TEST-0005-124.6/009	new jack swing era
+1C2-E-TEST-0005-133.14	"Sweat reached the charts again with his second album I'll Give All My Love to You (1990) which hit #6 on the Billboard 200 chart, and Keep It Comin'(1991) which debuted in the top 20 of the album chart."
+1C2-E-TEST-0005-133.14/001	reached charts
+1C2-E-TEST-0005-133.14/002	second album	DEP=1C2-E-TEST-0005-133.14003
+1C2-E-TEST-0005-133.14/003	I'll give all my love to you
+1C2-E-TEST-0005-133.14/004	1990	DEP=1C2-E-TEST-0005-133.14003
+1C2-E-TEST-0005-133.14/005	hit 6	DEP=1C2-E-TEST-0005-133.14006
+1C2-E-TEST-0005-133.14/006	billboard 200 chart	DEP=1C2-E-TEST-0005-133.14002
+1C2-E-TEST-0005-133.14/007	keep it comin
+1C2-E-TEST-0005-133.14/008	1991	DEP=1C2-E-TEST-0005-133.14007
+1C2-E-TEST-0005-133.14/009	debuted top 20 album chart	DEP=1C2-E-TEST-0005-133.14007
+1C2-E-TEST-0005-147.12	"Additional members of the group included Peter DaCosta (vocals), Joseph McGeachy (sax), Dwight Banks (trumpet), and Kenneth Varner (keyboards)."
+1C2-E-TEST-0005-147.12/001	additional members
+1C2-E-TEST-0005-147.12/002	group
+1C2-E-TEST-0005-147.12/003	peter dacosta	DEP=1C2-E-TEST-0005-147.12001
+1C2-E-TEST-0005-147.12/004	vocals	DEP=1C2-E-TEST-0005-147.12003
+1C2-E-TEST-0005-147.12/005	joseph mcgeachy	DEP=1C2-E-TEST-0005-147.12001
+1C2-E-TEST-0005-147.12/006	sax	DEP=1C2-E-TEST-0005-147.12005
+1C2-E-TEST-0005-147.12/007	dwight banks	DEP=1C2-E-TEST-0005-147.12001
+1C2-E-TEST-0005-147.12/008	trumpet	DEP=1C2-E-TEST-0005-147.12007
+1C2-E-TEST-0005-147.12/009	kenneth varner	DEP=1C2-E-TEST-0005-147.12001
+1C2-E-TEST-0005-147.12/010	keyboards	DEP=1C2-E-TEST-0005-147.12009
+1C2-E-TEST-0005-164.11	"On November 25, 1987, Sweat released his debut album Make It Last Forever, which sold three million copies."
+1C2-E-TEST-0005-164.11/001	november 25 1987	DEP=1C2-E-TEST-0005-164.11002
+1C2-E-TEST-0005-164.11/002	released debut album	DEP=1C2-E-TEST-0005-164.11003
+1C2-E-TEST-0005-164.11/003	make it last forever
+1C2-E-TEST-0005-164.11/004	sold three million copies	DEP=1C2-E-TEST-0005-164.11003
+1C2-E-TEST-0005-164.12	"The biggest hit from this album was ""I Want Her"" (#1 R&B/#5 Pop), and the title track from the album was hit #2 on the R&B charts.ÃÂÃÂ  Sweat continued to chart fairly well with his sophomore album I'll Give All My Love To You, which hit #6 on the Billboard 200 chart, and Keep It Comin debuted in the Top 20 of the album chart.ÃÂÃÂ ÃÂÃÂ "
+1C2-E-TEST-0005-164.12/001	biggest hit	DEP=1C2-E-TEST-0005-164.12003
+1C2-E-TEST-0005-164.12/002	album
+1C2-E-TEST-0005-164.12/003	I want her
+1C2-E-TEST-0005-164.12/004	1 r&b	DEP=1C2-E-TEST-0005-164.12003
+1C2-E-TEST-0005-164.12/005	5 pop	DEP=1C2-E-TEST-0005-164.12003
+1C2-E-TEST-0005-164.12/006	title track
+1C2-E-TEST-0005-164.12/007	hit 2 r&b charts	DEP=1C2-E-TEST-0005-164.12006
+1C2-E-TEST-0005-164.12/008	continued chart fairly well
+1C2-E-TEST-0005-164.12/009	sophomore album	DEP=1C2-E-TEST-0005-164.12010
+1C2-E-TEST-0005-164.12/010	I'll give all my love to you
+1C2-E-TEST-0005-164.12/011	hit 6 billboard 200 chart	DEP=1C2-E-TEST-0005-164.12010
+1C2-E-TEST-0005-164.12/012	keep it comin
+1C2-E-TEST-0005-164.12/013	debuted top 20 album chart	DEP=1C2-E-TEST-0005-164.12012
+1C2-E-TEST-0005-2.18	"He released his third album, Keep It Comin' in 1991 which debuted in the top 20 of the album chart."
+1C2-E-TEST-0005-2.18/001	released third album	DEP=1C2-E-TEST-0005-2.18002
+1C2-E-TEST-0005-2.18/002	keep it comin
+1C2-E-TEST-0005-2.18/003	1991	DEP=1C2-E-TEST-0005-2.18001
+1C2-E-TEST-0005-2.18/004	debuted top 20 album chart	DEP=1C2-E-TEST-0005-2.18002
+1C2-E-TEST-0005-2.22	"Sweat released his fourth album Get Up on It in the summer of 1994, and his self-titled fifth album in 1996."
+1C2-E-TEST-0005-2.22/001	released fourth album	DEP=1C2-E-TEST-0005-2.22002
+1C2-E-TEST-0005-2.22/002	get up on it
+1C2-E-TEST-0005-2.22/003	summer 1994	DEP=1C2-E-TEST-0005-2.22001
+1C2-E-TEST-0005-2.22/004	self-titled fifth album
+1C2-E-TEST-0005-2.22/005	1996	DEP=1C2-E-TEST-0005-2.22004
+1C2-E-TEST-0005-2.34	"The single ""One on One"" reached #75 on the Billboard Hot 100 and #44 on the Hot R&B/Hip-Hop Singles & Tracks chart."
+1C2-E-TEST-0005-2.34/001	single	DEP=1C2-E-TEST-0005-2.34002
+1C2-E-TEST-0005-2.34/002	one on one
+1C2-E-TEST-0005-2.34/003	reached
+1C2-E-TEST-0005-2.34/004	75 billboard hot 100	DEP=1C2-E-TEST-0005-2.34003
+1C2-E-TEST-0005-2.34/005	44 hot r&b hip-hop singles track chart	DEP=1C2-E-TEST-0005-2.34003
+1C2-E-TEST-0005-2.8	"After leaving the group in 1984 to aspire for a solo career, he sang at nightclubs throughout New York City and landed a chance to record for the independent label, Stadium Records."
+1C2-E-TEST-0005-2.8/001	leaving group	DEP=1C2-E-TEST-0005-2.8003
+1C2-E-TEST-0005-2.8/002	1984	DEP=1C2-E-TEST-0005-2.8001
+1C2-E-TEST-0005-2.8/003	aspire solo career
+1C2-E-TEST-0005-2.8/004	sang nightclubs	DEP=1C2-E-TEST-0005-2.8005
+1C2-E-TEST-0005-2.8/005	new york city
+1C2-E-TEST-0005-2.8/006	landed chance	DEP=1C2-E-TEST-0005-2.8007
+1C2-E-TEST-0005-2.8/007	record independent label	DEP=1C2-E-TEST-0005-2.8008
+1C2-E-TEST-0005-2.8/008	stadium records
+1C2-E-TEST-0005-3.5	"Keith Sweat"" (born in Harlem, New York), is an R&B and soul singer."
+1C2-E-TEST-0005-3.5/001	born
+1C2-E-TEST-0005-3.5/002	harlem new york	DEP=1C2-E-TEST-0005-3.5001
+1C2-E-TEST-0005-3.5/003	r&b soul singer	DEP=1C2-E-TEST-0005-3.5001
+1C2-E-TEST-0005-30.2	"Keith Sweat is an R&B and Soul singer, songwriter and record producer."
+1C2-E-TEST-0005-30.2/001	r&b
+1C2-E-TEST-0005-30.2/002	soul singer songwriter
+1C2-E-TEST-0005-30.2/003	record producer
+1C2-E-TEST-0005-30.4	"Raised in Harlem, his music career began in the Harlem band, Jamilah, in 1975."
+1C2-E-TEST-0005-30.4/001	raised harlem
+1C2-E-TEST-0005-30.4/002	began music career	DEP=1C2-E-TEST-0005-30.4004
+1C2-E-TEST-0005-30.4/003	harlem band
+1C2-E-TEST-0005-30.4/004	jamilah
+1C2-E-TEST-0005-30.4/005	1975	DEP=1C2-E-TEST-0005-30.4002
+1C2-E-TEST-0005-35.12	"With the help of Jamilah, Sweat was able to hone his craft as a lead singer by performing regionally throughout the tri-State area of New York , New Jersey and Connecticut ."
+1C2-E-TEST-0005-35.12/001	jamilah
+1C2-E-TEST-0005-35.12/002	hone craft	DEP=1C2-E-TEST-0005-35.12002
+1C2-E-TEST-0005-35.12/003	lead singer
+1C2-E-TEST-0005-35.12/004	performing regionally	DEP=1C2-E-TEST-0005-35.12005
+1C2-E-TEST-0005-35.12/005	tri-state area
+1C2-E-TEST-0005-35.12/006	new york	DEP=1C2-E-TEST-0005-35.12005
+1C2-E-TEST-0005-35.12/007	new jersey	DEP=1C2-E-TEST-0005-35.12005
+1C2-E-TEST-0005-35.12/008	connecticut	DEP=1C2-E-TEST-0005-35.12005
+1C2-E-TEST-0005-35.8	"Keith Sweat (born July 22, 1961) is an American R&B / soul , singer-songwriter , record producer , radio personality and an innovator of the New Jack Swing ."
+1C2-E-TEST-0005-35.8/001	born
+1C2-E-TEST-0005-35.8/002	july 22 1961	DEP=1C2-E-TEST-0005-35.8001
+1C2-E-TEST-0005-35.8/003	american r&b soul
+1C2-E-TEST-0005-35.8/004	singer-songwriter	DEP=1C2-E-TEST-0005-35.8003
+1C2-E-TEST-0005-35.8/005	record producer	DEP=1C2-E-TEST-0005-35.8003
+1C2-E-TEST-0005-35.8/006	radio personality	DEP=1C2-E-TEST-0005-35.8003
+1C2-E-TEST-0005-35.8/007	innovator new jack swing
+1C2-E-TEST-0005-4.16	In November 1987 Keith Sweat released his debut album Make It Last Forever and set his path towards fame and success .
+1C2-E-TEST-0005-4.16/001	november 1987	DEP=1C2-E-TEST-0005-4.16002
+1C2-E-TEST-0005-4.16/002	released debut album	DEP=1C2-E-TEST-0005-4.16003
+1C2-E-TEST-0005-4.16/003	make it last forever
+1C2-E-TEST-0005-4.16/004	set path towards	DEP=1C2-E-TEST-0005-4.16005
+1C2-E-TEST-0005-4.16/005	fame success
+1C2-E-TEST-0005-40.13	"Sweat started his musical career as a member of a well known Harlem band called ""Jamilah"" in 1975."
+1C2-E-TEST-0005-40.13/001	started musical career	DEP=1C2-E-TEST-0005-40.13002
+1C2-E-TEST-0005-40.13/002	member	DEP=1C2-E-TEST-0005-40.13003
+1C2-E-TEST-0005-40.13/003	well known	DEP=1C2-E-TEST-0005-40.13004
+1C2-E-TEST-0005-40.13/004	harlem band	DEP=1C2-E-TEST-0005-40.13005
+1C2-E-TEST-0005-40.13/005	jamilah
+1C2-E-TEST-0005-40.13/006	1975	DEP=1C2-E-TEST-0005-40.13001
+1C2-E-TEST-0005-40.24	Sweat released his fourth album Get Up On It in the summer of 1994.
+1C2-E-TEST-0005-40.24/001	released fourth album	DEP=1C2-E-TEST-0005-40.24002
+1C2-E-TEST-0005-40.24/002	get up on it
+1C2-E-TEST-0005-40.24/003	summer 1994	DEP=1C2-E-TEST-0005-40.24001
+1C2-E-TEST-0005-40.25	"He followed with Keith Sweat, his self-titled fifth album, in 1996, which hit #5 on the Billboard 200."
+1C2-E-TEST-0005-40.25/001	self-titled fifth album
+1C2-E-TEST-0005-40.25/002	1996
+1C2-E-TEST-0005-40.25/003	hit 5 billboard 200
+1C2-E-TEST-0005-40.26	"The single ""Twisted"" hit #2 on the Billboard Hot 100 and ""Nobody"" hit #3, which made them Sweat's biggest hits to date."
+1C2-E-TEST-0005-40.26/001	single
+1C2-E-TEST-0005-40.26/002	twisted	DEP=1C2-E-TEST-0005-40.26006
+1C2-E-TEST-0005-40.26/003	hit 2	DEP=1C2-E-TEST-0005-40.26002
+1C2-E-TEST-0005-40.26/004	nobody	DEP=1C2-E-TEST-0005-40.26006
+1C2-E-TEST-0005-40.26/005	hit 3	DEP=1C2-E-TEST-0005-40.26004
+1C2-E-TEST-0005-40.26/006	biggest hit
+1C2-E-TEST-0005-40.36	"On , 2002, Keith Sweat released his ninth album, Rebirth."
+1C2-E-TEST-0005-40.36/001	2002	DEP=1C2-E-TEST-0005-40.36002
+1C2-E-TEST-0005-40.36/002	released ninth album	DEP=1C2-E-TEST-0005-40.36003
+1C2-E-TEST-0005-40.36/003	rebirth
+1C2-E-TEST-0005-40.4	"Before becoming a recording artist, Sweat worked for the commodities market in the New York Mercantile Exchange."
+1C2-E-TEST-0005-40.4/001	recording artist
+1C2-E-TEST-0005-40.4/002	worked commodities market	DEP=1C2-E-TEST-0005-40.4003
+1C2-E-TEST-0005-40.4/003	new york mercantile exchange
+1C2-E-TEST-0005-40.5	He sang at nightclubs throughout New York City until he was discovered and offered a recording contract with Elektra Records in 1987.
+1C2-E-TEST-0005-40.5/001	sang nightclubs	DEP=1C2-E-TEST-0005-40.5002
+1C2-E-TEST-0005-40.5/002	new york city
+1C2-E-TEST-0005-40.5/003	discovered offered	DEP=1C2-E-TEST-0005-40.5004
+1C2-E-TEST-0005-40.5/004	recording contract	DEP=1C2-E-TEST-0005-40.5005
+1C2-E-TEST-0005-40.5/005	elektra records
+1C2-E-TEST-0005-40.5/006	1987	DEP=1C2-E-TEST-0005-40.5003
+1C2-E-TEST-0005-46.12	Make It Last Forever era: 1985-1993 Sweat started his musical career ...
+1C2-E-TEST-0005-46.12/001	make it last forever	DEP=1C2-E-TEST-0005-46.12002
+1C2-E-TEST-0005-46.12/002	era
+1C2-E-TEST-0005-46.12/003	1985-1993	DEP=1C2-E-TEST-0005-46.12004
+1C2-E-TEST-0005-46.12/004	started musical career
