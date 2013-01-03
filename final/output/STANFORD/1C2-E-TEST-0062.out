@@ -1,0 +1,207 @@
+1C2-E-TEST-0062-123.19	"Whether it was wearing Bible verses under my eyes in college, or wearing John 3:16 in the national championship game ÃÂ¢Ã¢ÂÂ¬ÃÂ¦ Because every time I do that, thatÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s humbling for me because I know where my strength comes from."
+1C2-E-TEST-0062-123.19/001	wearing bible verses	DEP=1C2-E-TEST-0062-123.19002
+1C2-E-TEST-0062-123.19/002	eyes	DEP=1C2-E-TEST-0062-123.19003
+1C2-E-TEST-0062-123.19/003	college
+1C2-E-TEST-0062-123.19/004	wearing john 3:16	DEP=1C2-E-TEST-0062-123.19005
+1C2-E-TEST-0062-123.19/005	national championship game
+1C2-E-TEST-0062-123.19/006	know	DEP=1C2-E-TEST-0062-123.19007
+1C2-E-TEST-0062-123.19/007	strength comes from
+1C2-E-TEST-0062-146.17	"For readers who donÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢t follow the NFL, let me explain that Tim Tebow is a Heisman trophy winner who led the University of Florida to two mythical national collegiate championships."
+1C2-E-TEST-0062-146.17/001	readers	DEP=1C2-E-TEST-0062-146.17002
+1C2-E-TEST-0062-146.17/002	don't follow	DEP=1C2-E-TEST-0062-146.17003
+1C2-E-TEST-0062-146.17/003	nfl
+1C2-E-TEST-0062-146.17/004	heisman trophy winner
+1C2-E-TEST-0062-146.17/005	led	DEP=1C2-E-TEST-0062-146.17006
+1C2-E-TEST-0062-146.17/006	university florida	DEP=1C2-E-TEST-0062-146.17007
+1C2-E-TEST-0062-146.17/007	two mythical national collegiate championships
+1C2-E-TEST-0062-146.18	"Many consider Tebow the greatest college football player ever, although there is a lot of skepticism about whether his skills will translate to the pro game."		consider
+1C2-E-TEST-0062-146.18/001	greatest college football player
+1C2-E-TEST-0062-146.18/002	lot skepticism	DEP=1C2-E-TEST-0062-146.18004
+1C2-E-TEST-0062-146.18/003	skills translate	DEP=1C2-E-TEST-0062-146.18005
+1C2-E-TEST-0062-146.18/004	pro game
+1C2-E-TEST-0062-146.18/006	notoriety	DEP=1C2-E-TEST-0062-146.18002
+1C2-E-TEST-0062-198.13	"Thanks to the notoriety, the 2007 Heisman Trophy winner at the University of Florida -- a burly specimen who lacks the passing touch of most NFL quarterbacks -- can command about $500,000 annually from sponsorship deals."		2007 heisman tropphy winner	3
+1C2-E-TEST-0062-198.13/001	university florida
+1C2-E-TEST-0062-198.13/002	burly specimen
+1C2-E-TEST-0062-198.13/003	lacks passing touch	DEP=1C2-E-TEST-0062-198.13006
+1C2-E-TEST-0062-198.13/004	nfl quaterbacks
+1C2-E-TEST-0062-198.13/005	"command 500,000 anually"	DEP=1C2-E-TEST-0062-198.13008
+1C2-E-TEST-0062-198.13/006	sponsorship deals
+1C2-E-TEST-0062-198.2	NFL quarterback Tim Tebow has become a genuine media star since being named a starter in October and leading the slumping Denver Broncos to five wins in his first six games and into playoff contention.
+1C2-E-TEST-0062-198.2/001	nfl quaterback
+1C2-E-TEST-0062-198.2/002	gunuine media star
+1C2-E-TEST-0062-198.2/003	named starter	DEP=1C2-E-TEST-0062-198.2004
+1C2-E-TEST-0062-198.2/004	october
+1C2-E-TEST-0062-198.2/005	leading	DEP=1C2-E-TEST-0062-198.2006
+1C2-E-TEST-0062-198.2/006	slumping	DEP=1C2-E-TEST-0062-198.2007
+1C2-E-TEST-0062-198.2/007	denver broncos
+1C2-E-TEST-0062-198.2/008	five wins	DEP=1C2-E-TEST-0062-198.2009
+1C2-E-TEST-0062-198.2/009	first six games
+1C2-E-TEST-0062-198.2/010	playoff contention	DEP=1C2-E-TEST-0062-198.2008
+1C2-E-TEST-0062-24.10	"ÃÂ¢Ã¢ÂÂ¬ÃÂTim TebowÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s success as the quarterback of the Denver Broncos has done little to silence his critics, who believe that his faith in Jesus Christ has no business on the football field,ÃÂ¢Ã¢ÂÂ¬ÃÂ writes Todd Starnes."
+1C2-E-TEST-0062-24.10/001	success	DEP=1C2-E-TEST-0062-24.10002
+1C2-E-TEST-0062-24.10/002	quaterback	DEP=1C2-E-TEST-0062-24.10003
+1C2-E-TEST-0062-24.10/003	denver broncos
+1C2-E-TEST-0062-24.10/004	little	DEP=1C2-E-TEST-0062-24.10005
+1C2-E-TEST-0062-24.10/005	silence critics
+1C2-E-TEST-0062-24.10/006	faith jesus christ	DEP=1C2-E-TEST-0062-24.10007
+1C2-E-TEST-0062-24.10/007	no business	DEP=1C2-E-TEST-0062-24.10008
+1C2-E-TEST-0062-24.10/008	football field
+1C2-E-TEST-0062-24.10/009	todd starnes
+1C2-E-TEST-0062-24.11	ÃÂ¢Ã¢ÂÂ¬ÃÂIt doesnÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢t matter how many touchdown passes he throws or how many games he wins because Tebow will always be a lightning rod for anti-Christian bigots.ÃÂ¢Ã¢ÂÂ¬ÃÂ
+1C2-E-TEST-0062-24.11/001	doesn't matter
+1C2-E-TEST-0062-24.11/002	touchdown passes throws	DEP=1C2-E-TEST-0062-24.11001
+1C2-E-TEST-0062-24.11/003	games wins	DEP=1C2-E-TEST-0062-24.11001
+1C2-E-TEST-0062-24.11/004	lightning rod	DEP=1C2-E-TEST-0062-24.11005
+1C2-E-TEST-0062-24.11/005	anti-christian bigots
+1C2-E-TEST-0062-24.48	But nothing Tebow does on the football field or off it is going to make me feel any different about abortion ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ no matter how strongly he comes out against it.
+1C2-E-TEST-0062-24.48/001	football field
+1C2-E-TEST-0062-24.48/002	make feel different	DEP=1C2-E-TEST-0062-24.48003
+1C2-E-TEST-0062-24.48/003	abortion
+1C2-E-TEST-0062-24.48/004	strongly against
+1C2-E-TEST-0062-84.20	"To his most ardent Christian supporters, Tebow is not merely a quarterback, but JesusÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢ champion on the football field."
+1C2-E-TEST-0062-84.20/001	ardent christian supporters
+1C2-E-TEST-0062-84.20/002	not merely quaterback
+1C2-E-TEST-0062-84.20/003	jesus champion	DEP=1C2-E-TEST-0062-84.20004
+1C2-E-TEST-0062-84.20/004	football field
+1C2-E-TEST-0062-84.23	"As with Tebow, as with the larger ongoing national argument about evangelical Christians and their place in culture and politics: two American cultures butting heads, seeing only the worst in the other, and over-reacting to perceived slights and threats."
+1C2-E-TEST-0062-84.23/001	larger ongoing national argument	DEP=1C2-E-TEST-0062-84.23002
+1C2-E-TEST-0062-84.23/002	evangelical christians
+1C2-E-TEST-0062-84.23/003	place culture politics	DEP=1C2-E-TEST-0062-84.23002
+1C2-E-TEST-0062-84.23/004	two american cultures	DEP=1C2-E-TEST-0062-84.23005
+1C2-E-TEST-0062-84.23/005	butting heads
+1C2-E-TEST-0062-84.23/006	seeing worst
+1C2-E-TEST-0062-84.23/007	over-reacting	DEP=1C2-E-TEST-0062-84.23008
+1C2-E-TEST-0062-84.23/008	percieved slights threats
+1C2-E-TEST-0062-9.13	"A dual-threat quarterback who can run and pass, he was used in his freshman season largely as a change-of-pace to the Gators' more traditional pocket passer, Chris Leak. His contribution as a key reserve helped the Gators win college football's national championship game for the first time since 1996."
+1C2-E-TEST-0062-9.13/001	dual-threat	DEP=1C2-E-TEST-0062-9.13002
+1C2-E-TEST-0062-9.13/002	quaterback
+1C2-E-TEST-0062-9.13/003	run pass	DEP=1C2-E-TEST-0062-9.13002
+1C2-E-TEST-0062-9.13/004	used freshman season
+1C2-E-TEST-0062-9.13/005	largely change-of-pace	DEP=1C2-E-TEST-0062-9.13006
+1C2-E-TEST-0062-9.13/006	gators	DEP=1C2-E-TEST-0062-9.13007
+1C2-E-TEST-0062-9.13/007	traditional pocket passer
+1C2-E-TEST-0062-9.13/008	chris leak	DEP=1C2-E-TEST-0062-9.13007
+1C2-E-TEST-0062-9.13/009	contribution	DEP=1C2-E-TEST-0062-9.13010
+1C2-E-TEST-0062-9.13/010	key reserve
+1C2-E-TEST-0062-9.13/011	helped gators win	DEP=1C2-E-TEST-0062-9.13012
+1C2-E-TEST-0062-9.13/012	college football national championship game
+1C2-E-TEST-0062-9.13/013	1996
+1C2-E-TEST-0062-9.15	He also became the first NCAA player to rush and pass for 20 touchdowns in a season. His performance has made him among the polled favorites for the 2007 Heisman trophy
+1C2-E-TEST-0062-9.15/001	first	DEP=1C2-E-TEST-0062-9.15002
+1C2-E-TEST-0062-9.15/002	ncaa player
+1C2-E-TEST-0062-9.15/003	rush pass	DEP=1C2-E-TEST-0062-9.15004
+1C2-E-TEST-0062-9.15/004	20 touchdowns	DEP=1C2-E-TEST-0062-9.15005
+1C2-E-TEST-0062-9.15/005	season
+1C2-E-TEST-0062-9.15/006	performance	DEP=1C2-E-TEST-0062-9.15007
+1C2-E-TEST-0062-9.15/007	polled favorites	DEP=1C2-E-TEST-0062-9.15008
+1C2-E-TEST-0062-9.15/008	2007 heisman tropphy
+1C2-E-TEST-0062-9.16	"The fifth child of Bob and Pam Tebow, both of whom are University of Florida graduates, Tim was born on August 14, 1987 in the Philippines, where his parents were serving as Christian missionaries."
+1C2-E-TEST-0062-9.16/001	fifth child	DEP=1C2-E-TEST-0062-9.16002
+1C2-E-TEST-0062-9.16/002	bob pam
+1C2-E-TEST-0062-9.16/003	university florida	DEP=1C2-E-TEST-0062-9.16004
+1C2-E-TEST-0062-9.16/004	graduates	DEP=1C2-E-TEST-0062-9.16002
+1C2-E-TEST-0062-9.16/005	born
+1C2-E-TEST-0062-9.16/006	august 14 1987	DEP=1C2-E-TEST-0062-9.16005
+1C2-E-TEST-0062-9.16/007	philippines	DEP=1C2-E-TEST-0062-9.16005
+1C2-E-TEST-0062-9.16/008	parents serving	DEP=1C2-E-TEST-0062-9.16007
+1C2-E-TEST-0062-9.16/009	christian missionaries	DEP=1C2-E-TEST-0062-9.16008
+1C2-E-TEST-0062-9.17	All of the Tebow children were homeschooled by their mother who also worked to instill the family's deep religious beliefs along the way.
+1C2-E-TEST-0062-9.17/001	children	DEP=1C2-E-TEST-0062-9.17002
+1C2-E-TEST-0062-9.17/002	homeschooled	DEP=1C2-E-TEST-0062-9.17003
+1C2-E-TEST-0062-9.17/003	mother
+1C2-E-TEST-0062-9.17/004	instill	DEP=1C2-E-TEST-0062-9.17005
+1C2-E-TEST-0062-9.17/005	family deep religious beliefs
+1C2-E-TEST-0062-9.24	"The 6'3"", 225 lb (1.91 m, 102 kg) quarterback continued to impress during his senior season, leading the Nease Panthers to a state title, earning All-State honors, was named Florida's Mr. Football and a Parade All-American."
+1C2-E-TEST-0062-9.24/001	"6'3"""
+1C2-E-TEST-0062-9.24/002	225 lb
+1C2-E-TEST-0062-9.24/003	1.91 m	DEP=1C2-E-TEST-0062-9.24001
+1C2-E-TEST-0062-9.24/004	102 kg	DEP=1C2-E-TEST-0062-9.24002
+1C2-E-TEST-0062-9.24/005	quaterback
+1C2-E-TEST-0062-9.24/006	continued impress	DEP=1C2-E-TEST-0062-9.24007
+1C2-E-TEST-0062-9.24/007	senior season
+1C2-E-TEST-0062-9.24/008	leading nease panthers	DEP=1C2-E-TEST-0062-9.24009
+1C2-E-TEST-0062-9.24/009	state title
+1C2-E-TEST-0062-9.24/010	earning all-state honors
+1C2-E-TEST-0062-9.24/011	named florida	DEP=1C2-E-TEST-0062-9.24012
+1C2-E-TEST-0062-9.24/012	mr. football
+1C2-E-TEST-0062-9.24/013	parade all-american
+1C2-E-TEST-0062-9.26	"He played in the U.S. Army All-American Bowl Game in San Antonio, Texas which features the top 78 senior high school football players in the nation and is shown nationally on NBC television."
+1C2-E-TEST-0062-9.26/001	played	DEP=1C2-E-TEST-0062-9.26002
+1C2-E-TEST-0062-9.26/002	u.s. army	DEP=1C2-E-TEST-0062-9.26003
+1C2-E-TEST-0062-9.26/003	all-american bowl game
+1C2-E-TEST-0062-9.26/004	san antonio	DEP=1C2-E-TEST-0062-9.26005
+1C2-E-TEST-0062-9.26/005	texas
+1C2-E-TEST-0062-9.26/006	features top 78 senior high school football players	DEP=1C2-E-TEST-0062-9.26007
+1C2-E-TEST-0062-9.26/007	nation
+1C2-E-TEST-0062-9.26/008	shown nationally nbc television
+1C2-E-TEST-0062-9.28	"Tebow was considered one of the nation's top recruits and was the subject of an ESPN ""Faces in Sports"" documentary."
+1C2-E-TEST-0062-9.28/001	considered	DEP=1C2-E-TEST-0062-9.28002
+1C2-E-TEST-0062-9.28/002	nation top recruits
+1C2-E-TEST-0062-9.28/003	subject espn	DEP=1C2-E-TEST-0062-9.28004
+1C2-E-TEST-0062-9.28/004	faces sports	DEP=1C2-E-TEST-0062-9.28005
+1C2-E-TEST-0062-9.28/005	documentary
+1C2-E-TEST-0062-9.30	"Tim Tebow was also featured in Sports Illustrated on the ""Faces in the Crowd"" page."
+1C2-E-TEST-0062-9.30/001	featured	DEP=1C2-E-TEST-0062-9.30002
+1C2-E-TEST-0062-9.30/002	sports illustrated
+1C2-E-TEST-0062-9.30/003	faces crowd page	DEP=1C2-E-TEST-0062-9.30002
+1C2-E-TEST-0062-9.31	"On January 7, 2007, Tebow was featured prominently in an ESPN ""Outside The Lines"" feature on homeschooled athletes seeking equal access to high school athletics in other states."
+1C2-E-TEST-0062-9.31/001	january 7 2007	DEP=1C2-E-TEST-0062-9.31002
+1C2-E-TEST-0062-9.31/002	featured prominently	DEP=1C2-E-TEST-0062-9.31003
+1C2-E-TEST-0062-9.31/003	espn	DEP=1C2-E-TEST-0062-9.31004
+1C2-E-TEST-0062-9.31/004	outside lines
+1C2-E-TEST-0062-9.31/005	feature	DEP=1C2-E-TEST-0062-9.31006
+1C2-E-TEST-0062-9.31/006	homeschooled athletes
+1C2-E-TEST-0062-9.31/007	seeking equal access	DEP=1C2-E-TEST-0062-9.31008
+1C2-E-TEST-0062-9.31/008	high school athletics
+1C2-E-TEST-0062-9.44	"Tebow was named as one of the ""Breakout Players of 2007"" for college football by Sporting News , and will start at quarterback for the Florida Gators in the 2007 season. The Gators' offense in 2007 should be similar to what Urban Meyer used at Utah, since Meyer views Tebow as ""very similar to Alex Smith."""
+1C2-E-TEST-0062-9.44/001	named	DEP=1C2-E-TEST-0062-9.44002
+1C2-E-TEST-0062-9.44/002	breakout players 2007	DEP=1C2-E-TEST-0062-9.44003
+1C2-E-TEST-0062-9.44/003	college football
+1C2-E-TEST-0062-9.44/004	sporting news	DEP=1C2-E-TEST-0062-9.44001
+1C2-E-TEST-0062-9.44/005	start	DEP=1C2-E-TEST-0062-9.44006
+1C2-E-TEST-0062-9.44/006	quaterback
+1C2-E-TEST-0062-9.44/007	florida gators	DEP=1C2-E-TEST-0062-9.44008
+1C2-E-TEST-0062-9.44/008	2007 season
+1C2-E-TEST-0062-9.44/009	gators offense 2007	DEP=1C2-E-TEST-0062-9.44010
+1C2-E-TEST-0062-9.44/010	similar	DEP=1C2-E-TEST-0062-9.44011
+1C2-E-TEST-0062-9.44/011	urban meyer utah
+1C2-E-TEST-0062-9.44/012	meyer views	DEP=1C2-E-TEST-0062-9.44013
+1C2-E-TEST-0062-9.44/013	similar alex smith
+1C2-E-TEST-0062-9.65	"This is a video I compiled of Tim Tebow's miraculous story, the son of missionaries in the Philippines whose mother almost died and Tim almost died several times."
+1C2-E-TEST-0062-9.65/001	video
+1C2-E-TEST-0062-9.65/002	compiled
+1C2-E-TEST-0062-9.65/003	miraculous story
+1C2-E-TEST-0062-9.65/004	son missionaries	DEP=1C2-E-TEST-0062-9.65005
+1C2-E-TEST-0062-9.65/005	philippines
+1C2-E-TEST-0062-9.65/006	mother almost died
+1C2-E-TEST-0062-9.75	Tim Tebow threw three touchdown passes ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ including the decisive score with just under 3 minutes remaining ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ to lead the No. 2 Gators to a 31-20 victory over No. 1 Alabama in the Southeastern Conference championship game on Saturday.
+1C2-E-TEST-0062-9.75/001	threw three touchdown passes	DEP=1C2-E-TEST-0062-9.75002
+1C2-E-TEST-0062-9.75/002	decisive score
+1C2-E-TEST-0062-9.75/003	3 minutes remaining	DEP=1C2-E-TEST-0062-9.75002
+1C2-E-TEST-0062-9.75/004	lead no. 2 gator	DEP=1C2-E-TEST-0062-9.75005
+1C2-E-TEST-0062-9.75/005	31-20 victory	DEP=1C2-E-TEST-0062-9.75006
+1C2-E-TEST-0062-9.75/006	no. 1 alabama
+1C2-E-TEST-0062-9.75/007	southeastern conference championship game	DEP=1C2-E-TEST-0062-9.75008
+1C2-E-TEST-0062-9.75/008	Saturday
+1C2-E-TEST-0062-9.78	Tebow has led the Gators to a 12-1 record in 2008.
+1C2-E-TEST-0062-9.78/001	led gators	DEP=1C2-E-TEST-0062-9.78002
+1C2-E-TEST-0062-9.78/002	12-1 record	DEP=1C2-E-TEST-0062-9.78003
+1C2-E-TEST-0062-9.78/003	2008
+1C2-E-TEST-0062-9.81	"On December 13, 2008, Tim Tebow finished third in the 2008 Heisman Trophy voting with Oklahoma's Sam Bradford taking the top spot followed by Texas' Colt McCoy, despite Tebow receiving the most first-place votes. Tim Tebow also won the Maxwell Award in 2008, becoming only the second player to win the award twice"
+1C2-E-TEST-0062-9.81/001	december 13 2008	DEP=1C2-E-TEST-0062-9.81002
+1C2-E-TEST-0062-9.81/002	finished third	DEP=1C2-E-TEST-0062-9.81003
+1C2-E-TEST-0062-9.81/003	2008 heisman trophy voting
+1C2-E-TEST-0062-9.81/004	oklahoma 	DEP=1C2-E-TEST-0062-9.81005
+1C2-E-TEST-0062-9.81/005	sam bradford	DEP=1C2-E-TEST-0062-9.81006
+1C2-E-TEST-0062-9.81/006	taking top spot
+1C2-E-TEST-0062-9.81/007	followed
+1C2-E-TEST-0062-9.81/008	texas	DEP=1C2-E-TEST-0062-9.81009
+1C2-E-TEST-0062-9.81/009	colt mccoy
+1C2-E-TEST-0062-9.81/010	despite receiving most	DEP=1C2-E-TEST-0062-9.81011
+1C2-E-TEST-0062-9.81/011	first-place votes
+1C2-E-TEST-0062-9.81/012	won	DEP=1C2-E-TEST-0062-9.81013
+1C2-E-TEST-0062-9.81/013	maxwell award	DEP=1C2-E-TEST-0062-9.81014
+1C2-E-TEST-0062-9.81/014	2008
+1C2-E-TEST-0062-9.81/015	second player	DEP=1C2-E-TEST-0062-9.81016
+1C2-E-TEST-0062-9.81/016	win award twice

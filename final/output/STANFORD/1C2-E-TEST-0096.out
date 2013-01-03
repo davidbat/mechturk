@@ -271,7 +271,7 @@
 1C2-E-TEST-0096-60.52/006	november 15 2005
 1C2-E-TEST-0096-60.52/007	correct neighbourhood
 1C2-E-TEST-0096-60.52/008	63.215.27.57 19:23
-1C2-E-TEST-0096-60.52/009	18-Jun-07
+1C2-E-TEST-0096-60.52/009	18 june 2007
 1C2-E-TEST-0096-60.52/010	utc
 1C2-E-TEST-0096-60.52/011	steve
 1C2-E-TEST-0096-60.9	"Nah, looks like this one is permanent - [2] ""Despite Thursday's announcement that TD Banknorth agreed to a 20-year, $150 million naming-rights pact, the Celtics' home arena will be called the FleetCenter until July 1."
@@ -281,4 +281,4 @@
 1C2-E-TEST-0096-60.9/004	naming-rights pact	DEP=1C2-E-TEST-0096-60.9003
 1C2-E-TEST-0096-60.9/005	celtics home arena	DEP=1C2-E-TEST-0096-60.9004
 1C2-E-TEST-0096-60.9/006	fleetcenter	DEP=1C2-E-TEST-0096-60.9005
-1C2-E-TEST-0096-60.9/007	Jul-01
+1C2-E-TEST-0096-60.9/007	july 1
