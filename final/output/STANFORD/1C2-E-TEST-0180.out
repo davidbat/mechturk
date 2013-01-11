@@ -1,0 +1,200 @@
+1C2-E-TEST-0180-113.48	One study determined that purring involves activation of nerves within the voice box.
+1C2-E-TEST-0180-113.48/001	study determined
+1C2-E-TEST-0180-113.48/002	purring involves	DEP=1C2-E-TEST-0180-113.48003
+1C2-E-TEST-0180-113.48/003	activation nerves	DEP=1C2-E-TEST-0180-113.48004
+1C2-E-TEST-0180-113.48/004	voice box
+1C2-E-TEST-0180-119.24	"Kittens instinctively purr when nursing, and the mother cat purrs right back at them."
+1C2-E-TEST-0180-119.24/001	kittens
+1C2-E-TEST-0180-119.24/002	instinctively
+1C2-E-TEST-0180-119.24/003	nursing
+1C2-E-TEST-0180-142.28	"Older cats may purr when they play or approach other cats, signaling that they are friendly and want to come closer."
+1C2-E-TEST-0180-142.28/001	older
+1C2-E-TEST-0180-142.28/002	play
+1C2-E-TEST-0180-142.28/003	approach other
+1C2-E-TEST-0180-142.28/004	signaling friendly
+1C2-E-TEST-0180-142.28/005	come close
+1C2-E-TEST-0180-142.32	"Whatever the explanation for purring, it seems to indicate cats' contentment and is associated with improvement in their affect at times of stress."
+1C2-E-TEST-0180-142.32/001	indicate contentment
+1C2-E-TEST-0180-142.32/002	associated
+1C2-E-TEST-0180-142.32/003	improvement	DEP=1C2-E-TEST-0180-142.32004
+1C2-E-TEST-0180-142.32/004	times strees
+1C2-E-TEST-0180-142.6	We may not always hear the purring Ã¢ÂÂ a soft vibrating rumble Ã¢ÂÂ but we can feel it.
+1C2-E-TEST-0180-142.6/001	not always hear
+1C2-E-TEST-0180-142.6/002	purring
+1C2-E-TEST-0180-142.6/003	soft vibrating rumble	DEP=1C2-E-TEST-0180-142.6002
+1C2-E-TEST-0180-142.6/004	feel it	DEP=1C2-E-TEST-0180-142.6002
+1C2-E-TEST-0180-168.20	The other theory is that the sound comes more from vibrating blood vessels than in the voicebox itself. ÃÂ³
+1C2-E-TEST-0180-168.20/001	theory	DEP=1C2-E-TEST-0180-168.20002
+1C2-E-TEST-0180-168.20/002	sound comes
+1C2-E-TEST-0180-168.20/003	vibrating blood vessels	DEP=1C2-E-TEST-0180-168.20002
+1C2-E-TEST-0180-21.32	"However, science has shown that the cat's purr is much more than just relaxing, it is the vibration that it produces that is the key!"
+1C2-E-TEST-0180-21.32/001	relaxing
+1C2-E-TEST-0180-21.32/002	vibration	DEP=1C2-E-TEST-0180-21.32002
+1C2-E-TEST-0180-21.32/003	produces
+1C2-E-TEST-0180-21.32/004	key
+1C2-E-TEST-0180-21.6	"A kitten is able to purr by the second day of life, and although he can't meow and nurse at the same time, he can purr and nurse."
+1C2-E-TEST-0180-21.6/001	able	DEP=1C2-E-TEST-0180-21.6002
+1C2-E-TEST-0180-21.6/002	second day life
+1C2-E-TEST-0180-21.6/003	can't meow nurse
+1C2-E-TEST-0180-21.7	"And the mother cat often purrs back, probably to reassure the kitten."
+1C2-E-TEST-0180-21.7/001	purrs back	DEP=1C2-E-TEST-0180-21.7002
+1C2-E-TEST-0180-21.7/002	reassure kitten
+1C2-E-TEST-0180-21.7/003	mother cat	DEP=1C2-E-TEST-0180-21.7001
+1C2-E-TEST-0180-22.25	"Veterinarian Neils C. Pederson, author of Feline Husbandry, believes that purring is initiated from within the central nervous system and is a voluntary act."
+1C2-E-TEST-0180-22.25/001	veterinarian
+1C2-E-TEST-0180-22.25/002	neils c pederson
+1C2-E-TEST-0180-22.25/003	author
+1C2-E-TEST-0180-22.28	"It is classified with the Ã¢ÂÂmurmur vocalizationÃ¢ÂÂ group, which involves sounds produced by a cat while the mouth is closed."
+1C2-E-TEST-0180-22.28/001	murmur vocalization group	DEP=1C2-E-TEST-0180-22.28003
+1C2-E-TEST-0180-22.28/002	classified
+1C2-E-TEST-0180-22.28/003	involves sound produced	DEP=1C2-E-TEST-0180-22.28004
+1C2-E-TEST-0180-22.28/004	mouth closed
+1C2-E-TEST-0180-22.32	"Some cats purr to indicate contentment or pleasure, but badly frightened cats and severely ill cats also purr, and so do females while they are delivering their kittens."
+1C2-E-TEST-0180-22.32/001	indicate
+1C2-E-TEST-0180-22.32/002	pleasure	DEP=1C2-E-TEST-0180-22.32001
+1C2-E-TEST-0180-22.32/003	contentment	DEP=1C2-E-TEST-0180-22.32001
+1C2-E-TEST-0180-22.32/004	badly frightened
+1C2-E-TEST-0180-22.32/005	severly ill
+1C2-E-TEST-0180-22.32/006	females delivering kittens
+1C2-E-TEST-0180-22.52	"No one knows for sure why a domestic cat purrs, but many people interpret the sound as one of contentment."
+1C2-E-TEST-0180-22.52/001	domestic cat
+1C2-E-TEST-0180-22.52/002	interpret	DEP=1C2-E-TEST-0180-22.52003
+1C2-E-TEST-0180-22.52/003	sound	DEP=1C2-E-TEST-0180-22.52004
+1C2-E-TEST-0180-22.52/004	contentment
+1C2-E-TEST-0180-22.82	"In addition to purring when they are content, cats also purr when they are afraid, sick, in pain, or even dying."
+1C2-E-TEST-0180-22.82/001	content
+1C2-E-TEST-0180-22.82/002	afraid
+1C2-E-TEST-0180-22.82/003	sick
+1C2-E-TEST-0180-22.82/004	pain
+1C2-E-TEST-0180-22.82/005	dying
+1C2-E-TEST-0180-226.1	A Purring Cat Is More Than Just A Happy Cat
+1C2-E-TEST-0180-226.1/001	purring cat	DEP=1C2-E-TEST-0180-226.1002
+1C2-E-TEST-0180-226.1/002	happy cat
+1C2-E-TEST-0180-226.13	Scientists report that cats produce purring sounds by using the diaphragm to push air back and forth across vibrating nerves in the larynx.
+1C2-E-TEST-0180-226.13/001	produce purring sounds
+1C2-E-TEST-0180-226.13/002	diaphragm	DEP=1C2-E-TEST-0180-226.13003
+1C2-E-TEST-0180-226.13/003	push air back forth	DEP=1C2-E-TEST-0180-226.13004
+1C2-E-TEST-0180-226.13/004	vibrating nerves	DEP=1C2-E-TEST-0180-226.13005
+1C2-E-TEST-0180-226.13/005	larynx
+1C2-E-TEST-0180-226.17	Frightened cats may purr to communicate submissiveness or non-aggressive intentions.
+1C2-E-TEST-0180-226.17/001	frightened
+1C2-E-TEST-0180-226.17/002	communicate
+1C2-E-TEST-0180-226.17/003	submissiveness	DEP=1C2-E-TEST-0180-226.17002
+1C2-E-TEST-0180-226.17/004	non-aggressive intentions	DEP=1C2-E-TEST-0180-226.17002
+1C2-E-TEST-0180-226.18	A feral cat may purr to signal that he will not attack and other cats need not feel threatened.
+1C2-E-TEST-0180-226.18/001	feral cat	DEP=1C2-E-TEST-0180-226.18002
+1C2-E-TEST-0180-226.18/002	signal	DEP=1C2-E-TEST-0180-226.18003
+1C2-E-TEST-0180-226.18/003	not attack
+1C2-E-TEST-0180-226.18/004	not feel threatened
+1C2-E-TEST-0180-226.19	"Older cats may purr when they play or approach other cats, signaling that they are friendly and want to come closer."
+1C2-E-TEST-0180-226.19/001	play
+1C2-E-TEST-0180-226.19/002	approach other
+1C2-E-TEST-0180-226.19/003	signalling
+1C2-E-TEST-0180-226.19/004	friendly	DEP=1C2-E-TEST-0180-226.19003
+1C2-E-TEST-0180-226.19/005	closer	DEP=1C2-E-TEST-0180-226.19003
+1C2-E-TEST-0180-3.31	"Scientists at the University of Sussex showed in 2009 that purring, or some purring, seems to be a way for domesticated cats to signal their owners for food."
+1C2-E-TEST-0180-3.31/001	scientists
+1C2-E-TEST-0180-3.31/002	university sussex
+1C2-E-TEST-0180-3.31/003	2009
+1C2-E-TEST-0180-3.31/004	domesticated cats	DEP=1C2-E-TEST-0180-3.31005
+1C2-E-TEST-0180-3.31/005	signal owners	DEP=1C2-E-TEST-0180-3.31006
+1C2-E-TEST-0180-3.31/006	food
+1C2-E-TEST-0180-3.8	Domestic cats purr at a frequency of 25 to 150 vibrations per second.
+1C2-E-TEST-0180-3.8/001	frequency	DEP=1C2-E-TEST-0180-3.8002
+1C2-E-TEST-0180-3.8/002	25 150 vibrations per second
+1C2-E-TEST-0180-37.6	"It turns out that domestic cats, some wild cats like pumas and mountain lions (in general, any big cat that cannot roar) and even raccoons are all able to purr."
+1C2-E-TEST-0180-37.6/001	domestic	DEP=1C2-E-TEST-0180-37.6006
+1C2-E-TEST-0180-37.6/002	wild	DEP=1C2-E-TEST-0180-37.6006
+1C2-E-TEST-0180-37.6/003	puma	DEP=1C2-E-TEST-0180-37.6002
+1C2-E-TEST-0180-37.6/004	mountain lions	DEP=1C2-E-TEST-0180-37.6002
+1C2-E-TEST-0180-37.6/005	raccoons	DEP=1C2-E-TEST-0180-37.6006
+1C2-E-TEST-0180-37.6/006	able
+1C2-E-TEST-0180-40.4	A purr is a sound which is made by domesticated cats and other species of the feline world and it is their way of communicating.
+1C2-E-TEST-0180-40.4/001	sound	DEP=1C2-E-TEST-0180-40.4004
+1C2-E-TEST-0180-40.4/002	domesticated	DEP=1C2-E-TEST-0180-40.4001
+1C2-E-TEST-0180-40.4/003	other species feline world	DEP=1C2-E-TEST-0180-40.4001
+1C2-E-TEST-0180-40.4/004	way	DEP=1C2-E-TEST-0180-40.4005
+1C2-E-TEST-0180-40.4/005	communicating
+1C2-E-TEST-0180-40.8	"Another way for cats to purr has to do with their voice box and once these nerves have been given a signal, the vocal cords vibrate which causes the diaphragm to push air in and back out of the vocal chords and this creates the relaxing, humming of a purr."
+1C2-E-TEST-0180-40.8/001	voice box
+1C2-E-TEST-0180-40.8/002	nerves given signal
+1C2-E-TEST-0180-40.8/003	vocal cords vibrate
+1C2-E-TEST-0180-40.8/004	diaphragm	DEP=1C2-E-TEST-0180-40.8005
+1C2-E-TEST-0180-40.8/005	push air	DEP=1C2-E-TEST-0180-40.8006
+1C2-E-TEST-0180-40.8/006	vocal cords	DEP=1C2-E-TEST-0180-40.8007
+1C2-E-TEST-0180-40.8/007	creates
+1C2-E-TEST-0180-40.8/008	relaxing	DEP=1C2-E-TEST-0180-40.8007
+1C2-E-TEST-0180-40.8/009	humming	DEP=1C2-E-TEST-0180-40.8007
+1C2-E-TEST-0180-44.11	"Mother cats purr when nursing their kittens, and kittens purr when nursing."
+1C2-E-TEST-0180-44.11/001	nursing	DEP=1C2-E-TEST-0180-44.11002
+1C2-E-TEST-0180-44.11/002	kittens
+1C2-E-TEST-0180-44.6	Scientists report that cats produce purring sounds by using the diaphragm to push air back and forth across vibrating nerves in the larynx.
+1C2-E-TEST-0180-44.6/001	scientists report
+1C2-E-TEST-0180-44.6/002	produce purring sounds
+1C2-E-TEST-0180-44.6/003	diaphragm	DEP=1C2-E-TEST-0180-44.6004
+1C2-E-TEST-0180-44.6/004	push air back forth	DEP=1C2-E-TEST-0180-44.6005
+1C2-E-TEST-0180-44.6/005	vibrating nerves	DEP=1C2-E-TEST-0180-44.6006
+1C2-E-TEST-0180-44.6/006	larynx
+1C2-E-TEST-0180-81.13	"Purring involves activation of nerves within their voice box, and these nerve signals cause vibration of the vocal cords."
+1C2-E-TEST-0180-81.13/001	activation nerves	DEP=1C2-E-TEST-0180-81.13002
+1C2-E-TEST-0180-81.13/002	voice box
+1C2-E-TEST-0180-81.13/003	nerve signal	DEP=1C2-E-TEST-0180-81.13004
+1C2-E-TEST-0180-81.13/004	cause vibration	DEP=1C2-E-TEST-0180-81.13005
+1C2-E-TEST-0180-81.13/005	vocal cords
+1C2-E-TEST-0180-81.14	Air is pushed in and out of the vibrating cords and thus creating the musical purr.
+1C2-E-TEST-0180-81.14/001	air	DEP=1C2-E-TEST-0180-81.14002
+1C2-E-TEST-0180-81.14/002	pushed	DEP=1C2-E-TEST-0180-81.14003
+1C2-E-TEST-0180-81.14/003	vibrating cords
+1C2-E-TEST-0180-81.14/004	creating	DEP=1C2-E-TEST-0180-81.14005
+1C2-E-TEST-0180-81.14/005	musical
+1C2-E-TEST-0180-90.22	"When cats become soft purring bundles of warm reassuring fur, we feel calmer and more peaceful ourselves."
+1C2-E-TEST-0180-90.22/001	soft purring bundles
+1C2-E-TEST-0180-90.22/002	warm reassuring fur
+1C2-E-TEST-0180-90.22/003	calmer
+1C2-E-TEST-0180-90.22/004	peaceful
+1C2-E-TEST-0180-90.28	"These nerve signals cause vibration of the vocal cords while the diaphragm serves as a piston pump, pushing air in and out of the vibrating cords, thus creating a musical hum."
+1C2-E-TEST-0180-90.28/001	nerve signals	DEP=1C2-E-TEST-0180-90.28002
+1C2-E-TEST-0180-90.28/002	cause vibration	DEP=1C2-E-TEST-0180-90.28003
+1C2-E-TEST-0180-90.28/003	vocal cords
+1C2-E-TEST-0180-90.28/004	diaphragm	DEP=1C2-E-TEST-0180-90.28008
+1C2-E-TEST-0180-90.28/005	piston pump	DEP=1C2-E-TEST-0180-90.28004
+1C2-E-TEST-0180-90.28/006	pushing air	DEP=1C2-E-TEST-0180-90.28007
+1C2-E-TEST-0180-90.28/007	vibrating cords
+1C2-E-TEST-0180-90.28/008	creating
+1C2-E-TEST-0180-90.28/009	musical hum	DEP=1C2-E-TEST-0180-90.28008
+1C2-E-TEST-0180-90.31	The other theory is that the sound comes more from vibrating blood vessels than in the voicebox itself.
+1C2-E-TEST-0180-90.31/001	theory
+1C2-E-TEST-0180-90.31/002	sound	DEP=1C2-E-TEST-0180-90.31003
+1C2-E-TEST-0180-90.31/003	vibrating blood vessels
+1C2-E-TEST-0180-90.35	"The human-feline bond is never quite so close as when a person is holding and petting a purring, vibrating bundle of fur on her lap, and all is well with the world."
+1C2-E-TEST-0180-90.35/001	human-feline bond
+1C2-E-TEST-0180-90.35/002	holding petting	DEP=1C2-E-TEST-0180-90.35002
+1C2-E-TEST-0180-90.35/003	purring vibrating bundle fur
+1C2-E-TEST-0180-90.52	"Cat purrs will range from a deep rumble to a raspy, broken sound, to a high-pitched trill, depending on the physiology and/or the mood of a cat."
+1C2-E-TEST-0180-90.52/001	range
+1C2-E-TEST-0180-90.52/002	deep rumble	DEP=1C2-E-TEST-0180-90.52001
+1C2-E-TEST-0180-90.52/003	raspy broken sound	DEP=1C2-E-TEST-0180-90.52001
+1C2-E-TEST-0180-90.52/004	high-pitched trill	DEP=1C2-E-TEST-0180-90.52001
+1C2-E-TEST-0180-90.52/005	depending
+1C2-E-TEST-0180-90.52/006	physiology	DEP=1C2-E-TEST-0180-90.52005
+1C2-E-TEST-0180-90.52/007	mood	DEP=1C2-E-TEST-0180-90.52005
+1C2-E-TEST-0180-90.53	"A cat will often ""wind-down"" when going to sleep, with a long purring sigh that drops melodically from a high to a low pitch."
+1C2-E-TEST-0180-90.53/001	wind-down	DEP=1C2-E-TEST-0180-90.53002
+1C2-E-TEST-0180-90.53/002	sleep	DEP=1C2-E-TEST-0180-90.53003
+1C2-E-TEST-0180-90.53/003	long purring sigh
+1C2-E-TEST-0180-90.53/004	drops melodically	DEP=1C2-E-TEST-0180-90.53005
+1C2-E-TEST-0180-90.53/005	high low pitch
+1C2-E-TEST-0180-90.66	"Animal behaviorists believe that when cats purr under stressful circumstances, they are reassuring or comforting themselves, much as humans may sing to themselves or hum when they are nervous."
+1C2-E-TEST-0180-90.66/001	animal behaviorists
+1C2-E-TEST-0180-90.66/002	stressful circumstances	DEP=1C2-E-TEST-0180-90.66003
+1C2-E-TEST-0180-90.66/003	reassuring comforting
+1C2-E-TEST-0180-90.66/004	humans sing hum	DEP=1C2-E-TEST-0180-90.66005
+1C2-E-TEST-0180-90.66/005	nervous
+1C2-E-TEST-0180-96.18	"A kitten is able to purr by the second day of life, and although he canÃ¢ÂÂt meow and nurse at the same time, he can purr and nurse. And the mother cat often purrs back, probably to reassure the kitty."
+1C2-E-TEST-0180-96.18/001		DEP=1C2-E-TEST-0180-96.18002
+1C2-E-TEST-0180-96.18/002	able
+1C2-E-TEST-0180-96.18/003	second day life
+1C2-E-TEST-0180-96.18/004	can't meow nurse	DEP=1C2-E-TEST-0180-96.18005
+1C2-E-TEST-0180-96.18/005	mother cat
+1C2-E-TEST-0180-96.18/006	purrs back	DEP=1C2-E-TEST-0180-96.18005
+1C2-E-TEST-0180-96.18/007	reassure kitty
