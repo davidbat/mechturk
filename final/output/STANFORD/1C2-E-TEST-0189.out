@@ -1,0 +1,231 @@
+1C2-E-TEST-0189-114.180	There are also JavaScript-based frameworks being developed to ease the development of iPhone-specific interfaces.
+1C2-E-TEST-0189-114.180/001	JavaScript-based frameworks being developed 
+1C2-E-TEST-0189-114.180/002	ease the development of iPhone-specific interfaces. DEP=1C2-E-TEST-0189-114.180001
+
+1C2-E-TEST-0189-21.10	We have been getting lots of questions lately surrounding the new Apple iPhone from people wondering if there will be GPS in the iPhone.
+1C2-E-TEST-0189-21.10/001	lots of questions lately surrounding the new Apple iPhone 
+1C2-E-TEST-0189-21.10/002	wondering if there will be GPS in the iPhone.DEP=1C2-E-TEST-0189-21.10001
+
+1C2-E-TEST-0189-21.113	However having used systems based only on cell phone triangulation, the accuracy is not always fantastic and there are tons of areas I travel in that my phone doesn't get a cell signal in which case there is no fall back.
+1C2-E-TEST-0189-21.113/001	systems based only on cell phone triangulation
+1C2-E-TEST-0189-21.113/002the accuracy is not always fantastic 
+DEP=1C2-E-TEST-0189-21.113001
+1C2-E-TEST-0189-21.113/003	tons of areas that phone doesn't get a cell signal DEP=1C2-E-TEST-0189-21.113002
+1C2-E-TEST-0189-21.113/004in which case there is no fall back
+DEP=1C2-E-TEST-0189-21.113003
+
+1C2-E-TEST-0189-21.160	In the example you provided where you open up Google Maps and it defaults to your current position, I think a cell site triangulation method would work fine provided you are in an area where you can get a cell signal.
+1C2-E-TEST-0189-21.160/001	example provided 
+1C2-E-TEST-0189-21.160/002	where you open up Google Maps DEP=1C2-E-TEST-0189-21.16001
+1C2-E-TEST-0189-21.160/003	it defaults to your current positionDEP=1C2-E-TEST-0189-21.160042
+1C2-E-TEST-0189-21.160/004	cell site triangulation method would work fine DEP=1C2-E-TEST-0189-21.16003
+1C2-E-TEST-0189-21.160/005	provided you are in an area where you can get a cell signal. DEP=1C2-E-TEST-0189-21.16004
+
+
+1C2-E-TEST-0189-21.42	Second, since the iPhone wont be available for another six months specifications can change it wouldn't be the first time Apple changed the specs for the better when a product was finally released although we have no information that will actually happen here.
+1C2-E-TEST-0189-21.42/001	since the iPhone wont be available for another six months 
+1C2-E-TEST-0189-21.42/002specifications can change DEP=1C2-E-TEST-0189-21.42001
+1C2-E-TEST-0189-21.42/003	 wouldn't be the first time Apple changed the specs for the better DEP=1C2-E-TEST-0189-21.42002
+1C2-E-TEST-0189-21.42/004	 when a product was finally releasedDEP=1C2-E-TEST-0189-21.42003 
+1C2-E-TEST-0189-21.42/005	 no information that will actually happen here.DEP=1C2-E-TEST-0189-21.42004
+
+
+1C2-E-TEST-0189-21.63	This looks like the perfect PDA/phone although short of a GPS. does anyone know why companies cant make a phone that has a true GPS internally in the phone? (there are exceptions e.g. Blackberry 8800 which is 500 dollars).
+1C2-E-TEST-0189-21.63/001	looks like the perfect PDA/phone 
+1C2-E-TEST-0189-21.63/002	short of a GPS DEP=1C2-E-TEST-0189-21.63001
+1C2-E-TEST-0189-21.63/003	does anyone know why companies cant make a phone 
+1C2-E-TEST-0189-21.63/004	that has a true GPS DEP=1C2-E-TEST-0189-21.63003
+1C2-E-TEST-0189-21.63/005 internally in the phone? DEP=1C2-E-TEST-0189-21.63004
+1C2-E-TEST-0189-21.63/006	(there are exceptions 
+1C2-E-TEST-0189-21.63/007	e.g. Blackberry 8800 DEP=1C2-E-TEST-0189-21.630006
+1C2-E-TEST-0189-21.63/008	is 500 dollars).
+DEP=1C2-E-TEST-0189-21.63007
+
+
+1C2-E-TEST-0189-37.15	 After we developed a Latitude application for the iPhone, Apple requested we release Latitude as a web application in order to avoid confusion with Maps on the iPhone, which uses Google to serve maps tiles.
+1C2-E-TEST-0189-37.15/001	After we developed a Latitude application for the iPhone
+1C2-E-TEST-0189-37.15/002	Apple requested we release Latitude as a web application DEP=1C2-E-TEST-0189-37.15001
+1C2-E-TEST-0189-37.15/003	to avoid confusion with Maps on the iPhone DEP=1C2-E-TEST-0189-37.15002
+1C2-E-TEST-0189-37.15/004	uses Google to serve maps tiles
+DEP=1C2-E-TEST-0189-37.15003
+
+
+1C2-E-TEST-0189-37.23	The Google Latitude web app currently supports iPhone/iPod Touch OS 3.0 or above.
+1C2-E-TEST-0189-37.23/001	 Google Latitude web app currently supports iPhone/iPod Touch 
+1C2-E-TEST-0189-37.23/002	OS 3.0 or above	DEP=1C2-E-TEST-0189-37.23001
+
+
+1C2-E-TEST-0189-37.7	Our Latitude web app provides all the core functionality you might expect: you can see the location of your friends on a map and modify your privacy settings so that you control how your location is shared and with whom.
+1C2-E-TEST-0189-37.7/001	Latitude web app provides all the core functionality you might expect
+1C2-E-TEST-0189-37.7/002	you can see the location of your friends on a map DEP=1C2-E-TEST-0189-37.7001
+1C2-E-TEST-0189-37.7/003	modify your privacy settings DEP=1C2-E-TEST-0189-37.7002
+1C2-E-TEST-0189-37.7/004	you control how your location is shared and with whom. DEP=1C2-E-TEST-0189-37.7003
+
+
+
+1C2-E-TEST-0189-4.14	But Apple, curiously, decreed that it be a Web-based app and not a native iPhone app , which raised some eyebrows.
+1C2-E-TEST-0189-4.14/001	Apple, curiously, decreed that it be a Web-based app 
+1C2-E-TEST-0189-4.14/002	not a native iPhone app DEP=1C2-E-TEST-0189-4.14001
+1C2-E-TEST-0189-4.14/003	raised some eyebrows.DEP=1C2-E-TEST-0189-4.14001
+
+
+
+1C2-E-TEST-0189-4.15	The application, which allows you to show your location on a map so that friends may find you, works much the same way as on other platforms like Android , Symbian, BlackBerry, and Windows Mobile.
+1C2-E-TEST-0189-4.15/001	application allows you to show your location on a map 
+1C2-E-TEST-0189-4.15/002 so that friends may find you DEP=1C2-E-TEST-0189-4.15001
+1C2-E-TEST-0189-4.15/003	 works much the same way as on other platforms DEP=1C2-E-TEST-0189-4.15001
+1C2-E-TEST-0189-4.15/004	Android , Symbian, BlackBerry, and Windows Mobile.DEP=1C2-E-TEST-0189-4.15003
+
+
+
+1C2-E-TEST-0189-4.17	At the time, Google explained the matter this way: "After we developed a Latitude application for the iPhone, Apple requested we release Latitude as a Web application in order to avoid confusion with Maps on the iPhone, which uses Google to serve maps tiles."
+1C2-E-TEST-0189-4.17/001	At the time DEP=1C2-E-TEST-0189-4.17002
+1C2-E-TEST-0189-4.17/002	Google explained the matter this way: 
+1C2-E-TEST-0189-4.17/003	"After we developed a Latitude application for the iPhone DEP=1C2-E-TEST-0189-4.17002
+1C2-E-TEST-0189-4.17/004	Apple requested we release Latitude as a Web application DEP=1C2-E-TEST-0189-4.17002
+1C2-E-TEST-0189-4.17/005	to avoid confusion with Maps on the iPhone DEP=1C2-E-TEST-0189-4.17004
+1C2-E-TEST-0189-4.17/006	which uses Google to serve maps tiles." DEP=1C2-E-TEST-0189-4.17005
+
+
+
+1C2-E-TEST-0189-4.18	Apple's rationale apparently was that people would get confused between a Google Maps app and a Google Latitude app.
+1C2-E-TEST-0189-4.18/001	Apple's rationale DEP=1C2-E-TEST-0189-4.18002
+1C2-E-TEST-0189-4.18/002	people would get confused 
+1C2-E-TEST-0189-4.18/003	between a Google Maps app and a Google Latitude app.	DEP=1C2-E-TEST-0189-4.18002
+
+
+1C2-E-TEST-0189-4.22	The same month that Apple said no to Google Latitude, Apple rejected the Google Voice application from its App Store, according to a letter Google sent to the Federal Communications Commission.
+1C2-E-TEST-0189-4.22/001	same month that Apple said no to Google Latitude
+1C2-E-TEST-0189-4.22/002	Apple rejected the Google Voice application DEP=1C2-E-TEST-0189-4.22001
+1C2-E-TEST-0189-4.22/003	from App Store DEP=1C2-E-TEST-0189-4.22002
+1C2-E-TEST-0189-4.22/004	according to a letter Google sent DEP=1C2-E-TEST-0189-4.22003
+1C2-E-TEST-0189-4.22/005	to the Federal Communications Commission. DEP=1C2-E-TEST-0189-4.22004
+
+1C2-E-TEST-0189-53.17	Android - an open operating system for cell phones and smartbooks based on Linux.
+1C2-E-TEST-0189-53.17/001	android
+1C2-E-TEST-0189-53.17/002	open operating system	DEP=1C2-E-TEST-0189-53.17001
+1C2-E-TEST-0189-53.17/003	for cell phones and smartbooks DEP=1C2-E-TEST-0189-53.17002
+1C2-E-TEST-0189-53.17/004	based on linux DEP=1C2-E-TEST-0189-53.17003
+
+
+1C2-E-TEST-0189-62.19	 With the latest Adobe Flash Builder 4.6 (using Flex 4.6 or ActionScript) and the MapQuest Mobile Flash Maps API , you can code once and deploy to iOS, Android and Blackberry Tablet!
+1C2-E-TEST-0189-62.19/001	With the latest Adobe Flash Builder 4.6 
+1C2-E-TEST-0189-62.19/002	(using Flex 4.6 or ActionScript)DEP=1C2-E-TEST-0189-62.19001
+1C2-E-TEST-0189-62.19/003	and the MapQuest Mobile Flash Maps API DEP=1C2-E-TEST-0189-62.19002
+1C2-E-TEST-0189-62.19/004you can code once DEP=1C2-E-TEST-0189-62.19003
+1C2-E-TEST-0189-62.19/005	deploy to iOS, Android and Blackberry Tablet! DEP=1C2-E-TEST-0189-62.19004	
+
+
+1C2-E-TEST-0189-62.26	 open data Taking advantage of OpenStreetMap (OSM) and other open data sources, MapQuest offers a unique set of Open Data APIs.
+1C2-E-TEST-0189-62.26/001	open data Taking advantage of OpenStreetMap (OSM) 
+1C2-E-TEST-0189-62.26/002	other open data sources DEP=1C2-E-TEST-0189-62.26001
+1C2-E-TEST-0189-62.26/003	 MapQuest offers a unique set of Open Data APIs.
+
+
+1C2-E-TEST-0189-62.33	For the mobile web, you can use the same JavaScript Maps API that powers the MapQuest mobile website.
+1C2-E-TEST-0189-62.33/001		For the mobile web
+1C2-E-TEST-0189-62.33/002	 you can use the same JavaScript Maps API DEP=1C2-E-TEST-0189-62.33001
+1C2-E-TEST-0189-62.33/003	powers the MapQuest mobile website DEP=1C2-E-TEST-0189-62.33002
+
+
+1C2-E-TEST-0189-62.34	For native applications, options include the newly released Flash/Flex Mapping API , Android Maps API and the iOS Maps API .
+1C2-E-TEST-0189-62.34/001	For native applications
+1C2-E-TEST-0189-62.34/002	options include the newly released Flash/Flex Mapping API , .DEP=1C2-E-TEST-0189-62.34001
+1C2-E-TEST-0189-62.34/003	Android Maps API DEP=1C2-E-TEST-0189-62.34002
+1C2-E-TEST-0189-62.34/004	and the iOS Maps API 	DEP=1C2-E-TEST-0189-62.34003
+
+
+
+1C2-E-TEST-0189-62.4	We're excited to announce the release of our Android Maps API to production and our iOS Maps API to beta.
+1C2-E-TEST-0189-62.4/001	excited to announce the release of our Android Maps API
+1C2-E-TEST-0189-62.4/002	to production DEP=1C2-E-TEST-0189-62.4001
+1C2-E-TEST-0189-62.4/003	and our iOS Maps API DEP=1C2-E-TEST-0189-62.4002
+1C2-E-TEST-0189-62.4/003	to beta DEP=1C2-E-TEST-0189-62.4003
+	
+
+
+1C2-E-TEST-0189-62.5	These APIs are designed as "drop in" replacements for the native APIs. We used the same object model as the native API, while of course extending it to add great features such as integrated driving directions plus the ability to use OpenStreetMap data or our licensed datasets.
+1C2-E-TEST-0189-62.5/001	These APIs are designed as "drop in" replacements for the native APIs
+1C2-E-TEST-0189-62.5/002	used the same object model as the native API DEP=1C2-E-TEST-0189-62.50051
+1C2-E-TEST-0189-62.5/003	extending it to add great features DEP=1C2-E-TEST-0189-62.5002
+1C2-E-TEST-0189-62.5/004	such as integrated driving DEP=1C2-E-TEST-0189-62.5003directionsDEP=1C2-E-TEST-0189-62.5003 
+1C2-E-TEST-0189-62.5/005	plus the ability to use OpenStreetMap data DEP=1C2-E-TEST-0189-62.5004
+1C2-E-TEST-0189-62.5/006	or our licensed datasets
+DEP=1C2-E-TEST-0189-62.5005
+
+1C2-E-TEST-0189-8.19	While some choose to use other maps APIs (like Bing Maps, for example), the vast majority go with Google Maps because it's baked right in and easy to hook up.
+1C2-E-TEST-0189-8.19/001	some choose to use other maps APIs 
+1C2-E-TEST-0189-8.19/002	(like Bing Maps, for example), DEP=1C2-E-TEST-0189-8.19001
+1C2-E-TEST-0189-8.19/003	the vast majority go with Google Maps 
+1C2-E-TEST-0189-8.19/004	it's baked right in and easy to hook up DEP=1C2-E-TEST-0189-8.19003
+
+C2-E-TEST-0189-8.23	At the same time, they made a point of saying they weren't switching away from Google Maps on their mobile applications (where maps are obviously the most important).
+1C2-E-TEST-0189-8.23/001	At the same time
+1C2-E-TEST-0189-8.23/002	made a point of saying they weren't switching away from Google DEP=1C2-E-TEST-0189-8.23001
+1C2-E-TEST-0189-8.23/003	on their mobile applications DEP=1C2-E-TEST-0189-8.23002
+1C2-E-TEST-0189-8.23/004	(where maps are obviously the most important). DEP=1C2-E-TEST-0189-8.23003
+
+
+
+
+1C2-E-TEST-0189-8.28	Google recently made the change to start charging high volume customers of the Google Maps API on the web.
+1C2-E-TEST-0189-8.28/001	Google recently made the change 
+1C2-E-TEST-0189-8.28/002	to start charging high volume customers DEP=1C2-E-TEST-0189-8.28001
+1C2-E-TEST-0189-8.28/003	of the Google Maps API on the web. DEP=1C2-E-TEST-0189-8.28002
+
+
+
+1C2-E-TEST-0189-8.30	My guess would be that because of iOS, Apple may be the largest user of the Google Maps API right now.
+1C2-E-TEST-0189-8.30/001	because of iOS
+1C2-E-TEST-0189-8.30/002	Apple may be the largest user of the Google Maps API DEP=1C2-E-TEST-0189-8.30001
+1C2-E-TEST-0189-8.30/003	right now
+DEP=1C2-E-TEST-0189-8.30002
+
+
+1C2-E-TEST-0189-8.34	Apple can afford any charge Google throws their way, and would undoubtedly pay it if they thought it was worth it to ensure iOS remains the best mobile platform out there.
+1C2-E-TEST-0189-8.34/001	Apple can afford any charge Google throws their way
+1C2-E-TEST-0189-8.34/002	would undoubtedly pay it if they thought it was worth it  DEP=1C2-E-TEST-0189-8.34001
+1C2-E-TEST-0189-8.34/003	to ensure iOS remains the best mobile platform out there. DEP=1C2-E-TEST-0189-8.34002
+
+
+1C2-E-TEST-0189-8.35	This move away from Google Maps is more about controlling essential technology, as John Gruber points out today.
+1C2-E-TEST-0189-8.35/001	This move away from Google Maps DEP=1C2-E-TEST-0189-8.35003
+1C2-E-TEST-0189-8.35/002	about controlling essential technology DEP=1C2-E-TEST-0189-8.35001
+1C2-E-TEST-0189-8.35/003	John Gruber points out today.
+
+
+
+1C2-E-TEST-0189-8.38	And if Apple not only pulls iOS out, but takes millions of developers with them, Google Maps could suddenly go from behemoth to vulnerable.
+1C2-E-TEST-0189-8.38/001	if Apple not only pulls iOS out
+1C2-E-TEST-0189-8.38/002	 but takes millions of developers with them DEP=1C2-E-TEST-0189-8.38001
+1C2-E-TEST-0189-8.38/003	 Google Maps could suddenly go from behemoth DEP=1C2-E-TEST-0189-8.38002
+1C2-E-TEST-0189-8.38/004	to vulnerable DEP=1C2-E-TEST-0189-8.38003
+
+
+
+1C2-E-TEST-0189-8.48	As we have seen the past few days, new iCloud functionality should be a key part of iOS 6 as well.
+1C2-E-TEST-0189-8.48/001	As we have seen the past few days
+1C2-E-TEST-0189-8.48/002	new iCloud functionality DEP=1C2-E-TEST-0189-8.48001
+1C2-E-TEST-0189-8.48/003	should be a key part of iOS 6 as well DEP=1C2-E-TEST-0189-8.48002
+
+
+1C2-E-TEST-0189-8.49	And more deep ties into the forthcoming OS X Mountain Lion should be revealed.
+1C2-E-TEST-0189-8.49/001	And more deep ties 
+1C2-E-TEST-0189-8.49/002	into the forthcoming OS X Mountain Lion DEP=1C2-E-TEST-0189-8.490021
+1C2-E-TEST-0189-8.49/003should be revealed DEP=1C2-E-TEST-0189-8.49002
+
+
+
+1C2-E-TEST-0189-8.53	it's believed (but far from confirmed) that Apple may be zeroing in on the major revamp they're after.
+1C2-E-TEST-0189-8.53/001	it's believed DEP=1C2-E-TEST-0189-8.53002
+1C2-E-TEST-0189-8.53/002	(but far from confirmed) 
+1C2-E-TEST-0189-8.53/003	Apple may be zeroing in on the major revamp they're after DEP=1C2-E-TEST-0189-8.53001
+
+
+
+1C2-E-TEST-0189-8.7	As you've undoubtedly seen by now, with the upcoming iOS 6 software, Apple intends to replace the Google Maps aspect of their default Maps application with their own, in-house version.
+1C2-E-TEST-0189-8.7/001	As you've undoubtedly seen by now
+1C2-E-TEST-0189-8.7/002	with the upcoming iOS 6 software DEP=1C2-E-TEST-0189-8.7001
+1C2-E-TEST-0189-8.7/003 Apple intends to replace the Google Maps aspect of their default Maps application DEP=1C2-E-TEST-0189-8.7002
+1C2-E-TEST-0189-8.7/004 with their own	DEP=1C2-E-TEST-0189-8.7003
+
