@@ -31,7 +31,7 @@ Dir[processed + "*.out"].each do |full_path|
       if !parts[3].nil?
         str += "\t" + parts[3]
         if !parts[4].nil?
-          if parts[4].grep(/^DEP/).empty?
+          if [parts[4]].grep(/^DEP/).empty?
             str += "\t" + "DEP=" + parts[0].split("/").first + "%03d" % parts[4]
           else
             str += "\t" + parts[4]
