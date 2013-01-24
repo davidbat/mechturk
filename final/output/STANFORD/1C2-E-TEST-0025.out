@@ -171,3 +171,461 @@
 1C2-E-TEST-0025-143.30/006	Lent
 1C2-E-TEST-0025-143.30/007	Humanity	DEP=1C2-E-TEST-0025-143.30006
 1C2-E-TEST-0025-143.30/008	Clich
+1C2-E-TEST-0025-143.38	His career afterwards was uneven: in addition to his iconic performance as Colonel Kurtz in Apocalypse Now , Brando also played Jor-El , Superman's father, in the first Superman movie √?¬¢√¢¬?¬¨√¢¬?¬ù a role he agreed to only on condition that he did not have to read the script beforehand and his lines would be displayed somewhere offscreen.
+1C2-E-TEST-0025-143.38/001	Career
+1C2-E-TEST-0025-143.38/002	Uneven	DEP=1C2-E-TEST-0025-143.38001
+1C2-E-TEST-0025-143.38/003	Addition
+1C2-E-TEST-0025-143.38/004	Iconic performance
+1C2-E-TEST-0025-143.38/005	colonel kurtz	DEP=1C2-E-TEST-0025-143.38004
+1C2-E-TEST-0025-143.38/006	Apocalypse now	DEP=1C2-E-TEST-0025-143.38005
+1C2-E-TEST-0025-143.38/007	Played
+1C2-E-TEST-0025-143.38/008	Jor-ei
+1C2-E-TEST-0025-143.38/009	Superman father	DEP=1C2-E-TEST-0025-143.38008
+1C2-E-TEST-0025-143.38/010	Superman movie	DEP=1C2-E-TEST-0025-143.38009
+1C2-E-TEST-0025-143.38/011	role
+1C2-E-TEST-0025-143.38/012	Agreed	DEP=1C2-E-TEST-0025-143.38011
+1C2-E-TEST-0025-143.38/013	Condition
+1C2-E-TEST-0025-143.38/014	Read script	DEP=1C2-E-TEST-0025-143.38014
+1C2-E-TEST-0025-143.38/015	Lines	DEP=1C2-E-TEST-0025-143.38014
+1C2-E-TEST-0025-143.38/016	Displayed
+1C2-E-TEST-0025-143.38/017	Offscreen	DEP=1C2-E-TEST-0025-143.38016
+1C2-E-TEST-0025-143.49	Brando became known as much for his crusades for civil rights , Native American rights and other political causes as he was for his acting.
+1C2-E-TEST-0025-143.49/001	Known
+1C2-E-TEST-0025-143.49/002	Crusades
+1C2-E-TEST-0025-143.49/003	Civil rights	DEP=1C2-E-TEST-0025-143.49002
+1C2-E-TEST-0025-143.49/004	Native american rights	DEP=1C2-E-TEST-0025-143.49002
+1C2-E-TEST-0025-143.49/005	Political causes	DEP=1C2-E-TEST-0025-143.49002
+			Acting  
+1C2-E-TEST-0025-143.71	A remake of Mutiny on the Bounty in 1962 , with Brando as Fletcher Christian seemed to bolster his reputation as a difficult star.
+1C2-E-TEST-0025-143.71/001	Remake
+1C2-E-TEST-0025-143.71/002	Mutiny bounty	DEP=1C2-E-TEST-0025-143.71001
+1C2-E-TEST-0025-143.71/003	1962	DEP=1C2-E-TEST-0025-143.71002
+1C2-E-TEST-0025-143.71/004	Fletcher christian	DEP=1C2-E-TEST-0025-143.71002
+1C2-E-TEST-0025-143.71/005	Bolster
+1C2-E-TEST-0025-143.71/006	Reputation	DEP=1C2-E-TEST-0025-143.71005
+1C2-E-TEST-0025-143.71/007	Difficult star	DEP=1C2-E-TEST-0025-143.71006
+1C2-E-TEST-0025-144.16	Anthony Quinn, my co-star in 'Viva Zapata!' (1952) once told my first wife Anna Kashfi, "I admire Marlon's talent, but I don't envy the pain that created it."
+1C2-E-TEST-0025-144.16/001	Anthony quinn
+1C2-E-TEST-0025-144.16/002	Co-star
+1C2-E-TEST-0025-144.16/003	Viva zapata
+1C2-E-TEST-0025-144.16/004	1952	DEP=1C2-E-TEST-0025-144.16003
+1C2-E-TEST-0025-144.16/005	Told
+1C2-E-TEST-0025-144.16/006	Wife anna kashfi
+1C2-E-TEST-0025-144.16/007	Admire
+1C2-E-TEST-0025-144.16/008	Talent 	DEP=1C2-E-TEST-0025-144.16007
+1C2-E-TEST-0025-144.16/009	Envy
+1C2-E-TEST-0025-144.16/010	Pain
+1C2-E-TEST-0025-144.16/011	Created	DEP=1C2-E-TEST-0025-144.16010
+1C2-E-TEST-0025-144.44	Shortly afterwards, director Elia Kazan suggested me for the part of Stanley Kowalski in the production of Tennessee Williams' play 'A Streetcar Named Desire'.
+1C2-E-TEST-0025-144.44/001	Shortly
+1C2-E-TEST-0025-144.44/002	elia kazan
+1C2-E-TEST-0025-144.44/003	Suggested	DEP=1C2-E-TEST-0025-144.44002
+1C2-E-TEST-0025-144.44/004	Part
+1C2-E-TEST-0025-144.44/005	stanley kowalski	DEP=1C2-E-TEST-0025-144.44004
+1C2-E-TEST-0025-144.44/006	Production
+1C2-E-TEST-0025-144.44/007	tennessee williams play
+1C2-E-TEST-0025-144.44/008	streetcar named desire	DEP=1C2-E-TEST-0025-144.44007
+1C2-E-TEST-0025-197.100	Director Francis Ford Coppola convinced Brando to submit to a "make-up" test, in which Brando did his own makeup (he used cotton balls to simulate the puffed-cheek look).
+1C2-E-TEST-0025-197.100/001	Director francis ford coppola
+1C2-E-TEST-0025-197.100/002	Convinced
+1C2-E-TEST-0025-197.100/003	Submit
+1C2-E-TEST-0025-197.100/004	Make-up test	DEP=1C2-E-TEST-0025-197.100003
+1C2-E-TEST-0025-197.100/005	Own makeup
+1C2-E-TEST-0025-197.100/006	Cotton balls
+1C2-E-TEST-0025-197.100/007	Simulate	DEP=1C2-E-TEST-0025-197.100008
+1C2-E-TEST-0025-197.100/008	Puffed-cheek look	DEP=1C2-E-TEST-0025-197.100006
+1C2-E-TEST-0025-197.103	Thomas declined the role and actually urged the studio to cast Brando at the behest of Coppola and others who had witnessed the screen test.
+1C2-E-TEST-0025-197.103/001	Thomas
+1C2-E-TEST-0025-197.103/002	Declined
+1C2-E-TEST-0025-197.103/003	roles	DEP=1C2-E-TEST-0025-197.103002
+1C2-E-TEST-0025-197.103/004	Actually
+1C2-E-TEST-0025-197.103/005	Urged
+1C2-E-TEST-0025-197.103/006	Studio	DEP=1C2-E-TEST-0025-197.103005
+1C2-E-TEST-0025-197.103/007	Cast
+1C2-E-TEST-0025-197.103/008	Behest
+1C2-E-TEST-0025-197.103/009	Copola
+1C2-E-TEST-0025-197.103/010	Witnessed
+1C2-E-TEST-0025-197.103/011	Screen test	DEP=1C2-E-TEST-0025-197.103010
+1C2-E-TEST-0025-197.105	Brando won the Academy Award for Best Actor for his performance.
+1C2-E-TEST-0025-197.105/001	Won
+1C2-E-TEST-0025-197.105/002	academy award
+1C2-E-TEST-0025-197.105/003	best actor	DEP=1C2-E-TEST-0025-197.105002
+1C2-E-TEST-0025-197.105/004	Performance	DEP=1C2-E-TEST-0025-197.105003
+1C2-E-TEST-0025-197.108	The actor followed with one of his greatest performances in Bernardo Bertolucci 's Last Tango in Paris , but the performance was overshadowed by an uproar over the erotic nature of the film.
+1C2-E-TEST-0025-197.108/001	Actors
+1C2-E-TEST-0025-197.108/002	Followed
+1C2-E-TEST-0025-197.108/003	Greatest performances
+1C2-E-TEST-0025-197.108/004	Bernardo bertolucci
+1C2-E-TEST-0025-197.108/005	Last tango in paris	DEP=1C2-E-TEST-0025-197.108004
+1C2-E-TEST-0025-197.108/006	Performance
+1C2-E-TEST-0025-197.108/007	Overshadowed
+1C2-E-TEST-0025-197.108/008	Uproar	DEP=1C2-E-TEST-0025-197.108007
+1C2-E-TEST-0025-197.108/009	Erotic nature
+1C2-E-TEST-0025-197.108/010	Film	DEP=1C2-E-TEST-0025-197.108009
+1C2-E-TEST-0025-197.116	After his week was over, Director Francis Ford Coppola asked him to stay an extra hour so that he could shoot a close up of Brando saying, "The horror, the horror."
+1C2-E-TEST-0025-197.116/001	Week
+1C2-E-TEST-0025-197.116/002	Over 
+1C2-E-TEST-0025-197.116/003	Director francis ford coppola
+1C2-E-TEST-0025-197.116/004	Asked
+1C2-E-TEST-0025-197.116/005	Extra hour
+1C2-E-TEST-0025-197.116/006	Shoot
+1C2-E-TEST-0025-197.116/007	Close	DEP=1C2-E-TEST-0025-197.116006
+1C2-E-TEST-0025-197.116/008	Saying
+1C2-E-TEST-0025-197.116/009	Horror
+1C2-E-TEST-0025-197.127	He agreed to the role only on assurance that he was paid a large sum for what amounted to a small part, that he did not have to read the script beforehand and his lines would be displayed somewhere off-camera.
+1C2-E-TEST-0025-197.127/001	role
+1C2-E-TEST-0025-197.127/002	Assurance
+1C2-E-TEST-0025-197.127/003	Paid
+1C2-E-TEST-0025-197.127/004	Large sum	DEP=1C2-E-TEST-0025-197.127003
+1C2-E-TEST-0025-197.127/005	Amounted
+1C2-E-TEST-0025-197.127/006	Small part	DEP=1C2-E-TEST-0025-197.127005
+1C2-E-TEST-0025-197.127/007	Read script
+1C2-E-TEST-0025-197.127/008	Lines
+1C2-E-TEST-0025-197.127/009	Displayed somewhere off-camera	DEP=1C2-E-TEST-0025-197.127008
+1C2-E-TEST-0025-197.130	Two years after his death, he "reprised" the role of Jor-El in the 2006 "loose sequel" Superman Returns , in which both used and unused archive footage of Brando as Jor-El from the first two Superman films was remastered for a scene in the Fortress of Solitude , as well as Brando's voice-overs being used throughout the film.
+1C2-E-TEST-0025-197.130/001	Two years
+1C2-E-TEST-0025-197.130/002	Death
+1C2-E-TEST-0025-197.130/003	Reprised
+1C2-E-TEST-0025-197.130/004	role
+1C2-E-TEST-0025-197.130/005	Jor-ei	DEP=1C2-E-TEST-0025-197.130004
+1C2-E-TEST-0025-197.130/006	2006	DEP=1C2-E-TEST-0025-197.130001
+1C2-E-TEST-0025-197.130/007	Loose sequel
+1C2-E-TEST-0025-197.130/008	Superman returns	DEP=1C2-E-TEST-0025-197.130007
+1C2-E-TEST-0025-197.130/009	Used Unused archive footage
+1C2-E-TEST-0025-197.130/010	jor ei
+1C2-E-TEST-0025-197.130/011	First two superman films
+1C2-E-TEST-0025-197.130/012	Remastered	DEP=1C2-E-TEST-0025-197.130011
+1C2-E-TEST-0025-197.130/013	Scene
+1C2-E-TEST-0025-197.130/014	Fortress solitude	DEP=1C2-E-TEST-0025-197.130013
+1C2-E-TEST-0025-197.130/015	Voice overs
+1C2-E-TEST-0025-197.130/016	Film
+1C2-E-TEST-0025-197.139	Brando became known as much for his crusades for civil rights , Native American rights and other political causes as he was for his acting.
+1C2-E-TEST-0025-197.139/001	Known
+1C2-E-TEST-0025-197.139/002	Crusades
+1C2-E-TEST-0025-197.139/003	Civil rights	DEP=1C2-E-TEST-0025-197.139002
+1C2-E-TEST-0025-197.139/004	Native american rights	DEP=1C2-E-TEST-0025-197.139002
+1C2-E-TEST-0025-197.139/005	Political causes	DEP=1C2-E-TEST-0025-197.139002
+			Acting  
+1C2-E-TEST-0025-197.151	Cox's third wife only discovered he possessed them after reading an interview in Time where Brando is quoted as saying: "I have Wally's ashes in my house.
+1C2-E-TEST-0025-197.151/001	Cox Third wife
+1C2-E-TEST-0025-197.151/002	Discovered	DEP=1C2-E-TEST-0025-197.151001
+1C2-E-TEST-0025-197.151/003	Possessed	DEP=1C2-E-TEST-0025-197.151002
+1C2-E-TEST-0025-197.151/004	Reading
+1C2-E-TEST-0025-197.151/005	Interview	DEP=1C2-E-TEST-0025-197.151004
+1C2-E-TEST-0025-197.151/006	Time
+1C2-E-TEST-0025-197.151/007	Quoted	DEP=1C2-E-TEST-0025-197.151005
+1C2-E-TEST-0025-197.151/008	Saying
+1C2-E-TEST-0025-197.151/009	Wally ashes
+1C2-E-TEST-0025-197.151/010	House
+1C2-E-TEST-0025-197.167	He was blamed for a change in director and a runaway budget, though he disclaimed responsibility for either.
+1C2-E-TEST-0025-197.167/001	Blamed
+1C2-E-TEST-0025-197.167/002	Change	DEP=1C2-E-TEST-0025-197.167001
+1C2-E-TEST-0025-197.167/003	Director  	DEP=1C2-E-TEST-0025-197.167002
+1C2-E-TEST-0025-197.167/004	Runaway budget	DEP=1C2-E-TEST-0025-197.167001
+1C2-E-TEST-0025-197.167/005	Disclaimed
+1C2-E-TEST-0025-197.167/006	Reponsibilty	DEP=1C2-E-TEST-0025-197.167005
+1C2-E-TEST-0025-197.173	A 1961 article on Teriipia in the fan magazine Motion Picture described Brando's delight at how na√?¬?√?¬Øve and unsophisticated she was.
+1C2-E-TEST-0025-197.173/001	1961 Article
+1C2-E-TEST-0025-197.173/002	Teriipia	DEP=1C2-E-TEST-0025-197.173001
+1C2-E-TEST-0025-197.173/003	Fan magazine motion picture	DEP=1C2-E-TEST-0025-197.173002
+1C2-E-TEST-0025-197.173/004	Described
+1C2-E-TEST-0025-197.173/005	Delight	DEP=1C2-E-TEST-0025-197.173004
+1C2-E-TEST-0025-197.173/006	Unsophisticated
+1C2-E-TEST-0025-197.55	Critics voted him "Broadway's Most Promising Actor" for his role as an anguished veteran in Truckline Caf√?¬?√?¬©, although the play was a commercial failure .
+1C2-E-TEST-0025-197.55/002	Critics voted
+1C2-E-TEST-0025-197.55/003	Broadway most promising actor	DEP=1C2-E-TEST-0025-197.55001
+1C2-E-TEST-0025-197.55/004	role
+1C2-E-TEST-0025-197.55/005	Anguished veteran	DEP=1C2-E-TEST-0025-197.55003
+1C2-E-TEST-0025-197.55/006	Truckline
+1C2-E-TEST-0025-197.55/007	Play
+1C2-E-TEST-0025-197.55/008	Commercial failure	DEP=1C2-E-TEST-0025-197.55007
+1C2-E-TEST-0025-197.57	Brando sought out that role, driving out to Provincetown, Massachusetts , where Williams was spending the summer, to audition for the part.
+1C2-E-TEST-0025-197.57/001	Sought 
+1C2-E-TEST-0025-197.57/002	role
+1C2-E-TEST-0025-197.57/003	Driving out
+1C2-E-TEST-0025-197.57/004	Provincetown massachusetts	DEP=1C2-E-TEST-0025-197.57003
+1C2-E-TEST-0025-197.57/005	Williams
+1C2-E-TEST-0025-197.57/006	Spending Summer	DEP=1C2-E-TEST-0025-197.57005
+1C2-E-TEST-0025-197.57/007	Audition
+1C2-E-TEST-0025-197.57/008	Part	DEP=1C2-E-TEST-0025-197.57007
+1C2-E-TEST-0025-197.67	He was nominated for an Academy Award for Best Actor for that role, and again in each of the next three years for his roles in Viva Zapata! in 1952, Julius Caesar in 1953 as Mark Antony , and On the Waterfront in 1954.
+1C2-E-TEST-0025-197.67/001	nominated
+1C2-E-TEST-0025-197.67/002	academy award	DEP=1C2-E-TEST-0025-197.67001
+1C2-E-TEST-0025-197.67/003	best actor	DEP=1C2-E-TEST-0025-197.67002
+1C2-E-TEST-0025-197.67/004	role	DEP=1C2-E-TEST-0025-197.67003
+1C2-E-TEST-0025-197.67/005	three years
+1C2-E-TEST-0025-197.67/006	roles
+1C2-E-TEST-0025-197.67/007	viva zapata	DEP=1C2-E-TEST-0025-197.67006
+1C2-E-TEST-0025-197.67/008	1952	DEP=1C2-E-TEST-0025-197.67007
+1C2-E-TEST-0025-197.67/009	julius caesar	DEP=1C2-E-TEST-0025-197.67006
+1C2-E-TEST-0025-197.67/010	1953	DEP=1C2-E-TEST-0025-197.67009
+1C2-E-TEST-0025-197.67/011	water front	DEP=1C2-E-TEST-0025-197.67006
+1C2-E-TEST-0025-197.67/012	1954	DEP=1C2-E-TEST-0025-197.67011
+1C2-E-TEST-0025-197.93	Brando followed that triumph by a variety of roles in the 1950s that defied expectations: as Sky Masterson in Guys and Dolls , where he managed to carry off a singing role; as Sakini, a Japanese interpreter for the U.S. Army in postwar Japan in The Teahouse of the August Moon ; as an Air Force officer in Sayonara ; and a Nazi officer in The Young Lions .
+1C2-E-TEST-0025-197.93/001	Triumph
+1C2-E-TEST-0025-197.93/002	Variety
+1C2-E-TEST-0025-197.93/003	roles	DEP=1C2-E-TEST-0025-197.93002
+1C2-E-TEST-0025-197.93/004	1950s	DEP=1C2-E-TEST-0025-197.93003
+1C2-E-TEST-0025-197.93/005	Defied 
+1C2-E-TEST-0025-197.93/006	Expectations
+1C2-E-TEST-0025-197.93/007	Sky masterson
+1C2-E-TEST-0025-197.93/008	Guys dolls	DEP=1C2-E-TEST-0025-197.93007
+1C2-E-TEST-0025-197.93/009	Managed
+1C2-E-TEST-0025-197.93/010	Carry off
+1C2-E-TEST-0025-197.93/011	Singing role
+1C2-E-TEST-0025-197.93/012	Sakini	DEP=1C2-E-TEST-0025-197.93011
+1C2-E-TEST-0025-197.93/013	Japanese interpreter
+1C2-E-TEST-0025-197.93/014	u.s army	DEP=1C2-E-TEST-0025-197.93013
+1C2-E-TEST-0025-197.93/015	Postwar japan	DEP=1C2-E-TEST-0025-197.93013
+1C2-E-TEST-0025-197.93/016	Teahouse august moon	DEP=1C2-E-TEST-0025-197.93015
+1C2-E-TEST-0025-197.93/017	Airforce officer
+1C2-E-TEST-0025-197.93/018	Sayonara	DEP=1C2-E-TEST-0025-197.93017
+1C2-E-TEST-0025-197.93/019	Nazi officer
+1C2-E-TEST-0025-197.93/020	Young lions	DEP=1C2-E-TEST-0025-197.93019
+1C2-E-TEST-0025-197.95	In the 1960s Brando starred in films such as Mutiny on the Bounty (1962); One-Eyed Jacks (1961), a western that would be the only film Brando would ever direct; Reflections in a Golden Eye (1967), portraying a repressed gay army officer; and Burn! (1969), which Brando would later claim as his personal favorite, although it was a commercial failure.
+1C2-E-TEST-0025-197.95/001	1960s
+1C2-E-TEST-0025-197.95/002	Starred
+1C2-E-TEST-0025-197.95/003	Films	DEP=1C2-E-TEST-0025-197.95002
+1C2-E-TEST-0025-197.95/004	Mutiny bounty	DEP=1C2-E-TEST-0025-197.95001
+1C2-E-TEST-0025-197.95/005	1962	DEP=1C2-E-TEST-0025-197.95004
+1C2-E-TEST-0025-197.95/006	One-eyed jacks
+1C2-E-TEST-0025-197.95/007	1961	DEP=1C2-E-TEST-0025-197.95006
+1C2-E-TEST-0025-197.95/008	Western
+1C2-E-TEST-0025-197.95/009	Direct	DEP=1C2-E-TEST-0025-197.95006
+1C2-E-TEST-0025-197.95/010	Reflections golden eye
+1C2-E-TEST-0025-197.95/011	1967	DEP=1C2-E-TEST-0025-197.95010
+1C2-E-TEST-0025-197.95/012	Portraying repressed gay army officer	DEP=1C2-E-TEST-0025-197.95010
+1C2-E-TEST-0025-197.95/013	Burn
+1C2-E-TEST-0025-197.95/014	1969	DEP=1C2-E-TEST-0025-197.95013
+1C2-E-TEST-0025-197.95/015	Later claim
+1C2-E-TEST-0025-197.95/016	Personnal favourite	DEP=1C2-E-TEST-0025-197.95013
+1C2-E-TEST-0025-197.95/017	Commercial failure	DEP=1C2-E-TEST-0025-197.95013
+1C2-E-TEST-0025-208.10	His behavior got him kicked out of the cast of the New School's production in Sayville, but he was discovered in a locally produced play there and then made it to Broadway in the bittersweet drama I Remember Mama in 1944.
+1C2-E-TEST-0025-208.10/001	Behavior
+1C2-E-TEST-0025-208.10/002	Kicked
+1C2-E-TEST-0025-208.10/003	Cast
+1C2-E-TEST-0025-208.10/004	New school production	DEP=1C2-E-TEST-0025-208.10003
+1C2-E-TEST-0025-208.10/005	Sayville	DEP=1C2-E-TEST-0025-208.10004
+1C2-E-TEST-0025-208.10/006	Discovered
+1C2-E-TEST-0025-208.10/007	Locally produced play	DEP=1C2-E-TEST-0025-208.10006
+1C2-E-TEST-0025-208.10/008	Broadway  
+1C2-E-TEST-0025-208.10/009	Bittersweet drama
+1C2-E-TEST-0025-208.10/010	Remember mama	DEP=1C2-E-TEST-0025-208.10009
+1C2-E-TEST-0025-208.10/011	1944	DEP=1C2-E-TEST-0025-208.10010
+1C2-E-TEST-0025-208.13	Brando sought out that role, driving out to Provincetown, Massachusetts, where Williams was spending the summer, to audition for the part.
+1C2-E-TEST-0025-208.13/001	Sought 
+1C2-E-TEST-0025-208.13/002	role
+1C2-E-TEST-0025-208.13/003	Driving out
+1C2-E-TEST-0025-208.13/004	Provincetown massachusetts	DEP=1C2-E-TEST-0025-208.13003
+1C2-E-TEST-0025-208.13/005	Williams
+1C2-E-TEST-0025-208.13/006	Spending Summer	DEP=1C2-E-TEST-0025-208.13005
+1C2-E-TEST-0025-208.13/007	Audition
+1C2-E-TEST-0025-208.13/008	Part	DEP=1C2-E-TEST-0025-208.13007
+1C2-E-TEST-0025-208.19	True to his method, Brando spent a month in bed at a veterans' hospital to prepare for the role.
+1C2-E-TEST-0025-208.19/001	True
+1C2-E-TEST-0025-208.19/002	Method
+1C2-E-TEST-0025-208.19/003	Spent
+1C2-E-TEST-0025-208.19/004	Month	DEP=1C2-E-TEST-0025-208.19003
+1C2-E-TEST-0025-208.19/005	Bed
+1C2-E-TEST-0025-208.19/006	Veteran hospital	DEP=1C2-E-TEST-0025-208.19005
+1C2-E-TEST-0025-208.19/007	Prepare
+1C2-E-TEST-0025-208.19/008	role	DEP=1C2-E-TEST-0025-208.19007
+1C2-E-TEST-0025-208.21	He was nominated for an Academy Award for Best Actor for that role, and again in each of the next three years for his roles in Viva Zapata! in 1952, Julius Caesar in 1953 as Marc Antony, and On the Waterfront in 1954.
+1C2-E-TEST-0025-208.21/001	nominated
+1C2-E-TEST-0025-208.21/002	academy award	DEP=1C2-E-TEST-0025-208.21001
+1C2-E-TEST-0025-208.21/003	best actor	DEP=1C2-E-TEST-0025-208.21002
+1C2-E-TEST-0025-208.21/004	role	DEP=1C2-E-TEST-0025-208.21003
+1C2-E-TEST-0025-208.21/005	three years
+1C2-E-TEST-0025-208.21/006	roles
+1C2-E-TEST-0025-208.21/007	viva zapata	DEP=1C2-E-TEST-0025-208.21006
+1C2-E-TEST-0025-208.21/008	1952	DEP=1C2-E-TEST-0025-208.21007
+1C2-E-TEST-0025-208.21/009	julius caesar	DEP=1C2-E-TEST-0025-208.21006
+1C2-E-TEST-0025-208.21/010	1953	DEP=1C2-E-TEST-0025-208.21009
+1C2-E-TEST-0025-208.21/011	water front	DEP=1C2-E-TEST-0025-208.21006
+1C2-E-TEST-0025-208.21/012	1954	DEP=1C2-E-TEST-0025-208.21011
+1C2-E-TEST-0025-208.45	While he won an Oscar nomination for his acting in Sayonara, his acting had lost much of its energy and direction by the end of the 1950s.
+1C2-E-TEST-0025-208.45/001	Won 
+1C2-E-TEST-0025-208.45/002	Oscar nomination	DEP=1C2-E-TEST-0025-208.45001
+1C2-E-TEST-0025-208.45/003	Acting  
+1C2-E-TEST-0025-208.45/004	Sayonara	DEP=1C2-E-TEST-0025-208.45002
+1C2-E-TEST-0025-208.45/005	Acting  
+1C2-E-TEST-0025-208.45/006	Lost
+1C2-E-TEST-0025-208.45/007	Energy direction	DEP=1C2-E-TEST-0025-208.45006
+			End 1950s
+1C2-E-TEST-0025-208.46	In the 1960s Brando starred in films such as Mutiny on the Bounty (1962); One-Eyed Jacks (1961), a western that would be the only film Brando would ever direct; Reflections in a Golden Eye (1967), portraying a repressed gay army officer; and Burn! (1969), which Brando would later claim as his personal favorite, although it was a commercial failure.
+1C2-E-TEST-0025-208.46/001	1960s
+1C2-E-TEST-0025-208.46/002	Starred
+1C2-E-TEST-0025-208.46/003	Films	DEP=1C2-E-TEST-0025-208.46002
+1C2-E-TEST-0025-208.46/004	Mutiny bounty	DEP=1C2-E-TEST-0025-208.46001
+1C2-E-TEST-0025-208.46/005	1962	DEP=1C2-E-TEST-0025-208.46004
+1C2-E-TEST-0025-208.46/006	One-eyed jacks
+1C2-E-TEST-0025-208.46/007	1961	DEP=1C2-E-TEST-0025-208.46006
+1C2-E-TEST-0025-208.46/008	Western
+1C2-E-TEST-0025-208.46/009	Direct	DEP=1C2-E-TEST-0025-208.46006
+1C2-E-TEST-0025-208.46/010	Reflections golden eye
+1C2-E-TEST-0025-208.46/011	1967	DEP=1C2-E-TEST-0025-208.46010
+1C2-E-TEST-0025-208.46/012	Portraying repressed gay army officer	DEP=1C2-E-TEST-0025-208.46010
+1C2-E-TEST-0025-208.46/013	Burn
+1C2-E-TEST-0025-208.46/014	1969	DEP=1C2-E-TEST-0025-208.46013
+1C2-E-TEST-0025-208.46/015	Later claim
+1C2-E-TEST-0025-208.46/016	Personnal favourite	DEP=1C2-E-TEST-0025-208.46013
+1C2-E-TEST-0025-208.46/017	Commercial failure	DEP=1C2-E-TEST-0025-208.46013
+1C2-E-TEST-0025-208.49	Director Francis Ford Coppola convinced Brando to submit to a "make-up" test, in which Brando did his own makeup (he used cotton balls to simulate the puffed-cheek look).
+1C2-E-TEST-0025-208.49/001	Director francis ford coppola
+1C2-E-TEST-0025-208.49/002	Convinced
+1C2-E-TEST-0025-208.49/003	Submit
+1C2-E-TEST-0025-208.49/004	Make-up test	DEP=1C2-E-TEST-0025-208.49003
+1C2-E-TEST-0025-208.49/005	Own makeup
+1C2-E-TEST-0025-208.49/006	Cotton balls
+1C2-E-TEST-0025-208.49/007	Simulate	DEP=1C2-E-TEST-0025-208.49008
+1C2-E-TEST-0025-208.49/008	Puffed-cheek look	DEP=1C2-E-TEST-0025-208.49006
+1C2-E-TEST-0025-208.5	Brando is best known for his roles in A Streetcar Named Desire and On the Waterfront, both directed by Elia Kazan in the early 1950s, and his Academy-Award winning performance as Vito Corleone in The Godfather and as Colonel Walter E. Kurtz in Apocalypse Now, the latter two directed by Francis Ford Coppola in the 1970s.
+1C2-E-TEST-0025-208.5/001	Best known
+1C2-E-TEST-0025-208.5/002	roles
+1C2-E-TEST-0025-208.5/003	streetcar named desire	DEP=1C2-E-TEST-0025-208.5002
+1C2-E-TEST-0025-208.5/004	Waterfront	DEP=1C2-E-TEST-0025-208.5002
+1C2-E-TEST-0025-208.5/005	Directed
+1C2-E-TEST-0025-208.5/006	Elia kazan	DEP=1C2-E-TEST-0025-208.5005
+1C2-E-TEST-0025-208.5/007	Early 1950s
+1C2-E-TEST-0025-208.5/008	Academy-award winning performance
+1C2-E-TEST-0025-208.5/009	Vito corleone	DEP=1C2-E-TEST-0025-208.5008
+1C2-E-TEST-0025-208.5/010	Godfather	DEP=1C2-E-TEST-0025-208.5009
+1C2-E-TEST-0025-208.5/011	Colonel walter E kurtz
+1C2-E-TEST-0025-208.5/012	Apocalypse now	DEP=1C2-E-TEST-0025-208.5011
+1C2-E-TEST-0025-208.5/013	Two  
+1C2-E-TEST-0025-208.5/014	Directed
+1C2-E-TEST-0025-208.5/015	Francis ford coppola	DEP=1C2-E-TEST-0025-208.5014
+1C2-E-TEST-0025-208.5/016	1970	DEP=1C2-E-TEST-0025-208.5015
+1C2-E-TEST-0025-208.55	Brando turned down the Academy Award, the second actor to refuse a Best Actor Oscar (the first being George C. Scott for Patton).
+1C2-E-TEST-0025-208.55/001	Turned down
+1C2-E-TEST-0025-208.55/002	academy award	DEP=1C2-E-TEST-0025-208.55001
+1C2-E-TEST-0025-208.55/003	Second actor
+1C2-E-TEST-0025-208.55/004	Refuse
+1C2-E-TEST-0025-208.55/005	Best actor oscar	DEP=1C2-E-TEST-0025-208.55004
+1C2-E-TEST-0025-208.55/006	George C scott	DEP=1C2-E-TEST-0025-208.55004
+1C2-E-TEST-0025-208.55/007	Patton	DEP=1C2-E-TEST-0025-208.55006
+1C2-E-TEST-0025-208.56	Brando boycotted the award ceremony, sending little-known actress Sacheen Littlefeather to state his reasons, which were based on his objections to the depiction of Native Americans by Hollywood and television.
+1C2-E-TEST-0025-208.56/001	Boycotted
+1C2-E-TEST-0025-208.56/002	Award ceremony	DEP=1C2-E-TEST-0025-208.56001
+1C2-E-TEST-0025-208.56/003	Sending
+1C2-E-TEST-0025-208.56/004	little-known actress sacheen littlefeather
+1C2-E-TEST-0025-208.56/005	State
+1C2-E-TEST-0025-208.56/006	Reasons
+1C2-E-TEST-0025-208.56/007	Based
+1C2-E-TEST-0025-208.56/008	Objections	DEP=1C2-E-TEST-0025-208.56006
+1C2-E-TEST-0025-208.56/009	Depiction
+1C2-E-TEST-0025-208.56/010	Native americans	DEP=1C2-E-TEST-0025-208.56009
+1C2-E-TEST-0025-208.56/011	Hollywood	DEP=1C2-E-TEST-0025-208.56010
+1C2-E-TEST-0025-208.56/012	Television	DEP=1C2-E-TEST-0025-208.56010
+1C2-E-TEST-0025-208.57	The actor followed with one of his greatest performances in Bernardo Bertolucci's Last Tango in Paris, but the performance was overshadowed by an uproar over the erotic nature of the film.
+1C2-E-TEST-0025-208.57/001	Actors
+1C2-E-TEST-0025-208.57/002	Followed
+1C2-E-TEST-0025-208.57/003	Greatest performances
+1C2-E-TEST-0025-208.57/004	Bernardo bertolucci
+1C2-E-TEST-0025-208.57/005	Last tango in paris	DEP=1C2-E-TEST-0025-208.57004
+1C2-E-TEST-0025-208.57/006	Performance
+1C2-E-TEST-0025-208.57/007	Overshadowed
+1C2-E-TEST-0025-208.57/008	Uproar	DEP=1C2-E-TEST-0025-208.57007
+1C2-E-TEST-0025-208.57/009	Erotic nature
+1C2-E-TEST-0025-208.57/010	Film	DEP=1C2-E-TEST-0025-208.57009
+1C2-E-TEST-0025-208.64	After his week was over Director Francis Ford Coppola asked him to stay an extra hour to so he could shoot a close up of him saying, "The horror, the horror."
+1C2-E-TEST-0025-208.64/001	Week
+1C2-E-TEST-0025-208.64/002	Over 
+1C2-E-TEST-0025-208.64/003	Director francis ford coppola
+1C2-E-TEST-0025-208.64/004	Asked
+1C2-E-TEST-0025-208.64/005	Extra hour
+1C2-E-TEST-0025-208.64/006	Shoot	DEP=1C2-E-TEST-0025-208.64005
+1C2-E-TEST-0025-208.64/007	Close	DEP=1C2-E-TEST-0025-208.64006
+1C2-E-TEST-0025-208.64/008	Saying
+1C2-E-TEST-0025-208.64/009	Horror
+1C2-E-TEST-0025-208.68	Brando also filmed scenes for the movie's sequel, Superman II, but the producers refused to pay him the enormous percentage he was paid for the first movie, so he denied them permission to use the footage.
+1C2-E-TEST-0025-208.68/001	Filmed scenes
+1C2-E-TEST-0025-208.68/002	Movies sequel superman ii	DEP=1C2-E-TEST-0025-208.68001
+1C2-E-TEST-0025-208.68/003	Producers
+1C2-E-TEST-0025-208.68/004	Refused	DEP=1C2-E-TEST-0025-208.68003
+1C2-E-TEST-0025-208.68/005	Pay	DEP=1C2-E-TEST-0025-208.68004
+1C2-E-TEST-0025-208.68/006	Enormous percentage	DEP=1C2-E-TEST-0025-208.68005
+1C2-E-TEST-0025-208.68/007	Paid
+1C2-E-TEST-0025-208.68/008	First movie	DEP=1C2-E-TEST-0025-208.68007
+1C2-E-TEST-0025-208.68/009	Denied
+1C2-E-TEST-0025-208.68/010	Permission	DEP=1C2-E-TEST-0025-208.68009
+1C2-E-TEST-0025-208.68/011	Use 
+1C2-E-TEST-0025-208.68/012	Footage	DEP=1C2-E-TEST-0025-208.68011
+1C2-E-TEST-0025-208.71	Other later performances, such as The Island of Dr Moreau, earned him some of the most uncomplimentary reviews of his career.
+1C2-E-TEST-0025-208.71/001	Later performances
+1C2-E-TEST-0025-208.71/002	Island dr moreau	DEP=1C2-E-TEST-0025-208.71001
+1C2-E-TEST-0025-208.71/003	Earned
+1C2-E-TEST-0025-208.71/004	Uncomplimentary reviews	DEP=1C2-E-TEST-0025-208.71003
+1C2-E-TEST-0025-208.71/005	Career
+1C2-E-TEST-0025-208.78	Interestingly, Cammell dated and eventually married the daughter of one of Brando's girlfriends, Anita Loo aka Anita Kong; the daughter being China Kong.
+1C2-E-TEST-0025-208.78/001	Interestingly
+1C2-E-TEST-0025-208.78/002	Cammell
+1C2-E-TEST-0025-208.78/003	Dated	DEP=1C2-E-TEST-0025-208.78002
+1C2-E-TEST-0025-208.78/004	Eventually married
+1C2-E-TEST-0025-208.78/005	Daughter	DEP=1C2-E-TEST-0025-208.78004
+1C2-E-TEST-0025-208.78/006	Girlfriends	DEP=1C2-E-TEST-0025-208.78005
+1C2-E-TEST-0025-208.78/007	Anita loo aka anita kong	DEP=1C2-E-TEST-0025-208.78006
+1C2-E-TEST-0025-208.78/008	Daughter	DEP=1C2-E-TEST-0025-208.78007
+1C2-E-TEST-0025-208.78/009	China kong	DEP=1C2-E-TEST-0025-208.78008
+1C2-E-TEST-0025-5.10	In middle age, his well-known roles include his Academy Award-winning performance as Vito Corleone in The Godfather, Colonel Walter Kurtz in Apocalypse Now, both directed by Francis Ford Coppola and an Academy Award-nominated performance as Paul in Last Tango in Paris.
+1C2-E-TEST-0025-5.10/001	Middle age
+1C2-E-TEST-0025-5.10/002	Well-known roles
+1C2-E-TEST-0025-5.10/003	Include
+1C2-E-TEST-0025-5.10/004	Academy award-winning performances
+1C2-E-TEST-0025-5.10/005	vito corleone	DEP=1C2-E-TEST-0025-5.10004
+1C2-E-TEST-0025-5.10/006	Godfather	DEP=1C2-E-TEST-0025-5.10005
+1C2-E-TEST-0025-5.10/007	colonel walter kurtz
+1C2-E-TEST-0025-5.10/008	Apocalypse now	DEP=1C2-E-TEST-0025-5.10007
+1C2-E-TEST-0025-5.10/009	Directed
+1C2-E-TEST-0025-5.10/010	francis ford coppola	DEP=1C2-E-TEST-0025-5.10009
+1C2-E-TEST-0025-5.10/011	Academy award-nominated performance
+1C2-E-TEST-0025-5.10/012	Paul	DEP=1C2-E-TEST-0025-5.10011
+1C2-E-TEST-0025-5.10/013	Last tango in paris	DEP=1C2-E-TEST-0025-5.10012
+1C2-E-TEST-0025-5.12	He was named the fourth Greatest Male Star of All Time by the American Film Institute, and part of Time magazine√?¬¢√¢¬?¬¨√¢¬?¬¢s Time 100: The Most Important People of the Century.
+1C2-E-TEST-0025-5.12/001	Named
+1C2-E-TEST-0025-5.12/002	Fourth greatest male star	DEP=1C2-E-TEST-0025-5.12001
+1C2-E-TEST-0025-5.12/003	All time'american film institute	DEP=1C2-E-TEST-0025-5.12002
+1C2-E-TEST-0025-5.12/004	Part	DEP=1C2-E-TEST-0025-5.12005
+1C2-E-TEST-0025-5.12/005	Time magazine
+1C2-E-TEST-0025-5.12/006	Time 100 
+1C2-E-TEST-0025-5.12/007	Century	DEP=1C2-E-TEST-0025-5.12008
+1C2-E-TEST-0025-5.12/008	most important people 	DEP=1C2-E-TEST-0025-5.12006
+1C2-E-TEST-0025-5.19	More than 50 years after he first scorched the screen as Stanley Kowalski in the movie version of Tennessee Williams √?¬¢√¢¬?¬¨√?¬? A Streetcar Named Desire (1951) and a quarter-century after his last great performance as Col. Kurtz in Francis Ford Coppola √?¬¢√¢¬?¬¨√?¬?s Apocalypse Now (1979), all American actors are still being measured by the yardstick that was Brando.
+1C2-E-TEST-0025-5.19/001	50 years
+1C2-E-TEST-0025-5.19/002	First scorched
+1C2-E-TEST-0025-5.19/003	Screen
+1C2-E-TEST-0025-5.19/004	Stanley kowalski
+1C2-E-TEST-0025-5.19/005	Movie version	DEP=1C2-E-TEST-0025-5.19004
+1C2-E-TEST-0025-5.19/006	Tennessee williams	DEP=1C2-E-TEST-0025-5.19005
+1C2-E-TEST-0025-5.19/007	streetcar named desire	DEP=1C2-E-TEST-0025-5.19006
+1C2-E-TEST-0025-5.19/008	1951	DEP=1C2-E-TEST-0025-5.19007
+1C2-E-TEST-0025-5.19/009	Quarter-century
+1C2-E-TEST-0025-5.19/010	Last great performance
+1C2-E-TEST-0025-5.19/011	Col. Kurtz	DEP=1C2-E-TEST-0025-5.19010
+1C2-E-TEST-0025-5.19/012	francis ford coppola	DEP=1C2-E-TEST-0025-5.19011
+1C2-E-TEST-0025-5.19/013	Apocalypse now	DEP=1C2-E-TEST-0025-5.19012
+1C2-E-TEST-0025-5.19/014	1979	DEP=1C2-E-TEST-0025-5.19013
+1C2-E-TEST-0025-5.19/015	American actors	DEP=1C2-E-TEST-0025-5.19016
+1C2-E-TEST-0025-5.19/016	Measured
+1C2-E-TEST-0025-5.19/017	Yardstick	DEP=1C2-E-TEST-0025-5.19016
+1C2-E-TEST-0025-5.37	Brando was an activist, lending his presence to many issues, including the American Civil Rights and American Indian Movements.
+1C2-E-TEST-0025-5.37/001	Activist
+1C2-E-TEST-0025-5.37/002	Lending presence
+1C2-E-TEST-0025-5.37/003	Issues	DEP=1C2-E-TEST-0025-5.37002
+1C2-E-TEST-0025-5.37/004	American civil rights	DEP=1C2-E-TEST-0025-5.37003
+1C2-E-TEST-0025-5.37/005	American indian movements	DEP=1C2-E-TEST-0025-5.37003
+1C2-E-TEST-0025-5.50	Along with his iconic performance as the rebel-without-a-cause Johnny in The Wild One (1953) (√?¬¢√¢¬?¬¨√?¬?What are you rebelling against?√?¬¢√¢¬?¬¨√?¬ù
+1C2-E-TEST-0025-5.50/001	Iconic performance
+1C2-E-TEST-0025-5.50/002	Rebel-without-a-cause
+1C2-E-TEST-0025-5.50/003	Johnny
+1C2-E-TEST-0025-5.50/004	Wild one	DEP=1C2-E-TEST-0025-5.50003
+1C2-E-TEST-0025-5.50/005	1953	DEP=1C2-E-TEST-0025-5.50004
+1C2-E-TEST-0025-5.50/006	Rebelling
+1C2-E-TEST-0025-5.69	The problem that an intelligent performer has in movies is that it is the director, and not the actor, who has the power in his chosen field.
+1C2-E-TEST-0025-5.69/001	Problem
+1C2-E-TEST-0025-5.69/002	Intelligent performer
+1C2-E-TEST-0025-5.69/003	Movies
+1C2-E-TEST-0025-5.69/004	Director  	DEP=1C2-E-TEST-0025-5.69003
+1C2-E-TEST-0025-5.69/005	Actor 	DEP=1C2-E-TEST-0025-5.69003
+1C2-E-TEST-0025-5.69/006	Power
+1C2-E-TEST-0025-5.69/007	Chosen field	DEP=1C2-E-TEST-0025-5.69006
