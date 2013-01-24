@@ -1,21 +1,21 @@
 1C2-E-TEST-0093-10.13	Hartsfield-Jackson's transportation system and other factors led the Air Transport Research Society to name it the world's most efficient airport in 2011.			
-1C2-E-TEST-0093-10.13/001	hartsfield-jackson	DEP=1C2-E-TEST-0093-10.13007	hartsfield-jackson	
-1C2-E-TEST-0093-10.13/002	factors	DEP=1C2-E-TEST-0093-10.13007	transportation system	1
-1C2-E-TEST-0093-10.13/003	air transport research society	DEP=1C2-E-TEST-0093-10.13009	air transport research society	
-1C2-E-TEST-0093-10.13/004	world		world	3
-1C2-E-TEST-0093-10.13/005	2011		efficent airport 2011	3
+1C2-E-TEST-0093-10.13/001	hartsfield-jackson	DEP=1C2-E-TEST-0093-10.13007	hartsfield-jackson transportation system	3
+1C2-E-TEST-0093-10.13/002	factors	DEP=1C2-E-TEST-0093-10.13007	other factors	3
+1C2-E-TEST-0093-10.13/003	air transport research society	DEP=1C2-E-TEST-0093-10.13009	led air transport research society	4
+1C2-E-TEST-0093-10.13/004	world		name world most efficent airport 2011	
+1C2-E-TEST-0093-10.13/005	2011			
 1C2-E-TEST-0093-10.13/006	transportation	DEP=1C2-E-TEST-0093-10.13007		
 1C2-E-TEST-0093-10.13/007	system	DEP=1C2-E-TEST-0093-10.13008		
 1C2-E-TEST-0093-10.13/008	led			
 1C2-E-TEST-0093-10.13/009	name	DEP=1C2-E-TEST-0093-10.13008		
 1C2-E-TEST-0093-10.13/010	efficient			
 1C2-E-TEST-0093-10.14	The Airport also offers convenient transportation to downtown Atlanta and points beyond through a Metropolitan Atlanta Rapid Transit Authority (MARTA) station inside the terminal.			
-1C2-E-TEST-0093-10.14/001	convenient transportation	DEP=1C2-E-TEST-0093-10.14006	convenient transportation	2
-1C2-E-TEST-0093-10.14/002	downtown		downtown	
-1C2-E-TEST-0093-10.14/003	points		points beyond	
-1C2-E-TEST-0093-10.14/004	metropolitan rapid transit authority	DEP=1C2-E-TEST-0093-10.14007	metropolitan rapid transit authority	3
-1C2-E-TEST-0093-10.14/005	marta	DEP=1C2-E-TEST-0093-10.14004	marta	4
-1C2-E-TEST-0093-10.14/006	offers		station inside terminal	5
+1C2-E-TEST-0093-10.14/001	convenient transportation	DEP=1C2-E-TEST-0093-10.14006	offers convenient transportation 	
+1C2-E-TEST-0093-10.14/002	downtown		downtown atlanta and points beyond	1
+1C2-E-TEST-0093-10.14/003	points		metropolitan rapid transit authority marta	1
+1C2-E-TEST-0093-10.14/004	metropolitan rapid transit authority	DEP=1C2-E-TEST-0093-10.14007	station inside terminal	3
+1C2-E-TEST-0093-10.14/005	marta	DEP=1C2-E-TEST-0093-10.14004		
+1C2-E-TEST-0093-10.14/006	offers			
 1C2-E-TEST-0093-10.14/007	station			
 1C2-E-TEST-0093-10.14/008	terminal			
 1C2-E-TEST-0093-109.12	"Atlanta Airport covers 5,800,000 square feet (539,000m<sup>2</sup>)."			
@@ -24,53 +24,53 @@
 1C2-E-TEST-0093-109.12/003	2 </sup>	DEP=1C2-E-TEST-0093-109.12002		
 1C2-E-TEST-0093-109.12/004	covers			
 1C2-E-TEST-0093-109.24	"Atlanta AirportÃ¢ÂÂs car parks can accommodate up to 31,000 cars."			
-1C2-E-TEST-0093-109.24/001	airportâ	DEP=1C2-E-TEST-0093-109.24005	car parks	
-1C2-E-TEST-0093-109.24/002	s	DEP=1C2-E-TEST-0093-109.24001	accommodate 	1
-1C2-E-TEST-0093-109.24/003	car parks	DEP=1C2-E-TEST-0093-109.24001	31000 cars	1
+1C2-E-TEST-0093-109.24/001	airportâ	DEP=1C2-E-TEST-0093-109.24005	car parks can accommodate 31000 cars	
+1C2-E-TEST-0093-109.24/002	s	DEP=1C2-E-TEST-0093-109.24001		
+1C2-E-TEST-0093-109.24/003	car parks	DEP=1C2-E-TEST-0093-109.24001		
 1C2-E-TEST-0093-109.24/004	"31,000 cars"			
 1C2-E-TEST-0093-109.24/005	accommodate			
 1C2-E-TEST-0093-109.5	"A massive facility, Atlanta Airport has two terminals that are separated by an atrium comprising a spacious seating area, numerous restaurants and shops, a bank, business center, the MARTA train station and the Ground Transportation Center."			
 1C2-E-TEST-0093-109.5/001	massive facility		massive facility	
-1C2-E-TEST-0093-109.5/002	two terminals		two terminals	1
-1C2-E-TEST-0093-109.5/003	atrium		atrium	
-1C2-E-TEST-0093-109.5/004	spacious seating area	DEP=1C2-E-TEST-0093-109.5011	spacious seating area	3
-1C2-E-TEST-0093-109.5/005	numerous restaurants shops	DEP=1C2-E-TEST-0093-109.5004	numerous restaurants shops	1
-1C2-E-TEST-0093-109.5/006	bank	DEP=1C2-E-TEST-0093-109.5004	bank	1
-1C2-E-TEST-0093-109.5/007	business center	DEP=1C2-E-TEST-0093-109.5004	business center	1
-1C2-E-TEST-0093-109.5/008	marta train station	DEP=1C2-E-TEST-0093-109.5004	marta train station	1
-1C2-E-TEST-0093-109.5/009	ground transportation center	DEP=1C2-E-TEST-0093-109.5004	ground transportation center	1
+1C2-E-TEST-0093-109.5/002	two terminals		has two terminals separated by atrium	1
+1C2-E-TEST-0093-109.5/003	atrium		comprising a spacious seating area	1
+1C2-E-TEST-0093-109.5/004	spacious seating area	DEP=1C2-E-TEST-0093-109.5011	comprising numerous restaurants shops	1
+1C2-E-TEST-0093-109.5/005	numerous restaurants shops	DEP=1C2-E-TEST-0093-109.5004	comprising bank	1
+1C2-E-TEST-0093-109.5/006	bank	DEP=1C2-E-TEST-0093-109.5004	comprising business center	1
+1C2-E-TEST-0093-109.5/007	business center	DEP=1C2-E-TEST-0093-109.5004	comprising  marta train station	1
+1C2-E-TEST-0093-109.5/008	marta train station	DEP=1C2-E-TEST-0093-109.5004	comprising  ground transportation center	1
+1C2-E-TEST-0093-109.5/009	ground transportation center	DEP=1C2-E-TEST-0093-109.5004		
 1C2-E-TEST-0093-109.5/010	separated	DEP=1C2-E-TEST-0093-109.5002		
 1C2-E-TEST-0093-109.5/011	comprising	DEP=1C2-E-TEST-0093-109.5003		
 1C2-E-TEST-0093-119.13	The airport is a hub for Delta Air Lines - it is the largest airport hub in the world.			
-1C2-E-TEST-0093-119.13/001	hub		hub	
-1C2-E-TEST-0093-119.13/002	delta air lines		delta air lines	1
-1C2-E-TEST-0093-119.13/003	largest hub	DEP=1C2-E-TEST-0093-119.13001	largest hub	1
-1C2-E-TEST-0093-119.13/004	world		world	3
+1C2-E-TEST-0093-119.13/001	hub		hub for delta air lines	
+1C2-E-TEST-0093-119.13/002	delta air lines		largest airport hub in world	1
+1C2-E-TEST-0093-119.13/003	largest hub	DEP=1C2-E-TEST-0093-119.13001		
+1C2-E-TEST-0093-119.13/004	world			
 1C2-E-TEST-0093-119.17	"As the busiest airport in the world, Atlanta Airport offers just about anything a traveler could want."			
-1C2-E-TEST-0093-119.17/001	busiest		busiest	
-1C2-E-TEST-0093-119.17/002	world		world 	1
-1C2-E-TEST-0093-119.17/003	traveler		offers	
-1C2-E-TEST-0093-119.17/004	offers		traveler	3
+1C2-E-TEST-0093-119.17/001	busiest		busiest airport in world	
+1C2-E-TEST-0093-119.17/002	world		offers anything traveler could want	
+1C2-E-TEST-0093-119.17/003	traveler			
+1C2-E-TEST-0093-119.17/004	offers			
 1C2-E-TEST-0093-123.17	Delta Airlines has maintained their headquarters and largest hub at Atlanta Hartsfield for several decades.			
-1C2-E-TEST-0093-123.17/001	delta airlines	DEP=1C2-E-TEST-0093-123.17006	delta airlines maintained	
-1C2-E-TEST-0093-123.17/002	headquarters	DEP=1C2-E-TEST-0093-123.17006	headquarters	1
-1C2-E-TEST-0093-123.17/003	largest hub	DEP=1C2-E-TEST-0093-123.17002	largest hub	1
-1C2-E-TEST-0093-123.17/004	hartsfield		hartsfield	3
-1C2-E-TEST-0093-123.17/005	decades		decades	4
+1C2-E-TEST-0093-123.17/001	delta airlines	DEP=1C2-E-TEST-0093-123.17006	delta airlines maintained headquaters	
+1C2-E-TEST-0093-123.17/002	headquarters	DEP=1C2-E-TEST-0093-123.17006	for decades	1
+1C2-E-TEST-0093-123.17/003	largest hub	DEP=1C2-E-TEST-0093-123.17002	largest hub at atlanta hartsfield	1
+1C2-E-TEST-0093-123.17/004	hartsfield			
+1C2-E-TEST-0093-123.17/005	decades			
 1C2-E-TEST-0093-123.17/006	maintained			
 1C2-E-TEST-0093-123.3	"About seven miles due south of downtown Atlanta, Hartsfield Airport occupies parts of both Clayton and Fulton counties in Georgia."			
-1C2-E-TEST-0093-123.3/001	seven miles		seven miles due south	
-1C2-E-TEST-0093-123.3/002	downtown		downtown	1
-1C2-E-TEST-0093-123.3/003	hartsfield		hartsfield occupies	
-1C2-E-TEST-0093-123.3/004	parts	DEP=1C2-E-TEST-0093-123.3009	parts	5
-1C2-E-TEST-0093-123.3/005	clayton fulton	DEP=1C2-E-TEST-0093-123.3010	clayton fulton counties	
+1C2-E-TEST-0093-123.3/001	seven miles		occupies parts of both clayton and fulton counties	
+1C2-E-TEST-0093-123.3/002	downtown		georgia	1
+1C2-E-TEST-0093-123.3/003	hartsfield		seven miles south of downtown atlanta	1
+1C2-E-TEST-0093-123.3/004	parts	DEP=1C2-E-TEST-0093-123.3009		
+1C2-E-TEST-0093-123.3/005	clayton fulton	DEP=1C2-E-TEST-0093-123.3010		
 1C2-E-TEST-0093-123.3/006	georgia			
 1C2-E-TEST-0093-123.3/007	due	DEP=1C2-E-TEST-0093-123.3008		
 1C2-E-TEST-0093-123.3/008	south			
 1C2-E-TEST-0093-123.3/009	occupies			
 1C2-E-TEST-0093-123.3/010	counties			
 1C2-E-TEST-0093-3.122	"[4] The airport has two terminals where passengers check-in and claim bags, the Domestic Terminal and the Maynard H. Jackson Jr."			
-1C2-E-TEST-0093-3.122/001	two terminals		two terminals	
+1C2-E-TEST-0093-3.122/001	two terminals		has two terminals	
 1C2-E-TEST-0093-3.122/002	passengers	DEP=1C2-E-TEST-0093-3.122008	passengers check-in claim bags	1
 1C2-E-TEST-0093-3.122/003	check-in claim	DEP=1C2-E-TEST-0093-3.122008	domestic terminal	1
 1C2-E-TEST-0093-3.122/004	domestic	DEP=1C2-E-TEST-0093-3.122009	maynard h jackson jr	1
@@ -194,7 +194,7 @@
 1C2-E-TEST-0093-3.31/005	future development		future development	4
 1C2-E-TEST-0093-3.31/006	municipal		construction began 	
 1C2-E-TEST-0093-3.31/007	citation		present midfield terminal 	6
-1C2-E-TEST-0093-3.31/008	construction		january 1977	6
+1C2-E-TEST-0093-3.31/008	construction		Jan-77	6
 1C2-E-TEST-0093-3.31/009	present midfield terminal		administration	10
 1C2-E-TEST-0093-3.31/010	Jan-77		mayor maynard jackson	
 1C2-E-TEST-0093-3.31/011	administration			
@@ -258,7 +258,7 @@
 1C2-E-TEST-0093-4.4/014	1926		william b. hartsfield	
 1C2-E-TEST-0093-4.4/015	flight	DEP=1C2-E-TEST-0093-4.4032	honor 	14
 1C2-E-TEST-0093-4.4/016	1971		mayor developed airport	14
-1C2-E-TEST-0093-4.4/017	william b. hartsfield		october 2003	
+1C2-E-TEST-0093-4.4/017	william b. hartsfield		Oct-03	
 1C2-E-TEST-0093-4.4/018	honor		name changed	
 1C2-E-TEST-0093-4.4/019	mayor		mayor maynard jackson	18
 1C2-E-TEST-0093-4.4/020	october		contribution	19

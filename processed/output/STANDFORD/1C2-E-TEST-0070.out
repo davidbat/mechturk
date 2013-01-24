@@ -1,9 +1,9 @@
 1C2-E-TEST-0070-103.3	"PHOENIX (AP) - Ichiro Suzuki of the Seattle Mariners singled to lead off Tuesday night's game against the Arizona Diamondbacks for the 2,500th hit of his major league career"			
 1C2-E-TEST-0070-103.3/001	phoenix		seattle mariners	
-1C2-E-TEST-0070-103.3/002	ap	DEP=1C2-E-TEST-0070-103.3001	tuesday night game	3
-1C2-E-TEST-0070-103.3/003	seattle mariners		arizona diamondbacks	
-1C2-E-TEST-0070-103.3/004	tuesday night	DEP=1C2-E-TEST-0070-103.3011	"2,500 hit major league career"	
-1C2-E-TEST-0070-103.3/005	arizona diamondbacks		singled lead off game	3
+1C2-E-TEST-0070-103.3/002	ap	DEP=1C2-E-TEST-0070-103.3001	tuesday night game	5
+1C2-E-TEST-0070-103.3/003	seattle mariners		arizona diamondbacks	5
+1C2-E-TEST-0070-103.3/004	tuesday night	DEP=1C2-E-TEST-0070-103.3011	"2,500 hit major league career"	5
+1C2-E-TEST-0070-103.3/005	arizona diamondbacks		singled lead off game	
 1C2-E-TEST-0070-103.3/006	"2,500"			
 1C2-E-TEST-0070-103.3/007	hit	DEP=1C2-E-TEST-0070-103.3001		
 1C2-E-TEST-0070-103.3/008	major league career			
@@ -35,17 +35,17 @@
 1C2-E-TEST-0070-117.115/009	n't	DEP=1C2-E-TEST-0070-117.115010		
 1C2-E-TEST-0070-117.115/010	hit	DEP=1C2-E-TEST-0070-117.115006		
 1C2-E-TEST-0070-117.178	Thanks in part to Ichiro the Mariners were one of the few Major League Teams to make a profit in 2001.			
-1C2-E-TEST-0070-117.178/001	thanks		mariners	
+1C2-E-TEST-0070-117.178/001	thanks		mariners make profit	
 1C2-E-TEST-0070-117.178/002	part		few major league teams	1
-1C2-E-TEST-0070-117.178/003	mariners		make profit 2001	1
+1C2-E-TEST-0070-117.178/003	mariners		2001	1
 1C2-E-TEST-0070-117.178/004	major league teams			
 1C2-E-TEST-0070-117.178/005	profit	DEP=1C2-E-TEST-0070-117.178007		
 1C2-E-TEST-0070-117.178/006	2001			
 1C2-E-TEST-0070-117.178/007	make			
 1C2-E-TEST-0070-117.209	"In 2001, Ichiro was named Most Valuable Player in the American League."			
 1C2-E-TEST-0070-117.209/001	2001		2001	2
-1C2-E-TEST-0070-117.209/002	valuable player	DEP=1C2-E-TEST-0070-117.209004	most valuable player	3
-1C2-E-TEST-0070-117.209/003	american league		american league	
+1C2-E-TEST-0070-117.209/002	valuable player	DEP=1C2-E-TEST-0070-117.209004	most valuable player	
+1C2-E-TEST-0070-117.209/003	american league		american league	2
 1C2-E-TEST-0070-117.209/004	named			
 1C2-E-TEST-0070-117.211	"Ichiro also was voted Rookie of the Year, making him only the second player to receive the MVP and Rookie of the Year awards in the same year and the first player since Jackie Robinson to lead the league in hitting and stolen bases."			
 1C2-E-TEST-0070-117.211/001	rookie	DEP=1C2-E-TEST-0070-117.211010	vorted rookie of the year	
@@ -116,7 +116,7 @@
 1C2-E-TEST-0070-117.239/001	2008		2008	2
 1C2-E-TEST-0070-117.239/002	player		first player since Willie Keeler	3
 1C2-E-TEST-0070-117.239/003	200 hits		200 hits eight consecutive seasons	
-1C2-E-TEST-0070-117.239/004	eight consecutive seasons		willie keeler achieved feat	3
+1C2-E-TEST-0070-117.239/004	eight consecutive seasons		willie keeler achieved feat	
 1C2-E-TEST-0070-117.239/005	willie keeler	DEP=1C2-E-TEST-0070-117.239009	1894 to 1901	4
 1C2-E-TEST-0070-117.239/006	feat	DEP=1C2-E-TEST-0070-117.239009		
 1C2-E-TEST-0070-117.239/007	1894			
@@ -262,12 +262,12 @@
 1C2-E-TEST-0070-122.24/010	batting	DEP=1C2-E-TEST-0070-122.24011		
 1C2-E-TEST-0070-122.24/011	average	DEP=1C2-E-TEST-0070-122.24005		
 1C2-E-TEST-0070-122.24/012	won	DEP=1C2-E-TEST-0070-122.24008		
-1C2-E-TEST-0070-122.3	"At age seven, Ichiro joined his first baseball team and asked his father, Nobuyuki, to teach him to be a better player."		?	
+1C2-E-TEST-0070-122.3	"At age seven, Ichiro joined his first baseball team and asked his father, Nobuyuki, to teach him to be a better player."			
 1C2-E-TEST-0070-122.3/001	age seven		age seven	2
 1C2-E-TEST-0070-122.3/002	baseball team	DEP=1C2-E-TEST-0070-122.3006	joined first baseball team	
-1C2-E-TEST-0070-122.3/003	father	DEP=1C2-E-TEST-0070-122.3008	asked father	
-1C2-E-TEST-0070-122.3/004	nobuyuki	DEP=1C2-E-TEST-0070-122.3003	nobuyuki	3
-1C2-E-TEST-0070-122.3/005	better player	DEP=1C2-E-TEST-0070-122.3008	teach him to be better player	3
+1C2-E-TEST-0070-122.3/003	father	DEP=1C2-E-TEST-0070-122.3008	asked father nobuyuki	
+1C2-E-TEST-0070-122.3/004	nobuyuki	DEP=1C2-E-TEST-0070-122.3003	teach him to be better player	3
+1C2-E-TEST-0070-122.3/005	better player	DEP=1C2-E-TEST-0070-122.3008		
 1C2-E-TEST-0070-122.3/006	joined			
 1C2-E-TEST-0070-122.3/007	asked	DEP=1C2-E-TEST-0070-122.3006		
 1C2-E-TEST-0070-122.3/008	teach	DEP=1C2-E-TEST-0070-122.3007		
@@ -299,7 +299,7 @@
 1C2-E-TEST-0070-122.35/011	able			
 1C2-E-TEST-0070-122.35/012	afford	DEP=1C2-E-TEST-0070-122.35011		
 1C2-E-TEST-0070-122.35/013	keep	DEP=1C2-E-TEST-0070-122.35012		
-1C2-E-TEST-0070-122.37	"After the 2000 season, in which Ichiro posted his highest batting average (.387), a Pacific League record, Seattle won a bidding war among Major League teams for the rights to negotiate with him on a contract."		?	
+1C2-E-TEST-0070-122.37	"After the 2000 season, in which Ichiro posted his highest batting average (.387), a Pacific League record, Seattle won a bidding war among Major League teams for the rights to negotiate with him on a contract."			
 1C2-E-TEST-0070-122.37/001	2000 season		2000 season	2
 1C2-E-TEST-0070-122.37/002	0.387	DEP=1C2-E-TEST-0070-122.37012	posted highest batting average	
 1C2-E-TEST-0070-122.37/003	pacific league record	DEP=1C2-E-TEST-0070-122.37012	0.387	2
@@ -340,7 +340,7 @@
 1C2-E-TEST-0070-122.41/006	viewed			
 1C2-E-TEST-0070-122.41/007	play	DEP=1C2-E-TEST-0070-122.41003		
 1C2-E-TEST-0070-122.41/008	regularly	DEP=1C2-E-TEST-0070-122.41007		
-1C2-E-TEST-0070-122.42	"Up until that point, only pitchers from Japan had been playing in the United States and, in the same way that many Japanese teams had considered the 18-year-old Ichiro too small to draft in 1992, many in the US believed he was too frail to succeed against Major League pitching or endure the longer 162-game season."		?	
+1C2-E-TEST-0070-122.42	"Up until that point, only pitchers from Japan had been playing in the United States and, in the same way that many Japanese teams had considered the 18-year-old Ichiro too small to draft in 1992, many in the US believed he was too frail to succeed against Major League pitching or endure the longer 162-game season."			
 1C2-E-TEST-0070-122.42/001	point		pitchers from japan	
 1C2-E-TEST-0070-122.42/002	pitchers	DEP=1C2-E-TEST-0070-122.42011	playing in united states	1
 1C2-E-TEST-0070-122.42/003	japan		japanese teams considered	5
@@ -422,7 +422,7 @@
 1C2-E-TEST-0070-122.54/003	2004 season			
 1C2-E-TEST-0070-122.54/004	set			
 1C2-E-TEST-0070-122.60	"October 1 : Ichiro got his 258th and 259th hits, breaking the record set by George Sisler with the St. Louis Browns in 1920 ."			
-1C2-E-TEST-0070-122.60/001	1-Oct		1-Oct	
+1C2-E-TEST-0070-122.60/001	1-Oct		October 1	
 1C2-E-TEST-0070-122.60/002	259th hits	DEP=1C2-E-TEST-0070-122.60008	258th 259th hits	1
 1C2-E-TEST-0070-122.60/003	record	DEP=1C2-E-TEST-0070-122.60009	breaking record	2
 1C2-E-TEST-0070-122.60/004	george sisler		set	
@@ -432,7 +432,7 @@
 1C2-E-TEST-0070-122.60/008	258th	DEP=1C2-E-TEST-0070-122.60007		
 1C2-E-TEST-0070-122.60/009	breaking	DEP=1C2-E-TEST-0070-122.60007		
 1C2-E-TEST-0070-122.60/010	set	DEP=1C2-E-TEST-0070-122.60003		
-1C2-E-TEST-0070-126.10	"Following his final season at Meiden, Ichiro was drafted by the Orix Blue Wave of Japan's Pacific League in November 1991."		?	"should I remove ""final season meiden"" part?"
+1C2-E-TEST-0070-126.10	"Following his final season at Meiden, Ichiro was drafted by the Orix Blue Wave of Japan's Pacific League in November 1991."			
 1C2-E-TEST-0070-126.10/001	final season	DEP=1C2-E-TEST-0070-126.10006	final season	
 1C2-E-TEST-0070-126.10/002	meiden		at meiden	1
 1C2-E-TEST-0070-126.10/003	orix blue wave		drafted by orix blue wave	
@@ -493,7 +493,7 @@
 1C2-E-TEST-0070-126.141/010	publicity	DEP=1C2-E-TEST-0070-126.141011		
 1C2-E-TEST-0070-126.141/011	stunt	DEP=1C2-E-TEST-0070-126.141009		
 1C2-E-TEST-0070-126.141/012	promote	DEP=1C2-E-TEST-0070-126.141011		
-1C2-E-TEST-0070-126.31	"Ichiro again led the league with a .342 batting average, and had career highs of 25 home runs and 49 steals."		?	
+1C2-E-TEST-0070-126.31	"Ichiro again led the league with a .342 batting average, and had career highs of 25 home runs and 49 steals."			
 1C2-E-TEST-0070-126.31/001	league	DEP=1C2-E-TEST-0070-126.31006	led league	
 1C2-E-TEST-0070-126.31/002	.342 batting average		.342 batting average	1
 1C2-E-TEST-0070-126.31/003	career highs		career highs	
@@ -585,7 +585,7 @@
 1C2-E-TEST-0070-126.51/015	making	DEP=1C2-E-TEST-0070-126.51010		
 1C2-E-TEST-0070-126.51/016	player	DEP=1C2-E-TEST-0070-126.51017		
 1C2-E-TEST-0070-126.51/017	sign	DEP=1C2-E-TEST-0070-126.51009		
-1C2-E-TEST-0070-126.53	"Ichiro's American debut with the 2001 Seattle Mariners was not only one of the greatest seasons any player has ever recorded, but it was also one of the most-watched, as the Japanese media sensation quickly gained superstardom in the U.S. The leadoff hitter's .350 batting average led the majors, as did his 242 hits (a rookie record, and the most by any player in 71 years), as well as his 56 stolen bases."		?	check if the chain is ok
+1C2-E-TEST-0070-126.53	"Ichiro's American debut with the 2001 Seattle Mariners was not only one of the greatest seasons any player has ever recorded, but it was also one of the most-watched, as the Japanese media sensation quickly gained superstardom in the U.S. The leadoff hitter's .350 batting average led the majors, as did his 242 hits (a rookie record, and the most by any player in 71 years), as well as his 56 stolen bases."			
 1C2-E-TEST-0070-126.53/001	2001 seattle mariners		american debut	2
 1C2-E-TEST-0070-126.53/002	greatest seasons		2001 seattle mariners	
 1C2-E-TEST-0070-126.53/003	player	DEP=1C2-E-TEST-0070-126.53018	greatest seasons player recorded	2
@@ -614,7 +614,7 @@
 1C2-E-TEST-0070-126.59	"Instead, he won both the American League's Most Valuable Player and Rookie of the Year awards, the only player besides Fred Lynn to do so."			
 1C2-E-TEST-0070-126.59/001	american league	DEP=1C2-E-TEST-0070-126.59007	won american league most valuable player award	
 1C2-E-TEST-0070-126.59/002	valuable player	DEP=1C2-E-TEST-0070-126.59001	won american league rookie of the year award	
-1C2-E-TEST-0070-126.59/003	rookie	DEP=1C2-E-TEST-0070-126.59001	only player beside fred lynn	
+1C2-E-TEST-0070-126.59/003	rookie	DEP=1C2-E-TEST-0070-126.59001	only player beside fred lynn to won both	
 1C2-E-TEST-0070-126.59/004	awards			
 1C2-E-TEST-0070-126.59/005	player	DEP=1C2-E-TEST-0070-126.59001		
 1C2-E-TEST-0070-126.59/006	fred lynn			
@@ -744,9 +744,9 @@
 1C2-E-TEST-0070-144.3	"At age seven, Ichiro joined his first baseball team and asked his father, Nobuyuki Suzuki (Suzuki Nobuyuki), to teach him to be a better player."			
 1C2-E-TEST-0070-144.3/001	age seven		age seven	2
 1C2-E-TEST-0070-144.3/002	baseball team	DEP=1C2-E-TEST-0070-144.3007	joined first baseball team	
-1C2-E-TEST-0070-144.3/003	father	DEP=1C2-E-TEST-0070-144.3009	asked father	
-1C2-E-TEST-0070-144.3/004	nobuyuki		nobuyuki suzuki	3
-1C2-E-TEST-0070-144.3/005	nobuyuki		teach him to be better player	3
+1C2-E-TEST-0070-144.3/003	father	DEP=1C2-E-TEST-0070-144.3009	asked father nobuyuki suzuki	
+1C2-E-TEST-0070-144.3/004	nobuyuki		teach him to be better player	3
+1C2-E-TEST-0070-144.3/005	nobuyuki			
 1C2-E-TEST-0070-144.3/006	better player	DEP=1C2-E-TEST-0070-144.3009		
 1C2-E-TEST-0070-144.3/007	joined			
 1C2-E-TEST-0070-144.3/008	asked	DEP=1C2-E-TEST-0070-144.3007		
@@ -781,7 +781,7 @@
 1C2-E-TEST-0070-144.37/006	following			
 1C2-E-TEST-0070-144.37/007	winning			
 1C2-E-TEST-0070-144.37/008	defeated			
-1C2-E-TEST-0070-144.38	"Following the 1996 season, playing in an exhibition series against a visiting team of Major League All-Stars kindled Ichiro's desire to travel to the United States to play in the Major Leagues."		?	
+1C2-E-TEST-0070-144.38	"Following the 1996 season, playing in an exhibition series against a visiting team of Major League All-Stars kindled Ichiro's desire to travel to the United States to play in the Major Leagues."			
 1C2-E-TEST-0070-144.38/001	1996 season	DEP=1C2-E-TEST-0070-144.38007	1996 season	2
 1C2-E-TEST-0070-144.38/002	exhibition series		playing exhibition series	3
 1C2-E-TEST-0070-144.38/003	visiting team	4	against visiting team of major league all-stars	4
@@ -812,7 +812,7 @@
 1C2-E-TEST-0070-144.45/006	batting	DEP=1C2-E-TEST-0070-144.45007		
 1C2-E-TEST-0070-144.45/007	average	DEP=1C2-E-TEST-0070-144.45004		
 1C2-E-TEST-0070-144.45/008	won			
-1C2-E-TEST-0070-144.59	"With a .350 batting average and 56 stolen bases, Ichiro was the first player to lead his league in both categories since Jackie Robinson in 1949."		?	
+1C2-E-TEST-0070-144.59	"With a .350 batting average and 56 stolen bases, Ichiro was the first player to lead his league in both categories since Jackie Robinson in 1949."			
 1C2-E-TEST-0070-144.59/001	.350 batting average		.350 batting average	3
 1C2-E-TEST-0070-144.59/002	56 stolen bases	DEP=1C2-E-TEST-0070-144.59001	56 stolen bases	3
 1C2-E-TEST-0070-144.59/003	league	DEP=1C2-E-TEST-0070-144.59008	first player lead league both categories since jackie robinson	
