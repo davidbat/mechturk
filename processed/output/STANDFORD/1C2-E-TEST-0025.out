@@ -183,15 +183,15 @@
 1C2-E-TEST-0025-143.29/005	electrified		Fight	
 1C2-E-TEST-0025-143.29/006	characterization		Studio	5
 1C2-E-TEST-0025-143.29/007	fight		Order	
-1C2-E-TEST-0025-143.29/008	order	DEP=1C2-E-TEST-0025-143.29009	Cast	
+1C2-E-TEST-0025-143.29/008	order	DEP=1C2-E-TEST-0025-143.29009	Cast
 1C2-E-TEST-0025-143.29/009	cast	DEP=1C2-E-TEST-0025-143.29007		
-1C2-E-TEST-0025-143.30	Brando was voted the Academy Award for Best Actor for his intelligent performance; once again, he improvised important details that lent more humanity to what could otherwise have been a clichÃ?Â?Ã?Â©d role.			
+1C2-E-TEST-0025-143.30	Brando was voted the Academy Award for Best Actor for his intelligent performance; once again, he improvised important details that lent more humanity to what could otherwise have been a clich role.			
 1C2-E-TEST-0025-143.30/001	academy award	DEP=1C2-E-TEST-0025-143.30007	Voted	
 1C2-E-TEST-0025-143.30/002	best actor		academy award	1
 1C2-E-TEST-0025-143.30/003	intelligent performance		best actor	2
 1C2-E-TEST-0025-143.30/004	important details	DEP=1C2-E-TEST-0025-143.30008	Intelligent performance	3
 1C2-E-TEST-0025-143.30/005	humanity	DEP=1C2-E-TEST-0025-143.30009	Improvised important details	
-1C2-E-TEST-0025-143.30/006	clichã â © d role		Lent	
+1C2-E-TEST-0025-143.30/006	clich role		Lent	
 1C2-E-TEST-0025-143.30/007	voted		Humanity	6
 1C2-E-TEST-0025-143.30/008	improvised	DEP=1C2-E-TEST-0025-143.30007	Clich	
 1C2-E-TEST-0025-143.30/009	lent	DEP=1C2-E-TEST-0025-143.30004		
