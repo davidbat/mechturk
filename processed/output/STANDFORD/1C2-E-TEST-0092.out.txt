@@ -18,7 +18,7 @@
 1C2-E-TEST-0092-10.5	"HawaiÃÂ»i Pacific University is the largest private university in the central Pacific, most noted for its diverse student body of almost 9,000 students, representing over 100 countries."			
 1C2-E-TEST-0092-10.5/001	hawaiê		largest private university In central pacific	
 1C2-E-TEST-0092-10.5/002	largest private		noted for diverse student body	
-1C2-E-TEST-0092-10.5/003	central		900 studens representing 100 countries	2
+1C2-E-TEST-0092-10.5/003	central		9000 students representing 100 countries	2
 1C2-E-TEST-0092-10.5/004	diverse student body			
 1C2-E-TEST-0092-10.5/005	100 countries			
 1C2-E-TEST-0092-10.5/006	noted			
@@ -69,32 +69,32 @@
 1C2-E-TEST-0092-113.1/002	largest private postsecondary institution			
 1C2-E-TEST-0092-113.1/003	state			
 1C2-E-TEST-0092-113.11	"HawaiÃ¢ÂÂi Pacific combines the excitement of an urban, downtown campus with the serenity of the windward side of the island."			
-1C2-E-TEST-0092-113.11/001	excitement	DEP=1C2-E-TEST-0092-113.11007	excitement	2
-1C2-E-TEST-0092-113.11/002	urban downtown campus		urban downtown campus	
-1C2-E-TEST-0092-113.11/003	serenity		serenity 	2
-1C2-E-TEST-0092-113.11/004	windward side		windward side	3
-1C2-E-TEST-0092-113.11/005	island		island	3
+1C2-E-TEST-0092-113.11/001	excitement	DEP=1C2-E-TEST-0092-113.11007	excitement urban downtown campus	3
+1C2-E-TEST-0092-113.11/002	urban downtown campus		serenity  windward side island	3
+1C2-E-TEST-0092-113.11/003	serenity		hawaii pacific combines campus with island	
+1C2-E-TEST-0092-113.11/004	windward side			
+1C2-E-TEST-0092-113.11/005	island			
 1C2-E-TEST-0092-113.11/006	hawaiâ			
 1C2-E-TEST-0092-113.11/007	combines			
 1C2-E-TEST-0092-113.26	"Hawai`i Pacific University, an established institution with leading programs in business administration, information systems, and management, offers a comprehensive Master of Business Administration (M.B.A.) degree program."			
-1C2-E-TEST-0092-113.26/001	hawai	DEP=1C2-E-TEST-0092-113.26011	established institution	
-1C2-E-TEST-0092-113.26/002	established institution	DEP=1C2-E-TEST-0092-113.26001	leading programs	1
-1C2-E-TEST-0092-113.26/003	leading programs		business administration	1
-1C2-E-TEST-0092-113.26/004	business administration		information systems	1
-1C2-E-TEST-0092-113.26/005	information systems	DEP=1C2-E-TEST-0092-113.26004	management	1
-1C2-E-TEST-0092-113.26/006	management	DEP=1C2-E-TEST-0092-113.26004	offers comprehensive	1
-1C2-E-TEST-0092-113.26/007	comprehensive master	DEP=1C2-E-TEST-0092-113.26011	business administration degree program	1
+1C2-E-TEST-0092-113.26/001	hawai	DEP=1C2-E-TEST-0092-113.26011	established institution with leading programs	
+1C2-E-TEST-0092-113.26/002	established institution	DEP=1C2-E-TEST-0092-113.26001	business administration	1
+1C2-E-TEST-0092-113.26/003	leading programs		information systems	1
+1C2-E-TEST-0092-113.26/004	business administration		management	1
+1C2-E-TEST-0092-113.26/005	information systems	DEP=1C2-E-TEST-0092-113.26004	offers comprehensive master business administration m.b.a. degree	1
+1C2-E-TEST-0092-113.26/006	management	DEP=1C2-E-TEST-0092-113.26004		
+1C2-E-TEST-0092-113.26/007	comprehensive master	DEP=1C2-E-TEST-0092-113.26011		
 1C2-E-TEST-0092-113.26/008	business administration			
 1C2-E-TEST-0092-113.26/009	m.b.a.	DEP=1C2-E-TEST-0092-113.26008		
 1C2-E-TEST-0092-113.26/010	degree program	DEP=1C2-E-TEST-0092-113.26008		
 1C2-E-TEST-0092-113.26/011	offers			
 1C2-E-TEST-0092-113.32	"Fifth, as a major partner in the downtown business community, Hawai`i Pacific University coordinates a large internship program that provides part-time and full-time managerial, technical, and professional positions in leading business firms."			
-1C2-E-TEST-0092-113.32/001	fifth	DEP=1C2-E-TEST-0092-113.32010	major partner	
-1C2-E-TEST-0092-113.32/002	major partner		downtown business community	1
-1C2-E-TEST-0092-113.32/003	downtown business community		coordinates large internship program	
-1C2-E-TEST-0092-113.32/004	hawai	DEP=1C2-E-TEST-0092-113.32003	part-time	3
-1C2-E-TEST-0092-113.32/005	large internship program	DEP=1C2-E-TEST-0092-113.32010	full-time managerial technical professional positions	3
-1C2-E-TEST-0092-113.32/006	full-time managerial	DEP=1C2-E-TEST-0092-113.32005	leading business firms	3
+1C2-E-TEST-0092-113.32/001	fifth	DEP=1C2-E-TEST-0092-113.32010	major partner in downtown business community	
+1C2-E-TEST-0092-113.32/002	major partner		coordinates large internship program	1
+1C2-E-TEST-0092-113.32/003	downtown business community		provides part-time and full-time positions in leading business firms	
+1C2-E-TEST-0092-113.32/004	hawai	DEP=1C2-E-TEST-0092-113.32003	managerial technical professional	3
+1C2-E-TEST-0092-113.32/005	large internship program	DEP=1C2-E-TEST-0092-113.32010		
+1C2-E-TEST-0092-113.32/006	full-time managerial	DEP=1C2-E-TEST-0092-113.32005		
 1C2-E-TEST-0092-113.32/007	technical	DEP=1C2-E-TEST-0092-113.32006		
 1C2-E-TEST-0092-113.32/008	professional positions	DEP=1C2-E-TEST-0092-113.32005		
 1C2-E-TEST-0092-113.32/009	leading business firms			
@@ -106,26 +106,26 @@
 1C2-E-TEST-0092-113.36/002	nine core courses		nine core courses	1
 1C2-E-TEST-0092-113.36/003	27 semester hours	DEP=1C2-E-TEST-0092-113.36002	27 semester hours	2
 1C2-E-TEST-0092-113.36/004	four elective courses	DEP=1C2-E-TEST-0092-113.36002	four elective courses	1
-1C2-E-TEST-0092-113.36/005	student	DEP=1C2-E-TEST-0092-113.36015	tailored 	4
-1C2-E-TEST-0092-113.36/006	12 semester hours	DEP=1C2-E-TEST-0092-113.36002	students individual needs	4
-1C2-E-TEST-0092-113.36/007	capstone sequence	DEP=1C2-E-TEST-0092-113.36002	12 semester hours	4
-1C2-E-TEST-0092-113.36/008	policy		capstone sequence 	1
-1C2-E-TEST-0092-113.36/009	strategy formulation course	DEP=1C2-E-TEST-0092-113.36008	policy	8
-1C2-E-TEST-0092-113.36/010	professional paper	DEP=1C2-E-TEST-0092-113.36008	strategy formulation course	8
-1C2-E-TEST-0092-113.36/011	6 semester hours	DEP=1C2-E-TEST-0092-113.36007	professional paper	1
+1C2-E-TEST-0092-113.36/005	student	DEP=1C2-E-TEST-0092-113.36015	tailored to student's indiividual needs	4
+1C2-E-TEST-0092-113.36/006	12 semester hours	DEP=1C2-E-TEST-0092-113.36002	12 semester hours	4
+1C2-E-TEST-0092-113.36/007	capstone sequence	DEP=1C2-E-TEST-0092-113.36002	capstone sequence 	1
+1C2-E-TEST-0092-113.36/008	policy		policy and strategy formulation course	7
+1C2-E-TEST-0092-113.36/009	strategy formulation course	DEP=1C2-E-TEST-0092-113.36008	professional paper	7
+1C2-E-TEST-0092-113.36/010	professional paper	DEP=1C2-E-TEST-0092-113.36008	6 semester hours	7
+1C2-E-TEST-0092-113.36/011	6 semester hours	DEP=1C2-E-TEST-0092-113.36007		
 1C2-E-TEST-0092-113.36/012	organized			
 1C2-E-TEST-0092-113.36/013	tailored	DEP=1C2-E-TEST-0092-113.36004		
 1C2-E-TEST-0092-113.36/014	individual	DEP=1C2-E-TEST-0092-113.36015		
 1C2-E-TEST-0092-113.36/015	needs			
 1C2-E-TEST-0092-113.38	"The University also offers an M.A. in global leadership and sustainable development, which is designed for the exceptional student whose background, education, and worldview have inspired an interest in assuming leadership positions in the global community."			
-1C2-E-TEST-0092-113.38/001	m.a.	DEP=1C2-E-TEST-0092-113.38012	m.a	
-1C2-E-TEST-0092-113.38/002	global leadership		global leadership	1
-1C2-E-TEST-0092-113.38/003	exceptional student		sustainable development	1
-1C2-E-TEST-0092-113.38/004	background	DEP=1C2-E-TEST-0092-113.38014	exceptional student	1
-1C2-E-TEST-0092-113.38/005	education	DEP=1C2-E-TEST-0092-113.38004	backgound education worldview	4
-1C2-E-TEST-0092-113.38/006	worldview	DEP=1C2-E-TEST-0092-113.38004	inspired interest	4
-1C2-E-TEST-0092-113.38/007	interest	DEP=1C2-E-TEST-0092-113.38014	assuming leadership positions	4
-1C2-E-TEST-0092-113.38/008	leadership positions	DEP=1C2-E-TEST-0092-113.38015	global community	4
+1C2-E-TEST-0092-113.38/001	m.a.	DEP=1C2-E-TEST-0092-113.38012	university offers m.a. in global leadership and sustainable development	
+1C2-E-TEST-0092-113.38/002	global leadership		designed for exceptional students	1
+1C2-E-TEST-0092-113.38/003	exceptional student		interest in assuming leadership positions global community	2
+1C2-E-TEST-0092-113.38/004	background	DEP=1C2-E-TEST-0092-113.38014	backgound education worldview	3
+1C2-E-TEST-0092-113.38/005	education	DEP=1C2-E-TEST-0092-113.38004		
+1C2-E-TEST-0092-113.38/006	worldview	DEP=1C2-E-TEST-0092-113.38004		
+1C2-E-TEST-0092-113.38/007	interest	DEP=1C2-E-TEST-0092-113.38014		
+1C2-E-TEST-0092-113.38/008	leadership positions	DEP=1C2-E-TEST-0092-113.38015		
 1C2-E-TEST-0092-113.38/009	global community			
 1C2-E-TEST-0092-113.38/010	offers			
 1C2-E-TEST-0092-113.38/011	sustainable	DEP=1C2-E-TEST-0092-113.38001		
@@ -134,20 +134,20 @@
 1C2-E-TEST-0092-113.38/014	inspired	DEP=1C2-E-TEST-0092-113.38003		
 1C2-E-TEST-0092-113.38/015	assuming			
 1C2-E-TEST-0092-113.4	"The University is coeducational, with a faculty of more than 300 members, a student-faculty ratio of 18:1, and an average class size of 24."			
-1C2-E-TEST-0092-113.4/001	faculty		coeducational	
-1C2-E-TEST-0092-113.4/002	student-faculty ratio	DEP=1C2-E-TEST-0092-113.4001	faculty 300 members	
-1C2-E-TEST-0092-113.4/003	18:01		student-faculty ratio	
-1C2-E-TEST-0092-113.4/004	average class size	DEP=1C2-E-TEST-0092-113.4001	18:01	
-1C2-E-TEST-0092-113.4/005	24		average class size 24	
+1C2-E-TEST-0092-113.4/001	faculty		university is coeducational	
+1C2-E-TEST-0092-113.4/002	student-faculty ratio	DEP=1C2-E-TEST-0092-113.4001	faculty of more than 300 members	
+1C2-E-TEST-0092-113.4/003	18:01		student-faculty ratio 18:1	
+1C2-E-TEST-0092-113.4/004	average class size	DEP=1C2-E-TEST-0092-113.4001	average class size 24	
+1C2-E-TEST-0092-113.4/005	24			
 1C2-E-TEST-0092-113.4/006	coeducational			
 1C2-E-TEST-0092-113.4/007	300	DEP=1C2-E-TEST-0092-113.4008		
 1C2-E-TEST-0092-113.4/008	members			
 1C2-E-TEST-0092-113.47	The University's accessible on-campus computer center houses more than 100 IBM-compatible microcomputers with stand-alone and networked configurations that support the graduate programsÃ¢ÂÂ integrated computer applications approach.			
-1C2-E-TEST-0092-113.47/001	graduate programsâ		accessible on-campus computer center	
-1C2-E-TEST-0092-113.47/002	accessible	DEP=1C2-E-TEST-0092-113.47003	100 ibm-compatible microcomputers	1
-1C2-E-TEST-0092-113.47/003	on-campus	DEP=1C2-E-TEST-0092-113.47006	stand-alone	1
-1C2-E-TEST-0092-113.47/004	computer	DEP=1C2-E-TEST-0092-113.47006	networked configurations	1
-1C2-E-TEST-0092-113.47/005	center	DEP=1C2-E-TEST-0092-113.47006	support graduate programs	1
+1C2-E-TEST-0092-113.47/001	graduate programsâ		accessible on-campus computer center	2
+1C2-E-TEST-0092-113.47/002	accessible	DEP=1C2-E-TEST-0092-113.47003	houses 100 ibm-compatible microcomputers	
+1C2-E-TEST-0092-113.47/003	on-campus	DEP=1C2-E-TEST-0092-113.47006	stand-alone and networked configuration	2
+1C2-E-TEST-0092-113.47/004	computer	DEP=1C2-E-TEST-0092-113.47006	support graduate programs integrated computer applications approach	2
+1C2-E-TEST-0092-113.47/005	center	DEP=1C2-E-TEST-0092-113.47006		
 1C2-E-TEST-0092-113.47/006	houses			
 1C2-E-TEST-0092-113.47/007	100	DEP=1C2-E-TEST-0092-113.47009		
 1C2-E-TEST-0092-113.47/008	ibm-compatible	DEP=1C2-E-TEST-0092-113.47009		
@@ -160,36 +160,36 @@
 1C2-E-TEST-0092-113.47/015	applications	DEP=1C2-E-TEST-0092-113.47016		
 1C2-E-TEST-0092-113.47/016	approach	DEP=1C2-E-TEST-0092-113.47001		
 1C2-E-TEST-0092-197.11	"HPU campus downtown Honolulu serves the majority of business, liberal arts, and other general programs."			
-1C2-E-TEST-0092-197.11/001	hpu campus downtown	DEP=1C2-E-TEST-0092-197.11007	downtown honolulu serves	
-1C2-E-TEST-0092-197.11/002	honolulu	DEP=1C2-E-TEST-0092-197.11001	business liberal arts 	1
+1C2-E-TEST-0092-197.11/001	hpu campus downtown	DEP=1C2-E-TEST-0092-197.11007	downtown honolulu serves programs	
+1C2-E-TEST-0092-197.11/002	honolulu	DEP=1C2-E-TEST-0092-197.11001	business	1
 1C2-E-TEST-0092-197.11/003	majority	DEP=1C2-E-TEST-0092-197.11007	general programs	1
-1C2-E-TEST-0092-197.11/004	business			
+1C2-E-TEST-0092-197.11/004	business		liberal arts	1
 1C2-E-TEST-0092-197.11/005	liberal arts	DEP=1C2-E-TEST-0092-197.11004		
 1C2-E-TEST-0092-197.11/006	general programs	DEP=1C2-E-TEST-0092-197.11004		
 1C2-E-TEST-0092-197.11/007	serves			
 1C2-E-TEST-0092-197.13	The Hawaii Loa campus is located near Castle Junction in Kaneohe on the windward side of the Koolau chain.			
-1C2-E-TEST-0092-197.13/001	loa campus	DEP=1C2-E-TEST-0092-197.13006	loa campus located 	
-1C2-E-TEST-0092-197.13/002	castle junction		castle junction	1
-1C2-E-TEST-0092-197.13/003	kaneohe		kaneohe	1
-1C2-E-TEST-0092-197.13/004	windward side		windward side	3
-1C2-E-TEST-0092-197.13/005	koolau chain		koolau chain	3
+1C2-E-TEST-0092-197.13/001	loa campus	DEP=1C2-E-TEST-0092-197.13006	hawaii loa campus located in Kaneohe	
+1C2-E-TEST-0092-197.13/002	castle junction		near castle junction	1
+1C2-E-TEST-0092-197.13/003	kaneohe		on windward side of Koolau chain	1
+1C2-E-TEST-0092-197.13/004	windward side			
+1C2-E-TEST-0092-197.13/005	koolau chain			
 1C2-E-TEST-0092-197.13/006	located			
 1C2-E-TEST-0092-197.14	"The campus was built by Hawaii Loa College, a liberal arts school which merged with Hawaii Pacific University"			
-1C2-E-TEST-0092-197.14/001	campus	DEP=1C2-E-TEST-0092-197.14004	campus built	2
-1C2-E-TEST-0092-197.14/002	loa college		loa college 	
-1C2-E-TEST-0092-197.14/003	liberal arts school	DEP=1C2-E-TEST-0092-197.14002	liberal arts school merged	2
+1C2-E-TEST-0092-197.14/001	campus	DEP=1C2-E-TEST-0092-197.14004	campus built by hawaii loa college	
+1C2-E-TEST-0092-197.14/002	loa college		liberal arts school	1
+1C2-E-TEST-0092-197.14/003	liberal arts school	DEP=1C2-E-TEST-0092-197.14002	hawaii loa college merged with hawaii pacific university	
 1C2-E-TEST-0092-197.14/004	built			
 1C2-E-TEST-0092-197.14/005	merged	DEP=1C2-E-TEST-0092-197.14003		
 1C2-E-TEST-0092-197.9	"Hawaii Pacific University is the largest private university in the central Pacific, best known for its diverse student body of nearly 9,000 students, representing more than 100 countries. the school 's largest academic program s are business administration, nursing, and international relations."			
-1C2-E-TEST-0092-197.9/001	largest private		largest private 	
-1C2-E-TEST-0092-197.9/002	central		best known	1
-1C2-E-TEST-0092-197.9/003	diverse student body		diverse student body 	1
-1C2-E-TEST-0092-197.9/004	school	DEP=1C2-E-TEST-0092-197.9019	9000 students	3
-1C2-E-TEST-0092-197.9/005	business administration		representing 100 countries	3
-1C2-E-TEST-0092-197.9/006	nursing	DEP=1C2-E-TEST-0092-197.9005	largest academic programs	
-1C2-E-TEST-0092-197.9/007	international relations	DEP=1C2-E-TEST-0092-197.9005	business administration	6
-1C2-E-TEST-0092-197.9/008	best	DEP=1C2-E-TEST-0092-197.9009	nursing	6
-1C2-E-TEST-0092-197.9/009	known		international relations	6
+1C2-E-TEST-0092-197.9/001	largest private		largest private university In central pacific	
+1C2-E-TEST-0092-197.9/002	central		known for diverse student body	
+1C2-E-TEST-0092-197.9/003	diverse student body		9000 students representing 100 countries	2
+1C2-E-TEST-0092-197.9/004	school	DEP=1C2-E-TEST-0092-197.9019	largest academic programs	
+1C2-E-TEST-0092-197.9/005	business administration		business administration	4
+1C2-E-TEST-0092-197.9/006	nursing	DEP=1C2-E-TEST-0092-197.9005	nursing	4
+1C2-E-TEST-0092-197.9/007	international relations	DEP=1C2-E-TEST-0092-197.9005	international relations	4
+1C2-E-TEST-0092-197.9/008	best	DEP=1C2-E-TEST-0092-197.9009		
+1C2-E-TEST-0092-197.9/009	known			
 1C2-E-TEST-0092-197.9/010	nearly	DEP=1C2-E-TEST-0092-197.9011		
 1C2-E-TEST-0092-197.9/011	"9,000"	DEP=1C2-E-TEST-0092-197.9012		
 1C2-E-TEST-0092-197.9/012	students			
@@ -201,59 +201,40 @@
 1C2-E-TEST-0092-197.9/018	program	DEP=1C2-E-TEST-0092-197.9019		
 1C2-E-TEST-0092-197.9/019	s	DEP=1C2-E-TEST-0092-197.9005		
 1C2-E-TEST-0092-35.11	"This campus was originally built by Hawaii Loa College, a liberal arts school that was merged into Hawaii Pacific University in 1992."			
-1C2-E-TEST-0092-35.11/001	campus	DEP=1C2-E-TEST-0092-35.11006	campus originally built	
-1C2-E-TEST-0092-35.11/002	loa college		liberal arts school merged	2
-1C2-E-TEST-0092-35.11/003	liberal arts school	DEP=1C2-E-TEST-0092-35.11002	1992	2
-1C2-E-TEST-0092-35.11/004	1992			
+1C2-E-TEST-0092-35.11/001	campus	DEP=1C2-E-TEST-0092-35.11006	campus originally built by hawaii loa college	
+1C2-E-TEST-0092-35.11/002	loa college		liberal arts school	1
+1C2-E-TEST-0092-35.11/003	liberal arts school	DEP=1C2-E-TEST-0092-35.11002	hawaii loa college merged with hawaii pacific university	
+1C2-E-TEST-0092-35.11/004	1992		1992	3
 1C2-E-TEST-0092-35.11/005	originally	DEP=1C2-E-TEST-0092-35.11006		
 1C2-E-TEST-0092-35.11/006	built			
 1C2-E-TEST-0092-35.11/007	merged	DEP=1C2-E-TEST-0092-35.11003		
 1C2-E-TEST-0092-35.13	This campus houses the majority of the science programs and the nursing program.			
 1C2-E-TEST-0092-35.13/001	campus	DEP=1C2-E-TEST-0092-35.13005	campus houses majority science programs	
-1C2-E-TEST-0092-35.13/002	majority	DEP=1C2-E-TEST-0092-35.13005	nursing program	
+1C2-E-TEST-0092-35.13/002	majority	DEP=1C2-E-TEST-0092-35.13005	campus houses majority nursing program	
 1C2-E-TEST-0092-35.13/003	science programs			
 1C2-E-TEST-0092-35.13/004	nursing program	DEP=1C2-E-TEST-0092-35.13003		
 1C2-E-TEST-0092-35.13/005	houses			
-1C2-E-TEST-0092-35.3	"Hawaii Pacific University is a private coeducational university in Honolulu, Hawaii, founded in 1965 as Hawaii Pacific College by Paul C.T. Loo, Eureka Forbes, Elizabeth W. Kellerman, and Reverend Edmond Walker."			
-1C2-E-TEST-0092-35.3/001	private coeducational		private coeducational	
-1C2-E-TEST-0092-35.3/002	honolulu		founded	
-1C2-E-TEST-0092-35.3/003	1965		paul c.t. loo	
-1C2-E-TEST-0092-35.3/004	college		eureka forbes	
-1C2-E-TEST-0092-35.3/005	paul c.t. loo		elizabeth w. kellerman	
-1C2-E-TEST-0092-35.3/006	eureka forbes	DEP=1C2-E-TEST-0092-35.3005	reverend edmond walker	
-1C2-E-TEST-0092-35.3/007	elizabeth w. kellerman	DEP=1C2-E-TEST-0092-35.3005		
-1C2-E-TEST-0092-35.3/008	reverend edmond walker	DEP=1C2-E-TEST-0092-35.3005		
-1C2-E-TEST-0092-35.3/009	founded			
 1C2-E-TEST-0092-35.6	Hawaii Pacific University has two main campuses and access to scientific facilities.			
 1C2-E-TEST-0092-35.6/001	two main campuses access		two main campuses	
 1C2-E-TEST-0092-35.6/002	scientific facilities		access scientific facilities	
-1C2-E-TEST-0092-35.7	"HPU's downtown Honolulu campus serves most of the business, liberal arts, and other general programs."			
-1C2-E-TEST-0092-35.7/001	hpu	DEP=1C2-E-TEST-0092-35.7007	honolulu campus serves	
-1C2-E-TEST-0092-35.7/002	business		business liberal arts 	
-1C2-E-TEST-0092-35.7/003	liberal arts	DEP=1C2-E-TEST-0092-35.7002	general programs	
-1C2-E-TEST-0092-35.7/004	general programs	DEP=1C2-E-TEST-0092-35.7002		
-1C2-E-TEST-0092-35.7/005	downtown	DEP=1C2-E-TEST-0092-35.7007		
-1C2-E-TEST-0092-35.7/006	honolulu	DEP=1C2-E-TEST-0092-35.7007		
-1C2-E-TEST-0092-35.7/007	campus	DEP=1C2-E-TEST-0092-35.7008		
-1C2-E-TEST-0092-35.7/008	serves			
 1C2-E-TEST-0092-4.10	"The main campus is in the heart of Honolulu's downtown business and financial district, within the center of the state's capital district."			
-1C2-E-TEST-0092-4.10/001	main campus		main campus	
-1C2-E-TEST-0092-4.10/002	heart		heart	3
-1C2-E-TEST-0092-4.10/003	honolulu	DEP=1C2-E-TEST-0092-4.10008	honolulus downtown business	1
-1C2-E-TEST-0092-4.10/004	business financial	DEP=1C2-E-TEST-0092-4.10008	financial district	3
-1C2-E-TEST-0092-4.10/005	center		center 	
-1C2-E-TEST-0092-4.10/006	state	DEP=1C2-E-TEST-0092-4.10010	state capital district	5
+1C2-E-TEST-0092-4.10/001	main campus		main campus within center of state capital disctrict	
+1C2-E-TEST-0092-4.10/002	heart		heart of honolulu downtown business financial district	1
+1C2-E-TEST-0092-4.10/003	honolulu	DEP=1C2-E-TEST-0092-4.10008		
+1C2-E-TEST-0092-4.10/004	business financial	DEP=1C2-E-TEST-0092-4.10008		
+1C2-E-TEST-0092-4.10/005	center			
+1C2-E-TEST-0092-4.10/006	state	DEP=1C2-E-TEST-0092-4.10010		
 1C2-E-TEST-0092-4.10/007	downtown	DEP=1C2-E-TEST-0092-4.10008		
 1C2-E-TEST-0092-4.10/008	district			
 1C2-E-TEST-0092-4.10/009	capital	DEP=1C2-E-TEST-0092-4.10010		
 1C2-E-TEST-0092-4.10/010	district			
 1C2-E-TEST-0092-4.13	The Hawai'i Loa campus of Hawai'i Pacific University is located on the windward side of the island of Oahu and offers students an idyllic campus setting with rolling hills and lush greenery.			
-1C2-E-TEST-0092-4.13/001	hawai'i loa campus	DEP=1C2-E-TEST-0092-4.13010	hawai'i loa campus	
-1C2-E-TEST-0092-4.13/002	hawai'i		windward side	1
-1C2-E-TEST-0092-4.13/003	windward side		island	
-1C2-E-TEST-0092-4.13/004	island		oahu	3
-1C2-E-TEST-0092-4.13/005	oahu		idyllic campus setting	4
-1C2-E-TEST-0092-4.13/006	students	DEP=1C2-E-TEST-0092-4.13011	rolling hills lush greenery	4
+1C2-E-TEST-0092-4.13/001	hawai'i loa campus	DEP=1C2-E-TEST-0092-4.13010	hawai'i loa campus located on island oahu	
+1C2-E-TEST-0092-4.13/002	hawai'i		windward side of island	1
+1C2-E-TEST-0092-4.13/003	windward side		offers studens idyllic campus setting	1
+1C2-E-TEST-0092-4.13/004	island		rolling hills lush greenery	3
+1C2-E-TEST-0092-4.13/005	oahu			
+1C2-E-TEST-0092-4.13/006	students	DEP=1C2-E-TEST-0092-4.13011		
 1C2-E-TEST-0092-4.13/007	idyllic campus	DEP=1C2-E-TEST-0092-4.13011		
 1C2-E-TEST-0092-4.13/008	rolling hills			
 1C2-E-TEST-0092-4.13/009	lush greenery	DEP=1C2-E-TEST-0092-4.13008		
@@ -261,22 +242,22 @@
 1C2-E-TEST-0092-4.13/011	offers	DEP=1C2-E-TEST-0092-4.13010		
 1C2-E-TEST-0092-4.13/012	setting	DEP=1C2-E-TEST-0092-4.13007		
 1C2-E-TEST-0092-4.18	Hawaii Pacific University has a diverse student body that is composed of students from every state in the U.S. as well as more than 100 countries from around the world.			
-1C2-E-TEST-0092-4.18/001	diverse student body		diverse student body	
-1C2-E-TEST-0092-4.18/002	students		composed	
-1C2-E-TEST-0092-4.18/003	state		student every state	
-1C2-E-TEST-0092-4.18/004	u.s.		us	
-1C2-E-TEST-0092-4.18/005	world		100 countries 	
+1C2-E-TEST-0092-4.18/001	diverse student body		has diverse student body	
+1C2-E-TEST-0092-4.18/002	students		composed of students every state u.s.	
+1C2-E-TEST-0092-4.18/003	state		composed of students more than 100 countries around world	
+1C2-E-TEST-0092-4.18/004	u.s.			
+1C2-E-TEST-0092-4.18/005	world			
 1C2-E-TEST-0092-4.18/006	composed	DEP=1C2-E-TEST-0092-4.18001		
 1C2-E-TEST-0092-4.18/007	100	DEP=1C2-E-TEST-0092-4.18008		
 1C2-E-TEST-0092-4.18/008	countries	DEP=1C2-E-TEST-0092-4.18001		
 1C2-E-TEST-0092-4.6	"An independent, coeducational, comprehensive university with a foundation in the liberal arts, Hawaii Pacific University offers degrees in the Bachelor of Arts and the Bachelor of Science as well as the Bachelor of Social Work."			
-1C2-E-TEST-0092-4.6/001	independent coeducational comprehensive		independent coeducational comprehensive	
-1C2-E-TEST-0092-4.6/002	foundation		foundation	
-1C2-E-TEST-0092-4.6/003	liberal arts		liberal arts	2
-1C2-E-TEST-0092-4.6/004	degrees	DEP=1C2-E-TEST-0092-4.6011	bachelor 	
-1C2-E-TEST-0092-4.6/005	bachelor		arts	4
-1C2-E-TEST-0092-4.6/006	arts		bachelor science	
-1C2-E-TEST-0092-4.6/007	bachelor	DEP=1C2-E-TEST-0092-4.6005	bachelor social work	
+1C2-E-TEST-0092-4.6/001	independent coeducational comprehensive		independent coeducational comprehensive university	
+1C2-E-TEST-0092-4.6/002	foundation		foundation in liberal arts	
+1C2-E-TEST-0092-4.6/003	liberal arts		offers degrees in bachelor arts	
+1C2-E-TEST-0092-4.6/004	degrees	DEP=1C2-E-TEST-0092-4.6011	offers degrees in bachelor science	
+1C2-E-TEST-0092-4.6/005	bachelor		offers degrees in bachelor social work	
+1C2-E-TEST-0092-4.6/006	arts			
+1C2-E-TEST-0092-4.6/007	bachelor	DEP=1C2-E-TEST-0092-4.6005		
 1C2-E-TEST-0092-4.6/008	science			
 1C2-E-TEST-0092-4.6/009	bachelor	DEP=1C2-E-TEST-0092-4.6004		
 1C2-E-TEST-0092-4.6/010	social work			
