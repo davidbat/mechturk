@@ -1,62 +1,36 @@
 1C2-E-TEST-0184-10.20	"What determines a body of waterÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s salinity is not whether itÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s called an ocean, sea, or lake but rather how fast salts are added and water is evaporated."
-1C2-E-TEST-0184-10.20/001	determines
-1C2-E-TEST-0184-10.20/002	water body salinity	DEP=1C2-E-TEST-0184-10.20001
-1C2-E-TEST-0184-10.20/003	ocean	DEP=1C2-E-TEST-0184-10.20002
-1C2-E-TEST-0184-10.20/004	sea	DEP=1C2-E-TEST-0184-10.20002
-1C2-E-TEST-0184-10.20/005	lake	DEP=1C2-E-TEST-0184-10.20002
-1C2-E-TEST-0184-10.20/006	fast salts added	DEP=1C2-E-TEST-0184-10.20002
-1C2-E-TEST-0184-10.20/007	water evaporated	DEP=1C2-E-TEST-0184-10.20006
+1C2-E-TEST-0184-10.20/001	how fast salts added and water evaporated determines salinity
+1C2-E-TEST-0184-10.20/002	not whether its called ocean sea lake	DEP=1C2-E-TEST-0184-10.20001
 1C2-E-TEST-0184-10.22	Water evaporates from the ocean and moves land-ward to rain down onto rivers.
-1C2-E-TEST-0184-10.22/001	water evaporates	DEP=1C2-E-TEST-0184-10.22002
-1C2-E-TEST-0184-10.22/002	ocean
-1C2-E-TEST-0184-10.22/003	moves land-ward	DEP=1C2-E-TEST-0184-10.22001
-1C2-E-TEST-0184-10.22/004	rain down	DEP=1C2-E-TEST-0184-10.22003
-1C2-E-TEST-0184-10.22/005	rivers	DEP=1C2-E-TEST-0184-10.22004
+1C2-E-TEST-0184-10.22/001	water evaporates from ocean moves land-ward
+1C2-E-TEST-0184-10.22/002	rain down onto rivers	DEP=1C2-E-TEST-0184-10.22001
 1C2-E-TEST-0184-10.6	"Some parts of the ocean have more salt than others, most lakes and rivers taste fresh, and the Dead Sea is so salty it can barely support life."
-1C2-E-TEST-0184-10.6/001	ocean
-1C2-E-TEST-0184-10.6/002	more salt	DEP=1C2-E-TEST-0184-10.6001
-1C2-E-TEST-0184-10.6/003	lakes rivers taste fresh
-1C2-E-TEST-0184-10.6/004	dead sea
-1C2-E-TEST-0184-10.6/005	barely support life	DEP=1C2-E-TEST-0184-10.6004
+1C2-E-TEST-0184-10.6/001	some parts ocean more salt than others
+1C2-E-TEST-0184-10.6/002	lakes rivers taste fresh
+1C2-E-TEST-0184-10.6/003	dead sea so salty can barely support life
 1C2-E-TEST-0184-11.9	There are also some places in the ocean floor where salty gases and minerals from within the Earth get released into the ocean! ÃÂÃÂ 
-1C2-E-TEST-0184-11.9/001	some places
-1C2-E-TEST-0184-11.9/002	ocean floor
-1C2-E-TEST-0184-11.9/003	gases minerals earth
-1C2-E-TEST-0184-11.9/004	released
+1C2-E-TEST-0184-11.9/001	places in ocean floor	DEP=1C2-E-TEST-0184-11.9002
+1C2-E-TEST-0184-11.9/002	salty gases and minerals within earth get released
 1C2-E-TEST-0184-147.29	"In time the salt dissolved, and today the ocean is salty."
-1C2-E-TEST-0184-147.29/001	time
-1C2-E-TEST-0184-147.29/002	salt dissolved
+1C2-E-TEST-0184-147.29/001	in time salt dissolved
+1C2-E-TEST-0184-147.29/002	today ocean is salty	DEP=1C2-E-TEST-0184-147.29001
 1C2-E-TEST-0184-159.15	The water in the oceans has more salt then river water.
-1C2-E-TEST-0184-159.15/001	water
-1C2-E-TEST-0184-159.15/002	oceans	DEP=1C2-E-TEST-0184-159.15001
-1C2-E-TEST-0184-159.15/003	more salt	DEP=1C2-E-TEST-0184-159.15002
-1C2-E-TEST-0184-159.15/004	river water
+1C2-E-TEST-0184-159.15/001	more salt then river water
 1C2-E-TEST-0184-187.6	"One commonly held belief is that the salt in sea water is from land run off, coming via the rivers to the sea."
-1C2-E-TEST-0184-187.6/001	commonly held belief
-1C2-E-TEST-0184-187.6/002	sea water salt	DEP=1C2-E-TEST-0184-187.6001
-1C2-E-TEST-0184-187.6/003	land run off	DEP=1C2-E-TEST-0184-187.6002
-1C2-E-TEST-0184-187.6/004	coming via rivers	DEP=1C2-E-TEST-0184-187.6002
-1C2-E-TEST-0184-187.6/005	sea
+1C2-E-TEST-0184-187.6/001	commonly held belief	DEP=1C2-E-TEST-0184-187.6002
+1C2-E-TEST-0184-187.6/002	salt in sea water from land
+1C2-E-TEST-0184-187.6/003	run off coming via rivers	DEP=1C2-E-TEST-0184-187.6002
 1C2-E-TEST-0184-187.7	"However if this were the case, then surely the seas would get more and more salty?ÃÂ  In fact scientists have proven that the salt concentration in the sea has remained the same for over 200 million years."
-1C2-E-TEST-0184-187.7/001	seas get more
-1C2-E-TEST-0184-187.7/002	fact scientists proven
-1C2-E-TEST-0184-187.7/003	salt concentration	DEP=1C2-E-TEST-0184-187.7002
-1C2-E-TEST-0184-187.7/004	remained same	DEP=1C2-E-TEST-0184-187.7002
-1C2-E-TEST-0184-187.7/005	200 million years	DEP=1C2-E-TEST-0184-187.7002
+1C2-E-TEST-0184-187.7/001	seas get more salty if this were the case
+1C2-E-TEST-0184-187.7/002	scientists proven salt concentration in sea remained same
+1C2-E-TEST-0184-187.7/003	for over 200 million years	DEP=1C2-E-TEST-0184-187.7002
 1C2-E-TEST-0184-187.8	"If we compare the different solutes dissolved in sea water to river water, we find very different percentages, river water only contains a small amount of chlorine and sodium (about 5% each), but a lot of bicarbonate, calcium and sulphate ions, 35%, 20% and 12% respectively.ÃÂ  The sea as we know is mostly chlorine (55%) and sodium (31%), and only 0.4% bicarbonate, 1% calcium and 8% sulphate."
-1C2-E-TEST-0184-187.8/001	compare different solutes
-1C2-E-TEST-0184-187.8/002	dissolved
-1C2-E-TEST-0184-187.8/003	sea water  	DEP=1C2-E-TEST-0184-187.8002
-1C2-E-TEST-0184-187.8/004	different percentages
-1C2-E-TEST-0184-187.8/005	river water contains small amount
-1C2-E-TEST-0184-187.8/006	chlorine sodium	DEP=1C2-E-TEST-0184-187.8005
-1C2-E-TEST-0184-187.8/007	lot more bicarbonate calcium sulphate ions	DEP=1C2-E-TEST-0184-187.8005
-1C2-E-TEST-0184-187.8/008	35% 20% 12% respectively	DEP=1C2-E-TEST-0184-187.8005
-1C2-E-TEST-0184-187.8/009	sea mostly chlorine 55%
-1C2-E-TEST-0184-187.8/010	sodium 31%	DEP=1C2-E-TEST-0184-187.8009
-1C2-E-TEST-0184-187.8/011	only 0.4% bicarbonate	DEP=1C2-E-TEST-0184-187.8009
-1C2-E-TEST-0184-187.8/012	1% calcium 	DEP=1C2-E-TEST-0184-187.8009
-1C2-E-TEST-0184-187.8/013	8% sulphate	DEP=1C2-E-TEST-0184-187.8009
+1C2-E-TEST-0184-187.8/001	compare different solutes dissolved in sea water to river water	DEP=1C2-E-TEST-0184-187.8002
+1C2-E-TEST-0184-187.8/002	we find different percentages
+1C2-E-TEST-0184-187.8/003	river water contains small amount chlorine 5% and sodium 5%
+1C2-E-TEST-0184-187.8/004	river water contains a lot of bicarbonate 35% calcium 20%  sulphate ions 12%
+1C2-E-TEST-0184-187.8/005	sea mostly chlorine 55% and sodium 31%
+1C2-E-TEST-0184-187.8/006	sea only 0.4% bicarbonate 1% calcium 8% sulphate
 1C2-E-TEST-0184-2.7	The rain that falls on the land contains some dissolved carbon dioxide from the surrounding air. This causes the rainwater to be slightly acidic due to carbonic acid (which forms from carbon dioxide and water).
 1C2-E-TEST-0184-2.7/001	rain fall
 1C2-E-TEST-0184-2.7/002	land  	DEP=1C2-E-TEST-0184-2.7001
