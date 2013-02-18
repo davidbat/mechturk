@@ -1,25 +1,25 @@
 1C2-E-TEST-0095-12.6	"American Airlines Arena opened December 31, 1999 on 601 Biscayne Boulevard in downtown Miami, Florida. AmericanAirlines Arena is home to the National Basketball Association's Miami Heat. American Airlines Arena was built for $213 million and has a seating capacity of $213 million. American Airlines Arena box office has played host to a number of big events including concerts, sports, and other shows. Some of the most memorable American Airlines Arena tickets were the 2006 NBA Finals, MTV Video Music Awards, 2009 NCAA Men's Basketball Tournament, Latin Grammy Awards, UFC, and concerts by Celine Dion and Britney Spears."			
-1C2-E-TEST-0095-12.6/001	601 biscayne boulevard		opened december 31 1999	3
-1C2-E-TEST-0095-12.6/002	downtown miami		601 biscayne boulevard	3
-1C2-E-TEST-0095-12.6/003	florida	DEP=1C2-E-TEST-0095-12.6001	downtown miami florida	
-1C2-E-TEST-0095-12.6/004	americanairlines		home	
-1C2-E-TEST-0095-12.6/005	national basketball association	DEP=1C2-E-TEST-0095-12.6030	national basketball association	4
-1C2-E-TEST-0095-12.6/006	seating capacity		built	
-1C2-E-TEST-0095-12.6/007	box office	DEP=1C2-E-TEST-0095-12.6036	$213 million	6
-1C2-E-TEST-0095-12.6/008	host	DEP=1C2-E-TEST-0095-12.6036	seating capacity 	
-1C2-E-TEST-0095-12.6/009	number		played host	
-1C2-E-TEST-0095-12.6/010	big events		big events	9
-1C2-E-TEST-0095-12.6/011	concerts		concerts	9
-1C2-E-TEST-0095-12.6/012	sports	DEP=1C2-E-TEST-0095-12.6011	sports	9
-1C2-E-TEST-0095-12.6/013	shows	DEP=1C2-E-TEST-0095-12.6011	other shows	9
-1C2-E-TEST-0095-12.6/014	memorable		most memorable tickets	
-1C2-E-TEST-0095-12.6/015	tickets	DEP=1C2-E-TEST-0095-12.6016	2006 nba finals	14
-1C2-E-TEST-0095-12.6/016	2006 nba finals mtv video music awards	DEP=1C2-E-TEST-0095-12.6014	mtv video music awards	14
-1C2-E-TEST-0095-12.6/017	2009	DEP=1C2-E-TEST-0095-12.6016	2009 ncaa mens basketball tournament	14
-1C2-E-TEST-0095-12.6/018	ncaa men	DEP=1C2-E-TEST-0095-12.6038	latin grammy awards	14
-1C2-E-TEST-0095-12.6/019	latin grammy awards	DEP=1C2-E-TEST-0095-12.6001	ufc	14
-1C2-E-TEST-0095-12.6/020	ufc	DEP=1C2-E-TEST-0095-12.6019	celine dion concerts	14
-1C2-E-TEST-0095-12.6/021	concerts	DEP=1C2-E-TEST-0095-12.6001	britney spear concerts	14
+1C2-E-TEST-0095-12.6/001	601 biscayne boulevard		opened december 31 1999	
+1C2-E-TEST-0095-12.6/002	downtown miami		601 biscayne boulevard downtown miami florida	
+1C2-E-TEST-0095-12.6/003	florida	DEP=1C2-E-TEST-0095-12.6001	home to national basketball association miami heat	
+1C2-E-TEST-0095-12.6/004	americanairlines		built for $213 million	
+1C2-E-TEST-0095-12.6/005	national basketball association	DEP=1C2-E-TEST-0095-12.6030	seating capacity of $213 million	
+1C2-E-TEST-0095-12.6/006	seating capacity		played host to nummber of big events concerts sports other shows	
+1C2-E-TEST-0095-12.6/007	box office	DEP=1C2-E-TEST-0095-12.6036	some of most memorable tickets were the 2006 nba finals	
+1C2-E-TEST-0095-12.6/008	host	DEP=1C2-E-TEST-0095-12.6036	some of most memorable tickets were the mtv video music awards	
+1C2-E-TEST-0095-12.6/009	number		some of most memorable tickets were the 2009 ncaa men basketball tournament	
+1C2-E-TEST-0095-12.6/010	big events		some of most memorable tickets were the latin grammy awards	
+1C2-E-TEST-0095-12.6/011	concerts		some of most memorable tickets were the ufc	
+1C2-E-TEST-0095-12.6/012	sports	DEP=1C2-E-TEST-0095-12.6011	some of most memorable tickets were the concerts be celine dion and britney spears	
+1C2-E-TEST-0095-12.6/013	shows	DEP=1C2-E-TEST-0095-12.6011		
+1C2-E-TEST-0095-12.6/014	memorable			
+1C2-E-TEST-0095-12.6/015	tickets	DEP=1C2-E-TEST-0095-12.6016		
+1C2-E-TEST-0095-12.6/016	2006 nba finals mtv video music awards	DEP=1C2-E-TEST-0095-12.6014		
+1C2-E-TEST-0095-12.6/017	2009	DEP=1C2-E-TEST-0095-12.6016		
+1C2-E-TEST-0095-12.6/018	ncaa men	DEP=1C2-E-TEST-0095-12.6038		
+1C2-E-TEST-0095-12.6/019	latin grammy awards	DEP=1C2-E-TEST-0095-12.6001		
+1C2-E-TEST-0095-12.6/020	ufc	DEP=1C2-E-TEST-0095-12.6019		
+1C2-E-TEST-0095-12.6/021	concerts	DEP=1C2-E-TEST-0095-12.6001		
 1C2-E-TEST-0095-12.6/022	celine dion			
 1C2-E-TEST-0095-12.6/023	britney spears	DEP=1C2-E-TEST-0095-12.6022		
 1C2-E-TEST-0095-12.6/024	opened			
@@ -38,20 +38,20 @@
 1C2-E-TEST-0095-12.6/037	basketball	DEP=1C2-E-TEST-0095-12.6038		
 1C2-E-TEST-0095-12.6/038	tournament	DEP=1C2-E-TEST-0095-12.6017		
 1C2-E-TEST-0095-12.7	AmericanAirlines.ArenaMiami.com is a privately owned and operated company that specializes in online sales in the secondary ticket market. We are not affiliated with any primary box office or venue. To purchase tickets at anytime online to all American Airlines Arena events simply call our operators at anytime or click on the event you wish to attend and follow the steps through checkout.			
-1C2-E-TEST-0095-12.7/001	americanairlines.arenamiami.com	DEP=1C2-E-TEST-0095-12.7016	privately owned	
-1C2-E-TEST-0095-12.7/002	online sales		operated company	
-1C2-E-TEST-0095-12.7/003	secondary ticket market		specializes	
-1C2-E-TEST-0095-12.7/004	primary box		on line sales	3
-1C2-E-TEST-0095-12.7/005	office venue	DEP=1C2-E-TEST-0095-12.7023	secondary ticket market	4
-1C2-E-TEST-0095-12.7/006	tickets	DEP=1C2-E-TEST-0095-12.7019	not affiliated	
-1C2-E-TEST-0095-12.7/007	events		primary box office	6
-1C2-E-TEST-0095-12.7/008	operators	DEP=1C2-E-TEST-0095-12.7023	venue	6
-1C2-E-TEST-0095-12.7/009	anytime		purchase tickets anytime online	
-1C2-E-TEST-0095-12.7/010	event		call operators	9
-1C2-E-TEST-0095-12.7/011	steps	DEP=1C2-E-TEST-0095-12.7025	click event	
-1C2-E-TEST-0095-12.7/012	checkout		attend	11
-1C2-E-TEST-0095-12.7/013	privately	DEP=1C2-E-TEST-0095-12.7014	follow steps	
-1C2-E-TEST-0095-12.7/014	owned	DEP=1C2-E-TEST-0095-12.7016	through checkout	13
+1C2-E-TEST-0095-12.7/001	americanairlines.arenamiami.com	DEP=1C2-E-TEST-0095-12.7016	AmericanAirlines.ArenaMiami.com is privately owned and operated company	
+1C2-E-TEST-0095-12.7/002	online sales		specializes in online sales in secondary ticket market	1
+1C2-E-TEST-0095-12.7/003	secondary ticket market		not affiliated with any primary box office or venue	1
+1C2-E-TEST-0095-12.7/004	primary box		to purchase tickets call operator anytime or click event and follow steps	
+1C2-E-TEST-0095-12.7/005	office venue	DEP=1C2-E-TEST-0095-12.7023		
+1C2-E-TEST-0095-12.7/006	tickets	DEP=1C2-E-TEST-0095-12.7019		
+1C2-E-TEST-0095-12.7/007	events			
+1C2-E-TEST-0095-12.7/008	operators	DEP=1C2-E-TEST-0095-12.7023		
+1C2-E-TEST-0095-12.7/009	anytime			
+1C2-E-TEST-0095-12.7/010	event			
+1C2-E-TEST-0095-12.7/011	steps	DEP=1C2-E-TEST-0095-12.7025		
+1C2-E-TEST-0095-12.7/012	checkout			
+1C2-E-TEST-0095-12.7/013	privately	DEP=1C2-E-TEST-0095-12.7014		
+1C2-E-TEST-0095-12.7/014	owned	DEP=1C2-E-TEST-0095-12.7016		
 1C2-E-TEST-0095-12.7/015	operated	DEP=1C2-E-TEST-0095-12.7014		
 1C2-E-TEST-0095-12.7/016	company	DEP=1C2-E-TEST-0095-12.7018		
 1C2-E-TEST-0095-12.7/017	specializes	DEP=1C2-E-TEST-0095-12.7016		
@@ -65,86 +65,86 @@
 1C2-E-TEST-0095-12.7/025	attend			
 1C2-E-TEST-0095-12.7/026	follow	DEP=1C2-E-TEST-0095-12.7025		
 1C2-E-TEST-0095-156.10	"Unless explicatively mentioned, we are not associated with any of the following: official American Airlines Arena website, any American Airlines Arena box office or any American Airlines Arena fan clubs, American Airlines Arena partners, or American Airlines Arena sponsors."			
-1C2-E-TEST-0095-156.10/001	following		explicatively mentioned	
-1C2-E-TEST-0095-156.10/002	official		not associated	
-1C2-E-TEST-0095-156.10/003	website		website	2
-1C2-E-TEST-0095-156.10/004	box		box office	2
-1C2-E-TEST-0095-156.10/005	office	DEP=1C2-E-TEST-0095-156.10004	fan clubs	2
-1C2-E-TEST-0095-156.10/006	fan clubs		partners	2
-1C2-E-TEST-0095-156.10/007	partners	DEP=1C2-E-TEST-0095-156.10006	sponsors	2
+1C2-E-TEST-0095-156.10/001	following		not associated with official american airlines arena website	
+1C2-E-TEST-0095-156.10/002	official		not associated with any american airlines arena box office	
+1C2-E-TEST-0095-156.10/003	website		not associated with any american Airlines Arena fan clubs	
+1C2-E-TEST-0095-156.10/004	box		not associated with American Airlines Arena partners	
+1C2-E-TEST-0095-156.10/005	office	DEP=1C2-E-TEST-0095-156.10004	not associated with any American Airlines Arena sponsors	
+1C2-E-TEST-0095-156.10/006	fan clubs			
+1C2-E-TEST-0095-156.10/007	partners	DEP=1C2-E-TEST-0095-156.10006		
 1C2-E-TEST-0095-156.10/008	sponsors	DEP=1C2-E-TEST-0095-156.10006		
 1C2-E-TEST-0095-156.10/009	explicatively	DEP=1C2-E-TEST-0095-156.10010		
 1C2-E-TEST-0095-156.10/010	mentioned	DEP=1C2-E-TEST-0095-156.10011		
 1C2-E-TEST-0095-156.10/011	associated			
 1C2-E-TEST-0095-156.3	"The American Airlines purchased the naming rights in 1999 and on December 31, 1999, the American Airlines Arena was opened to the public."			
 1C2-E-TEST-0095-156.3/001	naming rights	DEP=1C2-E-TEST-0095-156.3005	purchased naming rights	
-1C2-E-TEST-0095-156.3/002	1999		1999	
-1C2-E-TEST-0095-156.3/003	december 31 1999		december 31 1999	1
-1C2-E-TEST-0095-156.3/004	public		open 	
-1C2-E-TEST-0095-156.3/005	purchased	DEP=1C2-E-TEST-0095-156.3006	public	4
+1C2-E-TEST-0095-156.3/002	1999		1999	1
+1C2-E-TEST-0095-156.3/003	december 31 1999		december 31 1999	4
+1C2-E-TEST-0095-156.3/004	public		opened to publix	
+1C2-E-TEST-0095-156.3/005	purchased	DEP=1C2-E-TEST-0095-156.3006		
 1C2-E-TEST-0095-156.3/006	opened			
 1C2-E-TEST-0095-156.6	"The American Airlines Arena is known for its unusual scoreboard, which changes colors depending on the atmosphere."			
-1C2-E-TEST-0095-156.6/001	unusual scoreboard		unusual scoreboard	
-1C2-E-TEST-0095-156.6/002	colors	DEP=1C2-E-TEST-0095-156.6005	changes colors	1
-1C2-E-TEST-0095-156.6/003	atmosphere		depending	2
-1C2-E-TEST-0095-156.6/004	known		atmosphere	3
+1C2-E-TEST-0095-156.6/001	unusual scoreboard		know for unusual scoreboard	
+1C2-E-TEST-0095-156.6/002	colors	DEP=1C2-E-TEST-0095-156.6005	changes colors depending on atmosphere	1
+1C2-E-TEST-0095-156.6/003	atmosphere			
+1C2-E-TEST-0095-156.6/004	known			
 1C2-E-TEST-0095-156.6/005	changes	DEP=1C2-E-TEST-0095-156.6001		
 1C2-E-TEST-0095-156.6/006	depending	DEP=1C2-E-TEST-0095-156.6005		
 1C2-E-TEST-0095-156.7	"The arena has hosted the highly publicized MTV Video Music Awards, both in 2004 and 2005."			
-1C2-E-TEST-0095-156.7/001	music awards	DEP=1C2-E-TEST-0095-156.7003	hosted	
-1C2-E-TEST-0095-156.7/002	2004 2005		highly publicized	1
-1C2-E-TEST-0095-156.7/003	hosted		mtv video music awards	2
-1C2-E-TEST-0095-156.7/004	highly	DEP=1C2-E-TEST-0095-156.7005	2004 2005	3
+1C2-E-TEST-0095-156.7/001	music awards	DEP=1C2-E-TEST-0095-156.7003	arena has hosted highly publicized mtv video music awards	
+1C2-E-TEST-0095-156.7/002	2004 2005		2004 and 2005	1
+1C2-E-TEST-0095-156.7/003	hosted			
+1C2-E-TEST-0095-156.7/004	highly	DEP=1C2-E-TEST-0095-156.7005		
 1C2-E-TEST-0095-156.7/005	publicized	DEP=1C2-E-TEST-0095-156.7007		
 1C2-E-TEST-0095-156.7/006	mtv	DEP=1C2-E-TEST-0095-156.7007		
 1C2-E-TEST-0095-156.7/007	video	DEP=1C2-E-TEST-0095-156.7001		
 1C2-E-TEST-0095-156.8	"The American Airlines Arena has also hosted WCW Uncensored, World Wrestling Entertainment RAW, Royal Rumble and Survivor Series."			
-1C2-E-TEST-0095-156.8/001	wcw uncensored	DEP=1C2-E-TEST-0095-156.8005	hosted wcw uncensored	
-1C2-E-TEST-0095-156.8/002	world wrestling entertainment raw	DEP=1C2-E-TEST-0095-156.8001	world wrestling entertainment raw	1
-1C2-E-TEST-0095-156.8/003	royal rumble	DEP=1C2-E-TEST-0095-156.8001	royal rumble	2
-1C2-E-TEST-0095-156.8/004	survivor series	DEP=1C2-E-TEST-0095-156.8001	survivor series	3
+1C2-E-TEST-0095-156.8/001	wcw uncensored	DEP=1C2-E-TEST-0095-156.8005	American Airlines Arena has also hosted WCW Uncensored	
+1C2-E-TEST-0095-156.8/002	world wrestling entertainment raw	DEP=1C2-E-TEST-0095-156.8001	American Airlines Arena has also hosted World Wrestling Entertainment RAW	
+1C2-E-TEST-0095-156.8/003	royal rumble	DEP=1C2-E-TEST-0095-156.8001	American Airlines Arena has also hosted Royal Rumble	
+1C2-E-TEST-0095-156.8/004	survivor series	DEP=1C2-E-TEST-0095-156.8001	American Airlines Arena has also hosted Survivor Series	
 1C2-E-TEST-0095-156.8/005	hosted			
 1C2-E-TEST-0095-156.9	Please Note: Tickets to events at American Airlines Arena may be sold at prices above the face price.			
-1C2-E-TEST-0095-156.9/001	tickets	DEP=1C2-E-TEST-0095-156.9007	please note	
-1C2-E-TEST-0095-156.9/002	events		tickets	1
-1C2-E-TEST-0095-156.9/003	prices		sold	2
-1C2-E-TEST-0095-156.9/004	face price		prices	3
-1C2-E-TEST-0095-156.9/005	please	DEP=1C2-E-TEST-0095-156.9006	above face price	4
+1C2-E-TEST-0095-156.9/001	tickets	DEP=1C2-E-TEST-0095-156.9007	tickets may be sold at prices above face price	
+1C2-E-TEST-0095-156.9/002	events		to events at american airlines arena	1
+1C2-E-TEST-0095-156.9/003	prices			
+1C2-E-TEST-0095-156.9/004	face price			
+1C2-E-TEST-0095-156.9/005	please	DEP=1C2-E-TEST-0095-156.9006		
 1C2-E-TEST-0095-156.9/006	note			
 1C2-E-TEST-0095-156.9/007	sold	DEP=1C2-E-TEST-0095-156.9006		
 1C2-E-TEST-0095-168.1	American Airlines Arena is Miami's Largest Sports and Concert Venue			
-1C2-E-TEST-0095-168.1/001	miami		miamis largest sports	
-1C2-E-TEST-0095-168.1/002	largest sports	DEP=1C2-E-TEST-0095-168.1001	concert venue	1
+1C2-E-TEST-0095-168.1/001	miami		miamis largest sports and concert venue	
+1C2-E-TEST-0095-168.1/002	largest sports	DEP=1C2-E-TEST-0095-168.1001		
 1C2-E-TEST-0095-168.1/003	concert venue	DEP=1C2-E-TEST-0095-168.1001		
 1C2-E-TEST-0095-168.10	"The Waterfront Theater is a smaller theater within the arena that accommodates 3,000 to 5,800 audience members."			
-1C2-E-TEST-0095-168.10/001	waterfront theater	DEP=1C2-E-TEST-0095-168.10002	waterfront theater	
-1C2-E-TEST-0095-168.10/002	smaller theater		smaller theater	1
-1C2-E-TEST-0095-168.10/003	accommodates		accommodates 3000	2
-1C2-E-TEST-0095-168.10/004	"3,000"	DEP=1C2-E-TEST-0095-168.10005	5800 audience members	3
+1C2-E-TEST-0095-168.10/001	waterfront theater	DEP=1C2-E-TEST-0095-168.10002	waterfront theater within arena	
+1C2-E-TEST-0095-168.10/002	smaller theater		accommodates 3000 to 5800 audience members	1
+1C2-E-TEST-0095-168.10/003	accommodates			
+1C2-E-TEST-0095-168.10/004	"3,000"	DEP=1C2-E-TEST-0095-168.10005		
 1C2-E-TEST-0095-168.10/005	"5,800"	DEP=1C2-E-TEST-0095-168.10007		
 1C2-E-TEST-0095-168.10/006	audience	DEP=1C2-E-TEST-0095-168.10007		
 1C2-E-TEST-0095-168.10/007	members	DEP=1C2-E-TEST-0095-168.10003		
 1C2-E-TEST-0095-168.11	"As one of Florida's largest theaters, it is used for concerts, plays, and Broadway-style musicals."			
-1C2-E-TEST-0095-168.11/001	florida	DEP=1C2-E-TEST-0095-168.11005	floridas largest theaters	
-1C2-E-TEST-0095-168.11/002	concerts		used	1
-1C2-E-TEST-0095-168.11/003	broadway-style musicals	DEP=1C2-E-TEST-0095-168.11002	concerts	2
-1C2-E-TEST-0095-168.11/004	largest	DEP=1C2-E-TEST-0095-168.11005	plays	3
-1C2-E-TEST-0095-168.11/005	theaters		broadway-style musicals	4
+1C2-E-TEST-0095-168.11/001	florida	DEP=1C2-E-TEST-0095-168.11005	one of floridas largest theaters	
+1C2-E-TEST-0095-168.11/002	concerts		used for concerts plays and broadway-style musicals	1
+1C2-E-TEST-0095-168.11/003	broadway-style musicals	DEP=1C2-E-TEST-0095-168.11002		
+1C2-E-TEST-0095-168.11/004	largest	DEP=1C2-E-TEST-0095-168.11005		
+1C2-E-TEST-0095-168.11/005	theaters			
 1C2-E-TEST-0095-168.11/006	plays	DEP=1C2-E-TEST-0095-168.11002		
 1C2-E-TEST-0095-168.12	The primary tenant of American Airlines Arena is the NBA-franchise Miami Heat.			
-1C2-E-TEST-0095-168.12/001	primary tenant	DEP=1C2-E-TEST-0095-168.12002	primary tenant	
-1C2-E-TEST-0095-168.12/002	nba-franchise miami heat		nba-franchise miami heat	1
-1C2-E-TEST-0095-168.13	"The Heat, which formerly played at the Miami Arena, has played at this arena since its opening."		heat	
-1C2-E-TEST-0095-168.13/001	heat	DEP=1C2-E-TEST-0095-168.13005	formerly played	1
-1C2-E-TEST-0095-168.13/002	miami		miami 	2
-1C2-E-TEST-0095-168.13/003	opening		played  	
-1C2-E-TEST-0095-168.13/004	played	DEP=1C2-E-TEST-0095-168.13001	opening	4
+1C2-E-TEST-0095-168.12/001	primary tenant	DEP=1C2-E-TEST-0095-168.12002	primary tenant	2
+1C2-E-TEST-0095-168.12/002	nba-franchise miami heat		nba-franchise miami heat	
+1C2-E-TEST-0095-168.13	"The Heat, which formerly played at the Miami Arena, has played at this arena since its opening."			
+1C2-E-TEST-0095-168.13/001	heat	DEP=1C2-E-TEST-0095-168.13005	heat played at arena since opening	
+1C2-E-TEST-0095-168.13/002	miami		heat formerly played at miami arena	
+1C2-E-TEST-0095-168.13/003	opening			
+1C2-E-TEST-0095-168.13/004	played	DEP=1C2-E-TEST-0095-168.13001		
 1C2-E-TEST-0095-168.13/005	played			
 1C2-E-TEST-0095-168.14	"The Miami Sol, part of the Women's National Basketball Association, also played at American Airlines Arena before the league folded in 2002."			
-1C2-E-TEST-0095-168.14/001	miami sol	DEP=1C2-E-TEST-0095-168.14009	miami sol	
-1C2-E-TEST-0095-168.14/002	part	DEP=1C2-E-TEST-0095-168.14001	womens national basketball association	1
-1C2-E-TEST-0095-168.14/003	women	DEP=1C2-E-TEST-0095-168.14008	league folded	2
-1C2-E-TEST-0095-168.14/004	league		2002	3
+1C2-E-TEST-0095-168.14/001	miami sol	DEP=1C2-E-TEST-0095-168.14009	miami sol played at american airlines arena before league folded 2002	
+1C2-E-TEST-0095-168.14/002	part	DEP=1C2-E-TEST-0095-168.14001	part of womens national basketball association	1
+1C2-E-TEST-0095-168.14/003	women	DEP=1C2-E-TEST-0095-168.14008		
+1C2-E-TEST-0095-168.14/004	league			
 1C2-E-TEST-0095-168.14/005	2002			
 1C2-E-TEST-0095-168.14/006	national	DEP=1C2-E-TEST-0095-168.14008		
 1C2-E-TEST-0095-168.14/007	basketball	DEP=1C2-E-TEST-0095-168.14008		
@@ -152,96 +152,96 @@
 1C2-E-TEST-0095-168.14/009	played			
 1C2-E-TEST-0095-168.14/010	folded	DEP=1C2-E-TEST-0095-168.14004		
 1C2-E-TEST-0095-168.15	"Since it's opening, American Airlines Arena has also hosted numerous rock concerts and World Wrestling Entertainment ""Rumbles'', and was the location for the MTV Video Music Awards in 2004 and 2005."			
-1C2-E-TEST-0095-168.15/001	numerous rock concerts	DEP=1C2-E-TEST-0095-168.15009	hosted	
-1C2-E-TEST-0095-168.15/002	world wrestling entertainment	DEP=1C2-E-TEST-0095-168.15001	numerous rock concerts	1
-1C2-E-TEST-0095-168.15/003	location	DEP=1C2-E-TEST-0095-168.15008	world wrestling entertainment	1
-1C2-E-TEST-0095-168.15/004	mtv video music awards		rumbles	3
-1C2-E-TEST-0095-168.15/005	2004 2005		location	
-1C2-E-TEST-0095-168.15/006	's	DEP=1C2-E-TEST-0095-168.15007	mtv video music awards	5
-1C2-E-TEST-0095-168.15/007	opening	DEP=1C2-E-TEST-0095-168.15008	2004 2005	6
+1C2-E-TEST-0095-168.15/001	numerous rock concerts	DEP=1C2-E-TEST-0095-168.15009	since opening has hosted numerous rock concerts	
+1C2-E-TEST-0095-168.15/002	world wrestling entertainment	DEP=1C2-E-TEST-0095-168.15001	since opening has hosted  world wrestling entertainment rumbles	
+1C2-E-TEST-0095-168.15/003	location	DEP=1C2-E-TEST-0095-168.15008	location for mtv video music awards	
+1C2-E-TEST-0095-168.15/004	mtv video music awards		2004 2005	3
+1C2-E-TEST-0095-168.15/005	2004 2005			
+1C2-E-TEST-0095-168.15/006	's	DEP=1C2-E-TEST-0095-168.15007		
+1C2-E-TEST-0095-168.15/007	opening	DEP=1C2-E-TEST-0095-168.15008		
 1C2-E-TEST-0095-168.15/008	hosted			
 1C2-E-TEST-0095-168.15/009	rumbles	DEP=1C2-E-TEST-0095-168.15008		
 1C2-E-TEST-0095-168.17	"As the sponsor for the arena, American Airlines has endeavored to put its mark on the venue."			
-1C2-E-TEST-0095-168.17/001	sponsor		sponsors	
-1C2-E-TEST-0095-168.17/002	mark	DEP=1C2-E-TEST-0095-168.17005	endeavored 	1
-1C2-E-TEST-0095-168.17/003	venue		mark	2
-1C2-E-TEST-0095-168.17/004	endeavored		venue	3
+1C2-E-TEST-0095-168.17/001	sponsor		american airlines sponsors for arena	
+1C2-E-TEST-0095-168.17/002	mark	DEP=1C2-E-TEST-0095-168.17005	american airlines endeavored to put its mark on venue	
+1C2-E-TEST-0095-168.17/003	venue			
+1C2-E-TEST-0095-168.17/004	endeavored			
 1C2-E-TEST-0095-168.17/005	put	DEP=1C2-E-TEST-0095-168.17004		
 1C2-E-TEST-0095-168.18	"When the structure was built, a giant aircraft was painted on top of the arena's roof and is visible by airplanes arriving and departing from nearby Miami International Airport."			
-1C2-E-TEST-0095-168.18/001	structure	DEP=1C2-E-TEST-0095-168.18006	structure built	
-1C2-E-TEST-0095-168.18/002	giant aircraft	DEP=1C2-E-TEST-0095-168.18007	giant aircraft painted	1
-1C2-E-TEST-0095-168.18/003	top		top	4
-1C2-E-TEST-0095-168.18/004	airplanes		roof	2
-1C2-E-TEST-0095-168.18/005	nearby miami international airport		visible	
-1C2-E-TEST-0095-168.18/006	built	DEP=1C2-E-TEST-0095-168.18007	airplanes arriving	5
-1C2-E-TEST-0095-168.18/007	painted		departing	5
-1C2-E-TEST-0095-168.18/008	roof		nearly miami international airport	6
+1C2-E-TEST-0095-168.18/001	structure	DEP=1C2-E-TEST-0095-168.18006	when structure built	2
+1C2-E-TEST-0095-168.18/002	giant aircraft	DEP=1C2-E-TEST-0095-168.18007	giant aircraft painted on top of arena roof	
+1C2-E-TEST-0095-168.18/003	top		visible by airplanes arriving and departing from nearby miami international airport	2
+1C2-E-TEST-0095-168.18/004	airplanes			
+1C2-E-TEST-0095-168.18/005	nearby miami international airport			
+1C2-E-TEST-0095-168.18/006	built	DEP=1C2-E-TEST-0095-168.18007		
+1C2-E-TEST-0095-168.18/007	painted			
+1C2-E-TEST-0095-168.18/008	roof			
 1C2-E-TEST-0095-168.18/009	visible	DEP=1C2-E-TEST-0095-168.18007		
 1C2-E-TEST-0095-168.18/010	arriving	DEP=1C2-E-TEST-0095-168.18004		
 1C2-E-TEST-0095-168.18/011	departing	DEP=1C2-E-TEST-0095-168.18010		
 1C2-E-TEST-0095-168.2	"Opened on New Year's Eve 1999, the American Airlines Arena is located in downtown Miami, Florida along Biscayne Bay."			
-1C2-E-TEST-0095-168.2/001	new		opened	
-1C2-E-TEST-0095-168.2/002	downtown		new years eve 1999	1
-1C2-E-TEST-0095-168.2/003	miami	DEP=1C2-E-TEST-0095-168.2006	located	2
-1C2-E-TEST-0095-168.2/004	florida	DEP=1C2-E-TEST-0095-168.2003	downtown miami florida	3
-1C2-E-TEST-0095-168.2/005	biscayne bay		biscayne bay	4
+1C2-E-TEST-0095-168.2/001	new		opened on new years eve 1999	
+1C2-E-TEST-0095-168.2/002	downtown		located in downtown miami florida	
+1C2-E-TEST-0095-168.2/003	miami	DEP=1C2-E-TEST-0095-168.2006	along biscayne bay	2
+1C2-E-TEST-0095-168.2/004	florida	DEP=1C2-E-TEST-0095-168.2003		
+1C2-E-TEST-0095-168.2/005	biscayne bay			
 1C2-E-TEST-0095-168.2/006	opened			
 1C2-E-TEST-0095-168.2/007	eve			
 1C2-E-TEST-0095-168.2/008	1999	DEP=1C2-E-TEST-0095-168.2007		
 1C2-E-TEST-0095-168.2/009	located	DEP=1C2-E-TEST-0095-168.2006		
 1C2-E-TEST-0095-168.4	"Known to locals as AAA or A-cubed, American Airlines Arena was designed by architectural firms Arquitectonica and 360 Architecture and cost approximately $213 million to build."			
-1C2-E-TEST-0095-168.4/001	locals		known	
-1C2-E-TEST-0095-168.4/002	aaa a-cubed		locals	1
-1C2-E-TEST-0095-168.4/003	architectural firms		aaa a-cubed	1
-1C2-E-TEST-0095-168.4/004	arquitectonica	DEP=1C2-E-TEST-0095-168.4003	designed	
-1C2-E-TEST-0095-168.4/005	360	DEP=1C2-E-TEST-0095-168.4003	architectural firms	4
-1C2-E-TEST-0095-168.4/006	architecture	DEP=1C2-E-TEST-0095-168.4005	arquitectonica	5
-1C2-E-TEST-0095-168.4/007	known	DEP=1C2-E-TEST-0095-168.4008	360 architecture	5
-1C2-E-TEST-0095-168.4/008	designed		cost approximately $213million	
-1C2-E-TEST-0095-168.4/009	cost	DEP=1C2-E-TEST-0095-168.4008	build	8
+1C2-E-TEST-0095-168.4/001	locals		know to locals as aaa or a-cubed	
+1C2-E-TEST-0095-168.4/002	aaa a-cubed		designed by architectural firm Arquitectonica and 360 Architecture	
+1C2-E-TEST-0095-168.4/003	architectural firms		cost approximately $213 million to build	
+1C2-E-TEST-0095-168.4/004	arquitectonica	DEP=1C2-E-TEST-0095-168.4003		
+1C2-E-TEST-0095-168.4/005	360	DEP=1C2-E-TEST-0095-168.4003		
+1C2-E-TEST-0095-168.4/006	architecture	DEP=1C2-E-TEST-0095-168.4005		
+1C2-E-TEST-0095-168.4/007	known	DEP=1C2-E-TEST-0095-168.4008		
+1C2-E-TEST-0095-168.4/008	designed			
+1C2-E-TEST-0095-168.4/009	cost	DEP=1C2-E-TEST-0095-168.4008		
 1C2-E-TEST-0095-168.4/010	approximately			
 1C2-E-TEST-0095-168.4/011	213			
 1C2-E-TEST-0095-168.4/012	million			
 1C2-E-TEST-0095-168.4/013	build	DEP=1C2-E-TEST-0095-168.4009		
 1C2-E-TEST-0095-168.6	"For sporting events such as basketball games, the arena can accommodate up to 19,600 patrons. Also, the arena can be configured in four different ways for concerts - capacity is 12,202 for 180-degree shows; 15,402 for 270-degree shows; 18,309 for 360-degree shows; and 19,146 for concerts where the stage is placed in the center."			
-1C2-E-TEST-0095-168.6/001	events	DEP=1C2-E-TEST-0095-168.6018	sporting events	
-1C2-E-TEST-0095-168.6/002	basketball games		basketball games	1
-1C2-E-TEST-0095-168.6/003	"19,600 patrons"		accommodate 19600 patrons	2
-1C2-E-TEST-0095-168.6/004	four different ways		configured	
-1C2-E-TEST-0095-168.6/005	concerts		four different ways	4
-1C2-E-TEST-0095-168.6/006	capacity	DEP=1C2-E-TEST-0095-168.6007	concerts	
-1C2-E-TEST-0095-168.6/007	"12,202"	DEP=1C2-E-TEST-0095-168.6019	capacity 12202 	6
-1C2-E-TEST-0095-168.6/008	180-degree shows		180-degree shows	7
-1C2-E-TEST-0095-168.6/009	"15,402"	DEP=1C2-E-TEST-0095-168.6007	15402	
-1C2-E-TEST-0095-168.6/010	270-degree shows		270-degree shows	9
-1C2-E-TEST-0095-168.6/011	"18,309"	DEP=1C2-E-TEST-0095-168.6007	18309	
-1C2-E-TEST-0095-168.6/012	360-degree shows		360-degree shows	11
-1C2-E-TEST-0095-168.6/013	"19,146"	DEP=1C2-E-TEST-0095-168.6007	19146	
-1C2-E-TEST-0095-168.6/014	concerts		concerts	13
-1C2-E-TEST-0095-168.6/015	stage	DEP=1C2-E-TEST-0095-168.6020	stage	
-1C2-E-TEST-0095-168.6/016	center		center	15
+1C2-E-TEST-0095-168.6/001	events	DEP=1C2-E-TEST-0095-168.6018	arena can accommodate 19600 patron for basketball games	
+1C2-E-TEST-0095-168.6/002	basketball games		arena can be configured four ways for concerts	
+1C2-E-TEST-0095-168.6/003	"19,600 patrons"		"capacity is 12,202 for 180-degree shows"	
+1C2-E-TEST-0095-168.6/004	four different ways		"capacity is 15,402 for 270-degree shows"	
+1C2-E-TEST-0095-168.6/005	concerts		"capacity is 18,309 for 360-degree shows"	
+1C2-E-TEST-0095-168.6/006	capacity	DEP=1C2-E-TEST-0095-168.6007	"capacity is 19,146 for concerts where the stage is placed in the center"	
+1C2-E-TEST-0095-168.6/007	"12,202"	DEP=1C2-E-TEST-0095-168.6019		
+1C2-E-TEST-0095-168.6/008	180-degree shows			
+1C2-E-TEST-0095-168.6/009	"15,402"	DEP=1C2-E-TEST-0095-168.6007		
+1C2-E-TEST-0095-168.6/010	270-degree shows			
+1C2-E-TEST-0095-168.6/011	"18,309"	DEP=1C2-E-TEST-0095-168.6007		
+1C2-E-TEST-0095-168.6/012	360-degree shows			
+1C2-E-TEST-0095-168.6/013	"19,146"	DEP=1C2-E-TEST-0095-168.6007		
+1C2-E-TEST-0095-168.6/014	concerts			
+1C2-E-TEST-0095-168.6/015	stage	DEP=1C2-E-TEST-0095-168.6020		
+1C2-E-TEST-0095-168.6/016	center			
 1C2-E-TEST-0095-168.6/017	sporting			
 1C2-E-TEST-0095-168.6/018	accommodate	DEP=1C2-E-TEST-0095-168.6017		
 1C2-E-TEST-0095-168.6/019	configured			
 1C2-E-TEST-0095-168.6/020	placed	DEP=1C2-E-TEST-0095-168.6007		
 1C2-E-TEST-0095-173.11	"Sometimes called the ""Triple-A,"" American Airlines Arena has a seating capacity of 19,600 for Miami Heat basketball games."			
-1C2-E-TEST-0095-173.11/001	triple-a	DEP=1C2-E-TEST-0095-173.11005	triple-a	
-1C2-E-TEST-0095-173.11/002	seating capacity		seating  capacity	1
-1C2-E-TEST-0095-173.11/003	"19,600"		19600	2
-1C2-E-TEST-0095-173.11/004	miami heat basketball games		miami heat basketball games	3
+1C2-E-TEST-0095-173.11/001	triple-a	DEP=1C2-E-TEST-0095-173.11005	sometimes called triple-a	
+1C2-E-TEST-0095-173.11/002	seating capacity		seating  capacity of 19600 for miami heat basketball games	
+1C2-E-TEST-0095-173.11/003	"19,600"			
+1C2-E-TEST-0095-173.11/004	miami heat basketball games			
 1C2-E-TEST-0095-173.11/005	called			
 1C2-E-TEST-0095-173.13	"Built in 1999, American Airlines Arena can be configured five ways to seat between 3,000 and 20,000 people and adapt to a variety of events. The Waterfront Theater, a theater within the arena, is Florida's largest theater and can be used for concerts, family events, and Broadway-style stage shows."			
-1C2-E-TEST-0095-173.13/001	1999		1999	
-1C2-E-TEST-0095-173.13/002	five ways	DEP=1C2-E-TEST-0095-173.13014	configured five ways	3
-1C2-E-TEST-0095-173.13/003	seat		seat	
-1C2-E-TEST-0095-173.13/004	"3,000 20,000"	DEP=1C2-E-TEST-0095-173.13015	3000 20000 people	3
-1C2-E-TEST-0095-173.13/005	variety		variety	
-1C2-E-TEST-0095-173.13/006	events		events	5
-1C2-E-TEST-0095-173.13/007	waterfront theater	DEP=1C2-E-TEST-0095-173.13005	waterfront theater	
-1C2-E-TEST-0095-173.13/008	theater	DEP=1C2-E-TEST-0095-173.13005	floridas largest theater	7
-1C2-E-TEST-0095-173.13/009	florida	DEP=1C2-E-TEST-0095-173.13017	concerts	7
-1C2-E-TEST-0095-173.13/010	concerts		family events	7
-1C2-E-TEST-0095-173.13/011	family events	DEP=1C2-E-TEST-0095-173.13010	broadway-style stage shows	7
+1C2-E-TEST-0095-173.13/001	1999		built in 1999	
+1C2-E-TEST-0095-173.13/002	five ways	DEP=1C2-E-TEST-0095-173.13014	can be configured five ways	
+1C2-E-TEST-0095-173.13/003	seat		seat 3000 to 20000 people	2
+1C2-E-TEST-0095-173.13/004	"3,000 20,000"	DEP=1C2-E-TEST-0095-173.13015	can adapt to variety of events	
+1C2-E-TEST-0095-173.13/005	variety		waterfront theater floridas largest theater	
+1C2-E-TEST-0095-173.13/006	events		theater within arena	5
+1C2-E-TEST-0095-173.13/007	waterfront theater	DEP=1C2-E-TEST-0095-173.13005	can be used for concerts family events and broadway-style stage shows	5
+1C2-E-TEST-0095-173.13/008	theater	DEP=1C2-E-TEST-0095-173.13005		
+1C2-E-TEST-0095-173.13/009	florida	DEP=1C2-E-TEST-0095-173.13017		
+1C2-E-TEST-0095-173.13/010	concerts			
+1C2-E-TEST-0095-173.13/011	family events	DEP=1C2-E-TEST-0095-173.13010		
 1C2-E-TEST-0095-173.13/012	broadway-style stage shows	DEP=1C2-E-TEST-0095-173.13010		
 1C2-E-TEST-0095-173.13/013	built	DEP=1C2-E-TEST-0095-173.13014		
 1C2-E-TEST-0095-173.13/014	configured			
@@ -249,90 +249,90 @@
 1C2-E-TEST-0095-173.13/016	largest	DEP=1C2-E-TEST-0095-173.13017		
 1C2-E-TEST-0095-173.13/017	theater	DEP=1C2-E-TEST-0095-173.13014		
 1C2-E-TEST-0095-173.14	"Ceiling-to-floor acoustic curtains, carpeted aisles, beautiful chandeliers, a proscenium stage, and theatrical lighting transform American Airlines Arena into an intimate venue for shows drawing up to 5,800 guests. A Gloria Estefan concert opened American Airlines Arena."			
-1C2-E-TEST-0095-173.14/001	ceiling-to-floor acoustic curtains	DEP=1C2-E-TEST-0095-173.14013	ceiling-to-floor acoustic curtains	6
-1C2-E-TEST-0095-173.14/002	aisles	DEP=1C2-E-TEST-0095-173.14010	carpeted aisles	6
-1C2-E-TEST-0095-173.14/003	beautiful chandeliers	DEP=1C2-E-TEST-0095-173.14002	beautiful chandeliers	6
-1C2-E-TEST-0095-173.14/004	proscenium stage	DEP=1C2-E-TEST-0095-173.14002	proscenium stage	6
-1C2-E-TEST-0095-173.14/005	theatrical lighting	DEP=1C2-E-TEST-0095-173.14002	theatrical lighting	6
-1C2-E-TEST-0095-173.14/006	intimate venue		transform	
-1C2-E-TEST-0095-173.14/007	shows		intimate venue	6
-1C2-E-TEST-0095-173.14/008	"5,800 guests"		shows drawing	
-1C2-E-TEST-0095-173.14/009	gloria estefan concert	DEP=1C2-E-TEST-0095-173.14013	5800 guests	8
-1C2-E-TEST-0095-173.14/010	carpeted	DEP=1C2-E-TEST-0095-173.14001	gloria estefan concert	
-1C2-E-TEST-0095-173.14/011	transform	DEP=1C2-E-TEST-0095-173.14010	opened	10
+1C2-E-TEST-0095-173.14/001	ceiling-to-floor acoustic curtains	DEP=1C2-E-TEST-0095-173.14013	ceiling-to-floor acoustic curtains transform American Airlines Arena into an intimate venue	
+1C2-E-TEST-0095-173.14/002	aisles	DEP=1C2-E-TEST-0095-173.14010	carpeted aisles transform American Airlines Arena into an intimate venue	
+1C2-E-TEST-0095-173.14/003	beautiful chandeliers	DEP=1C2-E-TEST-0095-173.14002	beautiful chandeliers transform American Airlines Arena into an intimate venue	
+1C2-E-TEST-0095-173.14/004	proscenium stage	DEP=1C2-E-TEST-0095-173.14002	proscenium stage transform American Airlines Arena into an intimate venue	
+1C2-E-TEST-0095-173.14/005	theatrical lighting	DEP=1C2-E-TEST-0095-173.14002	theatrical lighting transform American Airlines Arena into an intimate venue	
+1C2-E-TEST-0095-173.14/006	intimate venue		drawing 5800 guests	
+1C2-E-TEST-0095-173.14/007	shows		Gloria Estefan concert opened American Airlines Arena	
+1C2-E-TEST-0095-173.14/008	"5,800 guests"			
+1C2-E-TEST-0095-173.14/009	gloria estefan concert	DEP=1C2-E-TEST-0095-173.14013		
+1C2-E-TEST-0095-173.14/010	carpeted	DEP=1C2-E-TEST-0095-173.14001		
+1C2-E-TEST-0095-173.14/011	transform	DEP=1C2-E-TEST-0095-173.14010		
 1C2-E-TEST-0095-173.14/012	drawing	DEP=1C2-E-TEST-0095-173.14007		
 1C2-E-TEST-0095-173.14/013	opened			
 1C2-E-TEST-0095-173.17	American Airlines Arena is the former home of the Women's National Basketball Association's (WNBA) Miami Sol which folded in 2002.			
-1C2-E-TEST-0095-173.17/001	former home		former home	
-1C2-E-TEST-0095-173.17/002	women		womens national basketball association	1
-1C2-E-TEST-0095-173.17/003	basketball association	DEP=1C2-E-TEST-0095-173.17007	wnba	2
-1C2-E-TEST-0095-173.17/004	wnba	DEP=1C2-E-TEST-0095-173.17001	miami sol	3
-1C2-E-TEST-0095-173.17/005	miami sol	2002	folded	4
+1C2-E-TEST-0095-173.17/001	former home		former home of womens national basketball association wnba	
+1C2-E-TEST-0095-173.17/002	women		miami sol	1
+1C2-E-TEST-0095-173.17/003	basketball association	DEP=1C2-E-TEST-0095-173.17007	folded in 2002	2
+1C2-E-TEST-0095-173.17/004	wnba	DEP=1C2-E-TEST-0095-173.17001		
+1C2-E-TEST-0095-173.17/005	miami sol	2002		
 1C2-E-TEST-0095-173.17/006	2002			
 1C2-E-TEST-0095-173.17/007	national	DEP=1C2-E-TEST-0095-173.17002		
 1C2-E-TEST-0095-173.17/008	folded	DEP=1C2-E-TEST-0095-173.17005		
 1C2-E-TEST-0095-173.18	American Airlines Arena includes a multiple purpose practice court and an unusual scoreboard that changes colors to suit the atmosphere.			
-1C2-E-TEST-0095-173.18/001	multiple purpose practice court	DEP=1C2-E-TEST-0095-173.18005	multiple purpose practice court	
-1C2-E-TEST-0095-173.18/002	unusual scoreboard	DEP=1C2-E-TEST-0095-173.18001	unusual scoreboard	1
-1C2-E-TEST-0095-173.18/003	colors	DEP=1C2-E-TEST-0095-173.18007	changes colors	2
-1C2-E-TEST-0095-173.18/004	atmosphere	DEP=1C2-E-TEST-0095-173.18007	suit	3
-1C2-E-TEST-0095-173.18/005	includes		atmosphere	4
+1C2-E-TEST-0095-173.18/001	multiple purpose practice court	DEP=1C2-E-TEST-0095-173.18005	includes multiple purpose practice court	
+1C2-E-TEST-0095-173.18/002	unusual scoreboard	DEP=1C2-E-TEST-0095-173.18001	includes unusual scoreboard that changes color to suit atmosphere	
+1C2-E-TEST-0095-173.18/003	colors	DEP=1C2-E-TEST-0095-173.18007		
+1C2-E-TEST-0095-173.18/004	atmosphere	DEP=1C2-E-TEST-0095-173.18007		
+1C2-E-TEST-0095-173.18/005	includes			
 1C2-E-TEST-0095-173.18/006	changes	DEP=1C2-E-TEST-0095-173.18002		
 1C2-E-TEST-0095-173.18/007	suit	DEP=1C2-E-TEST-0095-173.18006		
 1C2-E-TEST-0095-173.22	"True to the area's heritage, American Airlines Arena's concession stands feature Cuban delicacies, conch fritters, and seafood in addition to the traditional stadium fare."			
-1C2-E-TEST-0095-173.22/001	area	DEP=1C2-E-TEST-0095-173.22008	area	
-1C2-E-TEST-0095-173.22/002	feature cuban delicacies	DEP=1C2-E-TEST-0095-173.22010	heritage	1
-1C2-E-TEST-0095-173.22/003	conch fritters	DEP=1C2-E-TEST-0095-173.22002	concession stands	2
-1C2-E-TEST-0095-173.22/004	seafood	DEP=1C2-E-TEST-0095-173.22002	cuban delicacies	3
-1C2-E-TEST-0095-173.22/005	addition		conch fritters	3
-1C2-E-TEST-0095-173.22/006	traditional stadium fare		seafood	3
-1C2-E-TEST-0095-173.22/007	TRUE	DEP=1C2-E-TEST-0095-173.22010	traditional stadium fare	3
+1C2-E-TEST-0095-173.22/001	area	DEP=1C2-E-TEST-0095-173.22008	concession stands feature cuban delicacies	
+1C2-E-TEST-0095-173.22/002	feature cuban delicacies	DEP=1C2-E-TEST-0095-173.22010	concession stands feature conch fritters	
+1C2-E-TEST-0095-173.22/003	conch fritters	DEP=1C2-E-TEST-0095-173.22002	concession stands feature seafood	
+1C2-E-TEST-0095-173.22/004	seafood	DEP=1C2-E-TEST-0095-173.22002	concession stands feature traditional stadium fare	
+1C2-E-TEST-0095-173.22/005	addition			
+1C2-E-TEST-0095-173.22/006	traditional stadium fare			
+1C2-E-TEST-0095-173.22/007	TRUE	DEP=1C2-E-TEST-0095-173.22010		
 1C2-E-TEST-0095-173.22/008	heritage			
 1C2-E-TEST-0095-173.22/009	concession	DEP=1C2-E-TEST-0095-173.22010		
 1C2-E-TEST-0095-173.22/010	stands			
 1C2-E-TEST-0095-173.24	American Airlines Arena is located at 601 Biscayne Blvd.			
-1C2-E-TEST-0095-173.24/001	601		located	
-1C2-E-TEST-0095-173.24/002	biscayne blvd.	DEP=1C2-E-TEST-0095-173.24001	601	1
-1C2-E-TEST-0095-173.24/003	located		biscayne blvd	2
+1C2-E-TEST-0095-173.24/001	601		located at 601 biscayne blvd	
+1C2-E-TEST-0095-173.24/002	biscayne blvd.	DEP=1C2-E-TEST-0095-173.24001		
+1C2-E-TEST-0095-173.24/003	located			
 1C2-E-TEST-0095-173.26	Guests traveling by Metrorail should transfer to the People Mover Express at the Government Center Station.			
-1C2-E-TEST-0095-173.26/001	guests	DEP=1C2-E-TEST-0095-173.26007	guests	
-1C2-E-TEST-0095-173.26/002	metrorail		traveling	1
-1C2-E-TEST-0095-173.26/003	people		metrorail	2
-1C2-E-TEST-0095-173.26/004	mover express	DEP=1C2-E-TEST-0095-173.26007	transfer	
-1C2-E-TEST-0095-173.26/005	government center station		people mover express	4
-1C2-E-TEST-0095-173.26/006	traveling	DEP=1C2-E-TEST-0095-173.26001	government center station	5
+1C2-E-TEST-0095-173.26/001	guests	DEP=1C2-E-TEST-0095-173.26007	Guests traveling by Metrorail should transfer to the People Mover Express	
+1C2-E-TEST-0095-173.26/002	metrorail		at government center station	
+1C2-E-TEST-0095-173.26/003	people			
+1C2-E-TEST-0095-173.26/004	mover express	DEP=1C2-E-TEST-0095-173.26007		
+1C2-E-TEST-0095-173.26/005	government center station			
+1C2-E-TEST-0095-173.26/006	traveling	DEP=1C2-E-TEST-0095-173.26001		
 1C2-E-TEST-0095-173.26/007	transfer			
 1C2-E-TEST-0095-173.27	"Bus service is available on NE 7th St. Water fountains, concessions, TDD/TTY telephones, and restrooms are all accessible for guests with disabilities. Accessible seating is easier to purchase in advance."			
-1C2-E-TEST-0095-173.27/001	bus service	DEP=1C2-E-TEST-0095-173.27011	bus service	
-1C2-E-TEST-0095-173.27/002	ne		available	1
-1C2-E-TEST-0095-173.27/003	7th st. water fountains	DEP=1C2-E-TEST-0095-173.27012	ne 7th st water fountains	1
-1C2-E-TEST-0095-173.27/004	concessions	DEP=1C2-E-TEST-0095-173.27003	concessions	8
-1C2-E-TEST-0095-173.27/005	tdd\/tty telephones	DEP=1C2-E-TEST-0095-173.27003	tdd\/tty telephones	8
-1C2-E-TEST-0095-173.27/006	restrooms	DEP=1C2-E-TEST-0095-173.27003	restrooms	8
-1C2-E-TEST-0095-173.27/007	guests		accessible	8
-1C2-E-TEST-0095-173.27/008	disabilities		guests	
-1C2-E-TEST-0095-173.27/009	accessible seating	DEP=1C2-E-TEST-0095-173.27013	disabilities	8
-1C2-E-TEST-0095-173.27/010	advance		accessible seating	
-1C2-E-TEST-0095-173.27/011	available	DEP=1C2-E-TEST-0095-173.27013	easier	10
-1C2-E-TEST-0095-173.27/012	accessible	DEP=1C2-E-TEST-0095-173.27002	purchase	10
-1C2-E-TEST-0095-173.27/013	easier		advance	12
+1C2-E-TEST-0095-173.27/001	bus service	DEP=1C2-E-TEST-0095-173.27011	bus service available on NE 7th St.	
+1C2-E-TEST-0095-173.27/002	ne		water fountains accessible for guests with disabilities	
+1C2-E-TEST-0095-173.27/003	7th st. water fountains	DEP=1C2-E-TEST-0095-173.27012	concessions accessible for guests with disabilities	
+1C2-E-TEST-0095-173.27/004	concessions	DEP=1C2-E-TEST-0095-173.27003	tdd\/tty telephones accessible for guests with disabilities	
+1C2-E-TEST-0095-173.27/005	tdd\/tty telephones	DEP=1C2-E-TEST-0095-173.27003	restrooms accessible for guests with disabilities	
+1C2-E-TEST-0095-173.27/006	restrooms	DEP=1C2-E-TEST-0095-173.27003	Accessible seating is easier to purchase in advance	
+1C2-E-TEST-0095-173.27/007	guests			
+1C2-E-TEST-0095-173.27/008	disabilities			
+1C2-E-TEST-0095-173.27/009	accessible seating	DEP=1C2-E-TEST-0095-173.27013		
+1C2-E-TEST-0095-173.27/010	advance			
+1C2-E-TEST-0095-173.27/011	available	DEP=1C2-E-TEST-0095-173.27013		
+1C2-E-TEST-0095-173.27/012	accessible	DEP=1C2-E-TEST-0095-173.27002		
+1C2-E-TEST-0095-173.27/013	easier			
 1C2-E-TEST-0095-173.27/014	purchase	DEP=1C2-E-TEST-0095-173.27013		
 1C2-E-TEST-0095-173.6	American Airlines Arena Does a Top Flight Transformation			
 1C2-E-TEST-0095-173.6/001	top flight transformation			
 1C2-E-TEST-0095-173.9	"No, it's the roof of American Airlines Arena, the home of the National Basketball Associations' (NBA) Miami Heat. American Airlines' $42-million naming deal granted it the right to paint a giant aircraft with its logo on top of American Airlines Arena's roof. American Airlines Arena isn't the only hot commodity that seems like it's taking flight on the bay."			
-1C2-E-TEST-0095-173.9/001	roof	DEP=1C2-E-TEST-0095-173.9018	top flight transformation	
-1C2-E-TEST-0095-173.9/002	home		roof	
-1C2-E-TEST-0095-173.9/003	national basketball		home 	
-1C2-E-TEST-0095-173.9/004	associations	DEP=1C2-E-TEST-0095-173.9003	national basketball association	3
-1C2-E-TEST-0095-173.9/005	nba	DEP=1C2-E-TEST-0095-173.9001	nba miami heat	4
-1C2-E-TEST-0095-173.9/006	miami heat	DEP=1C2-E-TEST-0095-173.9001	$42-million naming deal 	
-1C2-E-TEST-0095-173.9/007	deal	DEP=1C2-E-TEST-0095-173.9017	paint giant aircraft	6
-1C2-E-TEST-0095-173.9/008	right	DEP=1C2-E-TEST-0095-173.9018	logo	7
-1C2-E-TEST-0095-173.9/009	giant aircraft	DEP=1C2-E-TEST-0095-173.9019	top  	8
-1C2-E-TEST-0095-173.9/010	logo		roof	9
-1C2-E-TEST-0095-173.9/011	top		hot commodity	
-1C2-E-TEST-0095-173.9/012	hot commodity		flight	
-1C2-E-TEST-0095-173.9/013	flight	DEP=1C2-E-TEST-0095-173.9023	bay	12
+1C2-E-TEST-0095-173.9/001	roof	DEP=1C2-E-TEST-0095-173.9018	American Airlines Arena home of the National Basketball Associations (NBA) Miami Heat	
+1C2-E-TEST-0095-173.9/002	home		American Airlines $42-million naming deal  granted it right to paint gian aircraft on roof	
+1C2-E-TEST-0095-173.9/003	national basketball		American Airlines Arena taking flight on the bay	
+1C2-E-TEST-0095-173.9/004	associations	DEP=1C2-E-TEST-0095-173.9003		
+1C2-E-TEST-0095-173.9/005	nba	DEP=1C2-E-TEST-0095-173.9001		
+1C2-E-TEST-0095-173.9/006	miami heat	DEP=1C2-E-TEST-0095-173.9001		
+1C2-E-TEST-0095-173.9/007	deal	DEP=1C2-E-TEST-0095-173.9017		
+1C2-E-TEST-0095-173.9/008	right	DEP=1C2-E-TEST-0095-173.9018		
+1C2-E-TEST-0095-173.9/009	giant aircraft	DEP=1C2-E-TEST-0095-173.9019		
+1C2-E-TEST-0095-173.9/010	logo			
+1C2-E-TEST-0095-173.9/011	top			
+1C2-E-TEST-0095-173.9/012	hot commodity			
+1C2-E-TEST-0095-173.9/013	flight	DEP=1C2-E-TEST-0095-173.9023		
 1C2-E-TEST-0095-173.9/014	bay			
 1C2-E-TEST-0095-173.9/015	's	DEP=1C2-E-TEST-0095-173.9001		
 1C2-E-TEST-0095-173.9/016	42-million			
@@ -344,220 +344,220 @@
 1C2-E-TEST-0095-173.9/022	's	DEP=1C2-E-TEST-0095-173.9023		
 1C2-E-TEST-0095-173.9/023	taking			
 1C2-E-TEST-0095-2.12	"The arena is known for its unusual scoreboard , designed by Artist Christopher Janney."			
-1C2-E-TEST-0095-2.12/001	unusual scoreboard		unusual scoreboard	
-1C2-E-TEST-0095-2.12/002	artist christopher janney		designed	
-1C2-E-TEST-0095-2.12/003	known		artist christopher janney	
+1C2-E-TEST-0095-2.12/001	unusual scoreboard		known for unusual scoreboard	
+1C2-E-TEST-0095-2.12/002	artist christopher janney		designed by artist christopher janney	
+1C2-E-TEST-0095-2.12/003	known			
 1C2-E-TEST-0095-2.12/004	designed	DEP=1C2-E-TEST-0095-2.12001		
 1C2-E-TEST-0095-2.16	"The Miami Heat has not had to pay to use the $213 million-venue, which sits on $38 million of county land; the county has paid $64 million in operating subsidies."			
-1C2-E-TEST-0095-2.16/001	miami heat		miami heat	
-1C2-E-TEST-0095-2.16/002	213		not pay	1
-1C2-E-TEST-0095-2.16/003	county land		use $213 million venue	2
-1C2-E-TEST-0095-2.16/004	county	DEP=1C2-E-TEST-0095-2.16011	sits	
-1C2-E-TEST-0095-2.16/005	operating subsidies		$38 million county land	4
-1C2-E-TEST-0095-2.16/006	pay		county	
-1C2-E-TEST-0095-2.16/007	million-venue		paid	6
-1C2-E-TEST-0095-2.16/008	sits	DEP=1C2-E-TEST-0095-2.16007	$64 million	6
-1C2-E-TEST-0095-2.16/009	38		operating subsidies	6
+1C2-E-TEST-0095-2.16/001	miami heat		miami heat has not had to pay $213 million venue	
+1C2-E-TEST-0095-2.16/002	213		sits on $38 million county land	1
+1C2-E-TEST-0095-2.16/003	county land		county paid $64 million in operating subsidies	
+1C2-E-TEST-0095-2.16/004	county	DEP=1C2-E-TEST-0095-2.16011		
+1C2-E-TEST-0095-2.16/005	operating subsidies			
+1C2-E-TEST-0095-2.16/006	pay			
+1C2-E-TEST-0095-2.16/007	million-venue			
+1C2-E-TEST-0095-2.16/008	sits	DEP=1C2-E-TEST-0095-2.16007		
+1C2-E-TEST-0095-2.16/009	38			
 1C2-E-TEST-0095-2.16/010	million			
 1C2-E-TEST-0095-2.16/011	paid			
 1C2-E-TEST-0095-2.16/012	64			
 1C2-E-TEST-0095-2.16/013	million			
 1C2-E-TEST-0095-2.24	"The AmericanAirlines Arena as well as the American Airlines Center, hosted the NBA Finals in 2006 and 2011 , in which the Miami Heat played the Dallas Mavericks ."			
-1C2-E-TEST-0095-2.24/001	americanairlines	DEP=1C2-E-TEST-0095-2.24007	americanairlines center	
-1C2-E-TEST-0095-2.24/002	center	DEP=1C2-E-TEST-0095-2.24001	hosted	1
-1C2-E-TEST-0095-2.24/003	nba finals	DEP=1C2-E-TEST-0095-2.24007	nba final	2
-1C2-E-TEST-0095-2.24/004	2006 2011		2006	3
-1C2-E-TEST-0095-2.24/005	miami heat	DEP=1C2-E-TEST-0095-2.24008	2011	3
-1C2-E-TEST-0095-2.24/006	dallas mavericks	DEP=1C2-E-TEST-0095-2.24008	miami heat	3
-1C2-E-TEST-0095-2.24/007	hosted		played  	6
-1C2-E-TEST-0095-2.24/008	played	DEP=1C2-E-TEST-0095-2.24003	dallas mavericks	
+1C2-E-TEST-0095-2.24/001	americanairlines	DEP=1C2-E-TEST-0095-2.24007	hosted nba finals 2006 and 2011	
+1C2-E-TEST-0095-2.24/002	center	DEP=1C2-E-TEST-0095-2.24001	miami heat played dallas mavericks	1
+1C2-E-TEST-0095-2.24/003	nba finals	DEP=1C2-E-TEST-0095-2.24007		
+1C2-E-TEST-0095-2.24/004	2006 2011			
+1C2-E-TEST-0095-2.24/005	miami heat	DEP=1C2-E-TEST-0095-2.24008		
+1C2-E-TEST-0095-2.24/006	dallas mavericks	DEP=1C2-E-TEST-0095-2.24008		
+1C2-E-TEST-0095-2.24/007	hosted			
+1C2-E-TEST-0095-2.24/008	played	DEP=1C2-E-TEST-0095-2.24003		
 1C2-E-TEST-0095-2.26	"The arena was once again the host of the 2012 NBA Finals (along with the Chesapeake Energy Arena in Oklahoma City) when the Heat played the Oklahoma City Thunder , winning the NBA Championship in five games."			
-1C2-E-TEST-0095-2.26/001	host		host	
-1C2-E-TEST-0095-2.26/002	2012 nba finals		2012 nba finals	1
-1C2-E-TEST-0095-2.26/003	chesapeake energy		chesapeake energy 	
-1C2-E-TEST-0095-2.26/004	oklahoma		oklahoma city	3
-1C2-E-TEST-0095-2.26/005	heat	DEP=1C2-E-TEST-0095-2.26010	heat	
-1C2-E-TEST-0095-2.26/006	oklahoma city thunder	DEP=1C2-E-TEST-0095-2.26010	oklahoma city thunder	5
-1C2-E-TEST-0095-2.26/007	nba championship	DEP=1C2-E-TEST-0095-2.26011	winning nba championship	6
-1C2-E-TEST-0095-2.26/008	five games		five games	7
+1C2-E-TEST-0095-2.26/001	host		host of 2012 nba finals	
+1C2-E-TEST-0095-2.26/002	2012 nba finals		along with the Chesapeake Energy Arena in Oklahoma City	1
+1C2-E-TEST-0095-2.26/003	chesapeake energy		heat played oklahoma city thunder 2012 nba finals	
+1C2-E-TEST-0095-2.26/004	oklahoma		heat winning nba championship in five games 2012 nba finals	
+1C2-E-TEST-0095-2.26/005	heat	DEP=1C2-E-TEST-0095-2.26010		
+1C2-E-TEST-0095-2.26/006	oklahoma city thunder	DEP=1C2-E-TEST-0095-2.26010		
+1C2-E-TEST-0095-2.26/007	nba championship	DEP=1C2-E-TEST-0095-2.26011		
+1C2-E-TEST-0095-2.26/008	five games			
 1C2-E-TEST-0095-2.26/009	city	DEP=1C2-E-TEST-0095-2.26001		
 1C2-E-TEST-0095-2.26/010	played	DEP=1C2-E-TEST-0095-2.26001		
 1C2-E-TEST-0095-2.26/011	winning	DEP=1C2-E-TEST-0095-2.26010		
 1C2-E-TEST-0095-2.27	"The arena was the setting for the highly publicized MTV Video Music Awards , both in 2004 and 2005."			
-1C2-E-TEST-0095-2.27/001	setting		setting	
-1C2-E-TEST-0095-2.27/002	awards	DEP=1C2-E-TEST-0095-2.27001	highly publicized	1
-1C2-E-TEST-0095-2.27/003	2004 2005		mtv video music awards	2
-1C2-E-TEST-0095-2.27/004	highly	DEP=1C2-E-TEST-0095-2.27005	2004 2005	3
+1C2-E-TEST-0095-2.27/001	setting		setting for highly publicized mtv video music awards	
+1C2-E-TEST-0095-2.27/002	awards	DEP=1C2-E-TEST-0095-2.27001	2004 2005	1
+1C2-E-TEST-0095-2.27/003	2004 2005			
+1C2-E-TEST-0095-2.27/004	highly	DEP=1C2-E-TEST-0095-2.27005		
 1C2-E-TEST-0095-2.27/005	publicized	DEP=1C2-E-TEST-0095-2.27008		
 1C2-E-TEST-0095-2.27/006	mtv	DEP=1C2-E-TEST-0095-2.27008		
 1C2-E-TEST-0095-2.27/007	video	DEP=1C2-E-TEST-0095-2.27008		
 1C2-E-TEST-0095-2.27/008	music			
 1C2-E-TEST-0095-2.29	"The arena hosted WCW Uncensored 2000, WWE 's Royal Rumble event on January 29, 2006, Survivor Series on November 18, 2007, and Survivor Series on November 21, 2010."			
-1C2-E-TEST-0095-2.29/001	wcw uncensored	DEP=1C2-E-TEST-0095-2.29009	hosted	
-1C2-E-TEST-0095-2.29/002	2000	DEP=1C2-E-TEST-0095-2.29001	wcw uncensored	1
-1C2-E-TEST-0095-2.29/003	wwe	DEP=1C2-E-TEST-0095-2.29012	2000	2
-1C2-E-TEST-0095-2.29/004	january 29 2006		wwe	
-1C2-E-TEST-0095-2.29/005	survivor series	DEP=1C2-E-TEST-0095-2.29001	royal rumble	4
-1C2-E-TEST-0095-2.29/006	november 18 2007		january 29 2006	5
-1C2-E-TEST-0095-2.29/007	survivor series	DEP=1C2-E-TEST-0095-2.29001	survivor series	
-1C2-E-TEST-0095-2.29/008	november 21 2010		november 18 2007	7
-1C2-E-TEST-0095-2.29/009	hosted		survivor series	
-1C2-E-TEST-0095-2.29/010	royal	DEP=1C2-E-TEST-0095-2.29012	november 21 2010	9
+1C2-E-TEST-0095-2.29/001	wcw uncensored	DEP=1C2-E-TEST-0095-2.29009	arena hosted wcw uncensored 2000	
+1C2-E-TEST-0095-2.29/002	2000	DEP=1C2-E-TEST-0095-2.29001	hosted wwe royal rumble event january 29 2006	
+1C2-E-TEST-0095-2.29/003	wwe	DEP=1C2-E-TEST-0095-2.29012	"hosted Survivor Series on November 18, 2007, and Survivor Series on November 21, 2010"	
+1C2-E-TEST-0095-2.29/004	january 29 2006			
+1C2-E-TEST-0095-2.29/005	survivor series	DEP=1C2-E-TEST-0095-2.29001		
+1C2-E-TEST-0095-2.29/006	november 18 2007			
+1C2-E-TEST-0095-2.29/007	survivor series	DEP=1C2-E-TEST-0095-2.29001		
+1C2-E-TEST-0095-2.29/008	november 21 2010			
+1C2-E-TEST-0095-2.29/009	hosted			
+1C2-E-TEST-0095-2.29/010	royal	DEP=1C2-E-TEST-0095-2.29012		
 1C2-E-TEST-0095-2.29/011	rumble	DEP=1C2-E-TEST-0095-2.29012		
 1C2-E-TEST-0095-2.29/012	event	DEP=1C2-E-TEST-0095-2.29001		
 1C2-E-TEST-0095-2.34	"The AmericanAirlines Arena also hosted the first UFC event in the state of Florida, UFC 42: Sudden Impact, on April 25, 2003."			
-1C2-E-TEST-0095-2.34/001	americanairlines	DEP=1C2-E-TEST-0095-2.34007	hosted	
-1C2-E-TEST-0095-2.34/002	ufc event	DEP=1C2-E-TEST-0095-2.34007	first ufc event	1
-1C2-E-TEST-0095-2.34/003	state		state	2
-1C2-E-TEST-0095-2.34/004	florida ufc 42		florida	2
-1C2-E-TEST-0095-2.34/005	sudden impact	DEP=1C2-E-TEST-0095-2.34004	ufc 42	
-1C2-E-TEST-0095-2.34/006	april 25 2003		sudden impact	5
-1C2-E-TEST-0095-2.34/007	hosted		april 25 2003	6
+1C2-E-TEST-0095-2.34/001	americanairlines	DEP=1C2-E-TEST-0095-2.34007	hosted first ufc event in florida	
+1C2-E-TEST-0095-2.34/002	ufc event	DEP=1C2-E-TEST-0095-2.34007	ufc 42: sudden impact	1
+1C2-E-TEST-0095-2.34/003	state		april 25 2003	2
+1C2-E-TEST-0095-2.34/004	florida ufc 42			
+1C2-E-TEST-0095-2.34/005	sudden impact	DEP=1C2-E-TEST-0095-2.34004		
+1C2-E-TEST-0095-2.34/006	april 25 2003			
+1C2-E-TEST-0095-2.34/007	hosted			
 1C2-E-TEST-0095-2.45	"Britney Spears performed as part of her The Circus Starring Britney Spears Tour at the arena on March 7, 2009."			
-1C2-E-TEST-0095-2.45/001	britney spears	DEP=1C2-E-TEST-0095-2.45005	britney spears	
-1C2-E-TEST-0095-2.45/002	part		performed	1
-1C2-E-TEST-0095-2.45/003	circus starring britney spears tour		circus starring britney spears tour	2
-1C2-E-TEST-0095-2.45/004	march 7 2009		march 7 2009	3
+1C2-E-TEST-0095-2.45/001	britney spears	DEP=1C2-E-TEST-0095-2.45005	britney spears performed at arena	
+1C2-E-TEST-0095-2.45/002	part		march 7 2009	1
+1C2-E-TEST-0095-2.45/003	circus starring britney spears tour		as part of circus starring britney spears tour	1
+1C2-E-TEST-0095-2.45/004	march 7 2009			
 1C2-E-TEST-0095-2.45/005	performed			
 1C2-E-TEST-0095-2.9	"The arena also has luxury skyboxes called ""Flagship Lounges,"" a trademark originally used for American's premium-class lounges at certain airports."			
-1C2-E-TEST-0095-2.9/001	luxury skyboxes		luxury skyboxes	
-1C2-E-TEST-0095-2.9/002	flagship lounges	DEP=1C2-E-TEST-0095-2.9005	flagship lounges	1
-1C2-E-TEST-0095-2.9/003	trademark	DEP=1C2-E-TEST-0095-2.9002	trademark originally	
-1C2-E-TEST-0095-2.9/004	airports		premium-class lounges	
-1C2-E-TEST-0095-2.9/005	called	DEP=1C2-E-TEST-0095-2.9001	certain airports	4
+1C2-E-TEST-0095-2.9/001	luxury skyboxes		has luxury skyboxes called flagship lounges	
+1C2-E-TEST-0095-2.9/002	flagship lounges	DEP=1C2-E-TEST-0095-2.9005	flagship lounges trademark used for american premium-class lounges at airpots	
+1C2-E-TEST-0095-2.9/003	trademark	DEP=1C2-E-TEST-0095-2.9002		
+1C2-E-TEST-0095-2.9/004	airports			
+1C2-E-TEST-0095-2.9/005	called	DEP=1C2-E-TEST-0095-2.9001		
 1C2-E-TEST-0095-2.9/006	originally			
 1C2-E-TEST-0095-2.9/007	premium-class	DEP=1C2-E-TEST-0095-2.9008		
 1C2-E-TEST-0095-2.9/008	lounges			
 1C2-E-TEST-0095-237.11	"American Airlines, who was named as sponsor for the facility, ordered a large aircraft be painted on top of the arena's roof as part of their arrangement."			
-1C2-E-TEST-0095-237.11/001	sponsor		sponsor	
-1C2-E-TEST-0095-237.11/002	facility		facility	1
-1C2-E-TEST-0095-237.11/003	large aircraft	DEP=1C2-E-TEST-0095-237.11009	large aircraft	2
-1C2-E-TEST-0095-237.11/004	top		painted	3
-1C2-E-TEST-0095-237.11/005	part		top 	4
-1C2-E-TEST-0095-237.11/006	arrangement		roof	5
-1C2-E-TEST-0095-237.11/007	named		part	6
-1C2-E-TEST-0095-237.11/008	ordered		arrangement	
+1C2-E-TEST-0095-237.11/001	sponsor		american airlines named as sponsor for facility	
+1C2-E-TEST-0095-237.11/002	facility		american airlines ordered large aircraft be painted on roof	
+1C2-E-TEST-0095-237.11/003	large aircraft	DEP=1C2-E-TEST-0095-237.11009	part of arrangement	2
+1C2-E-TEST-0095-237.11/004	top			
+1C2-E-TEST-0095-237.11/005	part			
+1C2-E-TEST-0095-237.11/006	arrangement			
+1C2-E-TEST-0095-237.11/007	named			
+1C2-E-TEST-0095-237.11/008	ordered			
 1C2-E-TEST-0095-237.11/009	painted	DEP=1C2-E-TEST-0095-237.11008		
 1C2-E-TEST-0095-237.11/010	roof			
 1C2-E-TEST-0095-237.12	The American Airlines logo is featured in the center and is visible by airplanes as they come and go from nearby Miami International Airport. Among the amenities at American Airlines Center is an unusual scoreboard that changes colors based on the condition of the atmosphere.			
-1C2-E-TEST-0095-237.12/001	logo	DEP=1C2-E-TEST-0095-237.12011	logo	
-1C2-E-TEST-0095-237.12/002	center		featured	1
-1C2-E-TEST-0095-237.12/003	airplanes		center	2
-1C2-E-TEST-0095-237.12/004	nearby miami international airport		visible	3
-1C2-E-TEST-0095-237.12/005	amenities		airplanes come	4
-1C2-E-TEST-0095-237.12/006	center	DEP=1C2-E-TEST-0095-237.12007	go	5
-1C2-E-TEST-0095-237.12/007	unusual scoreboard	DEP=1C2-E-TEST-0095-237.12004	nearby miami international airport	6
-1C2-E-TEST-0095-237.12/008	colors	DEP=1C2-E-TEST-0095-237.12013	amenities	
-1C2-E-TEST-0095-237.12/009	condition		unusual scoreboard	8
-1C2-E-TEST-0095-237.12/010	atmosphere		changes colors	9
-1C2-E-TEST-0095-237.12/011	featured		based	10
-1C2-E-TEST-0095-237.12/012	visible	DEP=1C2-E-TEST-0095-237.12011	condition	
-1C2-E-TEST-0095-237.12/013	changes	DEP=1C2-E-TEST-0095-237.12007	atmosphere	12
+1C2-E-TEST-0095-237.12/001	logo	DEP=1C2-E-TEST-0095-237.12011	american airlines logo featured in center	
+1C2-E-TEST-0095-237.12/002	center		visible by airplanes as they come and go from miami internation airport	1
+1C2-E-TEST-0095-237.12/003	airplanes		among amenities is unusual scoreboard	
+1C2-E-TEST-0095-237.12/004	nearby miami international airport		changes colors based on condition of atmosphere	3
+1C2-E-TEST-0095-237.12/005	amenities			
+1C2-E-TEST-0095-237.12/006	center	DEP=1C2-E-TEST-0095-237.12007		
+1C2-E-TEST-0095-237.12/007	unusual scoreboard	DEP=1C2-E-TEST-0095-237.12004		
+1C2-E-TEST-0095-237.12/008	colors	DEP=1C2-E-TEST-0095-237.12013		
+1C2-E-TEST-0095-237.12/009	condition			
+1C2-E-TEST-0095-237.12/010	atmosphere			
+1C2-E-TEST-0095-237.12/011	featured			
+1C2-E-TEST-0095-237.12/012	visible	DEP=1C2-E-TEST-0095-237.12011		
+1C2-E-TEST-0095-237.12/013	changes	DEP=1C2-E-TEST-0095-237.12007		
 1C2-E-TEST-0095-237.12/014	based	DEP=1C2-E-TEST-0095-237.12013		
 1C2-E-TEST-0095-237.17	"Among the many large scale events held here, American Airlines Arena was home to the 2004 MTV Video Music Awards, which brought millions of dollars in revenue to the local economy."			
-1C2-E-TEST-0095-237.17/001	large scale events		large scale events	
-1C2-E-TEST-0095-237.17/002	2004 mtv video music awards		home 	
-1C2-E-TEST-0095-237.17/003	millions	DEP=1C2-E-TEST-0095-237.17009	2004 mtv video music awards	1
-1C2-E-TEST-0095-237.17/004	dollars		millions	
-1C2-E-TEST-0095-237.17/005	revenue		dollars	5
-1C2-E-TEST-0095-237.17/006	local economy		revenue	6
-1C2-E-TEST-0095-237.17/007	held	DEP=1C2-E-TEST-0095-237.17001	local economy	7
+1C2-E-TEST-0095-237.17/001	large scale events		home to 2004 mtv video music awards	
+1C2-E-TEST-0095-237.17/002	2004 mtv video music awards		brought million of dollars revenue to local economy	1
+1C2-E-TEST-0095-237.17/003	millions	DEP=1C2-E-TEST-0095-237.17009		
+1C2-E-TEST-0095-237.17/004	dollars			
+1C2-E-TEST-0095-237.17/005	revenue			
+1C2-E-TEST-0095-237.17/006	local economy			
+1C2-E-TEST-0095-237.17/007	held	DEP=1C2-E-TEST-0095-237.17001		
 1C2-E-TEST-0095-237.17/008	home			
 1C2-E-TEST-0095-237.17/009	brought			
 1C2-E-TEST-0095-237.18	American Airlines Arena is owned by the Miami Sports and Entertainment Authority.			
-1C2-E-TEST-0095-237.18/001	miami sports		owned	
-1C2-E-TEST-0095-237.18/002	entertainment authority	DEP=1C2-E-TEST-0095-237.18001	miami sports	1
-1C2-E-TEST-0095-237.18/003	owned		entertainment authority	2
+1C2-E-TEST-0095-237.18/001	miami sports		owned be miami sports and entertainment authority	
+1C2-E-TEST-0095-237.18/002	entertainment authority	DEP=1C2-E-TEST-0095-237.18001		
+1C2-E-TEST-0095-237.18/003	owned			
 1C2-E-TEST-0095-237.3	"The American Airlines Arena, which is located in Miami, Florida along the famous Biscayne Boulevard, is a multi-purpose facility used for both sports and entertainment."			
-1C2-E-TEST-0095-237.3/001	miami florida		miami florida	
-1C2-E-TEST-0095-237.3/002	famous biscayne boulevard		famous biscayne boulevard	1
-1C2-E-TEST-0095-237.3/003	multi-purpose facility		multi-purpose facility	2
-1C2-E-TEST-0095-237.3/004	sports		sports	3
-1C2-E-TEST-0095-237.3/005	entertainment	DEP=1C2-E-TEST-0095-237.3004	entertainment  	4
+1C2-E-TEST-0095-237.3/001	miami florida		multi-purpose facility used for sports and entertainment	
+1C2-E-TEST-0095-237.3/002	famous biscayne boulevard		located in miami florida along Biscayne Boulevard	
+1C2-E-TEST-0095-237.3/003	multi-purpose facility			
+1C2-E-TEST-0095-237.3/004	sports			
+1C2-E-TEST-0095-237.3/005	entertainment	DEP=1C2-E-TEST-0095-237.3004		
 1C2-E-TEST-0095-237.3/006	located			
 1C2-E-TEST-0095-237.4	"It was originally constructed as a replacement venue for the former Miami Arena, but has since taken on a whole new life of it's own."			
-1C2-E-TEST-0095-237.4/001	replacement venue		originally constructed	
-1C2-E-TEST-0095-237.4/002	former miami		replacement venue	1
-1C2-E-TEST-0095-237.4/003	new life		former miami 	2
-1C2-E-TEST-0095-237.4/004	originally	DEP=1C2-E-TEST-0095-237.4005	taken	3
-1C2-E-TEST-0095-237.4/005	constructed		whole new life	4
+1C2-E-TEST-0095-237.4/001	replacement venue		originally constructed as replacement venue for former miami arena	
+1C2-E-TEST-0095-237.4/002	former miami		taken on a whole new life of own	1
+1C2-E-TEST-0095-237.4/003	new life			
+1C2-E-TEST-0095-237.4/004	originally	DEP=1C2-E-TEST-0095-237.4005		
+1C2-E-TEST-0095-237.4/005	constructed			
 1C2-E-TEST-0095-237.4/006	taken	DEP=1C2-E-TEST-0095-237.4005		
 1C2-E-TEST-0095-237.4/007	's			
 1C2-E-TEST-0095-237.5	"Through a series of unique characteristics, modern amenities, attention to detail and fan accommodations, American Airlines Arena has generated much additional revenue for the city of Miami and it's local business owners."			
-1C2-E-TEST-0095-237.5/001	series		series	
-1C2-E-TEST-0095-237.5/002	unique characteristics		unique characteristics	1
-1C2-E-TEST-0095-237.5/003	modern amenities	DEP=1C2-E-TEST-0095-237.5002	modern amenities	2
-1C2-E-TEST-0095-237.5/004	attention detail	DEP=1C2-E-TEST-0095-237.5002	attention detail	3
-1C2-E-TEST-0095-237.5/005	fan accommodations	DEP=1C2-E-TEST-0095-237.5002	fan accommodations	4
-1C2-E-TEST-0095-237.5/006	additional revenue	DEP=1C2-E-TEST-0095-237.5010	additional revenue	
-1C2-E-TEST-0095-237.5/007	city		city	6
-1C2-E-TEST-0095-237.5/008	miami		miami	7
-1C2-E-TEST-0095-237.5/009	local business owners	DEP=1C2-E-TEST-0095-237.5010	local business owners	6
+1C2-E-TEST-0095-237.5/001	series		generated additional revenue for Miami and local business owners	
+1C2-E-TEST-0095-237.5/002	unique characteristics		"through unique characteristics, modern amenities, attention to detail and fan accommodations generated additional revenue"	
+1C2-E-TEST-0095-237.5/003	modern amenities	DEP=1C2-E-TEST-0095-237.5002		
+1C2-E-TEST-0095-237.5/004	attention detail	DEP=1C2-E-TEST-0095-237.5002		
+1C2-E-TEST-0095-237.5/005	fan accommodations	DEP=1C2-E-TEST-0095-237.5002		
+1C2-E-TEST-0095-237.5/006	additional revenue	DEP=1C2-E-TEST-0095-237.5010		
+1C2-E-TEST-0095-237.5/007	city			
+1C2-E-TEST-0095-237.5/008	miami			
+1C2-E-TEST-0095-237.5/009	local business owners	DEP=1C2-E-TEST-0095-237.5010		
 1C2-E-TEST-0095-237.5/010	generated			
 1C2-E-TEST-0095-237.5/011	's	DEP=1C2-E-TEST-0095-237.5009		
 1C2-E-TEST-0095-237.6	"Home to the NBA franchise team of Miami Heat, American Airlines Arena also hosted the WNBA's Miami Sol from it's inception in 2000 until the team's early demise in 2002."			
-1C2-E-TEST-0095-237.6/001	home	DEP=1C2-E-TEST-0095-237.6009	home 	
-1C2-E-TEST-0095-237.6/002	nba franchise team		nba franchise team	1
-1C2-E-TEST-0095-237.6/003	miami heat		miami heat	2
-1C2-E-TEST-0095-237.6/004	wnba	DEP=1C2-E-TEST-0095-237.6011	hosted	
-1C2-E-TEST-0095-237.6/005	inception	DEP=1C2-E-TEST-0095-237.6009	wnba	
-1C2-E-TEST-0095-237.6/006	2000		miami sol	5
-1C2-E-TEST-0095-237.6/007	team	DEP=1C2-E-TEST-0095-237.6014	inception 2000	6
-1C2-E-TEST-0095-237.6/008	2002		teams	
-1C2-E-TEST-0095-237.6/009	hosted		early demise 2002	6
+1C2-E-TEST-0095-237.6/001	home	DEP=1C2-E-TEST-0095-237.6009	home to nba franchise team miami heat	
+1C2-E-TEST-0095-237.6/002	nba franchise team		hosted wnba miami sol from 2000 until 2002	
+1C2-E-TEST-0095-237.6/003	miami heat			
+1C2-E-TEST-0095-237.6/004	wnba	DEP=1C2-E-TEST-0095-237.6011		
+1C2-E-TEST-0095-237.6/005	inception	DEP=1C2-E-TEST-0095-237.6009		
+1C2-E-TEST-0095-237.6/006	2000			
+1C2-E-TEST-0095-237.6/007	team	DEP=1C2-E-TEST-0095-237.6014		
+1C2-E-TEST-0095-237.6/008	2002			
+1C2-E-TEST-0095-237.6/009	hosted			
 1C2-E-TEST-0095-237.6/010	miami	DEP=1C2-E-TEST-0095-237.6011		
 1C2-E-TEST-0095-237.6/011	sol	DEP=1C2-E-TEST-0095-237.6005		
 1C2-E-TEST-0095-237.6/012	's	DEP=1C2-E-TEST-0095-237.6005		
 1C2-E-TEST-0095-237.6/013	early	DEP=1C2-E-TEST-0095-237.6014		
 1C2-E-TEST-0095-237.6/014	demise			
 1C2-E-TEST-0095-237.7	"Despite a construction delay in 1998 due to a fire, American Airlines Arena opened the following year in December 1999 at a construction cost of $175 million."			
-1C2-E-TEST-0095-237.7/001	construction delay		construction delay	
-1C2-E-TEST-0095-237.7/002	1998		1998	1
-1C2-E-TEST-0095-237.7/003	fire		fire	1
-1C2-E-TEST-0095-237.7/004	following		opened following year december 1999	
-1C2-E-TEST-0095-237.7/005	Dec-99		construction cost	
-1C2-E-TEST-0095-237.7/006	construction cost		$175 million	5
+1C2-E-TEST-0095-237.7/001	construction delay		despite construction delay in 1998 due to fire	2
+1C2-E-TEST-0095-237.7/002	1998		opened december 1999	
+1C2-E-TEST-0095-237.7/003	fire		construction cost of $175 million	
+1C2-E-TEST-0095-237.7/004	following			
+1C2-E-TEST-0095-237.7/005	Dec-99			
+1C2-E-TEST-0095-237.7/006	construction cost			
 1C2-E-TEST-0095-237.7/007	due	DEP=1C2-E-TEST-0095-237.7002		
 1C2-E-TEST-0095-237.7/008	opened			
 1C2-E-TEST-0095-237.7/009	175			
 1C2-E-TEST-0095-237.7/010	million			
 1C2-E-TEST-0095-76.3	"http://www.yctv.tv/miami/ - The American Airlines Arena is an arena located in Downtown Miami, Miami, Florida along Biscayne Bay and is used for basketball games and concerts."			
 1C2-E-TEST-0095-76.3/001	downtown		http:\/\/www.yctv.tv\/miami\/	
-1C2-E-TEST-0095-76.3/002	biscayne bay		located	
-1C2-E-TEST-0095-76.3/003	basketball games concerts		downtown miami florida	1
-1C2-E-TEST-0095-76.3/004	http:\/\/www.yctv.tv\/miami\/		biscayne bay	2
-1C2-E-TEST-0095-76.3/005	located		basketball games	3
-1C2-E-TEST-0095-76.3/006	miami	DEP=1C2-E-TEST-0095-76.3008	concerts	4
+1C2-E-TEST-0095-76.3/002	biscayne bay		located in downtown miami florida	
+1C2-E-TEST-0095-76.3/003	basketball games concerts		along biscayne bay	2
+1C2-E-TEST-0095-76.3/004	http:\/\/www.yctv.tv\/miami\/		used for basketball games and concerts	
+1C2-E-TEST-0095-76.3/005	located			
+1C2-E-TEST-0095-76.3/006	miami	DEP=1C2-E-TEST-0095-76.3008		
 1C2-E-TEST-0095-76.3/007	miami	DEP=1C2-E-TEST-0095-76.3006		
 1C2-E-TEST-0095-76.3/008	florida			
 1C2-E-TEST-0095-76.4	"It was constructed as a replacement for the Miami Arena and was designed by the architecture firms Arquitectonica and 360 Architecture. With Dwyane Wade leading the charge, the 2007-08 Miami Heat look to finish strong."			
-1C2-E-TEST-0095-76.4/001	replacement		replacement	
-1C2-E-TEST-0095-76.4/002	miami		miami	1
-1C2-E-TEST-0095-76.4/003	architecture firms		designed	
-1C2-E-TEST-0095-76.4/004	arquitectonica	DEP=1C2-E-TEST-0095-76.4003	architecture firms arquitectonica	3
-1C2-E-TEST-0095-76.4/005	360	DEP=1C2-E-TEST-0095-76.4003	360 architecture	3
-1C2-E-TEST-0095-76.4/006	architecture	DEP=1C2-E-TEST-0095-76.4005	dwyane wade	
-1C2-E-TEST-0095-76.4/007	dwyane wade		leading charge	6
-1C2-E-TEST-0095-76.4/008	charge	DEP=1C2-E-TEST-0095-76.4012	2007-08	
-1C2-E-TEST-0095-76.4/009	2007-08 miami heat	DEP=1C2-E-TEST-0095-76.4008	miami heat	8
-1C2-E-TEST-0095-76.4/010	constructed		finish strong	9
+1C2-E-TEST-0095-76.4/001	replacement		constructed as replacement for miami arena	
+1C2-E-TEST-0095-76.4/002	miami		designed by architecture firms Arquitectonica and 360 Architecture	
+1C2-E-TEST-0095-76.4/003	architecture firms		"Dwyane Wade leading the charge, the 2007-08 Miami Heat look to finish strong"	
+1C2-E-TEST-0095-76.4/004	arquitectonica	DEP=1C2-E-TEST-0095-76.4003		
+1C2-E-TEST-0095-76.4/005	360	DEP=1C2-E-TEST-0095-76.4003		
+1C2-E-TEST-0095-76.4/006	architecture	DEP=1C2-E-TEST-0095-76.4005		
+1C2-E-TEST-0095-76.4/007	dwyane wade			
+1C2-E-TEST-0095-76.4/008	charge	DEP=1C2-E-TEST-0095-76.4012		
+1C2-E-TEST-0095-76.4/009	2007-08 miami heat	DEP=1C2-E-TEST-0095-76.4008		
+1C2-E-TEST-0095-76.4/010	constructed			
 1C2-E-TEST-0095-76.4/011	designed	DEP=1C2-E-TEST-0095-76.4010		
 1C2-E-TEST-0095-76.4/012	leading	DEP=1C2-E-TEST-0095-76.4007		
 1C2-E-TEST-0095-76.4/013	look	DEP=1C2-E-TEST-0095-76.4010		
 1C2-E-TEST-0095-76.4/014	finish	DEP=1C2-E-TEST-0095-76.4013		
 1C2-E-TEST-0095-76.4/015	strong	DEP=1C2-E-TEST-0095-76.4014		
 1C2-E-TEST-0095-76.9	"The Waterfront Theater is a theater within the arena that can seat between 3,000 and 5,800."			
-1C2-E-TEST-0095-76.9/001	waterfront theater	DEP=1C2-E-TEST-0095-76.9002	waterfront theater	
-1C2-E-TEST-0095-76.9/002	theater		theater	1
-1C2-E-TEST-0095-76.9/003	seat		seat	2
-1C2-E-TEST-0095-76.9/004	"3,000 5,800"		3000 5800	3
+1C2-E-TEST-0095-76.9/001	waterfront theater	DEP=1C2-E-TEST-0095-76.9002	waterfront theater can seat between 3000 and 5800	
+1C2-E-TEST-0095-76.9/002	theater		waterfront theater is a theater within arena	
+1C2-E-TEST-0095-76.9/003	seat			
+1C2-E-TEST-0095-76.9/004	"3,000 5,800"			
 1C2-E-TEST-0095-9.11	"And while youÃ¢ÂÂre thinking about purchasing event tickets in the Miami area, take a look around GoTickets.com and youÃ¢ÂÂll quickly discover the many other unique event opportunities in the area. Do you want NFL tickets ?"			
-1C2-E-TEST-0095-9.11/001	youâ		purchasing event ticket	
-1C2-E-TEST-0095-9.11/002	purchasing event tickets		miami area	1
-1C2-E-TEST-0095-9.11/003	miami area		gotickets.com	2
-1C2-E-TEST-0095-9.11/004	look	DEP=1C2-E-TEST-0095-9.11012	quickly discover	3
-1C2-E-TEST-0095-9.11/005	gotickets.com		unique event opportunities	4
-1C2-E-TEST-0095-9.11/006	unique event		nfl tickets	5
+1C2-E-TEST-0095-9.11/001	youâ		look around gotickets.com and discover many other unique event opportunities in arena	
+1C2-E-TEST-0095-9.11/002	purchasing event tickets			
+1C2-E-TEST-0095-9.11/003	miami area			
+1C2-E-TEST-0095-9.11/004	look	DEP=1C2-E-TEST-0095-9.11012		
+1C2-E-TEST-0095-9.11/005	gotickets.com			
+1C2-E-TEST-0095-9.11/006	unique event			
 1C2-E-TEST-0095-9.11/007	opportunities			
 1C2-E-TEST-0095-9.11/008	area			
 1C2-E-TEST-0095-9.11/009	nfl tickets			
@@ -568,24 +568,24 @@
 1C2-E-TEST-0095-9.11/014	ll			
 1C2-E-TEST-0095-9.11/015	quickly			
 1C2-E-TEST-0095-9.15	"YouÃ¢ÂÂll have the chance to see the five-time NCAA national champion Miami Hurricanes take on the best of the ACC with Florida State football tickets or Virginia Tech football tickets . And, of course, ACC basketball tickets can be Duke basketball tickets , UNC basketball tickets , or Wake Forest basketball tickets , which means youÃ¢ÂÂll be able to watch some of the best basketball action in the country. But remember, your next football tickets, basketball tickets, or concert tickets in the Miami area begin with the purchase of American Airlines Arena tickets for GoTickets.com."			
-1C2-E-TEST-0095-9.15/001	youâ		five-time ncaa national champion	11
-1C2-E-TEST-0095-9.15/002	ll		miami hurricanes	11
-1C2-E-TEST-0095-9.15/003	five-time ncaa national champion		best	11
-1C2-E-TEST-0095-9.15/004	miami hurricanes	DEP=1C2-E-TEST-0095-9.15003	acc	11
-1C2-E-TEST-0095-9.15/005	best	DEP=1C2-E-TEST-0095-9.15026	florida state football tickets	11
-1C2-E-TEST-0095-9.15/006	acc		virginia tech football tickets	11
-1C2-E-TEST-0095-9.15/007	florida state football tickets		acc basketball tickets	11
-1C2-E-TEST-0095-9.15/008	virginia tech football tickets	DEP=1C2-E-TEST-0095-9.15007	duke basketball tickets	11
-1C2-E-TEST-0095-9.15/009	course		unc basketball tickets	11
-1C2-E-TEST-0095-9.15/010	acc basketball tickets	DEP=1C2-E-TEST-0095-9.15011	wake forest basketball tickets	11
-1C2-E-TEST-0095-9.15/011	duke basketball tickets		best basketball action	
-1C2-E-TEST-0095-9.15/012	unc basketball tickets	DEP=1C2-E-TEST-0095-9.15011	country	11
-1C2-E-TEST-0095-9.15/013	wake forest basketball tickets	DEP=1C2-E-TEST-0095-9.15011	next football tickets	18
-1C2-E-TEST-0095-9.15/014	youâ	DEP=1C2-E-TEST-0095-9.15027	basketball tickets	18
-1C2-E-TEST-0095-9.15/015	ll		concert tickets	18
-1C2-E-TEST-0095-9.15/016	best basketball action		miami	18
-1C2-E-TEST-0095-9.15/017	country		purchase	18
-1C2-E-TEST-0095-9.15/018	football tickets	DEP=1C2-E-TEST-0095-9.15031	gotickets.com	
+1C2-E-TEST-0095-9.15/001	youâ		chance to see five-times ncaa national champion miami hurricanes take on the best of the ACC with Florida State football tickets	
+1C2-E-TEST-0095-9.15/002	ll		chance to see five-times ncaa national champion miami hurricanes take on the best of the ACC with Virginia Tech football tickets	
+1C2-E-TEST-0095-9.15/003	five-time ncaa national champion		" ACC basketball tickets can be Duke basketball tickets , UNC basketball tickets , or Wake Forest basketball tickets"	
+1C2-E-TEST-0095-9.15/004	miami hurricanes	DEP=1C2-E-TEST-0095-9.15003	watch some of best basketball action in country	3
+1C2-E-TEST-0095-9.15/005	best	DEP=1C2-E-TEST-0095-9.15026	"your next football tickets, basketball tickets, or concert tickets in the Miami area begin with the purchase of American Airlines Arena tickets for GoTickets.com."	
+1C2-E-TEST-0095-9.15/006	acc			
+1C2-E-TEST-0095-9.15/007	florida state football tickets			
+1C2-E-TEST-0095-9.15/008	virginia tech football tickets	DEP=1C2-E-TEST-0095-9.15007		
+1C2-E-TEST-0095-9.15/009	course			
+1C2-E-TEST-0095-9.15/010	acc basketball tickets	DEP=1C2-E-TEST-0095-9.15011		
+1C2-E-TEST-0095-9.15/011	duke basketball tickets			
+1C2-E-TEST-0095-9.15/012	unc basketball tickets	DEP=1C2-E-TEST-0095-9.15011		
+1C2-E-TEST-0095-9.15/013	wake forest basketball tickets	DEP=1C2-E-TEST-0095-9.15011		
+1C2-E-TEST-0095-9.15/014	youâ	DEP=1C2-E-TEST-0095-9.15027		
+1C2-E-TEST-0095-9.15/015	ll			
+1C2-E-TEST-0095-9.15/016	best basketball action			
+1C2-E-TEST-0095-9.15/017	country			
+1C2-E-TEST-0095-9.15/018	football tickets	DEP=1C2-E-TEST-0095-9.15031		
 1C2-E-TEST-0095-9.15/019	basketball tickets	DEP=1C2-E-TEST-0095-9.15018		
 1C2-E-TEST-0095-9.15/020	concert tickets	DEP=1C2-E-TEST-0095-9.15018		
 1C2-E-TEST-0095-9.15/021	miami area			
@@ -600,22 +600,22 @@
 1C2-E-TEST-0095-9.15/030	remember			
 1C2-E-TEST-0095-9.15/031	begin	DEP=1C2-E-TEST-0095-9.15030		
 1C2-E-TEST-0095-9.3	"Miami Heat tickets are some of the best NBA tickets because the Miami Heat feature NBA all-star center Shaquille OÃ¢ÂÂNeal. ThatÃ¢ÂÂs right, after moving away from Kobe Bryant and the LA Lakers , Shaq took up residence in Miami, and now officially owns the paint in American Airlines Arena, home of the Eastern conferenceÃ¢ÂÂs Miami Heat. Do you want Heat tickets to sea Shaq dominate the best players in the country?"			
-1C2-E-TEST-0095-9.3/001	miami heat tickets		miami heat tickes	
-1C2-E-TEST-0095-9.3/002	best nba tickets		best nba tickets	1
-1C2-E-TEST-0095-9.3/003	miami heat feature	DEP=1C2-E-TEST-0095-9.3005	nba all-star center	
-1C2-E-TEST-0095-9.3/004	nba all-star center	DEP=1C2-E-TEST-0095-9.3003	shaquille oneal	3
-1C2-E-TEST-0095-9.3/005	shaquille oâ	DEP=1C2-E-TEST-0095-9.3007	moving away	4
-1C2-E-TEST-0095-9.3/006	neal	DEP=1C2-E-TEST-0095-9.3005	kobe bryant	5
-1C2-E-TEST-0095-9.3/007	thatâ	DEP=1C2-E-TEST-0095-9.3026	la lakers	6
-1C2-E-TEST-0095-9.3/008	s	DEP=1C2-E-TEST-0095-9.3023	shaq  	
-1C2-E-TEST-0095-9.3/009	kobe bryant	miami	residence	8
-1C2-E-TEST-0095-9.3/010	la lakers	DEP=1C2-E-TEST-0095-9.3009	officially owns	8
-1C2-E-TEST-0095-9.3/011	shaq	DEP=1C2-E-TEST-0095-9.3026	eastern conferences	8
-1C2-E-TEST-0095-9.3/012	residence	DEP=1C2-E-TEST-0095-9.3026	miami heat	8
-1C2-E-TEST-0095-9.3/013	miami		heat tickets	
-1C2-E-TEST-0095-9.3/014	paint	DEP=1C2-E-TEST-0095-9.3028	see shaq	13
-1C2-E-TEST-0095-9.3/015	home	DEP=1C2-E-TEST-0095-9.3017	dominate best players	13
-1C2-E-TEST-0095-9.3/016	eastern conferenceâ		country	13
+1C2-E-TEST-0095-9.3/001	miami heat tickets		Miami Heat tickets some of the best NBA tickets because feature NBA all-star center Shaquill O Neal	
+1C2-E-TEST-0095-9.3/002	best nba tickets		"after moving away from Kobe Bryant and the LA Lakers , Shaq took up residence in Miami"	
+1C2-E-TEST-0095-9.3/003	miami heat feature	DEP=1C2-E-TEST-0095-9.3005	shaq officially owns paints in american airlines arena home of miami heat	
+1C2-E-TEST-0095-9.3/004	nba all-star center	DEP=1C2-E-TEST-0095-9.3003		
+1C2-E-TEST-0095-9.3/005	shaquille oâ	DEP=1C2-E-TEST-0095-9.3007		
+1C2-E-TEST-0095-9.3/006	neal	DEP=1C2-E-TEST-0095-9.3005		
+1C2-E-TEST-0095-9.3/007	thatâ	DEP=1C2-E-TEST-0095-9.3026		
+1C2-E-TEST-0095-9.3/008	s	DEP=1C2-E-TEST-0095-9.3023		
+1C2-E-TEST-0095-9.3/009	kobe bryant	miami		
+1C2-E-TEST-0095-9.3/010	la lakers	DEP=1C2-E-TEST-0095-9.3009		
+1C2-E-TEST-0095-9.3/011	shaq	DEP=1C2-E-TEST-0095-9.3026		
+1C2-E-TEST-0095-9.3/012	residence	DEP=1C2-E-TEST-0095-9.3026		
+1C2-E-TEST-0095-9.3/013	miami			
+1C2-E-TEST-0095-9.3/014	paint	DEP=1C2-E-TEST-0095-9.3028		
+1C2-E-TEST-0095-9.3/015	home	DEP=1C2-E-TEST-0095-9.3017		
+1C2-E-TEST-0095-9.3/016	eastern conferenceâ			
 1C2-E-TEST-0095-9.3/017	s	DEP=1C2-E-TEST-0095-9.3029		
 1C2-E-TEST-0095-9.3/018	miami heat	DEP=1C2-E-TEST-0095-9.3017		
 1C2-E-TEST-0095-9.3/019	heat tickets			
@@ -630,12 +630,12 @@
 1C2-E-TEST-0095-9.3/028	owns	DEP=1C2-E-TEST-0095-9.3026		
 1C2-E-TEST-0095-9.3/029	dominate			
 1C2-E-TEST-0095-9.6	"If any of these great NBA tickets excite you, than you need American Airlines Arena tickets, and GoTickets.com has them. ThatÃ¢ÂÂs why weÃ¢ÂÂre the internetÃ¢ÂÂs favorite site to find the most popular sports tickets , and especially your next Miami Heat tickets ."			
-1C2-E-TEST-0095-9.6/001	great nba tickets		great nba tickets	
-1C2-E-TEST-0095-9.6/002	tickets		excite	1
-1C2-E-TEST-0095-9.6/003	gotickets.com	DEP=1C2-E-TEST-0095-9.6002	gotickets.com	2
-1C2-E-TEST-0095-9.6/004	thatâ	DEP=1C2-E-TEST-0095-9.6003	favourite site	3
-1C2-E-TEST-0095-9.6/005	weâ		most popular sports tickets	3
-1C2-E-TEST-0095-9.6/006	re		next miami heat tickets	3
+1C2-E-TEST-0095-9.6/001	great nba tickets		gotickets.com has great nba tickets	
+1C2-E-TEST-0095-9.6/002	tickets		"favorite site to find the most popular sports tickets , and especially your next Miami Heat tickets"	1
+1C2-E-TEST-0095-9.6/003	gotickets.com	DEP=1C2-E-TEST-0095-9.6002		
+1C2-E-TEST-0095-9.6/004	thatâ	DEP=1C2-E-TEST-0095-9.6003		
+1C2-E-TEST-0095-9.6/005	weâ			
+1C2-E-TEST-0095-9.6/006	re			
 1C2-E-TEST-0095-9.6/007	internetâ s			
 1C2-E-TEST-0095-9.6/008	miami heat tickets			
 1C2-E-TEST-0095-9.6/009	s			
@@ -647,25 +647,25 @@
 1C2-E-TEST-0095-9.6/015	tickets	DEP=1C2-E-TEST-0095-9.6012		
 1C2-E-TEST-0095-9.6/016	especially	DEP=1C2-E-TEST-0095-9.6008		
 1C2-E-TEST-0095-9.7	"But Miami Heat tickets arenÃ¢ÂÂt the only offering of American Airlines Arena and GoTickets.com. Even with its opening on December 31, 1999, American Airlines Arena began with a bang by featuring Gloria Estefan and her Millennium Concert Spectacular. And this was only the beginning of what has become a tradition of world-class concerts and entertainment. Today you can find U2 tickets , Britney Spears tickets , Rolling Stones tickets , Backstreet Boys tickets , NÃ¢ÂÂSync tickets, and more as these bands and musical acts take the stage at MiamiÃ¢ÂÂs American Airlines Arena."			
-1C2-E-TEST-0095-9.7/001	miami heat tickets		miami heat tickets	
-1C2-E-TEST-0095-9.7/002	t		gotickets.com	1
-1C2-E-TEST-0095-9.7/003	offering	DEP=1C2-E-TEST-0095-9.7002	opening 	
-1C2-E-TEST-0095-9.7/004	gotickets.com		december 31 1999	3
-1C2-E-TEST-0095-9.7/005	opening		featuring	3
-1C2-E-TEST-0095-9.7/006	december		gloria estefan	3
-1C2-E-TEST-0095-9.7/007	1999		millennium concert spectacular	6
-1C2-E-TEST-0095-9.7/008	bang		tradition  	
-1C2-E-TEST-0095-9.7/009	gloria estefan	DEP=1C2-E-TEST-0095-9.7030	world-class concerts	8
-1C2-E-TEST-0095-9.7/010	millennium concert		entertainment	9
-1C2-E-TEST-0095-9.7/011	beginning	DEP=1C2-E-TEST-0095-9.7031	u2 tickets	
-1C2-E-TEST-0095-9.7/012	tradition		britney spears tickets	
-1C2-E-TEST-0095-9.7/013	world-class concerts entertainment		rolling stones tickets	
-1C2-E-TEST-0095-9.7/014	u2 tickets	DEP=1C2-E-TEST-0095-9.7033	backstreet boys tickets	
-1C2-E-TEST-0095-9.7/015	britney spears	DEP=1C2-E-TEST-0095-9.7016	na sync tickets	
-1C2-E-TEST-0095-9.7/016	tickets	DEP=1C2-E-TEST-0095-9.7010	more	
-1C2-E-TEST-0095-9.7/017	rolling stones	DEP=1C2-E-TEST-0095-9.7018	bands	16
-1C2-E-TEST-0095-9.7/018	tickets	DEP=1C2-E-TEST-0095-9.7010	musical acts	17
-1C2-E-TEST-0095-9.7/019	backstreet boys	DEP=1C2-E-TEST-0095-9.7020	stage	18
+1C2-E-TEST-0095-9.7/001	miami heat tickets		miami heat tickets arent the only offering on gotickets.com	
+1C2-E-TEST-0095-9.7/002	t		opening on december 31 1999 began featuring gloria estefan and her millennium concert spectacular	
+1C2-E-TEST-0095-9.7/003	offering	DEP=1C2-E-TEST-0095-9.7002	"today can find u2 tickets, britney spears tickets Rolling Stones tickets , Backstreet Boys tickets , NSync tickets and more bands at miami arena"	
+1C2-E-TEST-0095-9.7/004	gotickets.com			
+1C2-E-TEST-0095-9.7/005	opening			
+1C2-E-TEST-0095-9.7/006	december			
+1C2-E-TEST-0095-9.7/007	1999			
+1C2-E-TEST-0095-9.7/008	bang			
+1C2-E-TEST-0095-9.7/009	gloria estefan	DEP=1C2-E-TEST-0095-9.7030		
+1C2-E-TEST-0095-9.7/010	millennium concert			
+1C2-E-TEST-0095-9.7/011	beginning	DEP=1C2-E-TEST-0095-9.7031		
+1C2-E-TEST-0095-9.7/012	tradition			
+1C2-E-TEST-0095-9.7/013	world-class concerts entertainment			
+1C2-E-TEST-0095-9.7/014	u2 tickets	DEP=1C2-E-TEST-0095-9.7033		
+1C2-E-TEST-0095-9.7/015	britney spears	DEP=1C2-E-TEST-0095-9.7016		
+1C2-E-TEST-0095-9.7/016	tickets	DEP=1C2-E-TEST-0095-9.7010		
+1C2-E-TEST-0095-9.7/017	rolling stones	DEP=1C2-E-TEST-0095-9.7018		
+1C2-E-TEST-0095-9.7/018	tickets	DEP=1C2-E-TEST-0095-9.7010		
+1C2-E-TEST-0095-9.7/019	backstreet boys	DEP=1C2-E-TEST-0095-9.7020		
 1C2-E-TEST-0095-9.7/020	tickets	DEP=1C2-E-TEST-0095-9.7010		
 1C2-E-TEST-0095-9.7/021	nâ	DEP=1C2-E-TEST-0095-9.7022		
 1C2-E-TEST-0095-9.7/022	tickets	DEP=1C2-E-TEST-0095-9.7010		
