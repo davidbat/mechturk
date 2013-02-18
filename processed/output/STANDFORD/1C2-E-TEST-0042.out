@@ -52,8 +52,8 @@
 1C2-E-TEST-0042-148.1/002	old foes exchange notes		Old foes exchange notes	
 1C2-E-TEST-0042-148.1/003	1962		1962 missile crisis	2
 1C2-E-TEST-0042-148.1/004	missile crisis	DEP=1C2-E-TEST-0042-148.1003		
-1C2-E-TEST-0042-148.104	"As for U.S.-Cuba relations, they were as bad as they could get before the missile crisis, and the missile crisis confirmed them as being bad. The effect was to confirm Cuba as the enemy of the United States yet also constrain the U.S. from direct military force against Cuba, LeoGrande said."			
-1C2-E-TEST-0042-148.104/001	u.s.-cuba relations		u.s ñ cuba relations	
+1C2-E-TEST-0042-148.104	"As for U.S.-Cuba relations, they were as bad as they could get before the missile crisis, and the missile crisis confirmed them as being bad. The effect was to confirm Cuba as the enemy of the United States yet also constrain the U.S. from direct military force against Cuba, LeoGrande said."
+1C2-E-TEST-0042-148.104/001	u.s.-cuba relations		u.s cuba relations	
 1C2-E-TEST-0042-148.104/002	missile crisis		Bad before missile crisis	1
 1C2-E-TEST-0042-148.104/003	missile crisis	DEP=1C2-E-TEST-0042-148.104011	missile crisis confimed bad	1
 1C2-E-TEST-0042-148.104/004	effect		effect confirm enemy	3
@@ -294,7 +294,7 @@
 1C2-E-TEST-0042-2.73	"Kennedy said to Sheridan something like: ""You know, at the time I asked McCone... if they had killed my brother, and I asked him in a way that he couldn't lie to me, and they hadn't."""""			
 1C2-E-TEST-0042-2.73/001	sheridan		kenned said to sheridan	2
 1C2-E-TEST-0042-2.73/002	time		asked mccone if they killed brother	
-1C2-E-TEST-0042-2.73/003	mccone	DEP=1C2-E-TEST-0042-2.73006	asked in way they couldnít lie	2
+1C2-E-TEST-0042-2.73/003	mccone	DEP=1C2-E-TEST-0042-2.73006	asked in way they couldn't lie	2
 1C2-E-TEST-0042-2.73/004	brother	DEP=1C2-E-TEST-0042-2.73007	mccone hadn't killed brother	
 1C2-E-TEST-0042-2.73/005	way			
 1C2-E-TEST-0042-2.73/006	asked			
@@ -439,12 +439,11 @@
 1C2-E-TEST-0042-62.7/004	bay			
 1C2-E-TEST-0042-62.7/005	pigs invasion			
 1C2-E-TEST-0042-62.7/006	attributes			
-1C2-E-TEST-0042-8.6	"It is Waldron and Hartmann's (The Edison Gene) contention√?¬¢√¢¬?¬¨√¢¬?¬ùbolstered by access to many previously unavailable files, and interviews with little-known as well as prominent figures√?¬¢√¢¬?¬¨√¢¬?¬ùthat the CIA knew a great deal about the assassination."			
+1C2-E-TEST-0042-8.6	"It is Waldron and Hartmann's (The Edison Gene) contention bolstered by access to many previously unavailable files, and interviews with little-known as well as prominent figures that the CIA knew a great deal about the assassination."
 1C2-E-TEST-0042-8.6/001	waldron		CIA knew about assasination by waldron and hartmanns contention	
 1C2-E-TEST-0042-8.6/002	hartmann	DEP=1C2-E-TEST-0042-8.6001	CIA knew about assasination by access to previously unavailable files	
 1C2-E-TEST-0042-8.6/003	edison gene	DEP=1C2-E-TEST-0042-8.6001	CIA knew about assasination by interviews with little-know as well as prominent figures	
-1C2-E-TEST-0042-8.6/004	contention„ cents		the edison gene	1
-1C2-E-TEST-0042-8.6/005	¨ ‚			
+1C2-E-TEST-0042-8.6/004	contention cents		the edison gene	1
 1C2-E-TEST-0042-8.6/006	access			
 1C2-E-TEST-0042-8.6/007	interviews			
 1C2-E-TEST-0042-8.6/008	cia	DEP=1C2-E-TEST-0042-8.6021		
@@ -455,12 +454,6 @@
 1C2-E-TEST-0042-8.6/013	unavailable	DEP=1C2-E-TEST-0042-8.6014		
 1C2-E-TEST-0042-8.6/014	files			
 1C2-E-TEST-0042-8.6/015	little-known	DEP=1C2-E-TEST-0042-8.6018		
-1C2-E-TEST-0042-8.6/016	prominent	DEP=1C2-E-TEST-0042-8.6015		
-1C2-E-TEST-0042-8.6/017	figures„	DEP=1C2-E-TEST-0042-8.6018		
-1C2-E-TEST-0042-8.6/018	cents			
-1C2-E-TEST-0042-8.6/019	¨	DEP=1C2-E-TEST-0042-8.6020		
-1C2-E-TEST-0042-8.6/020	‚			
-1C2-E-TEST-0042-8.6/021	knew			
 1C2-E-TEST-0042-8.7	"But the agency couldn't admit what it knew because that could uncover the existence of a U.S. plan for a coup in Cuba, run by JFK's brother, Attorney General Robert Kennedy."			
 1C2-E-TEST-0042-8.7/001	agency	DEP=1C2-E-TEST-0042-8.7008	agency couldn't admit what it knew	
 1C2-E-TEST-0042-8.7/002	existence	DEP=1C2-E-TEST-0042-8.7010	could uncover u.s. plan for coup in cuba	1
@@ -474,7 +467,7 @@
 1C2-E-TEST-0042-8.7/010	uncover	DEP=1C2-E-TEST-0042-8.7009		
 1C2-E-TEST-0042-8.7/011	run	DEP=1C2-E-TEST-0042-8.7004		
 1C2-E-TEST-0042-8.7/012	brother			
-1C2-E-TEST-0042-8.8	"The assassination, say the authors, was carried out by hired gunmen on the orders of three noted Mafia dons whose lives were being made miserable by RFK's ruthless pursuit√?¬¢√¢¬?¬¨√¢¬?¬ùand these Mafia men knew about the planned invasion because they had worked with the CIA on previous efforts to topple Castro."			
+1C2-E-TEST-0042-8.8	"The assassination, say the authors, was carried out by hired gunmen on the orders of three noted Mafia dons whose lives were being made miserable by RFK's ruthless pursuit and these Mafia men knew about the planned invasion because they had worked with the CIA on previous efforts to topple Castro."
 1C2-E-TEST-0042-8.8/001	assassination	DEP=1C2-E-TEST-0042-8.8014	assasination carried out by hired gunmen	
 1C2-E-TEST-0042-8.8/002	authors		on order of three noted mafia dons	1
 1C2-E-TEST-0042-8.8/003	gunmen	DEP=1C2-E-TEST-0042-8.8015	lives made miserable by rfk's ruthless pursuit	2
@@ -482,24 +475,6 @@
 1C2-E-TEST-0042-8.8/005	three		worked with cia on previous efforts to topple castro	4
 1C2-E-TEST-0042-8.8/006	mafia dons			
 1C2-E-TEST-0042-8.8/007	rfk	DEP=1C2-E-TEST-0042-8.8022		
-1C2-E-TEST-0042-8.8/008	¨ ‚			
-1C2-E-TEST-0042-8.8/009	mafia men	DEP=1C2-E-TEST-0042-8.8023		
-1C2-E-TEST-0042-8.8/010	planned invasion			
-1C2-E-TEST-0042-8.8/011	cia			
-1C2-E-TEST-0042-8.8/012	previous efforts			
-1C2-E-TEST-0042-8.8/013	castro	DEP=1C2-E-TEST-0042-8.8025		
-1C2-E-TEST-0042-8.8/014	carried			
-1C2-E-TEST-0042-8.8/015	hired	DEP=1C2-E-TEST-0042-8.8016		
-1C2-E-TEST-0042-8.8/016	noted			
-1C2-E-TEST-0042-8.8/017	lives	DEP=1C2-E-TEST-0042-8.8018		
-1C2-E-TEST-0042-8.8/018	made	DEP=1C2-E-TEST-0042-8.8006		
-1C2-E-TEST-0042-8.8/019	miserable	DEP=1C2-E-TEST-0042-8.8018		
-1C2-E-TEST-0042-8.8/020	ruthless	DEP=1C2-E-TEST-0042-8.8021		
-1C2-E-TEST-0042-8.8/021	pursuit„	DEP=1C2-E-TEST-0042-8.8022		
-1C2-E-TEST-0042-8.8/022	cents			
-1C2-E-TEST-0042-8.8/023	knew	DEP=1C2-E-TEST-0042-8.8016		
-1C2-E-TEST-0042-8.8/024	worked	DEP=1C2-E-TEST-0042-8.8023		
-1C2-E-TEST-0042-8.8/025	topple	DEP=1C2-E-TEST-0042-8.8024		
 1C2-E-TEST-0042-8.9	"Oswald, long a hidden CIA agent, was set up as the patsy, and it had always been Jack Ruby's job to eliminate him if he wasn't killed at the scene of Kennedy's shooting."			
 1C2-E-TEST-0042-8.9/001	oswald	DEP=1C2-E-TEST-0042-8.9007	oswald set up as patsy	
 1C2-E-TEST-0042-8.9/002	hidden cia agent	DEP=1C2-E-TEST-0042-8.9001	hidden cia agent	1
