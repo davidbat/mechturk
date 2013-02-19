@@ -1,79 +1,79 @@
 1C2-E-TEST-0126-1.12	"St. Thomas' Cathedral is the first Anglican Church in Mumbai, situated near the Flora Fountain."			
 1C2-E-TEST-0126-1.12/001	st. thomas	DEP=1C2-E-TEST-0126-1.12005	st thomas cathedral	
 1C2-E-TEST-0126-1.12/002	anglican church		first anglican church mumbai	1
-1C2-E-TEST-0126-1.12/003	mumbai		situated	
-1C2-E-TEST-0126-1.12/004	flora fountain		flora fountain	3
+1C2-E-TEST-0126-1.12/003	mumbai		situated near flora fountain	1
+1C2-E-TEST-0126-1.12/004	flora fountain			
 1C2-E-TEST-0126-1.12/005	cathedral	DEP=1C2-E-TEST-0126-1.12002		
 1C2-E-TEST-0126-1.12/006	situated	DEP=1C2-E-TEST-0126-1.12002		
 1C2-E-TEST-0126-1.13	"Built in 1718, St. Thomas Cathedral was an effort to improve the moral standards of the growing British settlement."			
-1C2-E-TEST-0126-1.13/001	1718		1718	
-1C2-E-TEST-0126-1.13/002	st. thomas cathedral	DEP=1C2-E-TEST-0126-1.13006	st thomas cathedral	1
-1C2-E-TEST-0126-1.13/003	moral standards	DEP=1C2-E-TEST-0126-1.13007	improve moral standards	4
-1C2-E-TEST-0126-1.13/004	growing british settlement		growing british settlement	
+1C2-E-TEST-0126-1.13/001	1718		built in 1718	2
+1C2-E-TEST-0126-1.13/002	st. thomas cathedral	DEP=1C2-E-TEST-0126-1.13006	st thomas cathedral	
+1C2-E-TEST-0126-1.13/003	moral standards	DEP=1C2-E-TEST-0126-1.13007	effort to improve moral standards of growing british settlement	2
+1C2-E-TEST-0126-1.13/004	growing british settlement			
 1C2-E-TEST-0126-1.13/005	built	DEP=1C2-E-TEST-0126-1.13006		
 1C2-E-TEST-0126-1.13/006	effort			
 1C2-E-TEST-0126-1.13/007	improve	DEP=1C2-E-TEST-0126-1.13006		
 1C2-E-TEST-0126-1.15	Wodehouse Church is another major church situated on Wodehouse Road at Colaba in Mumbai. Christian devotees flock the Wodehouse church on a regular basis.			
-1C2-E-TEST-0126-1.15/001	wodehouse church	DEP=1C2-E-TEST-0126-1.15002	wodehouse church	2
-1C2-E-TEST-0126-1.15/002	major church		major church	
-1C2-E-TEST-0126-1.15/003	wodehouse road		situated	
-1C2-E-TEST-0126-1.15/004	colaba		wodehouse road colaba mumbai	1
-1C2-E-TEST-0126-1.15/005	mumbai		devotees flock	1
-1C2-E-TEST-0126-1.15/006	devotees flock	DEP=1C2-E-TEST-0126-1.15002	regular basis	5
+1C2-E-TEST-0126-1.15/001	wodehouse church	DEP=1C2-E-TEST-0126-1.15002	wodehouse church is another major church	
+1C2-E-TEST-0126-1.15/002	major church		situated on wodehouse road colaba mumbai	1
+1C2-E-TEST-0126-1.15/003	wodehouse road		christian devotees flock on a regular basis	1
+1C2-E-TEST-0126-1.15/004	colaba			
+1C2-E-TEST-0126-1.15/005	mumbai			
+1C2-E-TEST-0126-1.15/006	devotees flock	DEP=1C2-E-TEST-0126-1.15002		
 1C2-E-TEST-0126-1.15/007	wodehouse church	DEP=1C2-E-TEST-0126-1.15006		
 1C2-E-TEST-0126-1.15/008	regular basis			
 1C2-E-TEST-0126-1.15/009	situated	DEP=1C2-E-TEST-0126-1.15002		
 1C2-E-TEST-0126-1.6	"Mary Church is among the most prominent churches in Mumbai, with devotees flocking here from all faith."			
-1C2-E-TEST-0126-1.6/001	mary church		mary church	
-1C2-E-TEST-0126-1.6/002	mumbai		prominent mumbai	1
-1C2-E-TEST-0126-1.6/003	devotees		devotees flocking faiths	
+1C2-E-TEST-0126-1.6/001	mary church		mary church is among the most prominent churches in mumbai	
+1C2-E-TEST-0126-1.6/002	mumbai		devotees flocking from all faiths	1
+1C2-E-TEST-0126-1.6/003	devotees			
 1C2-E-TEST-0126-1.6/004	faith			
 1C2-E-TEST-0126-1.6/005	prominent			
 1C2-E-TEST-0126-1.6/006	flocking	DEP=1C2-E-TEST-0126-1.6003		
 1C2-E-TEST-0126-1.9	St. Michael's Church is among the oldest Catholic churches in Mumbai.			
 1C2-E-TEST-0126-1.9/001	st. michael	DEP=1C2-E-TEST-0126-1.9004	st. michael church	
-1C2-E-TEST-0126-1.9/002	oldest catholic		oldest catholic	1
-1C2-E-TEST-0126-1.9/003	mumbai		mumbai	2
+1C2-E-TEST-0126-1.9/002	oldest catholic		among the oldest catholic churches	1
+1C2-E-TEST-0126-1.9/003	mumbai			
 1C2-E-TEST-0126-1.9/004	church			
 1C2-E-TEST-0126-16.10	Mary Church is famous for the kind rituals that reinforce the power of prayers.			
 1C2-E-TEST-0126-16.10/001	mary church	DEP=1C2-E-TEST-0126-16.10005	mary church	
-1C2-E-TEST-0126-16.10/002	rituals		famous rituals	1
-1C2-E-TEST-0126-16.10/003	power		power prayers	2
+1C2-E-TEST-0126-16.10/002	rituals		famous for rituals that reinforce power of prayer	1
+1C2-E-TEST-0126-16.10/003	power			
 1C2-E-TEST-0126-16.10/004	prayers			
 1C2-E-TEST-0126-16.10/005	famous			
 1C2-E-TEST-0126-16.15	"Mount Mary Church is one of the most prominent churches in Mumbai, situated on a quiet hillock in suburban Bandra."			
-1C2-E-TEST-0126-16.15/001	mount mary church		mount mary church	2
-1C2-E-TEST-0126-16.15/002	mumbai		prominent	
-1C2-E-TEST-0126-16.15/003	quiet hillock		quiet hillock	6
-1C2-E-TEST-0126-16.15/004	suburban bandra		suburban bandra	6
-1C2-E-TEST-0126-16.15/005	prominent		mumbai	6
-1C2-E-TEST-0126-16.15/006	situated		situated	1
+1C2-E-TEST-0126-16.15/001	mount mary church		mount mary church	
+1C2-E-TEST-0126-16.15/002	mumbai		one of the most prominent churches	1
+1C2-E-TEST-0126-16.15/003	quiet hillock		situated on quiet hillock in suburban bandra	1
+1C2-E-TEST-0126-16.15/004	suburban bandra			
+1C2-E-TEST-0126-16.15/005	prominent			
+1C2-E-TEST-0126-16.15/006	situated			
 1C2-E-TEST-0126-4.3	"- 62 Shahid Bhagathsing Road, Near Electrical House, Colaba, Mumbai, India"			
 1C2-E-TEST-0126-4.3/001	62 shahid bhagathsing road		62 shahid bhagathsing road	
-1C2-E-TEST-0126-4.3/002	electrical house		electrical house	1
+1C2-E-TEST-0126-4.3/002	electrical house		near electrical house	1
 1C2-E-TEST-0126-4.3/003	colaba mumbai india	DEP=1C2-E-TEST-0126-4.3001	colaba mumbai india	1
 1C2-E-TEST-0126-62.8	Bandra Mount Mary Church			
 1C2-E-TEST-0126-62.8/001	bandra mount mary church		bandra mount mary church	
 1C2-E-TEST-0126-7.2	"Situated on a quiet hillock in suburban Bandra, Mount Mary church is one of the most prominent church in Mumbai with exquisite interiors."			
-1C2-E-TEST-0126-7.2/001	quiet hillock		mount mary church	2
-1C2-E-TEST-0126-7.2/002	suburban bandra		prominent	
-1C2-E-TEST-0126-7.2/003	mount mary church		quiet hillock	6
-1C2-E-TEST-0126-7.2/004	mumbai		suburban bandra	6
-1C2-E-TEST-0126-7.2/005	exquisite interiors		mumbai	6
-1C2-E-TEST-0126-7.2/006	situated		situated	1
-1C2-E-TEST-0126-7.2/007	prominent	DEP=1C2-E-TEST-0126-7.2008	exquisite interiors	1
+1C2-E-TEST-0126-7.2/001	quiet hillock		mount mary church	
+1C2-E-TEST-0126-7.2/002	suburban bandra		situated on a quiet hillock in suburban bandra	1
+1C2-E-TEST-0126-7.2/003	mount mary church		one of the most prominent churches	1
+1C2-E-TEST-0126-7.2/004	mumbai		exquisite interiors	1
+1C2-E-TEST-0126-7.2/005	exquisite interiors			
+1C2-E-TEST-0126-7.2/006	situated			
+1C2-E-TEST-0126-7.2/007	prominent	DEP=1C2-E-TEST-0126-7.2008		
 1C2-E-TEST-0126-7.2/008	church			
 1C2-E-TEST-0126-82.3	"St. Thomas Cathedral of Mumbai is situated on the D.N. Road in the Fort area, near the magnificent Flora Fountain."			
 1C2-E-TEST-0126-82.3/001	st. thomas cathedral	DEP=1C2-E-TEST-0126-82.3006	st thomas cathedral	
-1C2-E-TEST-0126-82.3/002	mumbai		dn road fort area mumbai	1
-1C2-E-TEST-0126-82.3/003	d.n. road		magnificient flora fountain	2
+1C2-E-TEST-0126-82.3/002	mumbai		situated on dn road fort area mumbai	1
+1C2-E-TEST-0126-82.3/003	d.n. road		situated near magnificient flora fountain	1
 1C2-E-TEST-0126-82.3/004	fort area			
 1C2-E-TEST-0126-82.3/005	magnificent flora fountain			
 1C2-E-TEST-0126-82.3/006	situated			
 1C2-E-TEST-0126-82.6	"Saint Thomas Cathedral of Bombay owes its name to St. Thomas, an ardent disciple of Christ."			
-1C2-E-TEST-0126-82.6/001	saint thomas cathedral	DEP=1C2-E-TEST-0126-82.6006	saint thomas cathedral	2
-1C2-E-TEST-0126-82.6/002	name	DEP=1C2-E-TEST-0126-82.6006	owes name	3
-1C2-E-TEST-0126-82.6/003	st. thomas		st. thomas	
-1C2-E-TEST-0126-82.6/004	ardent disciple	DEP=1C2-E-TEST-0126-82.6006	ardent disciple	3
-1C2-E-TEST-0126-82.6/005	christ		christ	4
+1C2-E-TEST-0126-82.6/001	saint thomas cathedral	DEP=1C2-E-TEST-0126-82.6006	saint thomas cathedral of bombay	
+1C2-E-TEST-0126-82.6/002	name	DEP=1C2-E-TEST-0126-82.6006	owes name to st. thomas	1
+1C2-E-TEST-0126-82.6/003	st. thomas		st. thomas an ardent disciple of christ	1
+1C2-E-TEST-0126-82.6/004	ardent disciple	DEP=1C2-E-TEST-0126-82.6006		
+1C2-E-TEST-0126-82.6/005	christ			
 1C2-E-TEST-0126-82.6/006	owes			
