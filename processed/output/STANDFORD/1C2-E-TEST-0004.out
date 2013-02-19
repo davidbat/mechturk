@@ -1,8 +1,8 @@
-1C2-E-TEST-0004-1.125	"Dr.Ã.Â.Ã.Â.Ã.Â.Ã.Â Dre also produced "" How We Do "", a 2005 hit single from rapper The Game from his album The Documentary."	
+1C2-E-TEST-0004-1.125	"Dr. Dre also produced "" How We Do "", a 2005 hit single from rapper The Game from his album The Documentary."	
 1C2-E-TEST-0004-1.125/001	"dr. dre produced single ""how we do"""	
 1C2-E-TEST-0004-1.125/002	2005 hit single	DEP=1C2-E-TEST-0004-1.125/001
 1C2-E-TEST-0004-1.125/003	from rapper the game album the documentary 	DEP=1C2-E-TEST-0004-1.125/001
-1C2-E-TEST-0004-1.191	"Dr.Ã.Â.Ã.Â.Ã.Â.Ã.Â Dre has said that his primary instrument in the studio is the Akai MPC3000 , a drum machine and sampler, and that he often uses as many as four or five to produce a single recording."	
+1C2-E-TEST-0004-1.191	"Dr. Dre has said that his primary instrument in the studio is the Akai MPC3000 , a drum machine and sampler, and that he often uses as many as four or five to produce a single recording."	
 1C2-E-TEST-0004-1.191/001	dr.dre primary instrument is the akai mpc3000	
 1C2-E-TEST-0004-1.191/002	drum machine and sampler 	DEP=1C2-E-TEST-0004-1.191/001
 1C2-E-TEST-0004-1.191/003	often uses as many as four or five to produce a single recodring 	DEP=1C2-E-TEST-0004-1.191/001
@@ -14,7 +14,7 @@
 1C2-E-TEST-0004-1.235	"Every Dre track begins the same way, with Dre behind a drum machine in a room full of trusted musicians."	
 1C2-E-TEST-0004-1.235/001	dre tracks begin the same way	
 1C2-E-TEST-0004-1.235/002	dre behind drum in a room full of trusted musicians 	DEP=1C2-E-TEST-0004-1.235/001
-1C2-E-TEST-0004-1.62	"Besides working on his own material, Dr.Ã.Â.Ã.Â.Ã.Â.Ã.Â Dre produced Snoop Dogg's debut album Doggystyle , which became the first debut album for an artist to debut at number one on the Billboard 200 album charts."	
+1C2-E-TEST-0004-1.62	"Besides working on his own material, Dr.  Dre produced Snoop Dogg's debut album Doggystyle , which became the first debut album for an artist to debut at number one on the Billboard 200 album charts."	
 1C2-E-TEST-0004-1.62/001 	Dre produced snoop dogg's debut album doggystyle	
 1C2-E-TEST-0004-1.62/002	doggystyle became the first debut album for an artist to debut at number one on the billboard 200 album charts 	DEP=1C2-E-TEST-0004-1.62/001
 1C2-E-TEST-0004-12.10	"Detox, is set to be released following much delay and speculation. Early life The first child of Verna and Theodore Young, Dr. Dre was born as Andre Romelle Young on February 18, 1965."	
@@ -48,7 +48,7 @@
 1C2-E-TEST-0004-136.7	The release will be his first since 1999's '2001' album and Dre has indicated it will be his last full album.	
 1C2-E-TEST-0004-136.7/001	release will be his first since 1999's '2001' album	
 1C2-E-TEST-0004-136.7/002	has indicated it will be his last full album. 	DEP=1C2-E-TEST-0004-136.7002
-1C2-E-TEST-0004-159.124	"Dr.Ã.Â.Ã.Â.Ã.Â.Ã.Â Dre also produced ""How We Do"", a 2005 hit single from rapper The Game from his album The Documentary."	
+1C2-E-TEST-0004-159.124	"Dr. Dre also produced ""How We Do"", a 2005 hit single from rapper The Game from his album The Documentary."	
 1C2-E-TEST-0004-159.124/001 	also produced hit single how we do	
 1C2-E-TEST-0004-159.124/002 	2005 hit	DEP=1C2-E-TEST-0004-159.124/001
 1C2-E-TEST-0004-159.124/003 	from rapper the game album the documentary 	DEP=1C2-E-TEST-0004-159.124/001
