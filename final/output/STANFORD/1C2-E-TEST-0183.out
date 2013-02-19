@@ -1,176 +1,54 @@
-1C2-E-TEST-0183-1.39	If more than one flag is flown on a half mast day, they must be all be flown at half mast, or not at all.
-1C2-E-TEST-0183-1.39/001	One flag
-1C2-E-TEST-0183-1.39/002	flown	DEP=1C2-E-TEST-0183-1.39001
-1C2-E-TEST-0183-1.39/003	flown
-1C2-E-TEST-0183-1.61	Federal law requires the flag be flown at half-staff on Peace Officers Memorial Day (May 15), unless that day is also Armed Forces Day .
-1C2-E-TEST-0183-1.61/001	federal law
-1C2-E-TEST-0183-1.61/002	requires	DEP=1C2-E-TEST-0183-1.61001
-1C2-E-TEST-0183-1.61/003	flag
-1C2-E-TEST-0183-1.61/004	flown	DEP=1C2-E-TEST-0183-1.61003
-1C2-E-TEST-0183-1.61/005	half-staff
-1C2-E-TEST-0183-1.61/006	peace officers memorial	DEP=1C2-E-TEST-0183-1.61005
-1C2-E-TEST-0183-1.61/007	May 15
-1C2-E-TEST-0183-1.61/008	armed forces
-1C2-E-TEST-0183-132.11	a former Vice President, or the Governor of a State, territory, or possession; and on the day of death and the following day for a Member of Congress.
+1C2-E-TEST-0183-1.39	"If more than one flag is flown on a half mast day, they must be all be flown at half mast, or not at all."
+1C2-E-TEST-0183-1.39/001	all flags at half mast or not at all
+1C2-E-TEST-0183-1.39/002	more than one flag flow on half mast day	DEP=1C2-E-TEST-0183-1.39001
+1C2-E-TEST-0183-1.61	"Federal law requires the flag be flown at half-staff on Peace Officers Memorial Day (May 15), unless that day is also Armed Forces Day ."
+1C2-E-TEST-0183-1.61/001	flag flown at half-staff on peace officers memorial day may 15
+1C2-E-TEST-0183-1.61/002	federal law requires	DEP=1C2-E-TEST-0183-1.61001
+1C2-E-TEST-0183-1.61/003	unless day is also armed forces day	DEP=1C2-E-TEST-0183-1.61001
+1C2-E-TEST-0183-132.11	"a former Vice President, or the Governor of a State, territory, or possession; and on the day of death and the following day for a Member of Congress."
 1C2-E-TEST-0183-132.11/001	former vice president
-1C2-E-TEST-0183-132.11/002	governor	DEP=1C2-E-TEST-0183-132.11001
-1C2-E-TEST-0183-132.11/003	state	DEP=1C2-E-TEST-0183-132.11002
-1C2-E-TEST-0183-132.11/004	territory	DEP=1C2-E-TEST-0183-132.11001
-1C2-E-TEST-0183-132.11/005	possession	DEP=1C2-E-TEST-0183-132.11001
-1C2-E-TEST-0183-132.11/006	death	DEP=1C2-E-TEST-0183-132.11001
-1C2-E-TEST-0183-132.11/007	following
-1C2-E-TEST-0183-132.11/008	member
-1C2-E-TEST-0183-132.11/009	congress	DEP=1C2-E-TEST-0183-132.11008
+1C2-E-TEST-0183-132.11/002	governor of state territory or possesion
+1C2-E-TEST-0183-132.11/003	day of death and following day for member of congress
 1C2-E-TEST-0183-132.8	The flag shall be flown at half-staff 30 days from the death of the President or a former President;
-1C2-E-TEST-0183-132.8/001	flag
-1C2-E-TEST-0183-132.8/002	flown	DEP=1C2-E-TEST-0183-132.8002
-1C2-E-TEST-0183-132.8/003	half-staff 30 days	DEP=1C2-E-TEST-0183-132.8003
-1C2-E-TEST-0183-132.8/004	death
-1C2-E-TEST-0183-132.8/005	president	DEP=1C2-E-TEST-0183-132.8004
-1C2-E-TEST-0183-132.8/006	former president	DEP=1C2-E-TEST-0183-132.8004
-1C2-E-TEST-0183-132.9	10 days from the day of death of the Vice President, the Chief Justice or a retired Chief Justice of the United States, or the Speaker of the House of Representatives; from the day of death until interment of an Associate Justice of the Supreme Court,
-1C2-E-TEST-0183-132.9/001	10 days
-1C2-E-TEST-0183-132.9/002	death
-1C2-E-TEST-0183-132.9/003	vice president	DEP=1C2-E-TEST-0183-132.9002
-1C2-E-TEST-0183-132.9/004	chief justice	DEP=1C2-E-TEST-0183-132.9002
-1C2-E-TEST-0183-132.9/005	retired chief justice	DEP=1C2-E-TEST-0183-132.9002
-1C2-E-TEST-0183-132.9/006	united states	DEP=1C2-E-TEST-0183-132.9005
-1C2-E-TEST-0183-132.9/007	speaker	DEP=1C2-E-TEST-0183-132.9002
-1C2-E-TEST-0183-132.9/008	house	DEP=1C2-E-TEST-0183-132.9007
-1C2-E-TEST-0183-132.9/009	representatives
-1C2-E-TEST-0183-132.9/010	death
-1C2-E-TEST-0183-132.9/011	interment
-1C2-E-TEST-0183-132.9/012	associate justice
-1C2-E-TEST-0183-132.9/013	supreme court
-1C2-E-TEST-0183-155.10	The death of a current or former president lowers the flag for 30 days, while the current vice president, Chief Justice of the Supreme Court, and Speaker of the House receive 10 days of half-staff flying following their deaths.
-1C2-E-TEST-0183-155.10/001	death
-1C2-E-TEST-0183-155.10/002	current	DEP=1C2-E-TEST-0183-155.10001
-1C2-E-TEST-0183-155.10/003	former president lowers	DEP=1C2-E-TEST-0183-155.10001
-1C2-E-TEST-0183-155.10/004	flag	DEP=1C2-E-TEST-0183-155.10003
-1C2-E-TEST-0183-155.10/005	30 days
-1C2-E-TEST-0183-155.10/006	current vice president
-1C2-E-TEST-0183-155.10/007	chief justice
-1C2-E-TEST-0183-155.10/008	supreme court
-1C2-E-TEST-0183-155.10/009	speaker
-1C2-E-TEST-0183-155.10/010	house	DEP=1C2-E-TEST-0183-155.10009
-1C2-E-TEST-0183-155.10/011	10 days
-1C2-E-TEST-0183-155.10/012	half-staff flying
-1C2-E-TEST-0183-155.10/013	following
-1C2-E-TEST-0183-155.10/014	deaths	DEP=1C2-E-TEST-0183-155.10013
-1C2-E-TEST-0183-155.11	Flags fly at half-staff from the day of death until the date of interment for cabinet secretaries, Associate Justices of the Supreme Court, former vice presidents, and the governors of states.
-1C2-E-TEST-0183-155.11/001	half-staff
-1C2-E-TEST-0183-155.11/002	death
-1C2-E-TEST-0183-155.11/003	date
-1C2-E-TEST-0183-155.11/004	interment	DEP=1C2-E-TEST-0183-155.11003
-1C2-E-TEST-0183-155.11/005	cabinet secretaries	DEP=1C2-E-TEST-0183-155.11004
-1C2-E-TEST-0183-155.11/006	associate justices	DEP=1C2-E-TEST-0183-155.11004
-1C2-E-TEST-0183-155.11/007	supreme court	DEP=1C2-E-TEST-0183-155.11006
-1C2-E-TEST-0183-155.11/008	former vice presidents
-1C2-E-TEST-0183-155.11/009	governors
-1C2-E-TEST-0183-155.11/010	states	DEP=1C2-E-TEST-0183-155.11009
+1C2-E-TEST-0183-132.8/001	flag flown at half-staff 30 days	DEP=1C2-E-TEST-0183-132.8002
+1C2-E-TEST-0183-132.8/002	death of president or former president
+1C2-E-TEST-0183-132.9	"10 days from the day of death of the Vice President, the Chief Justice or a retired Chief Justice of the United States, or the Speaker of the House of Representatives; from the day of death until interment of an Associate Justice of the Supreme Court,"
+1C2-E-TEST-0183-132.9/001	10 days from days from day of death of vice president
+1C2-E-TEST-0183-132.9/002	10 days from days from day of death  Chief Justice or a retired Chief Justice of the United States
+1C2-E-TEST-0183-132.9/003	10 days from days from day of death the Speaker of the House of Representatives
+1C2-E-TEST-0183-132.9/004	from day of death till interment of associate justice supreme court
+1C2-E-TEST-0183-155.10	"The death of a current or former president lowers the flag for 30 days, while the current vice president, Chief Justice of the Supreme Court, and Speaker of the House receive 10 days of half-staff flying following their deaths."
+1C2-E-TEST-0183-155.10/001	death of current or former president lowers flag for 30 days
+1C2-E-TEST-0183-155.10/002	"current vice president, chief justice supreme court and speaker of house receive 10 days of half-staff"
+1C2-E-TEST-0183-155.11	"Flags fly at half-staff from the day of death until the date of interment for cabinet secretaries, Associate Justices of the Supreme Court, former vice presidents, and the governors of states."
+1C2-E-TEST-0183-155.11/001	flags fly half-staff from day of death until date of interment for cabinet secretaties
+1C2-E-TEST-0183-155.11/002	flags fly half-staff from day of death until date of interment for associate justices of supreme court
+1C2-E-TEST-0183-155.11/003	flags fly half-staff from day of death until date of interment for former vice president
+1C2-E-TEST-0183-155.11/004	flags fly half-staff from day of death until date of interment for governors of states
 1C2-E-TEST-0183-155.12	The death of a current member of Congress lowers the flag to half-staff on the day of death and following day.
-1C2-E-TEST-0183-155.12/001	death
-1C2-E-TEST-0183-155.12/002	current member	DEP=1C2-E-TEST-0183-155.12001
-1C2-E-TEST-0183-155.12/003	Congress lowers	DEP=1C2-E-TEST-0183-155.12002
-1C2-E-TEST-0183-155.12/004	flag	DEP=1C2-E-TEST-0183-155.12003
-1C2-E-TEST-0183-155.12/005	half-staff
-1C2-E-TEST-0183-155.12/006	death
-1C2-E-TEST-0183-155.12/007	following
-1C2-E-TEST-0183-192.10	For ten days after the death of a current vice president, chief justice, or speaker of the House of Representatives.
-1C2-E-TEST-0183-192.10/001	ten days
-1C2-E-TEST-0183-192.10/002	death
-1C2-E-TEST-0183-192.10/003	current vice president
-1C2-E-TEST-0183-192.10/004	chief justice
-1C2-E-TEST-0183-192.10/005	speaker
-1C2-E-TEST-0183-192.10/006	house	DEP=1C2-E-TEST-0183-192.10005
-1C2-E-TEST-0183-192.10/007	representatives	DEP=1C2-E-TEST-0183-192.10006
-1C2-E-TEST-0183-192.11	From the day of death until interment of an Associate Justice of the Supreme Court, a secretary of an executive or military department, a former vice president, or the governor of a state, territory, or possession.
-1C2-E-TEST-0183-192.11/001	death
-1C2-E-TEST-0183-192.11/002	interment
-1C2-E-TEST-0183-192.11/003	associate justice
-1C2-E-TEST-0183-192.11/004	supreme court	DEP=1C2-E-TEST-0183-192.11003
-1C2-E-TEST-0183-192.11/005	secretary
-1C2-E-TEST-0183-192.11/006	executive	DEP=1C2-E-TEST-0183-192.11005
-1C2-E-TEST-0183-192.11/007	military department	DEP=1C2-E-TEST-0183-192.11006
-1C2-E-TEST-0183-192.11/008	former vice president
-1C2-E-TEST-0183-192.11/009	governor
-1C2-E-TEST-0183-192.11/010	state	DEP=1C2-E-TEST-0183-192.11009
-1C2-E-TEST-0183-192.11/011	territory	DEP=1C2-E-TEST-0183-192.11009
-1C2-E-TEST-0183-192.11/012	possession	DEP=1C2-E-TEST-0183-192.11009
-1C2-E-TEST-0183-261.19	By order of the President, the flag shall be flown at half-staff upon the death of principal figures of the United States Government and the Governor of a State, territory, or possession, as a mark of respect to their memory.
-1C2-E-TEST-0183-261.19/001	order
-1C2-E-TEST-0183-261.19/002	president
-1C2-E-TEST-0183-261.19/003	flag
-1C2-E-TEST-0183-261.19/004	flown	DEP=1C2-E-TEST-0183-261.19003
-1C2-E-TEST-0183-261.19/005	half-staff
-1C2-E-TEST-0183-261.19/006	death
-1C2-E-TEST-0183-261.19/007	principal figures	DEP=1C2-E-TEST-0183-261.19006
-1C2-E-TEST-0183-261.19/008	united states government
-1C2-E-TEST-0183-261.19/009	governor
-1C2-E-TEST-0183-261.19/010	state territory	DEP=1C2-E-TEST-0183-261.19009
-1C2-E-TEST-0183-261.19/011	possession
-1C2-E-TEST-0183-261.19/012	mark
-1C2-E-TEST-0183-261.19/013	respect	DEP=1C2-E-TEST-0183-261.19012
-1C2-E-TEST-0183-261.19/014	memory
-1C2-E-TEST-0183-261.22	The flag shall be flown at half-staff 30 days from the death of the President or a former President; 10 days from the day of death of the Vice President, the Chief Justice or a retired Chief Justice of the United States, or the Speaker of the House of Representatives; from the day of death until interment of an Associate Justice of the Supreme Court, a Secretary of an executive or military department, a former Vice President, or the Governor of a State, territory, or possession; and on the day of death and the following day for a Member of Congress.
-1C2-E-TEST-0183-261.22/001	flag
-1C2-E-TEST-0183-261.22/002	flown	DEP=1C2-E-TEST-0183-261.22001
-1C2-E-TEST-0183-261.22/003	half-staff 30 days
-1C2-E-TEST-0183-261.22/004	death	DEP=1C2-E-TEST-0183-261.22003
-1C2-E-TEST-0183-261.22/005	president
-1C2-E-TEST-0183-261.22/006	former president
-1C2-E-TEST-0183-261.22/007	10 days
-1C2-E-TEST-0183-261.22/008	death	DEP=1C2-E-TEST-0183-261.22007
-1C2-E-TEST-0183-261.22/009	vice president
-1C2-E-TEST-0183-261.22/010	chief justice
-1C2-E-TEST-0183-261.22/011	retired chief justice
-1C2-E-TEST-0183-261.22/012	united states	DEP=1C2-E-TEST-0183-261.22011
-1C2-E-TEST-0183-261.22/013	speaker
-1C2-E-TEST-0183-261.22/014	house	DEP=1C2-E-TEST-0183-261.22013
-1C2-E-TEST-0183-261.22/015	representatives	DEP=1C2-E-TEST-0183-261.22014
-1C2-E-TEST-0183-261.22/016	death
-1C2-E-TEST-0183-261.22/017	interment
-1C2-E-TEST-0183-261.22/018	associate justice
-1C2-E-TEST-0183-261.22/019	supreme court	DEP=1C2-E-TEST-0183-261.22018
-1C2-E-TEST-0183-261.22/020	secretary
-1C2-E-TEST-0183-261.22/021	executive military
-1C2-E-TEST-0183-261.22/022	former vice president department
-1C2-E-TEST-0183-261.22/023	governor
-1C2-E-TEST-0183-261.22/024	state	DEP=1C2-E-TEST-0183-261.22023
-1C2-E-TEST-0183-261.22/025	territory
-1C2-E-TEST-0183-261.22/026	possession
-1C2-E-TEST-0183-261.22/027	death
-1C2-E-TEST-0183-261.22/028	following
-1C2-E-TEST-0183-261.22/029	member
-1C2-E-TEST-0183-261.22/030	congress	DEP=1C2-E-TEST-0183-261.22029
-1C2-E-TEST-0183-261.23	The flag shall be flown at half-staff on Peace Officers Memorial Day, unless that day is also Armed Forces Day."
-1C2-E-TEST-0183-261.23/001	flag
-1C2-E-TEST-0183-261.23/002	flown	DEP=1C2-E-TEST-0183-261.23001
-1C2-E-TEST-0183-261.23/003	half-staff
-1C2-E-TEST-0183-261.23/004	peace officers memorial
-1C2-E-TEST-0183-261.23/005	armed forces
-1C2-E-TEST-0183-3.10	The flag should be flown at half-mast from the time of death until burial following the death of an Associate Justice of the Supreme Court, a Secretary of an executive or military department, a former Vice President or the Governor of a State. If a member of Congress passes, the flag should be flown at half-mast the day of the death and the following day.
-1C2-E-TEST-0183-3.10/001	flag
-1C2-E-TEST-0183-3.10/002	flown
-1C2-E-TEST-0183-3.10/003	half-mast
-1C2-E-TEST-0183-3.10/004	time
-1C2-E-TEST-0183-3.10/005	death	DEP=1C2-E-TEST-0183-3.10004
-1C2-E-TEST-0183-3.10/006	burial
-1C2-E-TEST-0183-3.10/007	following	DEP=1C2-E-TEST-0183-3.10006
-1C2-E-TEST-0183-3.10/008	death
-1C2-E-TEST-0183-3.10/009	associate justice
-1C2-E-TEST-0183-3.10/010	supreme court	DEP=1C2-E-TEST-0183-3.10009
-1C2-E-TEST-0183-3.10/011	secretary
-1C2-E-TEST-0183-3.10/012	executive	DEP=1C2-E-TEST-0183-3.10011
-1C2-E-TEST-0183-3.10/013	military department	DEP=1C2-E-TEST-0183-3.10011
-1C2-E-TEST-0183-3.10/014	former vice president
-1C2-E-TEST-0183-3.10/015	governor
-1C2-E-TEST-0183-3.10/016	state	DEP=1C2-E-TEST-0183-3.10015
-1C2-E-TEST-0183-3.10/017	member
-1C2-E-TEST-0183-3.10/018	congress	DEP=1C2-E-TEST-0183-3.10017
-1C2-E-TEST-0183-3.10/019	passes	DEP=1C2-E-TEST-0183-3.10018
-1C2-E-TEST-0183-3.10/020	flag
-1C2-E-TEST-0183-3.10/021	flown	DEP=1C2-E-TEST-0183-3.10020
-1C2-E-TEST-0183-3.10/022	half-mast
-1C2-E-TEST-0183-3.10/023	death
-1C2-E-TEST-0183-3.10/024	following
+1C2-E-TEST-0183-155.12/001	death of current member of congress lowers flag on and following day of death
+1C2-E-TEST-0183-192.11	"From the day of death until interment of an Associate Justice of the Supreme Court, a secretary of an executive or military department, a former vice president, or the governor of a state, territory, or possession."
+1C2-E-TEST-0183-192.11/001	from day of death till interment of associate justice supreme court
+1C2-E-TEST-0183-192.11/002	from day of death till interment of a secretary of executive or military department
+1C2-E-TEST-0183-192.11/003	from day of death till interment of former vice president
+1C2-E-TEST-0183-192.11/004	from day of death till interment of governor of state territory or possesion
+1C2-E-TEST-0183-261.19	"By order of the President, the flag shall be flown at half-staff upon the death of principal figures of the United States Government and the Governor of a State, territory, or possession, as a mark of respect to their memory."
+1C2-E-TEST-0183-261.19/001	"by order of president, flag flown at half-staff upon death of principal figures as mark of respect to their memory"
+1C2-E-TEST-0183-261.19/002	united states government	DEP=1C2-E-TEST-0183-261.19001
+1C2-E-TEST-0183-261.19/003	governor of state territory or possesion	DEP=1C2-E-TEST-0183-261.19001
+1C2-E-TEST-0183-261.22	"The flag shall be flown at half-staff 30 days from the death of the President or a former President; 10 days from the day of death of the Vice President, the Chief Justice or a retired Chief Justice of the United States, or the Speaker of the House of Representatives; from the day of death until interment of an Associate Justice of the Supreme Court, a Secretary of an executive or military department, a former Vice President, or the Governor of a State, territory, or possession; and on the day of death and the following day for a Member of Congress."
+1C2-E-TEST-0183-261.22/001	flag flown at half-staff 30 days from death of president or former president
+1C2-E-TEST-0183-261.22/002	10 days from days from day of death of vice president
+1C2-E-TEST-0183-261.22/003	10 days from days from day of death  Chief Justice
+1C2-E-TEST-0183-261.22/004	10 days from days from day of death the Speaker of the House of Representatives
+1C2-E-TEST-0183-261.22/005	from day of death till interment of associate justice supreme court
+1C2-E-TEST-0183-261.22/006	from day of death till interment of a secretary of executive or military department
+1C2-E-TEST-0183-261.22/007	from day of death till interment of former vice president
+1C2-E-TEST-0183-261.22/008	from day of death till interment of governor of state territory or possesion
+1C2-E-TEST-0183-261.22/009	day of death and following day for member of congress
+1C2-E-TEST-0183-3.10	"The flag should be flown at half-mast from the time of death until burial following the death of an Associate Justice of the Supreme Court, a Secretary of an executive or military department, a former Vice President or the Governor of a State. If a member of Congress passes, the flag should be flown at half-mast the day of the death and the following day."
+1C2-E-TEST-0183-3.10/001	from time of death till burial following death of associate justice supreme court
+1C2-E-TEST-0183-3.10/002	from time of death till burial following death of a secretary of executive or military department
+1C2-E-TEST-0183-3.10/003	from time of death till burial following death of a former vice president
+1C2-E-TEST-0183-3.10/004	from time of death till burial following death of  a governor of state
+1C2-E-TEST-0183-3.10/005	member of congress passes flag flown at half-mast the day of death and following day

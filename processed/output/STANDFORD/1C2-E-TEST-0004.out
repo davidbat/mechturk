@@ -1,4 +1,4 @@
-1C2-E-TEST-0004-1.125	"Dr. Dre also produced "" How We Do "", a 2005 hit single from rapper The Game from his album The Documentary."	
+1C2-E-TEST-0004-1.125	"Dr. Dre also produced "" How We Do "", a 2005 hit single from rapper The Game from his album The Documentary."	
 1C2-E-TEST-0004-1.125/001	"dr. dre produced single ""how we do"""	
 1C2-E-TEST-0004-1.125/002	2005 hit single	DEP=1C2-E-TEST-0004-1.125/001
 1C2-E-TEST-0004-1.125/003	from rapper the game album the documentary 	DEP=1C2-E-TEST-0004-1.125/001
@@ -14,7 +14,7 @@
 1C2-E-TEST-0004-1.235	"Every Dre track begins the same way, with Dre behind a drum machine in a room full of trusted musicians."	
 1C2-E-TEST-0004-1.235/001	dre tracks begin the same way	
 1C2-E-TEST-0004-1.235/002	dre behind drum in a room full of trusted musicians 	DEP=1C2-E-TEST-0004-1.235/001
-1C2-E-TEST-0004-1.62	"Besides working on his own material, Dr.  Dre produced Snoop Dogg's debut album Doggystyle , which became the first debut album for an artist to debut at number one on the Billboard 200 album charts."	
+1C2-E-TEST-0004-1.62	"Besides working on his own material, Dr. Dre produced Snoop Dogg's debut album Doggystyle , which became the first debut album for an artist to debut at number one on the Billboard 200 album charts."	
 1C2-E-TEST-0004-1.62/001 	Dre produced snoop dogg's debut album doggystyle	
 1C2-E-TEST-0004-1.62/002	doggystyle became the first debut album for an artist to debut at number one on the billboard 200 album charts 	DEP=1C2-E-TEST-0004-1.62/001
 1C2-E-TEST-0004-12.10	"Detox, is set to be released following much delay and speculation. Early life The first child of Verna and Theodore Young, Dr. Dre was born as Andre Romelle Young on February 18, 1965."	
@@ -56,7 +56,7 @@
 1C2-E-TEST-0004-159.178/001	 told 2001 time magazine	DEP=1C2-E-TEST-0004-159.178/002
 1C2-E-TEST-0004-159.178/002 	"""I may hear something I like on an old record that may inspire me "	DEP=1C2-E-TEST-0004-159.178/003
 1C2-E-TEST-0004-159.178/003 	I'd rather use musicians to re-create the sound or elaborate on it. 	
-1C2-E-TEST-0004-159.185	"Dr. Dre also told Scratch magazine in a 2004 interview that he has been studying piano and music theory formally, and that a major goal is to accumulate enough musical theory to score movies."	
+1C2-E-TEST-0004-159.185	"Dr. Dre also told Scratch magazine in a 2004 interview that he has been studying piano and music theory formally, and that a major goal is to accumulate enough musical theory to score movies."	
 1C2-E-TEST-0004-159.185/001 	told scratch magazine in 2004 interview he has been studying piano and music theory formally	
 1C2-E-TEST-0004-159.185/002 	told scratch magazine in 2004 interview that a major goal is to accumulate enough musical theory to score movies. 	
 1C2-E-TEST-0004-159.193	"To date, none have released full-length albums on Aftermath and have apparently ended their relationships with the label and Dr.Dre."	
