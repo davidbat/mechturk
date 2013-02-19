@@ -1,1 +1,69 @@
-1C2-E-TEST-0035-10.11	"Dujardin won the Golden Globe for best performance by an actor in a motion picture comedy or musical, as well as best actor at the 2011 Festival de Cannes and the SAG Awards on Jan."			1C2-E-TEST-0035-10.11/001	dujardin	DEP=1C2-E-TEST-0035-10.11010	dujardin	1C2-E-TEST-0035-10.11/002	golden globe	DEP=1C2-E-TEST-0035-10.11010	golden globe	91C2-E-TEST-0035-10.11/003	best performance		best performance	41C2-E-TEST-0035-10.11/004	motion picture comedy		actor	51C2-E-TEST-0035-10.11/005	musical	DEP=1C2-E-TEST-0035-10.11004	motion picture comedy	1C2-E-TEST-0035-10.11/006	best		best	1C2-E-TEST-0035-10.11/007	2011 festival cannes		2011 festival cannes	61C2-E-TEST-0035-10.11/008	sag awards		sag awards jan	61C2-E-TEST-0035-10.11/009	jan.		won	11C2-E-TEST-0035-10.11/010	won			1C2-E-TEST-0035-10.7	"WME has signed actor Jean Dujardin, who has been nominated for an Oscar for his starring role in The Artist."			1C2-E-TEST-0035-10.7/001	wme	DEP=1C2-E-TEST-0035-10.7005	wme	1C2-E-TEST-0035-10.7/002	jean dujardin	DEP=1C2-E-TEST-0035-10.7005	signed jean dujardin	11C2-E-TEST-0035-10.7/003	oscar		nominated oscar	1C2-E-TEST-0035-10.7/004	starring role		starring role	31C2-E-TEST-0035-10.7/005	signed			1C2-E-TEST-0035-10.7/006	nominated	DEP=1C2-E-TEST-0035-10.7002		1C2-E-TEST-0035-109.33	"He holds a MasterÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢s Degree in Educational Theatre and a BachelorÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢s Degree in Acting, both from New York University."			1C2-E-TEST-0035-109.33/001	masterÃ£ cents		master degree	51C2-E-TEST-0035-109.33/002	Â¬	DEP=1C2-E-TEST-0035-109.33004	edducational theater	11C2-E-TEST-0035-109.33/003	Ã¢ cents	DEP=1C2-E-TEST-0035-109.33002	bachelor degree	51C2-E-TEST-0035-109.33/004	degree		acting	31C2-E-TEST-0035-109.33/005	educational theatre		new york university	1C2-E-TEST-0035-109.33/006	bachelorÃ£ cents			1C2-E-TEST-0035-109.33/007	Â¬	DEP=1C2-E-TEST-0035-109.33009		1C2-E-TEST-0035-109.33/008	Ã¢ cents	DEP=1C2-E-TEST-0035-109.33007		1C2-E-TEST-0035-109.33/009	degree			1C2-E-TEST-0035-109.33/010	acting			1C2-E-TEST-0035-109.33/011	new york university			1C2-E-TEST-0035-109.33/012	holds			1C2-E-TEST-0035-109.33/013	s	DEP=1C2-E-TEST-0035-109.33004		1C2-E-TEST-0035-109.33/014	s	DEP=1C2-E-TEST-0035-109.33009		1C2-E-TEST-0035-13.14	"The Artist, starring Jean Dujardin and Berenice Bejo, is scheduled to open Nov."			1C2-E-TEST-0035-13.14/001	jean dujardin	DEP=1C2-E-TEST-0035-13.14003	jean dujardin	1C2-E-TEST-0035-13.14/002	berenice bejo	DEP=1C2-E-TEST-0035-13.14001	berenice bejo	1C2-E-TEST-0035-13.14/003	starring	DEP=1C2-E-TEST-0035-13.14004	scheduled open	41C2-E-TEST-0035-13.14/004	scheduled		nov	1C2-E-TEST-0035-13.14/005	open	DEP=1C2-E-TEST-0035-13.14004		1C2-E-TEST-0035-13.14/006	nov.	DEP=1C2-E-TEST-0035-13.14005		1C2-E-TEST-0035-131.355	"In addition to his collegiate performances, he ahs also appeared with professional and regional opera companies and theaters such as The Opera Company of Philadelphia, Opera North, and Metropolitan Lyric Theatre of NJ."			1C2-E-TEST-0035-131.355/001	addition		addition	1C2-E-TEST-0035-131.355/002	collegiate performances		collegiate performances	11C2-E-TEST-0035-131.355/003	theaters	DEP=1C2-E-TEST-0035-131.355014	professional regional opera companies theaters	71C2-E-TEST-0035-131.355/004	opera company		opera company philadelphia	71C2-E-TEST-0035-131.355/005	philadelphia		opera north	71C2-E-TEST-0035-131.355/006	opera north	DEP=1C2-E-TEST-0035-131.355005	metropolitan lyric theatre nj	71C2-E-TEST-0035-131.355/007	metropolitan lyric theatre	DEP=1C2-E-TEST-0035-131.355005	appeared	1C2-E-TEST-0035-131.355/008	nj			1C2-E-TEST-0035-131.355/009	ahs			1C2-E-TEST-0035-131.355/010	appeared	DEP=1C2-E-TEST-0035-131.355009		1C2-E-TEST-0035-131.355/011	professional	DEP=1C2-E-TEST-0035-131.355014		1C2-E-TEST-0035-131.355/012	regional	DEP=1C2-E-TEST-0035-131.355011		1C2-E-TEST-0035-131.355/013	opera	DEP=1C2-E-TEST-0035-131.355014		1C2-E-TEST-0035-131.355/014	companies			1C2-E-TEST-0035-58.89	"Cromwell: It was difficult to break in as a director, because the people who had built theaters then, they didnÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢t want young directors, so you had to get in as an actor in a company, then direct something on the side to get in."			1C2-E-TEST-0035-58.89/001	cromwell		cromwell	1C2-E-TEST-0035-58.89/002	director		difficult director	1C2-E-TEST-0035-58.89/003	people		built theaters	1C2-E-TEST-0035-58.89/004	theaters	DEP=1C2-E-TEST-0035-58.89013	want young directors	1C2-E-TEST-0035-58.89/005	cents		actor company	61C2-E-TEST-0035-58.89/006	Ã¢ Â¬ Ã¢ cents t		direct something side	1C2-E-TEST-0035-58.89/007	young directors			1C2-E-TEST-0035-58.89/008	company			1C2-E-TEST-0035-58.89/009	direct			1C2-E-TEST-0035-58.89/010	side			1C2-E-TEST-0035-58.89/011	difficult	DEP=1C2-E-TEST-0035-58.89001		1C2-E-TEST-0035-58.89/012	break	DEP=1C2-E-TEST-0035-58.89011		1C2-E-TEST-0035-58.89/013	built	DEP=1C2-E-TEST-0035-58.89003																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																						
+1C2-E-TEST-0035-10.11	"Dujardin won the Golden Globe for best performance by an actor in a motion picture comedy or musical, as well as best actor at the 2011 Festival de Cannes and the SAG Awards on Jan."			
+1C2-E-TEST-0035-10.11/001	dujardin	DEP=1C2-E-TEST-0035-10.11010	dujardin won golden globe for best performance by actor in motion picture comedy or musical	
+1C2-E-TEST-0035-10.11/002	golden globe	DEP=1C2-E-TEST-0035-10.11010	dujardin won best actor at 2011 festival de cannes	
+1C2-E-TEST-0035-10.11/003	best performance		dujardin won SAG awards on jan	
+1C2-E-TEST-0035-10.11/004	motion picture comedy			
+1C2-E-TEST-0035-10.11/005	musical	DEP=1C2-E-TEST-0035-10.11004		
+1C2-E-TEST-0035-10.11/006	best			
+1C2-E-TEST-0035-10.11/007	2011 festival cannes			
+1C2-E-TEST-0035-10.11/008	sag awards			
+1C2-E-TEST-0035-10.11/009	jan.			
+1C2-E-TEST-0035-10.11/010	won			
+1C2-E-TEST-0035-10.7	"WME has signed actor Jean Dujardin, who has been nominated for an Oscar for his starring role in The Artist."			
+1C2-E-TEST-0035-10.7/001	wme	DEP=1C2-E-TEST-0035-10.7005	wme signed actor jean dujardin	
+1C2-E-TEST-0035-10.7/002	jean dujardin	DEP=1C2-E-TEST-0035-10.7005	jean dujardin has been nominated for an oscar for starring role in the artis	
+1C2-E-TEST-0035-10.7/003	oscar			
+1C2-E-TEST-0035-10.7/004	starring role			
+1C2-E-TEST-0035-10.7/005	signed			
+1C2-E-TEST-0035-10.7/006	nominated	DEP=1C2-E-TEST-0035-10.7002		
+1C2-E-TEST-0035-109.33	"He holds a MasterÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢s Degree in Educational Theatre and a BachelorÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢s Degree in Acting, both from New York University."			
+1C2-E-TEST-0035-109.33/001	masterÃ£ cents		holds master degree in educational theater from New York University	
+1C2-E-TEST-0035-109.33/002	Â¬	DEP=1C2-E-TEST-0035-109.33004	holds bachelor degree in acting from New York University	
+1C2-E-TEST-0035-109.33/003	Ã¢ cents	DEP=1C2-E-TEST-0035-109.33002		
+1C2-E-TEST-0035-109.33/004	degree			
+1C2-E-TEST-0035-109.33/005	educational theatre			
+1C2-E-TEST-0035-109.33/006	bachelorÃ£ cents			
+1C2-E-TEST-0035-109.33/007	Â¬	DEP=1C2-E-TEST-0035-109.33009		
+1C2-E-TEST-0035-109.33/008	Ã¢ cents	DEP=1C2-E-TEST-0035-109.33007		
+1C2-E-TEST-0035-109.33/009	degree			
+1C2-E-TEST-0035-109.33/010	acting			
+1C2-E-TEST-0035-109.33/011	new york university			
+1C2-E-TEST-0035-109.33/012	holds			
+1C2-E-TEST-0035-109.33/013	s	DEP=1C2-E-TEST-0035-109.33004		
+1C2-E-TEST-0035-109.33/014	s	DEP=1C2-E-TEST-0035-109.33009		
+1C2-E-TEST-0035-13.14	"The Artist, starring Jean Dujardin and Berenice Bejo, is scheduled to open Nov."			
+1C2-E-TEST-0035-13.14/001	jean dujardin	DEP=1C2-E-TEST-0035-13.14003	the artist starring Jean Dujardin and Berenice Bejo	
+1C2-E-TEST-0035-13.14/002	berenice bejo	DEP=1C2-E-TEST-0035-13.14001	the artist is scheduled to open Nov	
+1C2-E-TEST-0035-13.14/003	starring	DEP=1C2-E-TEST-0035-13.14004		
+1C2-E-TEST-0035-13.14/004	scheduled			
+1C2-E-TEST-0035-13.14/005	open	DEP=1C2-E-TEST-0035-13.14004		
+1C2-E-TEST-0035-13.14/006	nov.	DEP=1C2-E-TEST-0035-13.14005		
+1C2-E-TEST-0035-131.355	"In addition to his collegiate performances, he ahs also appeared with professional and regional opera companies and theaters such as The Opera Company of Philadelphia, Opera North, and Metropolitan Lyric Theatre of NJ."			
+1C2-E-TEST-0035-131.355/001	addition		appeared with professional and regional opera companies	
+1C2-E-TEST-0035-131.355/002	collegiate performances		also appeared with theaters	
+1C2-E-TEST-0035-131.355/003	theaters	DEP=1C2-E-TEST-0035-131.355014	"Opera Company of Philadelphia, Opera North, Metropolitan Lyric Theatre of NJ"	2
+1C2-E-TEST-0035-131.355/004	opera company		in addition to collegiate performances	1
+1C2-E-TEST-0035-131.355/005	philadelphia			
+1C2-E-TEST-0035-131.355/006	opera north	DEP=1C2-E-TEST-0035-131.355005		
+1C2-E-TEST-0035-131.355/007	metropolitan lyric theatre	DEP=1C2-E-TEST-0035-131.355005		
+1C2-E-TEST-0035-131.355/008	nj			
+1C2-E-TEST-0035-131.355/009	ahs			
+1C2-E-TEST-0035-131.355/010	appeared	DEP=1C2-E-TEST-0035-131.355009		
+1C2-E-TEST-0035-131.355/011	professional	DEP=1C2-E-TEST-0035-131.355014		
+1C2-E-TEST-0035-131.355/012	regional	DEP=1C2-E-TEST-0035-131.355011		
+1C2-E-TEST-0035-131.355/013	opera	DEP=1C2-E-TEST-0035-131.355014		
+1C2-E-TEST-0035-131.355/014	companies			
+1C2-E-TEST-0035-58.89	"Cromwell: It was difficult to break in as a director, because the people who had built theaters then, they didnÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢t want young directors, so you had to get in as an actor in a company, then direct something on the side to get in."			
+1C2-E-TEST-0035-58.89/001	cromwell		difficult to break in as director	2
+1C2-E-TEST-0035-58.89/002	director		people who built theaters then didnt want young directors	
+1C2-E-TEST-0035-58.89/003	people		had to get in as an actor in a company then direct something on the side	
+1C2-E-TEST-0035-58.89/004	theaters	DEP=1C2-E-TEST-0035-58.89013		
+1C2-E-TEST-0035-58.89/005	cents			
+1C2-E-TEST-0035-58.89/006	Ã¢ Â¬ Ã¢ cents t			
+1C2-E-TEST-0035-58.89/007	young directors			
+1C2-E-TEST-0035-58.89/008	company			
+1C2-E-TEST-0035-58.89/009	direct			
+1C2-E-TEST-0035-58.89/010	side			
+1C2-E-TEST-0035-58.89/011	difficult	DEP=1C2-E-TEST-0035-58.89001		
+1C2-E-TEST-0035-58.89/012	break	DEP=1C2-E-TEST-0035-58.89011		
+1C2-E-TEST-0035-58.89/013	built	DEP=1C2-E-TEST-0035-58.89003		
