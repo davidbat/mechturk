@@ -54,45 +54,9 @@
 1C2-E-TEST-0186-4.21/009	picking	DEP=1C2-E-TEST-0186-4.21002		
 1C2-E-TEST-0186-4.21/010	feed			
 1C2-E-TEST-0186-4.21/011	moving			
-1C2-E-TEST-0186-5.5	"Aside from thinking theyÃ¢â¬â¢re delicious, anteaters have a good reason for eating ants and other critters: With their long tongues (up to two feet big in Giant Anteaters!) and their gooey saliva, anteaters are made for tearing into nests or mounds with their claws and then slurping up all of the bugs they can find!"			
-1C2-E-TEST-0186-5.5/001	they� cents		anteaters have good reason for eating ants and other critters	2
-1C2-E-TEST-0186-5.5/002	�		with long tongue and gooey saliva made for tearing into nests with claws and slurping bugs	
-1C2-E-TEST-0186-5.5/003	� cents	DEP=1C2-E-TEST-0186-5.5002	tongue up to two feet big in giant anteaters	
-1C2-E-TEST-0186-5.5/004	anteaters			
-1C2-E-TEST-0186-5.5/005	good reason			
-1C2-E-TEST-0186-5.5/006	ants			
-1C2-E-TEST-0186-5.5/007	critters	DEP=1C2-E-TEST-0186-5.5006		
-1C2-E-TEST-0186-5.5/008	long tongues			
-1C2-E-TEST-0186-5.5/009	two feet			
-1C2-E-TEST-0186-5.5/010	big	DEP=1C2-E-TEST-0186-5.5008		
-1C2-E-TEST-0186-5.5/011	giant anteaters			
-1C2-E-TEST-0186-5.5/012	gooey saliva	DEP=1C2-E-TEST-0186-5.5008		
-1C2-E-TEST-0186-5.5/013	anteaters	DEP=1C2-E-TEST-0186-5.5021		
-1C2-E-TEST-0186-5.5/014	nests mounds			
-1C2-E-TEST-0186-5.5/015	claws			
-1C2-E-TEST-0186-5.5/016	bugs			
-1C2-E-TEST-0186-5.5/017	aside			
-1C2-E-TEST-0186-5.5/018	thinking			
-1C2-E-TEST-0186-5.5/019	delicious			
-1C2-E-TEST-0186-5.5/020	eating			
-1C2-E-TEST-0186-5.5/021	made	DEP=1C2-E-TEST-0186-5.5006		
-1C2-E-TEST-0186-5.5/022	tearing			
-1C2-E-TEST-0186-5.5/023	slurping	DEP=1C2-E-TEST-0186-5.5022		
-1C2-E-TEST-0186-5.5/024	find	DEP=1C2-E-TEST-0186-5.5016		
-1C2-E-TEST-0186-5.8	"And since anteaters like eating ants and termite so much, theyÃ¢â¬â¢re careful not to destroy a nest when they eat from it.Ã¢â¬âThat way, they can come back and it from it again another time!"			
+1C2-E-TEST-0186-5.5	"Aside from thinking theyre delicious, anteaters have a good reason for eating ants and other critters: With their long tongues (up to two feet big in Giant Anteaters!) and their gooey saliva, anteaters are made for tearing into nests or mounds with their claws and then slurping up all of the bugs they can find!"			
+1C2-E-TEST-0186-5.5/001	they		anteaters have good reason for eating ants and other critters	2
+1C2-E-TEST-0186-5.5/002	good reason		with long tongue and gooey saliva made for tearing into nests with claws and slurping bugs	
+1C2-E-TEST-0186-5.5/003	good reason	DEP=1C2-E-TEST-0186-5.5002	tongue up to two feet big in giant anteaters	
+1C2-E-TEST-0186-5.8	"And since anteaters like eating ants and termite so much, theyre careful not to destroy a nest when they eat from it. That way, they can come back and it from it again another time!"			
 1C2-E-TEST-0186-5.8/001	anteaters		careful not to destroy nest they eat from	
-1C2-E-TEST-0186-5.8/002	ants termite	DEP=1C2-E-TEST-0186-5.8011	they can come back and eat from it again	1
-1C2-E-TEST-0186-5.8/003	they� cents			
-1C2-E-TEST-0186-5.8/004	�			
-1C2-E-TEST-0186-5.8/005	� cents	DEP=1C2-E-TEST-0186-5.8004		
-1C2-E-TEST-0186-5.8/006	nest	DEP=1C2-E-TEST-0186-5.8013		
-1C2-E-TEST-0186-5.8/007	� cents			
-1C2-E-TEST-0186-5.8/008	�			
-1C2-E-TEST-0186-5.8/009	way			
-1C2-E-TEST-0186-5.8/010	time			
-1C2-E-TEST-0186-5.8/011	eating			
-1C2-E-TEST-0186-5.8/012	careful			
-1C2-E-TEST-0186-5.8/013	destroy	DEP=1C2-E-TEST-0186-5.8012		
-1C2-E-TEST-0186-5.8/014	�	DEP=1C2-E-TEST-0186-5.8008		
-1C2-E-TEST-0186-5.8/015	come			
-1C2-E-TEST-0186-5.8/016	back	DEP=1C2-E-TEST-0186-5.8015		
