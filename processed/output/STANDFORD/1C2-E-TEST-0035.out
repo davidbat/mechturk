@@ -16,21 +16,9 @@
 1C2-E-TEST-0035-10.7/004	starring role			
 1C2-E-TEST-0035-10.7/005	signed			
 1C2-E-TEST-0035-10.7/006	nominated	DEP=1C2-E-TEST-0035-10.7002		
-1C2-E-TEST-0035-109.33	"He holds a MasterÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢s Degree in Educational Theatre and a BachelorÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢s Degree in Acting, both from New York University."			
-1C2-E-TEST-0035-109.33/001	masterÃ£ cents		holds master degree in educational theater from New York University	
-1C2-E-TEST-0035-109.33/002	Â¬	DEP=1C2-E-TEST-0035-109.33004	holds bachelor degree in acting from New York University	
-1C2-E-TEST-0035-109.33/003	Ã¢ cents	DEP=1C2-E-TEST-0035-109.33002		
-1C2-E-TEST-0035-109.33/004	degree			
-1C2-E-TEST-0035-109.33/005	educational theatre			
-1C2-E-TEST-0035-109.33/006	bachelorÃ£ cents			
-1C2-E-TEST-0035-109.33/007	Â¬	DEP=1C2-E-TEST-0035-109.33009		
-1C2-E-TEST-0035-109.33/008	Ã¢ cents	DEP=1C2-E-TEST-0035-109.33007		
-1C2-E-TEST-0035-109.33/009	degree			
-1C2-E-TEST-0035-109.33/010	acting			
-1C2-E-TEST-0035-109.33/011	new york university			
-1C2-E-TEST-0035-109.33/012	holds			
-1C2-E-TEST-0035-109.33/013	s	DEP=1C2-E-TEST-0035-109.33004		
-1C2-E-TEST-0035-109.33/014	s	DEP=1C2-E-TEST-0035-109.33009		
+1C2-E-TEST-0035-109.33	"He holds a Masters Degree in Educational Theatre and a Bachelors Degree in Acting, both from New York University."			
+1C2-E-TEST-0035-109.33/001	master cents		holds master degree in educational theater from New York University	
+1C2-E-TEST-0035-109.33/002	educational theatre		holds bachelor degree in acting from New York University	
 1C2-E-TEST-0035-13.14	"The Artist, starring Jean Dujardin and Berenice Bejo, is scheduled to open Nov."			
 1C2-E-TEST-0035-13.14/001	jean dujardin	DEP=1C2-E-TEST-0035-13.14003	the artist starring Jean Dujardin and Berenice Bejo	
 1C2-E-TEST-0035-13.14/002	berenice bejo	DEP=1C2-E-TEST-0035-13.14001	the artist is scheduled to open Nov	
@@ -53,17 +41,7 @@
 1C2-E-TEST-0035-131.355/012	regional	DEP=1C2-E-TEST-0035-131.355011		
 1C2-E-TEST-0035-131.355/013	opera	DEP=1C2-E-TEST-0035-131.355014		
 1C2-E-TEST-0035-131.355/014	companies			
-1C2-E-TEST-0035-58.89	"Cromwell: It was difficult to break in as a director, because the people who had built theaters then, they didnÃƒÂƒÃ‚Â¢ÃƒÂ¢Ã‚Â‚Ã‚Â¬ÃƒÂ¢Ã‚Â„Ã‚Â¢t want young directors, so you had to get in as an actor in a company, then direct something on the side to get in."			
+1C2-E-TEST-0035-58.89	"Cromwell: It was difficult to break in as a director, because the people who had built theaters then, they didnt want young directors, so you had to get in as an actor in a company, then direct something on the side to get in."			
 1C2-E-TEST-0035-58.89/001	cromwell		difficult to break in as director	2
 1C2-E-TEST-0035-58.89/002	director		people who built theaters then didnt want young directors	
 1C2-E-TEST-0035-58.89/003	people		had to get in as an actor in a company then direct something on the side	
-1C2-E-TEST-0035-58.89/004	theaters	DEP=1C2-E-TEST-0035-58.89013		
-1C2-E-TEST-0035-58.89/005	cents			
-1C2-E-TEST-0035-58.89/006	Ã¢ Â¬ Ã¢ cents t			
-1C2-E-TEST-0035-58.89/007	young directors			
-1C2-E-TEST-0035-58.89/008	company			
-1C2-E-TEST-0035-58.89/009	direct			
-1C2-E-TEST-0035-58.89/010	side			
-1C2-E-TEST-0035-58.89/011	difficult	DEP=1C2-E-TEST-0035-58.89001		
-1C2-E-TEST-0035-58.89/012	break	DEP=1C2-E-TEST-0035-58.89011		
-1C2-E-TEST-0035-58.89/013	built	DEP=1C2-E-TEST-0035-58.89003		
