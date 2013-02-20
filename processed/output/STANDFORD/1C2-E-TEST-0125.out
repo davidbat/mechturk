@@ -5,7 +5,7 @@
 1C2-E-TEST-0125-120.1/001	222 mason st		222 mason st	
 1C2-E-TEST-0125-120.1/002	ca	DEP=1C2-E-TEST-0125-120.1001	CA 94102	1
 1C2-E-TEST-0125-120.1/003	94102 phone number	DEP=1C2-E-TEST-0125-120.1002	Phone Number	
-1C2-E-TEST-0125-120.1/004	-lrb-415-rrb- 296-9056	DEP=1C2-E-TEST-0125-120.1001	(415) 296-9056	3
+1C2-E-TEST-0125-120.1/004	-lrb-415-rrb296-9056	DEP=1C2-E-TEST-0125-120.1001	(415) 296-9056	3
 1C2-E-TEST-0125-254.837	"Starbucks Coffee Co San Francisco Intl Airpor San Francisco, CA 94128 650-615-0944"			
 1C2-E-TEST-0125-254.837/001	coffee co intl airpor		stafbucks coffee co san francisco intl airpor	
 1C2-E-TEST-0125-254.837/002	ca 94128		ca 94128	1
@@ -164,7 +164,7 @@
 1C2-E-TEST-0125-65.5/005	map	DEP=1C2-E-TEST-0125-65.5003	you should call them at phone number (415) 243-9792	
 1C2-E-TEST-0125-65.5/006	coffee		call to verify their address is 455 market street	5
 1C2-E-TEST-0125-65.5/007	approximate location	DEP=1C2-E-TEST-0125-65.5017	san francisco california 94105-2420	6
-1C2-E-TEST-0125-65.5/008	phone number -lrb-415-rrb- 243-9792		call to get hours and driving directions	5
+1C2-E-TEST-0125-65.5/008	phone number -lrb-415-rrb243-9792		call to get hours and driving directions	5
 1C2-E-TEST-0125-65.5/009	address	DEP=1C2-E-TEST-0125-65.5010		
 1C2-E-TEST-0125-65.5/010	455 market street	DEP=1C2-E-TEST-0125-65.5019		
 1C2-E-TEST-0125-65.5/011	california 94105-2420			

@@ -1,174 +1,24 @@
 1C2-E-TEST-0148-1.13	Most quinoa sold commercially in North America has been processed to remove this coating.
-1C2-E-TEST-0148-1.13/001	north america	DEP=1C2-E-TEST-0148-1.13002
-1C2-E-TEST-0148-1.13/002	remove coating
-1C2-E-TEST-0148-1.13/003	sold	DEP=1C2-E-TEST-0148-1.13002
-1C2-E-TEST-0148-1.13/004	commercially	DEP=1C2-E-TEST-0148-1.13002
-1C2-E-TEST-0148-1.13/005	processed	DEP=1C2-E-TEST-0148-1.13002
-1C2-E-TEST-0148-1.13/006	remove	DEP=1C2-E-TEST-0148-1.13005
-1C2-E-TEST-0148-1.14	This bitterness has beneficial effects during cultivation, as the plant is unpopular with birds and thus requires minimal protection.
-1C2-E-TEST-0148-1.14/001	bitterness
-1C2-E-TEST-0148-1.14/002	beneficial cultivation	DEP=1C2-E-TEST-0148-1.14001
-1C2-E-TEST-0148-1.14/003	effects	DEP=1C2-E-TEST-0148-1.14002
-1C2-E-TEST-0148-1.14/004	unpopular birds
-1C2-E-TEST-0148-1.14/005	minimal protection
-1C2-E-TEST-0148-1.2	Quinoa was of great nutritional importance in pre-Columbian Andean civilizations , secondary only to the potato , and was followed in importance by maize .
-1C2-E-TEST-0148-1.2/001	andean civilizations
-1C2-E-TEST-0148-1.2/002	pre-columbian	DEP=1C2-E-TEST-0148-1.2001
-1C2-E-TEST-0148-1.2/003	nutritional importance	DEP=1C2-E-TEST-0148-1.2001
-1C2-E-TEST-0148-1.2/004	secondary potato	DEP=1C2-E-TEST-0148-1.2001
-1C2-E-TEST-0148-1.2/005	followed maize	DEP=1C2-E-TEST-0148-1.2001
-1C2-E-TEST-0148-1.27	Quinoa has a light, fluffy texture when cooked, and its mild, slightly nutty flavor makes it an alternative to white rice or couscous .
-1C2-E-TEST-0148-1.27/001	light
-1C2-E-TEST-0148-1.27/002	fluffy
-1C2-E-TEST-0148-1.27/003	alternative
-1C2-E-TEST-0148-1.27/004	white rice	DEP=1C2-E-TEST-0148-1.27003
-1C2-E-TEST-0148-1.27/005	couscous	DEP=1C2-E-TEST-0148-1.27003
-1C2-E-TEST-0148-1.27/006	nutty
-1C2-E-TEST-0148-1.27/007	flavor	DEP=1C2-E-TEST-0148-1.27006
+1C2-E-TEST-0148-1.13/001	quinoa sold commercially in north america processed to remove coating
+1C2-E-TEST-0148-1.14	"This bitterness has beneficial effects during cultivation, as the plant is unpopular with birds and thus requires minimal protection."
+1C2-E-TEST-0148-1.14/001	bitterness has beneficial effects during cultivation
+1C2-E-TEST-0148-1.14/002	plant is unpopular with birds	DEP=1C2-E-TEST-0148-1.14001
+1C2-E-TEST-0148-1.14/003	plant requires minimal protection	DEP=1C2-E-TEST-0148-1.14002
+1C2-E-TEST-0148-1.2	"Quinoa was of great nutritional importance in pre-Columbian Andean civilizations , secondary only to the potato , and was followed in importance by maize ."
+1C2-E-TEST-0148-1.2/001	great nutritional importanct pre-columbian andean civilization
+1C2-E-TEST-0148-1.2/002	secondary in importance to potato	DEP=1C2-E-TEST-0148-1.2001
+1C2-E-TEST-0148-1.2/003	followed in importance by maize	DEP=1C2-E-TEST-0148-1.2001
+1C2-E-TEST-0148-1.27	"Quinoa has a light, fluffy texture when cooked, and its mild, slightly nutty flavor makes it an alternative to white rice or couscous ."
+1C2-E-TEST-0148-1.27/001	light fluffy texture when cooked
+1C2-E-TEST-0148-1.27/002	mild slightly nutty flavor
+1C2-E-TEST-0148-1.27/003	alternative to white rice or couscous	DEP=1C2-E-TEST-0148-1.27002
 1C2-E-TEST-0148-1.32	The cooked germ looks like a tiny curl and should have a slight bite to it (like al dente pasta).
-1C2-E-TEST-0148-1.32/001	tiny curl
-1C2-E-TEST-0148-1.32/002	slight bite
-1C2-E-TEST-0148-1.32/003	like al dente pasta	DEP=1C2-E-TEST-0148-1.32002
-1C2-E-TEST-0148-1.37	Quinoa can serve as a high-protein breakfast food mixed with honey , almonds , or berries ; it is also sold as a dry product, much like corn flakes .
-1C2-E-TEST-0148-1.37/001	high-protein
-1C2-E-TEST-0148-1.37/002	breakfast food
-1C2-E-TEST-0148-1.37/003	honey	DEP=1C2-E-TEST-0148-1.37002
-1C2-E-TEST-0148-1.37/004	almonds	DEP=1C2-E-TEST-0148-1.37002
-1C2-E-TEST-0148-1.37/005	berries	DEP=1C2-E-TEST-0148-1.37002
-1C2-E-TEST-0148-1.37/006	dry product
-1C2-E-TEST-0148-1.37/007	like corn flakes	DEP=1C2-E-TEST-0148-1.37006
+1C2-E-TEST-0148-1.32/001	cooked germ looks like a tiny curl
+1C2-E-TEST-0148-1.32/002	cooked germ should have a  slight bite to it
+1C2-E-TEST-0148-1.32/003	slight bite like al dente pasta	DEP=1C2-E-TEST-0148-1.32002
+1C2-E-TEST-0148-1.37	"Quinoa can serve as a high-protein breakfast food mixed with honey , almonds , or berries ; it is also sold as a dry product, much like corn flakes ."
+1C2-E-TEST-0148-1.37/001	can serve as a high-protien breakfast
+1C2-E-TEST-0148-1.37/002	mixed with honey almonds or berries	DEP=1C2-E-TEST-0148-1.37001
+1C2-E-TEST-0148-1.37/003	also sold as dry product like corn flakes
 1C2-E-TEST-0148-1.38	Quinoa flour can be used in wheat-free and gluten-free baking.
-1C2-E-TEST-0148-1.38/001	flour baking
-1C2-E-TEST-0148-1.38/002	wheat-free
-1C2-E-TEST-0148-1.38/003	gluten-free
-1C2-E-TEST-0148-1.41	[25] In fact, quinoa has a notably short germination period: Only 2Ã¢ÂÂ4 hours resting in a glass of clean water is enough to make it sprout and release gases, as opposed to, e.g., 12 hours with wheat.[ citation needed ] This process, besides its nutritional enhancements, softens the grains, making them suitable to be added to salads and other cold foods.
-1C2-E-TEST-0148-1.41/001	short germination 
-1C2-E-TEST-0148-1.41/002	period	DEP=1C2-E-TEST-0148-1.41001
-1C2-E-TEST-0148-1.41/003	24 hours water	DEP=1C2-E-TEST-0148-1.41004
-1C2-E-TEST-0148-1.41/004	sprout
-1C2-E-TEST-0148-1.41/005	release gases	DEP=1C2-E-TEST-0148-1.41004
-1C2-E-TEST-0148-1.41/006	12 hours wheat	DEP=1C2-E-TEST-0148-1.41004
-1C2-E-TEST-0148-1.41/007	nutritional enhancements	DEP=1C2-E-TEST-0148-1.41004
-1C2-E-TEST-0148-1.41/008	softens grains	DEP=1C2-E-TEST-0148-1.41004
-1C2-E-TEST-0148-1.41/009	salads
-1C2-E-TEST-0148-1.41/010	cold foods
-1C2-E-TEST-0148-12.66	Most quinoa used in North America is imported from South America.
-1C2-E-TEST-0148-12.66/001	used north america
-1C2-E-TEST-0148-12.66/002	imported south america
-1C2-E-TEST-0148-130.46	There have been attempts to lower the saponin content of quinoa through selective breeding to produce sweeter, more palatable varieties.
-1C2-E-TEST-0148-130.46/001	saponin content
-1C2-E-TEST-0148-130.46/002	attempts lower	DEP=1C2-E-TEST-0148-130.46001
-1C2-E-TEST-0148-130.46/003	selective breeding	DEP=1C2-E-TEST-0148-130.46002
-1C2-E-TEST-0148-130.46/004	produce sweeter	DEP=1C2-E-TEST-0148-130.46002
-1C2-E-TEST-0148-130.46/005	more palatable	DEP=1C2-E-TEST-0148-130.46002
-1C2-E-TEST-0148-130.53	The first step in preparing quinoa is to remove the saponins, a process that requires soaking the grain in water for a few hours, then changing the water and resoaking, or rinsing it in ample running water either in a fine strainer or in cheesecloth.
-1C2-E-TEST-0148-130.53/001	first step	DEP=1C2-E-TEST-0148-130.53003
-1C2-E-TEST-0148-130.53/002	remove saponins
-1C2-E-TEST-0148-130.53/003	soaking grain water
-1C2-E-TEST-0148-130.53/004	few hours	DEP=1C2-E-TEST-0148-130.53003
-1C2-E-TEST-0148-130.53/005	changing water	DEP=1C2-E-TEST-0148-130.53003
-1C2-E-TEST-0148-130.53/006	resoaking	DEP=1C2-E-TEST-0148-130.53005
-1C2-E-TEST-0148-130.53/007	rinsing running water	DEP=1C2-E-TEST-0148-130.53005
-1C2-E-TEST-0148-130.53/008	fine strainer	DEP=1C2-E-TEST-0148-130.53007
-1C2-E-TEST-0148-130.53/009	cheesecloth	DEP=1C2-E-TEST-0148-130.53007
-1C2-E-TEST-0148-130.56	A common cooking method is to treat quinoa much like rice, bringing two cups of water to a boil with one cup of grain, covering at a low simmer and cooking for 14ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ18 minutes or until the germ separates from the seed.
-1C2-E-TEST-0148-130.56/001	common cooking method	DEP=1C2-E-TEST-0148-130.56012
-1C2-E-TEST-0148-130.56/002	treat like rice
-1C2-E-TEST-0148-130.56/003	two cups	DEP=1C2-E-TEST-0148-130.56004
-1C2-E-TEST-0148-130.56/004	water boil
-1C2-E-TEST-0148-130.56/005	one cup	DEP=1C2-E-TEST-0148-130.56006
-1C2-E-TEST-0148-130.56/006	grain
-1C2-E-TEST-0148-130.56/007	low simmer
-1C2-E-TEST-0148-130.56/008	covering	DEP=1C2-E-TEST-0148-130.56007
-1C2-E-TEST-0148-130.56/009	cooking
-1C2-E-TEST-0148-130.56/010	18 minutes	DEP=1C2-E-TEST-0148-130.56009
-1C2-E-TEST-0148-130.56/011	germ separates	DEP=1C2-E-TEST-0148-130.56009
-1C2-E-TEST-0148-130.56/012	seed	DEP=1C2-E-TEST-0148-130.56011
-1C2-E-TEST-0148-130.61	It is also suited to vegetable pilafs, complementing bitter greens like kale.
-1C2-E-TEST-0148-130.61/001	vegetable pilafs
-1C2-E-TEST-0148-130.61/002	complementing bitter greens
-1C2-E-TEST-0148-130.61/003	kale	DEP=1C2-E-TEST-0148-130.61002
-1C2-E-TEST-0148-130.67	Quinoa may be germinated in its raw form to boost its nutritional value.
-1C2-E-TEST-0148-130.67/001	germinated raw form
-1C2-E-TEST-0148-130.67/002	boost nutritional value	DEP=1C2-E-TEST-0148-130.67001
-1C2-E-TEST-0148-14.11	Because of all these characteristics, quinoa is considered a possible crop in NASA's Controlled Ecological Life Support System for long-duration manned spaceflights (Schlick and Bubenheim 1993).
-1C2-E-TEST-0148-14.11/001	possible crop	DEP=1C2-E-TEST-0148-14.11003
-1C2-E-TEST-0148-14.11/002	nasa	DEP=1C2-E-TEST-0148-14.11003
-1C2-E-TEST-0148-14.11/003	controlled ecological life support system
-1C2-E-TEST-0148-14.11/004	manned spaceflights
-1C2-E-TEST-0148-14.11/005	long-duration	DEP=1C2-E-TEST-0148-14.11004
-1C2-E-TEST-0148-14.11/006	schlick bubenheim 1993	DEP=1C2-E-TEST-0148-14.11001
-1C2-E-TEST-0148-14.28	Chicken or vegetable stock can be substituted for water during cooking, adding flavor.
-1C2-E-TEST-0148-14.28/001	chicken DEP=1C2-E-TEST-0148-14.28003
-1C2-E-TEST-0148-14.28/002	vegetable DEP=1C2-E-TEST-0148-14.28003
-1C2-E-TEST-0148-14.28/003	stock substituted water
-1C2-E-TEST-0148-14.28/004	flavor	DEP=1C2-E-TEST-0148-14.28003
-1C2-E-TEST-0148-14.47	The saponins in quinoa can be mildly toxic, as can be the oxalic acid in the leaves of all the chenopodium family.
-1C2-E-TEST-0148-14.47/001	saponins mildly toxic
-1C2-E-TEST-0148-14.47/002	oxalic acid mildly toxic
-1C2-E-TEST-0148-14.47/003	leaves	DEP=1C2-E-TEST-0148-14.47002
-1C2-E-TEST-0148-14.47/004	chenopodium family
-1C2-E-TEST-0148-14.48	The risks associated with quinoa are minimal, provided it is properly prepared and leaves are not eaten to excess.
-1C2-E-TEST-0148-14.48/001	risks minimal
-1C2-E-TEST-0148-14.48/002	properly prepared	DEP=1C2-E-TEST-0148-14.48002
-1C2-E-TEST-0148-14.48/003	leaves not eaten excess
-1C2-E-TEST-0148-165.52	To clean, put the quinoa into a fine strainer and run water through it, or stir it in a bowl of cold water and pour it through a clean kitchen towel.
-1C2-E-TEST-0148-165.52/001	fine strainer
-1C2-E-TEST-0148-165.52/002	clean	DEP=1C2-E-TEST-0148-165.52001
-1C2-E-TEST-0148-165.52/003	run water through
-1C2-E-TEST-0148-165.52/004	stir cold water
-1C2-E-TEST-0148-165.52/005	bowl	DEP=1C2-E-TEST-0148-165.52004
-1C2-E-TEST-0148-165.52/006	pour through kitchen towel
-1C2-E-TEST-0148-165.52/007	clean	DEP=1C2-E-TEST-0148-165.52006
-1C2-E-TEST-0148-209.10	Native to Peru, quinoa (pronounced keen wah) was the mother grain of the Incas for centuries.
-1C2-E-TEST-0148-209.10/001	native peru
-1C2-E-TEST-0148-209.10/002	keen wah
-1C2-E-TEST-0148-209.10/003	pronounced	DEP=1C2-E-TEST-0148-209.10002
-1C2-E-TEST-0148-209.10/004	incas
-1C2-E-TEST-0148-209.10/005	mother grain	DEP=1C2-E-TEST-0148-209.10004
-1C2-E-TEST-0148-209.10/006	centuries	DEP=1C2-E-TEST-0148-209.10005
-1C2-E-TEST-0148-209.32	With superior protein and amino acid balance, quinoa is also high in calcium, phosphorus, iron, most B vitamins, zinc and lysine.
-1C2-E-TEST-0148-209.32/001	superior protein
-1C2-E-TEST-0148-209.32/002	amino acid balance
-1C2-E-TEST-0148-209.32/003	calcium
-1C2-E-TEST-0148-209.32/004	phosphorus
-1C2-E-TEST-0148-209.32/005	iron
-1C2-E-TEST-0148-209.32/006	b vitamins
-1C2-E-TEST-0148-209.32/007	zinc
-1C2-E-TEST-0148-209.32/008	lysine
-1C2-E-TEST-0148-209.59	Put the quinoa into a fine strainer, and run water through it until the water is clear and no longer sudsy.
-1C2-E-TEST-0148-209.59/001	fine strainer
-1C2-E-TEST-0148-209.59/002	run water
-1C2-E-TEST-0148-209.59/003	clear	DEP=1C2-E-TEST-0148-209.59002
-1C2-E-TEST-0148-209.59/004	no sudsy	DEP=1C2-E-TEST-0148-209.59002
-1C2-E-TEST-0148-4.3	Quinoa (pronounced Keen-wah) is an ancient food that is not yet well known in North America.
-1C2-E-TEST-0148-4.3/001	keen-wah
-1C2-E-TEST-0148-4.3/002	ancient food
-1C2-E-TEST-0148-4.3/003	not well known north america
-1C2-E-TEST-0148-4.3/004	pronounced	DEP=1C2-E-TEST-0148-4.3001
-1C2-E-TEST-0148-4.35	In South America the saponin which is removed from the quinoa is used as detergent for washing clothes and as an antiseptic to promote healing of skin injuries.
-1C2-E-TEST-0148-4.35/001	south america	DEP=1C2-E-TEST-0148-4.35002
-1C2-E-TEST-0148-4.35/002	saponin detergent
-1C2-E-TEST-0148-4.35/003	washing clothes	DEP=1C2-E-TEST-0148-4.35002
-1C2-E-TEST-0148-4.35/004	antiseptic
-1C2-E-TEST-0148-4.35/005	skin injuries	DEP=1C2-E-TEST-0148-4.35004
-1C2-E-TEST-0148-4.35/006	promote healing	DEP=1C2-E-TEST-0148-4.35004
-1C2-E-TEST-0148-4.36	The quinoa seed is high in protein, calcium and iron, a relatively good source of vitamin E and several of the B vitamins.
-1C2-E-TEST-0148-4.36/001	protein
-1C2-E-TEST-0148-4.36/002	calcium
-1C2-E-TEST-0148-4.36/003	vitamin e
-1C2-E-TEST-0148-4.36/004	b vitamins
-1C2-E-TEST-0148-4.36/005	iron
-1C2-E-TEST-0148-4.5	The ancient Incas called quinoa the "mother grain" and revered it as sacred.
-1C2-E-TEST-0148-4.5/001	ancient incas
-1C2-E-TEST-0148-4.5/002	mother grain	DEP=1C2-E-TEST-0148-4.5001
-1C2-E-TEST-0148-4.5/003	sacred	DEP=1C2-E-TEST-0148-4.5001
-1C2-E-TEST-0148-4.5/004	revered	DEP=1C2-E-TEST-0148-4.5001
-1C2-E-TEST-0148-43.120	Unless these saponins are removed, the grain will taste quite bitter and is actually toxic.
-1C2-E-TEST-0148-43.120/001	unless saponins removed
-1C2-E-TEST-0148-43.120/002	taste bitter	DEP=1C2-E-TEST-0148-43.120001
-1C2-E-TEST-0148-43.120/003	toxic	DEP=1C2-E-TEST-0148-43.120001
-1C2-E-TEST-0148-43.86	Quinoa is gluten free and considered an ideal food for those prone to food allergies.
-1C2-E-TEST-0148-43.86/001	ideal food allergies
-1C2-E-TEST-0148-43.86/002	gluten free
-1C2-E-TEST-0148-43.86/003	prone DEP=1C2-E-TEST-0148-43.86001
+1C2-E-TEST-0148-1.38/001	can be used in wheat-free gluten-free baking
