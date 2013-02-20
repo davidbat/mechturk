@@ -1,157 +1,157 @@
 1C2-E-TEST-0007-1.001	1997 Rodgers & Hammerstein's Cinderella Robert Iscove Executive producer			
-1C2-E-TEST-0007-1.001/001	1997		1997	2
-1C2-E-TEST-0007-1.001/002	rodgers & hammerstein	DEP=1C2-E-TEST-0007-1.001007	rodgers & hammerstein	3
-1C2-E-TEST-0007-1.001/003	cinderella	DEP=1C2-E-TEST-0007-1.001007	cinderella	
-1C2-E-TEST-0007-1.001/004	robert	DEP=1C2-E-TEST-0007-1.001007	robert iscove	5
-1C2-E-TEST-0007-1.001/005	iscove	DEP=1C2-E-TEST-0007-1.001007	executive producer	
+1C2-E-TEST-0007-1.001/001	1997		1997 rodgers & hammerstein cinderella	
+1C2-E-TEST-0007-1.001/002	rodgers & hammerstein	DEP=1C2-E-TEST-0007-1.001007	executive producer robert iscove	1
+1C2-E-TEST-0007-1.001/003	cinderella	DEP=1C2-E-TEST-0007-1.001007		
+1C2-E-TEST-0007-1.001/004	robert	DEP=1C2-E-TEST-0007-1.001007		
+1C2-E-TEST-0007-1.001/005	iscove	DEP=1C2-E-TEST-0007-1.001007		
 1C2-E-TEST-0007-1.001/006	executive	DEP=1C2-E-TEST-0007-1.001007		
 1C2-E-TEST-0007-1.001/007	producer	DEP=1C2-E-TEST-0007-1.001001		
 1C2-E-TEST-0007-1.002	"Nominated Ã¢ÂÂ 1998 Emmy Award for Outstanding Variety, Music Or Comedy Special in Rodgers & Hammerstein's Cinderella"			
-1C2-E-TEST-0007-1.002/001	1998 emmy award	DEP=1C2-E-TEST-0007-1.002005	nominated	2
-1C2-E-TEST-0007-1.002/002	outstanding variety music comedy		1998	3
-1C2-E-TEST-0007-1.002/003	special	DEP=1C2-E-TEST-0007-1.002005	emmy award	
-1C2-E-TEST-0007-1.002/004	rodgers & hammerstein	DEP=1C2-E-TEST-0007-1.002007	outstanding variety	5
-1C2-E-TEST-0007-1.002/005	nominated		music comedy special	
-1C2-E-TEST-0007-1.002/006	â	DEP=1C2-E-TEST-0007-1.002005	rodgers & hammerstein	7
-1C2-E-TEST-0007-1.002/007	cinderella		cinderella	
+1C2-E-TEST-0007-1.002/001	1998 emmy award	DEP=1C2-E-TEST-0007-1.002005	nominated 1998 emmy award	
+1C2-E-TEST-0007-1.002/002	outstanding variety music comedy		"nominated for Outstanding Variety, Music Or Comedy Special"	1
+1C2-E-TEST-0007-1.002/003	special	DEP=1C2-E-TEST-0007-1.002005	nominated for Rodgers & Hammerstein Cinderella	1
+1C2-E-TEST-0007-1.002/004	rodgers & hammerstein	DEP=1C2-E-TEST-0007-1.002007		
+1C2-E-TEST-0007-1.002/005	nominated			
+1C2-E-TEST-0007-1.002/006	â	DEP=1C2-E-TEST-0007-1.002005		
+1C2-E-TEST-0007-1.002/007	cinderella			
 1C2-E-TEST-0007-1.003	Nominated Ã¢ÂÂ 1998 NAACP Image Award for Outstanding Television Movie/Mini-Series in Rodgers & Hammerstein's Cinderella			
-1C2-E-TEST-0007-1.003/001	â		nominated	2
-1C2-E-TEST-0007-1.003/002	1998 naacp image award	DEP=1C2-E-TEST-0007-1.003005	1998	
-1C2-E-TEST-0007-1.003/003	outstanding television movie\/mini-series		naacp image award	4
-1C2-E-TEST-0007-1.003/004	rodgers & hammerstein	DEP=1C2-E-TEST-0007-1.003006	outstanding telivision movie mini-series	
-1C2-E-TEST-0007-1.003/005	nominated		rodgers & hammerstein	6
-1C2-E-TEST-0007-1.003/006	cinderella		cinderella	
+1C2-E-TEST-0007-1.003/001	â		nominated for 1998 naacp image award	
+1C2-E-TEST-0007-1.003/002	1998 naacp image award	DEP=1C2-E-TEST-0007-1.003005	nominated for Outstanding Television Movie\/Mini-Series 	1
+1C2-E-TEST-0007-1.003/003	outstanding television movie\/mini-series		nominated for  Rodgers & Hammerstein Cinderella	1
+1C2-E-TEST-0007-1.003/004	rodgers & hammerstein	DEP=1C2-E-TEST-0007-1.003006		
+1C2-E-TEST-0007-1.003/005	nominated			
+1C2-E-TEST-0007-1.003/006	cinderella			
 1C2-E-TEST-0007-1.004	2001 The Princess Diaries Garry Marshall Producer			
-1C2-E-TEST-0007-1.004/001	2001			
-1C2-E-TEST-0007-1.004/002	princess diaries garry marshall producer	DEP=1C2-E-TEST-0007-1.004001		
+1C2-E-TEST-0007-1.004/001	2001		2001 princess diaries	
+1C2-E-TEST-0007-1.004/002	princess diaries garry marshall producer	DEP=1C2-E-TEST-0007-1.004001	garry marshall producer	1
 1C2-E-TEST-0007-1.005	Won Ã¢ÂÂ 2002 Young Artist Award for Best Family Feature Film Ã¢ÂÂ Comedy			
-1C2-E-TEST-0007-1.005/001	won	DEP=1C2-E-TEST-0007-1.005005	won	2
-1C2-E-TEST-0007-1.005/002	2002 young artist award	DEP=1C2-E-TEST-0007-1.005006	2002	3
-1C2-E-TEST-0007-1.005/003	best family feature film		young artists award	
-1C2-E-TEST-0007-1.005/004	comedy	DEP=1C2-E-TEST-0007-1.005006	best family feature comedy film	3
+1C2-E-TEST-0007-1.005/001	won	DEP=1C2-E-TEST-0007-1.005005	won 2002 young artist award	
+1C2-E-TEST-0007-1.005/002	2002 young artist award	DEP=1C2-E-TEST-0007-1.005006	won award for best family feature film comedy	1
+1C2-E-TEST-0007-1.005/003	best family feature film			
+1C2-E-TEST-0007-1.005/004	comedy	DEP=1C2-E-TEST-0007-1.005006		
 1C2-E-TEST-0007-1.005/005	â			
 1C2-E-TEST-0007-1.005/006	â	DEP=1C2-E-TEST-0007-1.005005		
 1C2-E-TEST-0007-1.006	Nominated Ã¢ÂÂ 2002 Broadcast Film Critics Association Award for Best Family Film (Live Action) in The Princess Diaries			
-1C2-E-TEST-0007-1.006/001	2002 broadcast film critics	DEP=1C2-E-TEST-0007-1.006006	nominated	2
-1C2-E-TEST-0007-1.006/002	association award	DEP=1C2-E-TEST-0007-1.006006	2002	
-1C2-E-TEST-0007-1.006/003	best family film		broadcast film critics association award	3
-1C2-E-TEST-0007-1.006/004	live action	DEP=1C2-E-TEST-0007-1.006003	best family film live action	5
-1C2-E-TEST-0007-1.006/005	princess diaries		princess diaries	
+1C2-E-TEST-0007-1.006/001	2002 broadcast film critics	DEP=1C2-E-TEST-0007-1.006006	nominated 2002 broadcast film critics	
+1C2-E-TEST-0007-1.006/002	association award	DEP=1C2-E-TEST-0007-1.006006	nominated for Best Family Film (Live Action) 	1
+1C2-E-TEST-0007-1.006/003	best family film		nominated for the princess diaries	1
+1C2-E-TEST-0007-1.006/004	live action	DEP=1C2-E-TEST-0007-1.006003		
+1C2-E-TEST-0007-1.006/005	princess diaries			
 1C2-E-TEST-0007-1.006/006	nominated			
 1C2-E-TEST-0007-1.006/007	â	DEP=1C2-E-TEST-0007-1.006006		
 1C2-E-TEST-0007-1.007	Nominated Ã¢ÂÂ 2002 Phoenix Film Critics Society Award for Best Family Film in The Princess Diaries			
-1C2-E-TEST-0007-1.007/001	2002 phoenix film critics	DEP=1C2-E-TEST-0007-1.007006	nominated	2
-1C2-E-TEST-0007-1.007/002	society award	DEP=1C2-E-TEST-0007-1.007001	2002	
-1C2-E-TEST-0007-1.007/003	best		pheonix film critics society award	4
-1C2-E-TEST-0007-1.007/004	family film	DEP=1C2-E-TEST-0007-1.007006	best family film	5
-1C2-E-TEST-0007-1.007/005	princess diaries		princess diaries	
+1C2-E-TEST-0007-1.007/001	2002 phoenix film critics	DEP=1C2-E-TEST-0007-1.007006	nominated 2002 pheonix film critics society award	
+1C2-E-TEST-0007-1.007/002	society award	DEP=1C2-E-TEST-0007-1.007001	nominated for best family film	1
+1C2-E-TEST-0007-1.007/003	best		nominated for the princess diaries	1
+1C2-E-TEST-0007-1.007/004	family film	DEP=1C2-E-TEST-0007-1.007006		
+1C2-E-TEST-0007-1.007/005	princess diaries			
 1C2-E-TEST-0007-1.007/006	nominated			
 1C2-E-TEST-0007-1.007/007	â	DEP=1C2-E-TEST-0007-1.007006		
 1C2-E-TEST-0007-1.008	"Nominated Ã¢ÂÂ 2002 Teen Choice Award for Film Ã¢ÂÂ Choice Movie, Comedy in The Princess Diaries"			
-1C2-E-TEST-0007-1.008/001	2002 teen choice award		nominated	2
-1C2-E-TEST-0007-1.008/002	film		2002	3
-1C2-E-TEST-0007-1.008/003	choice movie	DEP=1C2-E-TEST-0007-1.008006	teen choice award film	6
-1C2-E-TEST-0007-1.008/004	comedy	DEP=1C2-E-TEST-0007-1.008003	choice movie	
-1C2-E-TEST-0007-1.008/005	princess diaries		comedy	
-1C2-E-TEST-0007-1.008/006	nominated		princess diaries	
+1C2-E-TEST-0007-1.008/001	2002 teen choice award		nominated 2002 teen choice award	
+1C2-E-TEST-0007-1.008/002	film		nominated for film choice movie comedy	1
+1C2-E-TEST-0007-1.008/003	choice movie	DEP=1C2-E-TEST-0007-1.008006	nominated for the princess diaries	1
+1C2-E-TEST-0007-1.008/004	comedy	DEP=1C2-E-TEST-0007-1.008003		
+1C2-E-TEST-0007-1.008/005	princess diaries			
+1C2-E-TEST-0007-1.008/006	nominated			
 1C2-E-TEST-0007-1.008/007	â	DEP=1C2-E-TEST-0007-1.008006		
 1C2-E-TEST-0007-1.008/008	â	DEP=1C2-E-TEST-0007-1.008006		
 1C2-E-TEST-0007-1.009	2003 The Cheetah Girls Oz Scott Producer			
-1C2-E-TEST-0007-1.009/001	2003		2003	2
-1C2-E-TEST-0007-1.009/002	cheetah girls	DEP=1C2-E-TEST-0007-1.009001	chetah girls	
-1C2-E-TEST-0007-1.009/003	oz scott producer	DEP=1C2-E-TEST-0007-1.009002	producer	4
-1C2-E-TEST-0007-1.009/004			oz scott	
+1C2-E-TEST-0007-1.009/001	2003		2003 chetah girls	
+1C2-E-TEST-0007-1.009/002	cheetah girls	DEP=1C2-E-TEST-0007-1.009001	producer oz scott	1
+1C2-E-TEST-0007-1.009/003	oz scott producer	DEP=1C2-E-TEST-0007-1.009002		
+1C2-E-TEST-0007-1.009/004				
 1C2-E-TEST-0007-1.010	2004 The Princess Diaries 2: Royal Engagement Garry Marshall Producer			
-1C2-E-TEST-0007-1.010/001	2004		2004	2
-1C2-E-TEST-0007-1.010/002	princess diaries	DEP=1C2-E-TEST-0007-1.010001	princess diaries 2 royal engagement	
-1C2-E-TEST-0007-1.010/003	2	DEP=1C2-E-TEST-0007-1.010002	garry marshall	4
-1C2-E-TEST-0007-1.010/004	royal engagement garry marshall producer	DEP=1C2-E-TEST-0007-1.010001	producer	2
+1C2-E-TEST-0007-1.010/001	2004		2004 the princess diaries 2 royal engagement	
+1C2-E-TEST-0007-1.010/002	princess diaries	DEP=1C2-E-TEST-0007-1.010001	producer gary marshall	1
+1C2-E-TEST-0007-1.010/003	2	DEP=1C2-E-TEST-0007-1.010002		
+1C2-E-TEST-0007-1.010/004	royal engagement garry marshall producer	DEP=1C2-E-TEST-0007-1.010001		
 1C2-E-TEST-0007-1.011	2006 The Cheetah Girls 2: When in Spain Kenny Ortega Co-executive producer			
-1C2-E-TEST-0007-1.011/001	2006		2006	2
-1C2-E-TEST-0007-1.011/002	cheetah girls	DEP=1C2-E-TEST-0007-1.011001	chetah girls 2 when in spain	
-1C2-E-TEST-0007-1.011/003	2	DEP=1C2-E-TEST-0007-1.011002	kenny ortega	
-1C2-E-TEST-0007-1.011/004	spain kenny ortega co-executive producer		co-executive producer	3
+1C2-E-TEST-0007-1.011/001	2006		2006 chetah girls 2 when in spain	
+1C2-E-TEST-0007-1.011/002	cheetah girls	DEP=1C2-E-TEST-0007-1.011001	co-executive producer kenny ortega	1
+1C2-E-TEST-0007-1.011/003	2	DEP=1C2-E-TEST-0007-1.011002		
+1C2-E-TEST-0007-1.011/004	spain kenny ortega co-executive producer			
 1C2-E-TEST-0007-1.012	1992 The Bodyguard Rachel Marron Feature film			
 1C2-E-TEST-0007-1.012/001	1992			
 1C2-E-TEST-0007-1.012/002	bodyguard rachel marron feature film	DEP=1C2-E-TEST-0007-1.012001		
 1C2-E-TEST-0007-1.013	Nominated Ã¢ÂÂ 1993 MTV Movie Award for Best Female Performance in The Bodyguard			
-1C2-E-TEST-0007-1.013/001	â		nominated	2
-1C2-E-TEST-0007-1.013/002	1993 mtv movie award	DEP=1C2-E-TEST-0007-1.013006	1993	3
-1C2-E-TEST-0007-1.013/003	best		mtv movie award	4
-1C2-E-TEST-0007-1.013/004	female performance	DEP=1C2-E-TEST-0007-1.013003	best female performance	5
-1C2-E-TEST-0007-1.013/005	bodyguard		bodyguard	
+1C2-E-TEST-0007-1.013/001	â		nominated 1993 mtv movie award	
+1C2-E-TEST-0007-1.013/002	1993 mtv movie award	DEP=1C2-E-TEST-0007-1.013006	nominated for best female performance	1
+1C2-E-TEST-0007-1.013/003	best		nominated for the bodyguard	1
+1C2-E-TEST-0007-1.013/004	female performance	DEP=1C2-E-TEST-0007-1.013003		
+1C2-E-TEST-0007-1.013/005	bodyguard			
 1C2-E-TEST-0007-1.013/006	nominated			
 1C2-E-TEST-0007-1.014	Nominated Ã¢ÂÂ 1993 MTV Movie Award for Best Breakthrough Performance in The Bodyguard			
-1C2-E-TEST-0007-1.014/001	â		nominated	2
-1C2-E-TEST-0007-1.014/002	1993 mtv movie award	DEP=1C2-E-TEST-0007-1.014006	1993	3
-1C2-E-TEST-0007-1.014/003	best		mtv movie award	4
-1C2-E-TEST-0007-1.014/004	breakthrough performance	DEP=1C2-E-TEST-0007-1.014003	best breakthrough performance	5
-1C2-E-TEST-0007-1.014/005	bodyguard		bodyguard	
+1C2-E-TEST-0007-1.014/001	â			
+1C2-E-TEST-0007-1.014/002	1993 mtv movie award	DEP=1C2-E-TEST-0007-1.014006	nominated for best breakthrough performance	1
+1C2-E-TEST-0007-1.014/003	best		nominated for the bodyguard	1
+1C2-E-TEST-0007-1.014/004	breakthrough performance	DEP=1C2-E-TEST-0007-1.014003		
+1C2-E-TEST-0007-1.014/005	bodyguard			
 1C2-E-TEST-0007-1.014/006	nominated			
 1C2-E-TEST-0007-1.015	Nominated Ã¢ÂÂ 1993 MTV Movie Award for Best On-Screen Duo with co-star Kevin Costner in The Bodyguard			
-1C2-E-TEST-0007-1.015/001	â		nominated	2
-1C2-E-TEST-0007-1.015/002	1993 mtv movie award	DEP=1C2-E-TEST-0007-1.015006	1993	3
-1C2-E-TEST-0007-1.015/003	best on-screen duo		mtv movie award	4
-1C2-E-TEST-0007-1.015/004	co-star kevin costner		best on-screen duo	5
-1C2-E-TEST-0007-1.015/005	bodyguard		co-star kevin costner	
-1C2-E-TEST-0007-1.015/006	nominated		bodyguard	1
+1C2-E-TEST-0007-1.015/001	â		nominated 1993 mtv movie award	
+1C2-E-TEST-0007-1.015/002	1993 mtv movie award	DEP=1C2-E-TEST-0007-1.015006	nominated best on-screen duo with co-star kevin costner	1
+1C2-E-TEST-0007-1.015/003	best on-screen duo		nominated for the bodyguard	1
+1C2-E-TEST-0007-1.015/004	co-star kevin costner			
+1C2-E-TEST-0007-1.015/005	bodyguard			
+1C2-E-TEST-0007-1.015/006	nominated			
 1C2-E-TEST-0007-1.016	Nominated Ã¢ÂÂ 1992 Golden Raspberry Award for Worst Actress in The Bodyguard			
-1C2-E-TEST-0007-1.016/001	1992 golden raspberry award		nominated	2
-1C2-E-TEST-0007-1.016/002	actress		1992	3
-1C2-E-TEST-0007-1.016/003	bodyguard		golden raspberry award	4
-1C2-E-TEST-0007-1.016/004	nominated		worst actress	
-1C2-E-TEST-0007-1.016/005	â	DEP=1C2-E-TEST-0007-1.016004	bodyguard	1
+1C2-E-TEST-0007-1.016/001	1992 golden raspberry award		nominated 1992 golden raspberry award	
+1C2-E-TEST-0007-1.016/002	actress		nominated for worst actress	1
+1C2-E-TEST-0007-1.016/003	bodyguard		nominated for the bodyguard	1
+1C2-E-TEST-0007-1.016/004	nominated			
+1C2-E-TEST-0007-1.016/005	â	DEP=1C2-E-TEST-0007-1.016004		
 1C2-E-TEST-0007-1.017	1995 Waiting to Exhale Savannah Jackson Feature film			
-1C2-E-TEST-0007-1.017/001	1995		1995	2
-1C2-E-TEST-0007-1.017/002	exhale savannah jackson feature film		waiting exhale	
-1C2-E-TEST-0007-1.017/003	waiting	DEP=1C2-E-TEST-0007-1.017001	savannah jackson feature film	2
+1C2-E-TEST-0007-1.017/001	1995		1995 waiting to exhale	
+1C2-E-TEST-0007-1.017/002	exhale savannah jackson feature film		savannah jackson feature film	1
+1C2-E-TEST-0007-1.017/003	waiting	DEP=1C2-E-TEST-0007-1.017001		
 1C2-E-TEST-0007-1.018	Nominated Ã¢ÂÂ 1996 NAACP Image Award for Outstanding Actress in a Motion Picture in Waiting to Exhale			
-1C2-E-TEST-0007-1.018/001	â		nominated	2
-1C2-E-TEST-0007-1.018/002	1996 naacp image award	DEP=1C2-E-TEST-0007-1.018006	1996	3
-1C2-E-TEST-0007-1.018/003	outstanding actress		naacp image award	4
-1C2-E-TEST-0007-1.018/004	motion picture		outstanding actress motion picture	
-1C2-E-TEST-0007-1.018/005	waiting		waiting exhale	1
+1C2-E-TEST-0007-1.018/001	â		nominated 1996 NAACP Image Award	
+1C2-E-TEST-0007-1.018/002	1996 naacp image award	DEP=1C2-E-TEST-0007-1.018006	nominated for Outstanding Actress in a Motion Picture	1
+1C2-E-TEST-0007-1.018/003	outstanding actress		nominated for waiting in exhale	1
+1C2-E-TEST-0007-1.018/004	motion picture			
+1C2-E-TEST-0007-1.018/005	waiting			
 1C2-E-TEST-0007-1.018/006	nominated			
 1C2-E-TEST-0007-1.018/007	exhale	DEP=1C2-E-TEST-0007-1.018004		
 1C2-E-TEST-0007-1.019	1996 The Preacher's Wife Julia Biggs Feature film			
-1C2-E-TEST-0007-1.019/001	1996		1996	2
-1C2-E-TEST-0007-1.019/002	preacher	DEP=1C2-E-TEST-0007-1.019007	preacher wife	
-1C2-E-TEST-0007-1.019/003	wife	DEP=1C2-E-TEST-0007-1.019007	julia biggs feature film	2
+1C2-E-TEST-0007-1.019/001	1996		1996 preachers wife	
+1C2-E-TEST-0007-1.019/002	preacher	DEP=1C2-E-TEST-0007-1.019007	julia biggs feature film	1
+1C2-E-TEST-0007-1.019/003	wife	DEP=1C2-E-TEST-0007-1.019007		
 1C2-E-TEST-0007-1.019/004	julia	DEP=1C2-E-TEST-0007-1.019007		
 1C2-E-TEST-0007-1.019/005	biggs	DEP=1C2-E-TEST-0007-1.019007		
 1C2-E-TEST-0007-1.019/006	feature	DEP=1C2-E-TEST-0007-1.019007		
 1C2-E-TEST-0007-1.019/007	film	DEP=1C2-E-TEST-0007-1.019001		
 1C2-E-TEST-0007-1.020	Won Ã¢ÂÂ 1997 NAACP Image Award for Outstanding Actress in a Motion Picture in The Preacher's Wife			
-1C2-E-TEST-0007-1.020/001	won	DEP=1C2-E-TEST-0007-1.020006	won	2
-1C2-E-TEST-0007-1.020/002	1997 naacp image award		1997	3
-1C2-E-TEST-0007-1.020/003	outstanding actress		naacp image award	4
-1C2-E-TEST-0007-1.020/004	motion picture		outstanding actress motion picture	
-1C2-E-TEST-0007-1.020/005	preacher	DEP=1C2-E-TEST-0007-1.020007	preacher wife	1
+1C2-E-TEST-0007-1.020/001	won	DEP=1C2-E-TEST-0007-1.020006	won 1997 ncaap image award	
+1C2-E-TEST-0007-1.020/002	1997 naacp image award		won for outstanding actress in a motion picture	1
+1C2-E-TEST-0007-1.020/003	outstanding actress		won for the preachers wife	1
+1C2-E-TEST-0007-1.020/004	motion picture			
+1C2-E-TEST-0007-1.020/005	preacher	DEP=1C2-E-TEST-0007-1.020007		
 1C2-E-TEST-0007-1.020/006	â			
 1C2-E-TEST-0007-1.020/007	wife			
 1C2-E-TEST-0007-1.021	Nominated Ã¢ÂÂ 1997 Blockbuster Entertainment Award for Favorite Female Actress(Comedy/Romance) in The Preacher's Wife			
-1C2-E-TEST-0007-1.021/001	â		nominated	2
-1C2-E-TEST-0007-1.021/002	1997 blockbuster entertainment award	DEP=1C2-E-TEST-0007-1.021006	1997	3
-1C2-E-TEST-0007-1.021/003	favorite female actress		blockbuster entertainment award	4
-1C2-E-TEST-0007-1.021/004	comedy\/romance	DEP=1C2-E-TEST-0007-1.021002	favorite female actress comedy romance	
-1C2-E-TEST-0007-1.021/005	preacher	DEP=1C2-E-TEST-0007-1.021007	preacher wife	1
+1C2-E-TEST-0007-1.021/001	â		nominated 1997 blockbuster entertainment award	
+1C2-E-TEST-0007-1.021/002	1997 blockbuster entertainment award	DEP=1C2-E-TEST-0007-1.021006	nominated for favorite female actress comedy romance	1
+1C2-E-TEST-0007-1.021/003	favorite female actress		nominated for the preachers wife	1
+1C2-E-TEST-0007-1.021/004	comedy\/romance	DEP=1C2-E-TEST-0007-1.021002		
+1C2-E-TEST-0007-1.021/005	preacher	DEP=1C2-E-TEST-0007-1.021007		
 1C2-E-TEST-0007-1.021/006	nominated			
 1C2-E-TEST-0007-1.021/007	wife			
 1C2-E-TEST-0007-1.022	Nominated Ã¢ÂÂ 1997 Kids' Choice Award for Favorite Movie Actress in The Preacher's Wife			
-1C2-E-TEST-0007-1.022/001	â		nominated	2
-1C2-E-TEST-0007-1.022/002	1997 kids	DEP=1C2-E-TEST-0007-1.022007	1997	3
-1C2-E-TEST-0007-1.022/003	favorite movie actress		kid choice award	4
-1C2-E-TEST-0007-1.022/004	preacher	DEP=1C2-E-TEST-0007-1.022008	favorite movie actress	
-1C2-E-TEST-0007-1.022/005	nominated		preacher wife	1
+1C2-E-TEST-0007-1.022/001	â		nominated 1997 kids choice award	
+1C2-E-TEST-0007-1.022/002	1997 kids	DEP=1C2-E-TEST-0007-1.022007	nominated for favorite movie actress	1
+1C2-E-TEST-0007-1.022/003	favorite movie actress		nominated for the preachers wife	1
+1C2-E-TEST-0007-1.022/004	preacher	DEP=1C2-E-TEST-0007-1.022008		
+1C2-E-TEST-0007-1.022/005	nominated			
 1C2-E-TEST-0007-1.022/006	choice	DEP=1C2-E-TEST-0007-1.022007		
 1C2-E-TEST-0007-1.022/007	award	DEP=1C2-E-TEST-0007-1.022005		
 1C2-E-TEST-0007-1.022/008	wife			
 1C2-E-TEST-0007-1.023	"1997 Rodgers & Hammerstein's Cinderella Fairy Godmother Made-for-television film, part of a revival of the Wonderful World of Disney."			
-1C2-E-TEST-0007-1.023/001	1997		1997	2
-1C2-E-TEST-0007-1.023/002	rodgers & hammerstein	DEP=1C2-E-TEST-0007-1.023011	rodgers & hammerstein	3
-1C2-E-TEST-0007-1.023/003	part	DEP=1C2-E-TEST-0007-1.023001	cinderella fairy godmother made-for-television film	
-1C2-E-TEST-0007-1.023/004	revival		revival	5
-1C2-E-TEST-0007-1.023/005	wonderful world		wonderful world disney	
+1C2-E-TEST-0007-1.023/001	1997		1997 rodgers & hammerstein cinderella	
+1C2-E-TEST-0007-1.023/002	rodgers & hammerstein	DEP=1C2-E-TEST-0007-1.023011	fairy godmother made-for-television film	1
+1C2-E-TEST-0007-1.023/003	part	DEP=1C2-E-TEST-0007-1.023001	part of revival of wonderful world disney	1
+1C2-E-TEST-0007-1.023/004	revival			
+1C2-E-TEST-0007-1.023/005	wonderful world			
 1C2-E-TEST-0007-1.023/006	disney			
 1C2-E-TEST-0007-1.023/007	cinderella	DEP=1C2-E-TEST-0007-1.023011		
 1C2-E-TEST-0007-1.023/008	fairy	DEP=1C2-E-TEST-0007-1.023011		
@@ -159,33 +159,33 @@
 1C2-E-TEST-0007-1.023/010	made-for-television	DEP=1C2-E-TEST-0007-1.023011		
 1C2-E-TEST-0007-1.023/011	film	DEP=1C2-E-TEST-0007-1.023001		
 1C2-E-TEST-0007-1.026	2012 Sparkle Emma Posthumous release			
-1C2-E-TEST-0007-1.026/001	2012		2012	2
-1C2-E-TEST-0007-1.026/002	sparkle emma posthumous	DEP=1C2-E-TEST-0007-1.026001	sparkle	
-1C2-E-TEST-0007-1.026/003	release		emma	2
-1C2-E-TEST-0007-1.026/004			posthumous release	2
+1C2-E-TEST-0007-1.026/001	2012		2012 sparkle	
+1C2-E-TEST-0007-1.026/002	sparkle emma posthumous	DEP=1C2-E-TEST-0007-1.026001	emma posthumous release	1
+1C2-E-TEST-0007-1.026/003	release			
+1C2-E-TEST-0007-1.026/004				
 1C2-E-TEST-0007-1.153	"[90] Houston's first film role was in The Bodyguard , released in 1992 and co-starring Kevin Costner ."			
-1C2-E-TEST-0007-1.153/001	bodyguard		first film role	2
-1C2-E-TEST-0007-1.153/002	1992		bodyguard	
-1C2-E-TEST-0007-1.153/003	kevin costner	DEP=1C2-E-TEST-0007-1.153008	released 1992	2
-1C2-E-TEST-0007-1.153/004	90		co-starring	5
-1C2-E-TEST-0007-1.153/005	film	DEP=1C2-E-TEST-0007-1.153006	kevin costner	2
+1C2-E-TEST-0007-1.153/001	bodyguard		first film role in the bodyguard	
+1C2-E-TEST-0007-1.153/002	1992		released 1992	1
+1C2-E-TEST-0007-1.153/003	kevin costner	DEP=1C2-E-TEST-0007-1.153008	co-starring kevin costner	1
+1C2-E-TEST-0007-1.153/004	90			
+1C2-E-TEST-0007-1.153/005	film	DEP=1C2-E-TEST-0007-1.153006		
 1C2-E-TEST-0007-1.153/006	role			
 1C2-E-TEST-0007-1.153/007	released			
 1C2-E-TEST-0007-1.153/008	co-starring	DEP=1C2-E-TEST-0007-1.153007		
 1C2-E-TEST-0007-1.154	"Houston played Rachel Marron, a star who is stalked by a crazed fan and hires a bodyguard to protect her."			
-1C2-E-TEST-0007-1.154/001	rachel marron	DEP=1C2-E-TEST-0007-1.154004	played	2
-1C2-E-TEST-0007-1.154/002	star	DEP=1C2-E-TEST-0007-1.154001	rachel marron	3
-1C2-E-TEST-0007-1.154/003	crazed fan		star stalked crazed fan	4
-1C2-E-TEST-0007-1.154/004	played		hires bodyguard	5
-1C2-E-TEST-0007-1.154/005	stalked	DEP=1C2-E-TEST-0007-1.154002	protect	
+1C2-E-TEST-0007-1.154/001	rachel marron	DEP=1C2-E-TEST-0007-1.154004	houston played rachel marron	
+1C2-E-TEST-0007-1.154/002	star	DEP=1C2-E-TEST-0007-1.154001	played a star stalked by crazed fan and hires bodyguard to protect her	1
+1C2-E-TEST-0007-1.154/003	crazed fan			
+1C2-E-TEST-0007-1.154/004	played			
+1C2-E-TEST-0007-1.154/005	stalked	DEP=1C2-E-TEST-0007-1.154002		
 1C2-E-TEST-0007-1.154/006	hires	DEP=1C2-E-TEST-0007-1.154004		
 1C2-E-TEST-0007-1.154/007	bodyguard	DEP=1C2-E-TEST-0007-1.154006		
 1C2-E-TEST-0007-1.154/008	protect	DEP=1C2-E-TEST-0007-1.154007		
 1C2-E-TEST-0007-1.156	[92] Houston's mainstream appeal allowed people to look at the movie color-blind.			
-1C2-E-TEST-0007-1.156/001	people	DEP=1C2-E-TEST-0007-1.156006	mainstream appeal	
-1C2-E-TEST-0007-1.156/002	movie color-blind		allowed people	3
-1C2-E-TEST-0007-1.156/003	92	DEP=1C2-E-TEST-0007-1.156006	look movie	4
-1C2-E-TEST-0007-1.156/004	mainstream	DEP=1C2-E-TEST-0007-1.156005	color-blind	
+1C2-E-TEST-0007-1.156/001	people	DEP=1C2-E-TEST-0007-1.156006	mainstream appeal allowed people to look at movie color-blind	
+1C2-E-TEST-0007-1.156/002	movie color-blind			
+1C2-E-TEST-0007-1.156/003	92	DEP=1C2-E-TEST-0007-1.156006		
+1C2-E-TEST-0007-1.156/004	mainstream	DEP=1C2-E-TEST-0007-1.156005		
 1C2-E-TEST-0007-1.156/005	appeal	DEP=1C2-E-TEST-0007-1.156006		
 1C2-E-TEST-0007-1.156/006	allowed	DEP=1C2-E-TEST-0007-1.156007		
 1C2-E-TEST-0007-1.156/007	look			

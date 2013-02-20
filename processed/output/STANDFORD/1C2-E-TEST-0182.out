@@ -1,94 +1,94 @@
 1C2-E-TEST-0182-102.10	"As more of these compounds are activated in the brain, the frequency of yawning increases."			
-1C2-E-TEST-0182-102.10/001	compounds	DEP=1C2-E-TEST-0182-102.10005	compounds activated	2
-1C2-E-TEST-0182-102.10/002	brain		brain	
-1C2-E-TEST-0182-102.10/003	frequency	DEP=1C2-E-TEST-0182-102.10002	frequency increases	4
-1C2-E-TEST-0182-102.10/004	yawning increases		yawning	
+1C2-E-TEST-0182-102.10/001	compounds	DEP=1C2-E-TEST-0182-102.10005	 more of these compounds are activated in the brain	
+1C2-E-TEST-0182-102.10/002	brain		frequency of yawning increases	1
+1C2-E-TEST-0182-102.10/003	frequency	DEP=1C2-E-TEST-0182-102.10002		
+1C2-E-TEST-0182-102.10/004	yawning increases			
 1C2-E-TEST-0182-102.10/005	activated			
 1C2-E-TEST-0182-102.12	Patients taking the serotonin reuptake inhibitor Paxil (Paroxetine HCl) have been observed yawning abnormally often.			
-1C2-E-TEST-0182-102.12/001	patients	DEP=1C2-E-TEST-0182-102.12005	patients taking	2
-1C2-E-TEST-0182-102.12/002	serotonin reuptake inhibitor paxil	DEP=1C2-E-TEST-0182-102.12004	serotonin reuptake inhibitor paxil	
-1C2-E-TEST-0182-102.12/003	paroxetine hcl	DEP=1C2-E-TEST-0182-102.12002	paroxetine hcl	2
-1C2-E-TEST-0182-102.12/004	taking	DEP=1C2-E-TEST-0182-102.12001	observed	5
-1C2-E-TEST-0182-102.12/005	observed		yawning	6
-1C2-E-TEST-0182-102.12/006	yawning	DEP=1C2-E-TEST-0182-102.12005	abnormally	
+1C2-E-TEST-0182-102.12/001	patients	DEP=1C2-E-TEST-0182-102.12005	Patients taking the serotonin reuptake inhibitor Paxil (Paroxetine HCl) have been observed yawning abnormally often.	
+1C2-E-TEST-0182-102.12/002	serotonin reuptake inhibitor paxil	DEP=1C2-E-TEST-0182-102.12004		
+1C2-E-TEST-0182-102.12/003	paroxetine hcl	DEP=1C2-E-TEST-0182-102.12002		
+1C2-E-TEST-0182-102.12/004	taking	DEP=1C2-E-TEST-0182-102.12001		
+1C2-E-TEST-0182-102.12/005	observed			
+1C2-E-TEST-0182-102.12/006	yawning	DEP=1C2-E-TEST-0182-102.12005		
 1C2-E-TEST-0182-102.12/007	abnormally	DEP=1C2-E-TEST-0182-102.12006		
 1C2-E-TEST-0182-102.16	"As such, the stretching of jaw and face muscles seems to be necessary for a good yawn."			
-1C2-E-TEST-0182-102.16/001	stretching		stretching jaw face muscles	2
-1C2-E-TEST-0182-102.16/002	jaw face	DEP=1C2-E-TEST-0182-102.16004	necessary	
+1C2-E-TEST-0182-102.16/001	stretching		stretching of jaw and face muscles seems to be necessary for a good yawn.	
+1C2-E-TEST-0182-102.16/002	jaw face	DEP=1C2-E-TEST-0182-102.16004		
 1C2-E-TEST-0182-102.16/003	good			
 1C2-E-TEST-0182-102.16/004	muscles			
 1C2-E-TEST-0182-102.16/005	necessary			
 1C2-E-TEST-0182-102.19	"Other theories suggest that the yawn serves to synchronize mood behavior among gregarious animals, similar to the howling of the wolf pack during a full moon."			
-1C2-E-TEST-0182-102.19/001	theories		theories suggest	
-1C2-E-TEST-0182-102.19/002	mood behavior	DEP=1C2-E-TEST-0182-102.19008	serves	3
-1C2-E-TEST-0182-102.19/003	gregarious animals		synchronize mood behavior	4
-1C2-E-TEST-0182-102.19/004	howling		gregarious animals	
-1C2-E-TEST-0182-102.19/005	wolf pack		similar	
-1C2-E-TEST-0182-102.19/006	full moon		howling wolf pack	7
-1C2-E-TEST-0182-102.19/007	serves		full moon	
+1C2-E-TEST-0182-102.19/001	theories		Other theories suggest	2
+1C2-E-TEST-0182-102.19/002	mood behavior	DEP=1C2-E-TEST-0182-102.19008	yawn serves to synchronize mood behavior among gregarious animals	
+1C2-E-TEST-0182-102.19/003	gregarious animals		similar to the howling of the wolf pack during a full moon.	2
+1C2-E-TEST-0182-102.19/004	howling			
+1C2-E-TEST-0182-102.19/005	wolf pack			
+1C2-E-TEST-0182-102.19/006	full moon			
+1C2-E-TEST-0182-102.19/007	serves			
 1C2-E-TEST-0182-102.19/008	synchronize	DEP=1C2-E-TEST-0182-102.19007		
 1C2-E-TEST-0182-102.19/009	similar	DEP=1C2-E-TEST-0182-102.19002		
 1C2-E-TEST-0182-102.20	It signals tiredness to other members of the group in order to synchronize sleeping patterns and periods of activity.			
-1C2-E-TEST-0182-102.20/001	tiredness	DEP=1C2-E-TEST-0182-102.20006	signals	2
-1C2-E-TEST-0182-102.20/002	members		tiredness	3
-1C2-E-TEST-0182-102.20/003	group		members group	
-1C2-E-TEST-0182-102.20/004	sleeping patterns periods	DEP=1C2-E-TEST-0182-102.20008	synchronize	
-1C2-E-TEST-0182-102.20/005	activity		periods activity	4
-1C2-E-TEST-0182-102.20/006	signals		sleeping patterns	4
+1C2-E-TEST-0182-102.20/001	tiredness	DEP=1C2-E-TEST-0182-102.20006	It signals tiredness to other members of the group	
+1C2-E-TEST-0182-102.20/002	members		It signals tiredness in order to synchronize sleeping patterns and periods of activity.	
+1C2-E-TEST-0182-102.20/003	group			
+1C2-E-TEST-0182-102.20/004	sleeping patterns periods	DEP=1C2-E-TEST-0182-102.20008		
+1C2-E-TEST-0182-102.20/005	activity			
+1C2-E-TEST-0182-102.20/006	signals			
 1C2-E-TEST-0182-102.20/007	order	DEP=1C2-E-TEST-0182-102.20008		
 1C2-E-TEST-0182-102.20/008	synchronize	DEP=1C2-E-TEST-0182-102.20006		
 1C2-E-TEST-0182-102.7	"It is almost certain however, that this hypothesis is not correct. A more recent hypothesis is that yawning is used for regulation of body temperature."			
-1C2-E-TEST-0182-102.7/001	hypothesis	DEP=1C2-E-TEST-0182-102.7005	yawning	
-1C2-E-TEST-0182-102.7/002	yawning		regulation body temperature	1
+1C2-E-TEST-0182-102.7/001	hypothesis	DEP=1C2-E-TEST-0182-102.7005	"It is almost certain however, that this hypothesis is not correct. "	
+1C2-E-TEST-0182-102.7/002	yawning		A more recent hypothesis is that yawning is used for regulation of body temperature.	
 1C2-E-TEST-0182-102.7/003	regulation			
 1C2-E-TEST-0182-102.7/004	body temperature			
 1C2-E-TEST-0182-102.7/005	correct			
 1C2-E-TEST-0182-102.7/006	recent	DEP=1C2-E-TEST-0182-102.7007		
 1C2-E-TEST-0182-102.7/007	hypothesis			
 1C2-E-TEST-0182-165.7	Yawning is an involuntary reflex by the body to control the levels of carbon dioxide and oxygen in the blood.			
-1C2-E-TEST-0182-165.7/001	yawning	DEP=1C2-E-TEST-0182-165.7002	involuntary reflex	2
-1C2-E-TEST-0182-165.7/002	involuntary reflex		body	
-1C2-E-TEST-0182-165.7/003	levels	DEP=1C2-E-TEST-0182-165.7007	control levels	4
-1C2-E-TEST-0182-165.7/004	carbon dioxide oxygen		carbon dioxide oxygen	5
-1C2-E-TEST-0182-165.7/005	blood		blood	
+1C2-E-TEST-0182-165.7/001	yawning	DEP=1C2-E-TEST-0182-165.7002	Yawning is an involuntary reflex by the body	
+1C2-E-TEST-0182-165.7/002	involuntary reflex		control the levels of carbon dioxide and oxygen in the blood.	1
+1C2-E-TEST-0182-165.7/003	levels	DEP=1C2-E-TEST-0182-165.7007		
+1C2-E-TEST-0182-165.7/004	carbon dioxide oxygen			
+1C2-E-TEST-0182-165.7/005	blood			
 1C2-E-TEST-0182-165.7/006	body			
 1C2-E-TEST-0182-165.7/007	control	DEP=1C2-E-TEST-0182-165.7006		
 1C2-E-TEST-0182-174.11	One likely explanation is that the yawning reflex is triggered when our blood needs more oxygen.			
-1C2-E-TEST-0182-174.11/001	likely explanation		yawning reflex	2
-1C2-E-TEST-0182-174.11/002	yawning reflex	DEP=1C2-E-TEST-0182-174.11005	triggered	3
-1C2-E-TEST-0182-174.11/003	blood	DEP=1C2-E-TEST-0182-174.11006	blood needs oxygen	
+1C2-E-TEST-0182-174.11/001	likely explanation		yawning reflex is triggered when our blood needs more oxygen.	
+1C2-E-TEST-0182-174.11/002	yawning reflex	DEP=1C2-E-TEST-0182-174.11005		
+1C2-E-TEST-0182-174.11/003	blood	DEP=1C2-E-TEST-0182-174.11006		
 1C2-E-TEST-0182-174.11/004	oxygen	DEP=1C2-E-TEST-0182-174.11006		
 1C2-E-TEST-0182-174.11/005	triggered			
 1C2-E-TEST-0182-174.11/006	needs	DEP=1C2-E-TEST-0182-174.11005		
 1C2-E-TEST-0182-174.13	Another common theory is that the yawn help regulate our body temperature.			
-1C2-E-TEST-0182-174.13/001	common theory		common theory	
-1C2-E-TEST-0182-174.13/002	help	DEP=1C2-E-TEST-0182-174.13004	help regulate	3
-1C2-E-TEST-0182-174.13/003	body temperature	DEP=1C2-E-TEST-0182-174.13004	body temperature	
+1C2-E-TEST-0182-174.13/001	common theory		Another common theory	2
+1C2-E-TEST-0182-174.13/002	help	DEP=1C2-E-TEST-0182-174.13004	yawn help regulate our body temperature	
+1C2-E-TEST-0182-174.13/003	body temperature	DEP=1C2-E-TEST-0182-174.13004		
 1C2-E-TEST-0182-174.13/004	regulate			
 1C2-E-TEST-0182-174.14	Other hypotheses suggest that the same chemicals in our brain that affect our moods and emotions cause us to yawn.			
-1C2-E-TEST-0182-174.14/001	hypotheses		chemicals	
-1C2-E-TEST-0182-174.14/002	chemicals		brain	
-1C2-E-TEST-0182-174.14/003	brain		affect	4
-1C2-E-TEST-0182-174.14/004	moods emotions	DEP=1C2-E-TEST-0182-174.14005	mood emotions	
+1C2-E-TEST-0182-174.14/001	hypotheses		Other hypotheses suggest 	2
+1C2-E-TEST-0182-174.14/002	chemicals		same chemicals in our brain that affect our moods and emotions cause us to yawn.	
+1C2-E-TEST-0182-174.14/003	brain			
+1C2-E-TEST-0182-174.14/004	moods emotions	DEP=1C2-E-TEST-0182-174.14005		
 1C2-E-TEST-0182-174.14/005	affect	DEP=1C2-E-TEST-0182-174.14003		
 1C2-E-TEST-0182-2.11	"Yawning, then, would be an involuntary reflex (something we can't really control) to help us control our oxygen and carbon dioxide levels."			
-1C2-E-TEST-0182-2.11/001	yawning	DEP=1C2-E-TEST-0182-2.11002	involuntary reflex	
-1C2-E-TEST-0182-2.11/002	involuntary reflex		can't control	1
-1C2-E-TEST-0182-2.11/003	control		help control	4
-1C2-E-TEST-0182-2.11/004	oxygen	DEP=1C2-E-TEST-0182-2.11008	carbon dioxide oxygen levels	
+1C2-E-TEST-0182-2.11/001	yawning	DEP=1C2-E-TEST-0182-2.11002	Yawning  would be an involuntary reflex	
+1C2-E-TEST-0182-2.11/002	involuntary reflex		help us control our oxygen and carbon dioxide levels.	1
+1C2-E-TEST-0182-2.11/003	control		something we can't really control	1
+1C2-E-TEST-0182-2.11/004	oxygen	DEP=1C2-E-TEST-0182-2.11008		
 1C2-E-TEST-0182-2.11/005	carbon dioxide levels	DEP=1C2-E-TEST-0182-2.11004		
 1C2-E-TEST-0182-2.11/006	n't	DEP=1C2-E-TEST-0182-2.11003		
 1C2-E-TEST-0182-2.11/007	help	DEP=1C2-E-TEST-0182-2.11002		
 1C2-E-TEST-0182-2.11/008	control	DEP=1C2-E-TEST-0182-2.11007		
 1C2-E-TEST-0182-2.16	Another theory is that yawning stretches the lungs and lung tissue.			
-1C2-E-TEST-0182-2.16/001	theory		yawning	
-1C2-E-TEST-0182-2.16/002	stretches	DEP=1C2-E-TEST-0182-2.16005	stretches	
-1C2-E-TEST-0182-2.16/003	lungs	DEP=1C2-E-TEST-0182-2.16005	lungs	2
-1C2-E-TEST-0182-2.16/004	lung tissue	DEP=1C2-E-TEST-0182-2.16003	lung tissue	2
+1C2-E-TEST-0182-2.16/001	theory		yawning stretches the lungs and lung tissue.	
+1C2-E-TEST-0182-2.16/002	stretches	DEP=1C2-E-TEST-0182-2.16005		
+1C2-E-TEST-0182-2.16/003	lungs	DEP=1C2-E-TEST-0182-2.16005		
+1C2-E-TEST-0182-2.16/004	lung tissue	DEP=1C2-E-TEST-0182-2.16003		
 1C2-E-TEST-0182-2.16/005	yawning			
 1C2-E-TEST-0182-2.19	"So, if we didn't yawn, according to this theory, taking a deep breath would become harder and harder Ã¢ÂÂ and that would not be good!"			
-1C2-E-TEST-0182-2.19/001	theory		taking deep breath	2
-1C2-E-TEST-0182-2.19/002	deep breath	DEP=1C2-E-TEST-0182-2.19005	harder	
+1C2-E-TEST-0182-2.19/001	theory		" if we didn't yawn, taking a deep breath would become harder and harder"	
+1C2-E-TEST-0182-2.19/002	deep breath	DEP=1C2-E-TEST-0182-2.19005		
 1C2-E-TEST-0182-2.19/003	did			
 1C2-E-TEST-0182-2.19/004	n't			
 1C2-E-TEST-0182-2.19/005	taking	DEP=1C2-E-TEST-0182-2.19008		
@@ -97,28 +97,28 @@
 1C2-E-TEST-0182-2.19/008	â			
 1C2-E-TEST-0182-2.19/009	good	DEP=1C2-E-TEST-0182-2.19008		
 1C2-E-TEST-0182-2.8	"One is that when we are bored or tired, we just don't breathe as deeply as we usually do."			
-1C2-E-TEST-0182-2.8/001	bored	DEP=1C2-E-TEST-0182-2.8004	bored	3
-1C2-E-TEST-0182-2.8/002	tired	DEP=1C2-E-TEST-0182-2.8001	tired	3
-1C2-E-TEST-0182-2.8/003	n't	DEP=1C2-E-TEST-0182-2.8004	don't breathe deeply	
+1C2-E-TEST-0182-2.8/001	bored	DEP=1C2-E-TEST-0182-2.8004	when we are bored or tired	
+1C2-E-TEST-0182-2.8/002	tired	DEP=1C2-E-TEST-0182-2.8001	 we just don't breathe as deeply as we usually do.	1
+1C2-E-TEST-0182-2.8/003	n't	DEP=1C2-E-TEST-0182-2.8004		
 1C2-E-TEST-0182-2.8/004	breathe			
 1C2-E-TEST-0182-2.8/005	deeply			
 1C2-E-TEST-0182-2.8/006	usually			
 1C2-E-TEST-0182-221.13	[9] Yawns are often accompanied by the urge to stretch.			
-1C2-E-TEST-0182-221.13/001	urge		accompanied	2
-1C2-E-TEST-0182-221.13/002	stretch		urge stretch	
+1C2-E-TEST-0182-221.13/001	urge		Yawns are often accompanied by the urge to stretch	
+1C2-E-TEST-0182-221.13/002	stretch			
 1C2-E-TEST-0182-221.13/003	9	DEP=1C2-E-TEST-0182-221.13004		
 1C2-E-TEST-0182-221.13/004	yawns	DEP=1C2-E-TEST-0182-221.13005		
 1C2-E-TEST-0182-221.13/005	accompanied			
 1C2-E-TEST-0182-221.30	"Similarly, a study by Jared Guttmann at Worcester Polytechnic Institute found that when a subject wearing earplugs yawned, a breeze is heard caused by the flux of the air moving between the subject's ear and the environment."			
-1C2-E-TEST-0182-221.30/001	study	DEP=1C2-E-TEST-0182-221.30011	jared guttmann	2
-1C2-E-TEST-0182-221.30/002	jared guttmann		worcester polytechnic institute	3
-1C2-E-TEST-0182-221.30/003	worcester polytechnic institute		found	
-1C2-E-TEST-0182-221.30/004	subject wearing earplugs	DEP=1C2-E-TEST-0182-221.30012	subject wearing earplugs	5
-1C2-E-TEST-0182-221.30/005	breeze	DEP=1C2-E-TEST-0182-221.30013	yawned	6
-1C2-E-TEST-0182-221.30/006	flux		breeze heard	
-1C2-E-TEST-0182-221.30/007	air		flux air	8
-1C2-E-TEST-0182-221.30/008	subject	DEP=1C2-E-TEST-0182-221.30016	moving between	9
-1C2-E-TEST-0182-221.30/009	environment	DEP=1C2-E-TEST-0182-221.30016	subject ear environment	
+1C2-E-TEST-0182-221.30/001	study	DEP=1C2-E-TEST-0182-221.30011	study by Jared Guttmann at Worcester Polytechnic Institute	2
+1C2-E-TEST-0182-221.30/002	jared guttmann		"when a subject wearing earplugs yawned, a breeze is heard"	
+1C2-E-TEST-0182-221.30/003	worcester polytechnic institute		breeze heard is caused by the flux of the air moving between the subject's ear and the environment	2
+1C2-E-TEST-0182-221.30/004	subject wearing earplugs	DEP=1C2-E-TEST-0182-221.30012		
+1C2-E-TEST-0182-221.30/005	breeze	DEP=1C2-E-TEST-0182-221.30013		
+1C2-E-TEST-0182-221.30/006	flux			
+1C2-E-TEST-0182-221.30/007	air			
+1C2-E-TEST-0182-221.30/008	subject	DEP=1C2-E-TEST-0182-221.30016		
+1C2-E-TEST-0182-221.30/009	environment	DEP=1C2-E-TEST-0182-221.30016		
 1C2-E-TEST-0182-221.30/010	similarly	DEP=1C2-E-TEST-0182-221.30011		
 1C2-E-TEST-0182-221.30/011	found			
 1C2-E-TEST-0182-221.30/012	yawned	DEP=1C2-E-TEST-0182-221.30013		
@@ -127,31 +127,31 @@
 1C2-E-TEST-0182-221.30/015	moving	DEP=1C2-E-TEST-0182-221.30007		
 1C2-E-TEST-0182-221.30/016	ear			
 1C2-E-TEST-0182-221.43	"It indicates an appreciation of other people's behavioral and physiological state."" said Garrett."			
-1C2-E-TEST-0182-221.43/001	appreciation	DEP=1C2-E-TEST-0182-221.43004	indicates	2
-1C2-E-TEST-0182-221.43/002	people	DEP=1C2-E-TEST-0182-221.43007	appreciation	3
-1C2-E-TEST-0182-221.43/003	garrett		people	6
-1C2-E-TEST-0182-221.43/004	indicates		behavioral	3
-1C2-E-TEST-0182-221.43/005	behavioral	DEP=1C2-E-TEST-0182-221.43007	physiological	3
-1C2-E-TEST-0182-221.43/006	physiological	DEP=1C2-E-TEST-0182-221.43005	state	
+1C2-E-TEST-0182-221.43/001	appreciation	DEP=1C2-E-TEST-0182-221.43004	It indicates an appreciation of other people's behavioral and physiological state.	
+1C2-E-TEST-0182-221.43/002	people	DEP=1C2-E-TEST-0182-221.43007	said Garrett	1
+1C2-E-TEST-0182-221.43/003	garrett			
+1C2-E-TEST-0182-221.43/004	indicates			
+1C2-E-TEST-0182-221.43/005	behavioral	DEP=1C2-E-TEST-0182-221.43007		
+1C2-E-TEST-0182-221.43/006	physiological	DEP=1C2-E-TEST-0182-221.43005		
 1C2-E-TEST-0182-221.43/007	state			
 1C2-E-TEST-0182-221.47	It is also possible that yawning is a less potent territorial reflex.			
-1C2-E-TEST-0182-221.47/001	yawning	DEP=1C2-E-TEST-0182-221.47003	yawning	2
-1C2-E-TEST-0182-221.47/002	possible		less potent territorial reflex	
+1C2-E-TEST-0182-221.47/001	yawning	DEP=1C2-E-TEST-0182-221.47003	yawning is a less potent territorial reflex.	
+1C2-E-TEST-0182-221.47/002	possible			
 1C2-E-TEST-0182-221.47/003	potent	DEP=1C2-E-TEST-0182-221.47002		
 1C2-E-TEST-0182-221.47/004	territorial	DEP=1C2-E-TEST-0182-221.47005		
 1C2-E-TEST-0182-221.47/005	reflex	DEP=1C2-E-TEST-0182-221.47003		
 1C2-E-TEST-0182-221.56	The yawn reflex has long been observed to be contagious.			
-1C2-E-TEST-0182-221.56/001	reflex		reflex	3
-1C2-E-TEST-0182-221.56/002	long	DEP=1C2-E-TEST-0182-221.56003	observed	
-1C2-E-TEST-0182-221.56/003	observed		contagious	
+1C2-E-TEST-0182-221.56/001	reflex		The yawn reflex has long been observed to be contagious.	
+1C2-E-TEST-0182-221.56/002	long	DEP=1C2-E-TEST-0182-221.56003		
+1C2-E-TEST-0182-221.56/003	observed			
 1C2-E-TEST-0182-221.56/004	contagious	DEP=1C2-E-TEST-0182-221.56003		
 1C2-E-TEST-0182-221.60	"[8] [24] Observing another person's yawning face (especially his/her eyes), even reading, or thinking about yawning, or looking at a yawning picture can cause a person to yawn."			
-1C2-E-TEST-0182-221.60/001	24	DEP=1C2-E-TEST-0182-221.60006	observing	6
-1C2-E-TEST-0182-221.60/002	person	DEP=1C2-E-TEST-0182-221.60009	person	1
-1C2-E-TEST-0182-221.60/003	his\/her eyes	DEP=1C2-E-TEST-0182-221.60009	reading	6
-1C2-E-TEST-0182-221.60/004	yawning picture		thinking	6
-1C2-E-TEST-0182-221.60/005	person	DEP=1C2-E-TEST-0182-221.60015	looking yawning picture	6
-1C2-E-TEST-0182-221.60/006	8	DEP=1C2-E-TEST-0182-221.60015	cause	
+1C2-E-TEST-0182-221.60/001	24	DEP=1C2-E-TEST-0182-221.60006	looking at a yawning picture can cause a person to yawn.	
+1C2-E-TEST-0182-221.60/002	person	DEP=1C2-E-TEST-0182-221.60009	"Observing another person's yawning face especially eyes, even reading, or thinking about yawning can cause person to yawn"	
+1C2-E-TEST-0182-221.60/003	his\/her eyes	DEP=1C2-E-TEST-0182-221.60009		
+1C2-E-TEST-0182-221.60/004	yawning picture			
+1C2-E-TEST-0182-221.60/005	person	DEP=1C2-E-TEST-0182-221.60015		
+1C2-E-TEST-0182-221.60/006	8	DEP=1C2-E-TEST-0182-221.60015		
 1C2-E-TEST-0182-221.60/007	observing	DEP=1C2-E-TEST-0182-221.60006		
 1C2-E-TEST-0182-221.60/008	yawning	DEP=1C2-E-TEST-0182-221.60009		
 1C2-E-TEST-0182-221.60/009	face	DEP=1C2-E-TEST-0182-221.60007		
@@ -162,25 +162,25 @@
 1C2-E-TEST-0182-221.60/014	looking	DEP=1C2-E-TEST-0182-221.60013		
 1C2-E-TEST-0182-221.60/015	cause			
 1C2-E-TEST-0182-221.93	"This is often accompanied by teeth chattering, purring and scent marking."			
-1C2-E-TEST-0182-221.93/001	teeth		accompanied	
-1C2-E-TEST-0182-221.93/002	accompanied		teeth chattering	1
-1C2-E-TEST-0182-221.93/003	chattering	DEP=1C2-E-TEST-0182-221.93002	purring	1
-1C2-E-TEST-0182-221.93/004	purring	DEP=1C2-E-TEST-0182-221.93003	scent marking	1
+1C2-E-TEST-0182-221.93/001	teeth		"often accompanied by teeth chattering, purring and scent marking."	
+1C2-E-TEST-0182-221.93/002	accompanied			
+1C2-E-TEST-0182-221.93/003	chattering	DEP=1C2-E-TEST-0182-221.93002		
+1C2-E-TEST-0182-221.93/004	purring	DEP=1C2-E-TEST-0182-221.93003		
 1C2-E-TEST-0182-221.93/005	scent	DEP=1C2-E-TEST-0182-221.93002		
 1C2-E-TEST-0182-221.93/006	marking	DEP=1C2-E-TEST-0182-221.93005		
 1C2-E-TEST-0182-221.99	Dogs often yawn after seeing people yawn and when they are confused.			
-1C2-E-TEST-0182-221.99/001	dogs		dogs	
-1C2-E-TEST-0182-221.99/002	people		seeing people	
-1C2-E-TEST-0182-221.99/003	confused		confused	
+1C2-E-TEST-0182-221.99/001	dogs		Dogs often yawn when they are confused	
+1C2-E-TEST-0182-221.99/002	people		dogs often yawn after seeing people yawn	
+1C2-E-TEST-0182-221.99/003	confused			
 1C2-E-TEST-0182-253.10	Yawning then is the central nervous system 's command so that the body can take in lots of oxygen and give off carbon dioxide to maintain balance or normal levels of gas exchange in the blood.			
-1C2-E-TEST-0182-253.10/001	central nervous system	DEP=1C2-E-TEST-0182-253.10010	yawning	
-1C2-E-TEST-0182-253.10/002	body	DEP=1C2-E-TEST-0182-253.10011	central nervous system command	
-1C2-E-TEST-0182-253.10/003	lots	DEP=1C2-E-TEST-0182-253.10011	take in oxygen	2
-1C2-E-TEST-0182-253.10/004	oxygen		give off carbon dioxide	2
-1C2-E-TEST-0182-253.10/005	carbon dioxide	DEP=1C2-E-TEST-0182-253.10012	maintain balance	7
-1C2-E-TEST-0182-253.10/006	balance normal	DEP=1C2-E-TEST-0182-253.10014	normal levels	7
-1C2-E-TEST-0182-253.10/007	gas exchange		gas exchange	8
-1C2-E-TEST-0182-253.10/008	blood		blood	
+1C2-E-TEST-0182-253.10/001	central nervous system	DEP=1C2-E-TEST-0182-253.10010	Yawning is the central nervous system 's command so that the body can take in lots of oxygen	
+1C2-E-TEST-0182-253.10/002	body	DEP=1C2-E-TEST-0182-253.10011	Yawning is the central nervous system 's command so that body can give off carbon dioxide 	
+1C2-E-TEST-0182-253.10/003	lots	DEP=1C2-E-TEST-0182-253.10011	Yawning is the central nervous system 's command so that body can  maintain balance or normal levels of gas exchange in the blood.	
+1C2-E-TEST-0182-253.10/004	oxygen			
+1C2-E-TEST-0182-253.10/005	carbon dioxide	DEP=1C2-E-TEST-0182-253.10012		
+1C2-E-TEST-0182-253.10/006	balance normal	DEP=1C2-E-TEST-0182-253.10014		
+1C2-E-TEST-0182-253.10/007	gas exchange			
+1C2-E-TEST-0182-253.10/008	blood			
 1C2-E-TEST-0182-253.10/009	yawning	DEP=1C2-E-TEST-0182-253.10010		
 1C2-E-TEST-0182-253.10/010	command			
 1C2-E-TEST-0182-253.10/011	take	DEP=1C2-E-TEST-0182-253.10010		
@@ -188,84 +188,84 @@
 1C2-E-TEST-0182-253.10/013	maintain	DEP=1C2-E-TEST-0182-253.10012		
 1C2-E-TEST-0182-253.10/014	levels	DEP=1C2-E-TEST-0182-253.10013		
 1C2-E-TEST-0182-253.11	When a person yawns he is taking in a lot of oxygen and get rids of carbon dioxide.			
-1C2-E-TEST-0182-253.11/001	person	DEP=1C2-E-TEST-0182-253.11006	taking in	2
-1C2-E-TEST-0182-253.11/002	lot	DEP=1C2-E-TEST-0182-253.11007	oxygen	
-1C2-E-TEST-0182-253.11/003	oxygen		rids	4
-1C2-E-TEST-0182-253.11/004	rids		carbon dioxide	
+1C2-E-TEST-0182-253.11/001	person	DEP=1C2-E-TEST-0182-253.11006	When a person yawns he is taking in a lot of oxygen	
+1C2-E-TEST-0182-253.11/002	lot	DEP=1C2-E-TEST-0182-253.11007	get rids of carbon dioxide	1
+1C2-E-TEST-0182-253.11/003	oxygen			
+1C2-E-TEST-0182-253.11/004	rids			
 1C2-E-TEST-0182-253.11/005	carbon dioxide			
 1C2-E-TEST-0182-253.11/006	yawns	DEP=1C2-E-TEST-0182-253.11007		
 1C2-E-TEST-0182-253.11/007	taking			
 1C2-E-TEST-0182-253.13	It looks like yawning is contagious but I really have no idea at this point.			
-1C2-E-TEST-0182-253.13/001	yawning	DEP=1C2-E-TEST-0182-253.13005	contagious	
+1C2-E-TEST-0182-253.13/001	yawning	DEP=1C2-E-TEST-0182-253.13005	yawning is contagious	
 1C2-E-TEST-0182-253.13/002	idea			
 1C2-E-TEST-0182-253.13/003	point			
 1C2-E-TEST-0182-253.13/004	looks			
 1C2-E-TEST-0182-253.13/005	contagious	DEP=1C2-E-TEST-0182-253.13004		
 1C2-E-TEST-0182-3.18	Paratroopers have been noted to yawn in the moments before they exit the aircraft.			
-1C2-E-TEST-0182-3.18/001	paratroopers	DEP=1C2-E-TEST-0182-3.18004	paratroopers	2
-1C2-E-TEST-0182-3.18/002	moments		moments before exit aircraft	
+1C2-E-TEST-0182-3.18/001	paratroopers	DEP=1C2-E-TEST-0182-3.18004	Paratroopers have been noted to yawn in the moments before they exit the aircraft.	
+1C2-E-TEST-0182-3.18/002	moments			
 1C2-E-TEST-0182-3.18/003	aircraft			
 1C2-E-TEST-0182-3.18/004	noted			
 1C2-E-TEST-0182-3.22	Another notion states that yawning is the body's way of controlling brain temperature.			
-1C2-E-TEST-0182-3.22/001	notion	DEP=1C2-E-TEST-0182-3.22005	body way	2
-1C2-E-TEST-0182-3.22/002	yawning	DEP=1C2-E-TEST-0182-3.22006	controlling braing temperature	
+1C2-E-TEST-0182-3.22/001	notion	DEP=1C2-E-TEST-0182-3.22005	yawning is the body's way of controlling brain temperature.	
+1C2-E-TEST-0182-3.22/002	yawning	DEP=1C2-E-TEST-0182-3.22006		
 1C2-E-TEST-0182-3.22/003	body	DEP=1C2-E-TEST-0182-3.22006		
 1C2-E-TEST-0182-3.22/004	controlling brain temperature			
 1C2-E-TEST-0182-3.22/005	states			
 1C2-E-TEST-0182-3.22/006	way	DEP=1C2-E-TEST-0182-3.22005		
 1C2-E-TEST-0182-3.29	"Another hypothesis is that yawns are caused by the same chemicals (neurotransmitters) in the brain that affect emotions , mood , appetite , and other phenomena."			
-1C2-E-TEST-0182-3.29/001	hypothesis		caused	2
-1C2-E-TEST-0182-3.29/002	yawns	DEP=1C2-E-TEST-0182-3.29010	chemicals	5
-1C2-E-TEST-0182-3.29/003	chemicals		neurotransmitters	2
-1C2-E-TEST-0182-3.29/004	neurotransmitters	DEP=1C2-E-TEST-0182-3.29003	brain	
-1C2-E-TEST-0182-3.29/005	brain		affect	
-1C2-E-TEST-0182-3.29/006	emotions		emotions	5
-1C2-E-TEST-0182-3.29/007	mood	DEP=1C2-E-TEST-0182-3.29006	mood	5
-1C2-E-TEST-0182-3.29/008	appetite	DEP=1C2-E-TEST-0182-3.29006	appetite	5
-1C2-E-TEST-0182-3.29/009	phenomena	DEP=1C2-E-TEST-0182-3.29006	phenomena	
+1C2-E-TEST-0182-3.29/001	hypothesis		Another hypothesis is that yawns are caused by the same chemicals neurotransmitters in the brain 	
+1C2-E-TEST-0182-3.29/002	yawns	DEP=1C2-E-TEST-0182-3.29010	"chemicals in the brain that affect emotions , mood , appetite , and other phenomena"	1
+1C2-E-TEST-0182-3.29/003	chemicals			
+1C2-E-TEST-0182-3.29/004	neurotransmitters	DEP=1C2-E-TEST-0182-3.29003		
+1C2-E-TEST-0182-3.29/005	brain			
+1C2-E-TEST-0182-3.29/006	emotions			
+1C2-E-TEST-0182-3.29/007	mood	DEP=1C2-E-TEST-0182-3.29006		
+1C2-E-TEST-0182-3.29/008	appetite	DEP=1C2-E-TEST-0182-3.29006		
+1C2-E-TEST-0182-3.29/009	phenomena	DEP=1C2-E-TEST-0182-3.29006		
 1C2-E-TEST-0182-3.29/010	caused			
 1C2-E-TEST-0182-3.32	"Conversely, a greater presence in the brain of opioid neurotransmitters such as endorphins reduces the frequency of yawning."			
-1C2-E-TEST-0182-3.32/001	greater presence	DEP=1C2-E-TEST-0182-3.32008	greater presence	3
-1C2-E-TEST-0182-3.32/002	brain		brain	
-1C2-E-TEST-0182-3.32/003	opioid neurotransmitters		opioid neurotransmitters	5
-1C2-E-TEST-0182-3.32/004	endorphins		endorphins	3
-1C2-E-TEST-0182-3.32/005	frequency	DEP=1C2-E-TEST-0182-3.32008	reduces frequency	6
-1C2-E-TEST-0182-3.32/006	yawning		yawning	
+1C2-E-TEST-0182-3.32/001	greater presence	DEP=1C2-E-TEST-0182-3.32008	greater presence in the brain of opioid neurotransmitters reduces the frequency of yawning.	
+1C2-E-TEST-0182-3.32/002	brain		opioid neurotransmitters such as endorphins	1
+1C2-E-TEST-0182-3.32/003	opioid neurotransmitters			
+1C2-E-TEST-0182-3.32/004	endorphins			
+1C2-E-TEST-0182-3.32/005	frequency	DEP=1C2-E-TEST-0182-3.32008		
+1C2-E-TEST-0182-3.32/006	yawning			
 1C2-E-TEST-0182-3.32/007	conversely	DEP=1C2-E-TEST-0182-3.32008		
 1C2-E-TEST-0182-3.32/008	reduces			
 1C2-E-TEST-0182-3.55	"[22] Often, if one person yawns, this may cause another person to ""empathetically"" yawn."			
-1C2-E-TEST-0182-3.55/001	person	DEP=1C2-E-TEST-0182-3.55005	cause	2
-1C2-E-TEST-0182-3.55/002	person		empathetically	
+1C2-E-TEST-0182-3.55/001	person	DEP=1C2-E-TEST-0182-3.55005	"one person may cause another person to ""empathetically"" yawn."	
+1C2-E-TEST-0182-3.55/002	person			
 1C2-E-TEST-0182-3.55/003	empathetically			
 1C2-E-TEST-0182-3.55/004	22	DEP=1C2-E-TEST-0182-3.55006		
 1C2-E-TEST-0182-3.55/005	yawns	DEP=1C2-E-TEST-0182-3.55006		
 1C2-E-TEST-0182-3.55/006	cause			
 1C2-E-TEST-0182-3.81	"A recent study by the University of London has suggested that the ""contagiousness"" of yawns by a human will pass to dogs."			
-1C2-E-TEST-0182-3.81/001	recent study	DEP=1C2-E-TEST-0182-3.81008	recent study	
-1C2-E-TEST-0182-3.81/002	university		university london	
-1C2-E-TEST-0182-3.81/003	london		suggested	
-1C2-E-TEST-0182-3.81/004	contagiousness	DEP=1C2-E-TEST-0182-3.81009	contagiousness	5
-1C2-E-TEST-0182-3.81/005	yawns		human	6
-1C2-E-TEST-0182-3.81/006	human		pass	7
-1C2-E-TEST-0182-3.81/007	dogs		dogs	
+1C2-E-TEST-0182-3.81/001	recent study	DEP=1C2-E-TEST-0182-3.81008	recent study by the University of London has suggested	2
+1C2-E-TEST-0182-3.81/002	university		contagiousness of yawns by a human will pass to dogs.	
+1C2-E-TEST-0182-3.81/003	london			
+1C2-E-TEST-0182-3.81/004	contagiousness	DEP=1C2-E-TEST-0182-3.81009		
+1C2-E-TEST-0182-3.81/005	yawns			
+1C2-E-TEST-0182-3.81/006	human			
+1C2-E-TEST-0182-3.81/007	dogs			
 1C2-E-TEST-0182-3.81/008	suggested			
 1C2-E-TEST-0182-3.81/009	pass	DEP=1C2-E-TEST-0182-3.81008		
 1C2-E-TEST-0182-3.85	"In animals, yawning can serve as a warning signal."			
-1C2-E-TEST-0182-3.85/001	animals		animals	
-1C2-E-TEST-0182-3.85/002	yawning	DEP=1C2-E-TEST-0182-3.85004	yawning	4
-1C2-E-TEST-0182-3.85/003	warning signal		warning signal	
-1C2-E-TEST-0182-3.85/004	serve		serve	3
+1C2-E-TEST-0182-3.85/001	animals		"In animals, yawning can serve as a warning signal."	
+1C2-E-TEST-0182-3.85/002	yawning	DEP=1C2-E-TEST-0182-3.85004		
+1C2-E-TEST-0182-3.85/003	warning signal			
+1C2-E-TEST-0182-3.85/004	serve			
 1C2-E-TEST-0182-3.90	Adelie Penguins employ yawning as part of their courtship ritual.			
-1C2-E-TEST-0182-3.90/001	adelie penguins		adelie penguins	2
-1C2-E-TEST-0182-3.90/002	part		employ yawning	3
-1C2-E-TEST-0182-3.90/003	courtship ritual		courtship ritual	
+1C2-E-TEST-0182-3.90/001	adelie penguins		Adelie Penguins employ yawning as part of their courtship ritual.	
+1C2-E-TEST-0182-3.90/002	part			
+1C2-E-TEST-0182-3.90/003	courtship ritual			
 1C2-E-TEST-0182-3.90/004	yawning			
 1C2-E-TEST-0182-3.91	"Penguin couples face off and the males engage in what is described as an ""ecstatic display,"" opening their beaks and pointing their faces skyward."			
-1C2-E-TEST-0182-3.91/001	penguin couples		penguin couples	
-1C2-E-TEST-0182-3.91/002	males		males engage	3
-1C2-E-TEST-0182-3.91/003	ecstatic display		esctatic display	
-1C2-E-TEST-0182-3.91/004	beaks	DEP=1C2-E-TEST-0182-3.91007	opening beaks	3
-1C2-E-TEST-0182-3.91/005	faces	DEP=1C2-E-TEST-0182-3.91008	pointing faces skyward	3
+1C2-E-TEST-0182-3.91/001	penguin couples		Penguin couples face off 	2
+1C2-E-TEST-0182-3.91/002	males		the males open their beaks and point their faces skyward.	
+1C2-E-TEST-0182-3.91/003	ecstatic display		descrive as an ecstatic display	2
+1C2-E-TEST-0182-3.91/004	beaks	DEP=1C2-E-TEST-0182-3.91007		
+1C2-E-TEST-0182-3.91/005	faces	DEP=1C2-E-TEST-0182-3.91008		
 1C2-E-TEST-0182-3.91/006	described			
 1C2-E-TEST-0182-3.91/007	opening	DEP=1C2-E-TEST-0182-3.91003		
 1C2-E-TEST-0182-3.91/008	pointing	DEP=1C2-E-TEST-0182-3.91007		
