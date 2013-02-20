@@ -18,7 +18,7 @@
 1C2-E-TEST-0065-1.5/012	won	DEP=1C2-E-TEST-0065-1.5011		
 1C2-E-TEST-0065-1.5/013	truly	DEP=1C2-E-TEST-0065-1.5014		
 1C2-E-TEST-0065-1.5/014	went	DEP=1C2-E-TEST-0065-1.5010		
-1C2-E-TEST-0065-124.11	"Steelers Mimic of Aaron RodgersÉÇÑ Championship Belt Celebration During Game: In case you arenÉÇÑt aware of AaronÉÇÑs trademark celebration, you can see a clip here .ÉÇÇ† I think itÉÇÑs pretty awesome.ÉÇÇ† Some players on opposing teams have imitated this celebration on occasion (for instance, when Rodgers is sacked), which leads to this prop bet.ÉÇÇ† I donÉÇÑt think there will be much reason for anyone on the Steelers to be doing this tomorrow, which is why IÉÇÑm taking the big no on this one.ÉÇÇ† This concludes my proposition analysis and leads me to my actual pick for the game:"			
+1C2-E-TEST-0065-124.11	"Steelers Mimic of Aaron RodgersÇÑ Championship Belt Celebration During Game: In case you arenÇÑt aware of AaronÇÑs trademark celebration, you can see a clip here .ÇÇ† I think itÇÑs pretty awesome.ÇÇ† Some players on opposing teams have imitated this celebration on occasion (for instance, when Rodgers is sacked), which leads to this prop bet.ÇÇ† I donÇÑt think there will be much reason for anyone on the Steelers to be doing this tomorrow, which is why IÇÑm taking the big no on this one.ÇÇ† This concludes my proposition analysis and leads me to my actual pick for the game:"			
 1C2-E-TEST-0065-124.11/001	steelers mimic		aarons trademark celebration pretty awesome	
 1C2-E-TEST-0065-124.11/002	rodgers cents		players on opposing teams have imitated this celebration on occasion	
 1C2-E-TEST-0065-124.11/003		DEP=1C2-E-TEST-0065-124.11004	not much reason for anyone on the Steelers to be doing this tomorrow	2
@@ -73,12 +73,12 @@
 1C2-E-TEST-0065-124.11/052	taking	DEP=1C2-E-TEST-0065-124.11051		
 1C2-E-TEST-0065-124.11/053	concludes			
 1C2-E-TEST-0065-124.11/054	leads	DEP=1C2-E-TEST-0065-124.11053		
-1C2-E-TEST-0065-36.2	"Packers QB Aaron Rodgers enjoys celebrating his touchdowns by securing an invisible wrestling belt around his waist. On Super Bowl Sunday, should the quarterback find himself in the endzone, his touchdown celebration will have more substance. Rodgers became the WWE champion on MondayÉÇÑs edition of ÉÇÖìRawÉÇÇù after defeating The Miz in a no-disqualification match. The quarterback pinned the former champion after an assist from John Cena."			
+1C2-E-TEST-0065-36.2	"Packers QB Aaron Rodgers enjoys celebrating his touchdowns by securing an invisible wrestling belt around his waist. On Super Bowl Sunday, should the quarterback find himself in the endzone, his touchdown celebration will have more substance. Rodgers became the WWE champion on MondayÇÑs edition of ÇÖìRawÇÇù after defeating The Miz in a no-disqualification match. The quarterback pinned the former champion after an assist from John Cena."			
 1C2-E-TEST-0065-36.2/001	packers qb		packers qb aaron rodgers enjoys celebrating touchdowns	
 1C2-E-TEST-0065-36.2/002	touchdowns	DEP=1C2-E-TEST-0065-36.2025	celebrating his touchdowns by securing an invisible wrestling belt around his waist	1
 1C2-E-TEST-0065-36.2/003	invisible wrestling		"should the quaterback find himself in endzone, celebration will have more substance"	
 1C2-E-TEST-0065-36.2/004	waist		on super bowl Sunday	3
-1C2-E-TEST-0065-36.2/005	super bowl sunday		Rodgers became the WWE champion on MondayÉÇÑs edition of ÉÇÖìRawÉÇÇù	
+1C2-E-TEST-0065-36.2/005	super bowl sunday		Rodgers became the WWE champion on MondayÇÑs edition of ÇÖìRawÇÇù	
 1C2-E-TEST-0065-36.2/006	quarterback	DEP=1C2-E-TEST-0065-36.2027	became champion after defeating the miz in no-disqualifications match	5
 1C2-E-TEST-0065-36.2/007	endzone		quaterback pinned former champion after assist from John Cena	5
 1C2-E-TEST-0065-36.2/008	touchdown			
@@ -105,7 +105,7 @@
 1C2-E-TEST-0065-36.2/029	defeating			
 1C2-E-TEST-0065-36.2/030	pinned	DEP=1C2-E-TEST-0065-36.2024		
 1C2-E-TEST-0065-36.2/031	assist	DEP=1C2-E-TEST-0065-36.2030		
-1C2-E-TEST-0065-4.6	"The dance, which consists of Rodgers strapping on an imaginary championship belt (whether itÉÇÑs a boxerÉÇÑs belt or a wrestlerÉÇÑs belt remains unclear) has been featured heavily this season."			
+1C2-E-TEST-0065-4.6	"The dance, which consists of Rodgers strapping on an imaginary championship belt (whether itÇÑs a boxerÇÑs belt or a wrestlerÇÑs belt remains unclear) has been featured heavily this season."			
 1C2-E-TEST-0065-4.6/001	dance	DEP=1C2-E-TEST-0065-4.6020	dance consists of rodgers strapping imaginary championship belt	
 1C2-E-TEST-0065-4.6/002	imaginary championship		featured heavily this season	1
 1C2-E-TEST-0065-4.6/003	it cents		whether belt is a boxers belt or wrestlers belt unclear	1
@@ -128,7 +128,7 @@
 1C2-E-TEST-0065-4.6/020	featured			
 1C2-E-TEST-0065-4.6/021	heavily	DEP=1C2-E-TEST-0065-4.6020		
 1C2-E-TEST-0065-4.6/022	season	DEP=1C2-E-TEST-0065-4.6020		
-1C2-E-TEST-0065-7.2	"Thanks to 28 touchdown passes and four touchdown runs, football fans everywhere were able to become awfully familiar with Aaron RodgersÉÇÑ ÉÇÖìchampionship beltÉÇÇù touchdown celebration.ÉÇÇ† By the time he was lifting the Lombardi Trophy following a 31-25 victory over the Pittsburgh Steelers at Super Bowl XLV, everyone knew the meaning behind the two-handed gesture that the Packers quarterback was often seen making just above his crotch area.ÉÇÇ† However, when A-Rod first broke out the celebration, not everyone was on the same page as him, including Packers head coach Mike McCarthy."			
+1C2-E-TEST-0065-7.2	"Thanks to 28 touchdown passes and four touchdown runs, football fans everywhere were able to become awfully familiar with Aaron RodgersÇÑ ÇÖìchampionship beltÇÇù touchdown celebration.ÇÇ† By the time he was lifting the Lombardi Trophy following a 31-25 victory over the Pittsburgh Steelers at Super Bowl XLV, everyone knew the meaning behind the two-handed gesture that the Packers quarterback was often seen making just above his crotch area.ÇÇ† However, when A-Rod first broke out the celebration, not everyone was on the same page as him, including Packers head coach Mike McCarthy."			
 1C2-E-TEST-0065-7.2/001	thanks	DEP=1C2-E-TEST-0065-7.2028	thanks to 28 touchdown passes and four touchdown runs	2
 1C2-E-TEST-0065-7.2/002	28 touchdown		football fans able to become familiar with touchdown celebration	1
 1C2-E-TEST-0065-7.2/003	four touchdown runs	DEP=1C2-E-TEST-0065-7.2029	everyone knew meaning behing two-handed gesture	
@@ -165,7 +165,7 @@
 1C2-E-TEST-0065-7.2/034	knew	DEP=1C2-E-TEST-0065-7.2012		
 1C2-E-TEST-0065-7.2/035	making			
 1C2-E-TEST-0065-7.2/036	broke			
-1C2-E-TEST-0065-7.3	"According to McCarthy, Rodgers first broke out the celebration in practice, at which time he believe it had some sort of sexual connotation behind it.ÉÇÇ† After realizing what Rodgers hands were being wrapped around an imaginary belt, and not an imaginary woman, the Super Bowl MVP was free to flaunt his belt whenever and wherever he wished."			
+1C2-E-TEST-0065-7.3	"According to McCarthy, Rodgers first broke out the celebration in practice, at which time he believe it had some sort of sexual connotation behind it.ÇÇ† After realizing what Rodgers hands were being wrapped around an imaginary belt, and not an imaginary woman, the Super Bowl MVP was free to flaunt his belt whenever and wherever he wished."			
 1C2-E-TEST-0065-7.3/001	mccarthy		rodgers first broke out the celebration in practice	
 1C2-E-TEST-0065-7.3/002	practice		mccarthy believed it had some sort of sexual connotation	
 1C2-E-TEST-0065-7.3/003	sort		after realizing hands wrapper around imaginary belt and not woman	4
@@ -182,7 +182,7 @@
 1C2-E-TEST-0065-7.3/014	free	DEP=1C2-E-TEST-0065-7.3005		
 1C2-E-TEST-0065-7.3/015	flaunt	DEP=1C2-E-TEST-0065-7.3014	wished	
 1C2-E-TEST-0065-7.3/016	wished	DEP=1C2-E-TEST-0065-7.3015		
-1C2-E-TEST-0065-8.5	"To celebrate the Green Bay Packers playing in Super Bowl XLV on February 6, 2011, the picture (above) shows Aaron RodgersÉÇÑ Championship Belt pose."			
+1C2-E-TEST-0065-8.5	"To celebrate the Green Bay Packers playing in Super Bowl XLV on February 6, 2011, the picture (above) shows Aaron RodgersÇÑ Championship Belt pose."			
 1C2-E-TEST-0065-8.5/001	green bay packers	DEP=1C2-E-TEST-0065-8.5008	celebrate green bay packers playing in super bowl xlv	3
 1C2-E-TEST-0065-8.5/002	super bowl xlv		on february 6 2011	1
 1C2-E-TEST-0065-8.5/003	2/6/2011		picture shows aaron rodgers championship belt pose	

@@ -41,7 +41,7 @@
 1C2-E-TEST-0148-1.38/001	flour baking		can be used in wheat-free gluten-free baking	
 1C2-E-TEST-0148-1.38/002	wheat-free			
 1C2-E-TEST-0148-1.38/003	gluten-free			
-1C2-E-TEST-0148-1.41	"[25] In fact, quinoa has a notably short germination period: Only 2‚‚“4 hours resting in a glass of clean water is enough to make it sprout and release gases, as opposed to, e.g., 12 hours with wheat.[ citation needed ] This process, besides its nutritional enhancements, softens the grains, making them suitable to be added to salads and other cold foods."			
+1C2-E-TEST-0148-1.41	"[25] In fact, quinoa has a notably short germination period: Only 2 4 hours resting in a glass of clean water is enough to make it sprout and release gases, as opposed to, e.g., 12 hours with wheat.[ citation needed ] This process, besides its nutritional enhancements, softens the grains, making them suitable to be added to salads and other cold foods."			
 1C2-E-TEST-0148-1.41/001	short germination 		has a short germination period	
 1C2-E-TEST-0148-1.41/002	period	DEP=1C2-E-TEST-0148-1.41001	only 4 hours resting in a glass of clean water is enough to make it sprout and release gas	
 1C2-E-TEST-0148-1.41/003	24 hours water	DEP=1C2-E-TEST-0148-1.41004	12 hours with wheat	2
@@ -71,7 +71,7 @@
 1C2-E-TEST-0148-130.53/007	rinsing running water	DEP=1C2-E-TEST-0148-130.53005		
 1C2-E-TEST-0148-130.53/008	fine strainer	DEP=1C2-E-TEST-0148-130.53007		
 1C2-E-TEST-0148-130.53/009	cheesecloth	DEP=1C2-E-TEST-0148-130.53007		
-1C2-E-TEST-0148-130.56	"A common cooking method is to treat quinoa much like rice, bringing two cups of water to a boil with one cup of grain, covering at a low simmer and cooking for 14‚‚‚‚‚‚18 minutes or until the germ separates from the seed."			
+1C2-E-TEST-0148-130.56	"A common cooking method is to treat quinoa much like rice, bringing two cups of water to a boil with one cup of grain, covering at a low simmer and cooking for 1418 minutes or until the germ separates from the seed."			
 1C2-E-TEST-0148-130.56/001	common cooking method	DEP=1C2-E-TEST-0148-130.56012	common cooking method is to treat quinoa like rice	
 1C2-E-TEST-0148-130.56/002	treat like rice		two cups of water to boil with one cup of grain	1
 1C2-E-TEST-0148-130.56/003	two cups	DEP=1C2-E-TEST-0148-130.56004	covering at low simmer	1
