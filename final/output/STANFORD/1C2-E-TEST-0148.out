@@ -22,3 +22,72 @@
 1C2-E-TEST-0148-1.37/003	also sold as dry product like corn flakes
 1C2-E-TEST-0148-1.38	Quinoa flour can be used in wheat-free and gluten-free baking.
 1C2-E-TEST-0148-1.38/001	can be used in wheat-free gluten-free baking
+1C2-E-TEST-0148-1.41	"[25] In fact, quinoa has a notably short germination period: Only 2 4 hours resting in a glass of clean water is enough to make it sprout and release gases, as opposed to, e.g., 12 hours with wheat.[ citation needed ] This process, besides its nutritional enhancements, softens the grains, making them suitable to be added to salads and other cold foods."
+1C2-E-TEST-0148-1.41/001	has a short germination period
+1C2-E-TEST-0148-1.41/002	only 4 hours resting in a glass of clean water is enough to make it sprout and release gas
+1C2-E-TEST-0148-1.41/003	12 hours with wheat	DEP=1C2-E-TEST-0148-1.41002
+1C2-E-TEST-0148-1.41/004	germination process nutritional enhancement
+1C2-E-TEST-0148-1.41/005	germination process softens grains making them suitable to salads and other cold foods
+1C2-E-TEST-0148-12.66	Most quinoa used in North America is imported from South America.
+1C2-E-TEST-0148-12.66/001	quinoa used in north america imported from south america
+1C2-E-TEST-0148-130.46	"There have been attempts to lower the saponin content of quinoa through selective breeding to produce sweeter, more palatable varieties."
+1C2-E-TEST-0148-130.46/001	have been attempts to lower saponin content of quinoa to produce sweeter palatable varieties
+1C2-E-TEST-0148-130.46/002	through selective breeding	DEP=1C2-E-TEST-0148-130.46001
+1C2-E-TEST-0148-130.53	"The first step in preparing quinoa is to remove the saponins, a process that requires soaking the grain in water for a few hours, then changing the water and resoaking, or rinsing it in ample running water either in a fine strainer or in cheesecloth."
+1C2-E-TEST-0148-130.53/001	first step in preparing quinoa is to remove the saponins
+1C2-E-TEST-0148-130.53/002	"preparing process requires soaking grain in water for few hours, then changing water and resoaking"	DEP=1C2-E-TEST-0148-130.53001
+1C2-E-TEST-0148-130.53/003	or rinsing in ample running water in a fine strainer or cheesecloth	DEP=1C2-E-TEST-0148-130.53002
+1C2-E-TEST-0148-130.56	"A common cooking method is to treat quinoa much like rice, bringing two cups of water to a boil with one cup of grain, covering at a low simmer and cooking for 1418 minutes or until the germ separates from the seed."
+1C2-E-TEST-0148-130.56/001	common cooking method is to treat quinoa like rice
+1C2-E-TEST-0148-130.56/002	two cups of water to boil with one cup of grain	DEP=1C2-E-TEST-0148-130.56001
+1C2-E-TEST-0148-130.56/003	covering at low simmer	DEP=1C2-E-TEST-0148-130.56001
+1C2-E-TEST-0148-130.56/004	cooking for 14 to 18 minutes or until germ separates from seed	DEP=1C2-E-TEST-0148-130.56001
+1C2-E-TEST-0148-130.61	"It is also suited to vegetable pilafs, complementing bitter greens like kale."
+1C2-E-TEST-0148-130.61/001	suitable to vegetable pilafs
+1C2-E-TEST-0148-130.61/002	complementing bitter greens like kale	DEP=1C2-E-TEST-0148-130.61001
+1C2-E-TEST-0148-130.67	Quinoa may be germinated in its raw form to boost its nutritional value.
+1C2-E-TEST-0148-130.67/001	may be germinated in raw form to boost nutritional value
+1C2-E-TEST-0148-14.11	"Because of all these characteristics, quinoa is considered a possible crop in NASA's Controlled Ecological Life Support System for long-duration manned spaceflights (Schlick and Bubenheim 1993)."
+1C2-E-TEST-0148-14.11/001	quinoa is considered a possible crop in NASA Controlled Ecological Life Support System
+1C2-E-TEST-0148-14.11/002	for long duration manned spaceflights	DEP=1C2-E-TEST-0148-14.11001
+1C2-E-TEST-0148-14.28	"Chicken or vegetable stock can be substituted for water during cooking, adding flavor."
+1C2-E-TEST-0148-14.28/001	chicken or vegetable stock can be substitured for water during cooking
+1C2-E-TEST-0148-14.28/002	chicken or vegetable stock add flavor	DEP=1C2-E-TEST-0148-14.28001
+1C2-E-TEST-0148-14.47	"The saponins in quinoa can be mildly toxic, as can be the oxalic acid in the leaves of all the chenopodium family."
+1C2-E-TEST-0148-14.47/001	saponins in quinoa can be mildly toxic
+1C2-E-TEST-0148-14.47/002	oxalic acid in the leaves of all the chenopodium family can be mildly toxic
+1C2-E-TEST-0148-14.48	"The risks associated with quinoa are minimal, provided it is properly prepared and leaves are not eaten to excess."
+1C2-E-TEST-0148-14.48/001	risks associated with quinoa are minimal
+1C2-E-TEST-0148-14.48/002	risks minimal provided it is properly prepared	DEP=1C2-E-TEST-0148-14.48001
+1C2-E-TEST-0148-14.48/003	risks minimal provided leaves are not eaten to excess	DEP=1C2-E-TEST-0148-14.48001
+1C2-E-TEST-0148-165.52	"To clean, put the quinoa into a fine strainer and run water through it, or stir it in a bowl of cold water and pour it through a clean kitchen towel."
+1C2-E-TEST-0148-165.52/001	put into a fine strainer and run water through it to clean
+1C2-E-TEST-0148-165.52/002	stir it in a bowl of cold water and pour it through clean kitchen towel to clean
+1C2-E-TEST-0148-209.10	"Native to Peru, quinoa (pronounced keen wah) was the mother grain of the Incas for centuries."
+1C2-E-TEST-0148-209.10/001	quinoa pronounced keen wah
+1C2-E-TEST-0148-209.10/002	native to peru
+1C2-E-TEST-0148-209.10/003	mother grain of incas for centuries
+1C2-E-TEST-0148-209.32	"With superior protein and amino acid balance, quinoa is also high in calcium, phosphorus, iron, most B vitamins, zinc and lysine."
+1C2-E-TEST-0148-209.32/001	superior protein and amino acid balance
+1C2-E-TEST-0148-209.32/002	"quinoa is also high in calcium, phosphorus, iron, most B vitamins, zinc and lysine"
+1C2-E-TEST-0148-209.59	"Put the quinoa into a fine strainer, and run water through it until the water is clear and no longer sudsy."
+1C2-E-TEST-0148-209.59/001	put into a fine strainer and run water through until water is clear 
+1C2-E-TEST-0148-4.3	Quinoa (pronounced Keen-wah) is an ancient food that is not yet well known in North America.
+1C2-E-TEST-0148-4.3/001	quinoa pronounced keen wah
+1C2-E-TEST-0148-4.3/002	ancient food that is not yet well known in north america
+1C2-E-TEST-0148-4.35	In South America the saponin which is removed from the quinoa is used as detergent for washing clothes and as an antiseptic to promote healing of skin injuries.
+1C2-E-TEST-0148-4.35/001	in south america saponin removed from quinoa is used as detergent and as an antiseptic
+1C2-E-TEST-0148-4.35/002	used as detergent for washing clothes	DEP=1C2-E-TEST-0148-4.35001
+1C2-E-TEST-0148-4.35/003	used as an antiseptic to promote healing of skin injuries	DEP=1C2-E-TEST-0148-4.35001
+1C2-E-TEST-0148-4.36	"The quinoa seed is high in protein, calcium and iron, a relatively good source of vitamin E and several of the B vitamins."
+1C2-E-TEST-0148-4.36/001	"seed is high in protein, calcium and iron"
+1C2-E-TEST-0148-4.36/002	seed is a relatively good source of vitamin E and several of the B vitamins
+1C2-E-TEST-0148-4.5	"The ancient Incas called quinoa the ""mother grain"" and revered it as sacred."
+1C2-E-TEST-0148-4.5/001	ancient incas called quinoa mother grain
+1C2-E-TEST-0148-4.5/002	ancient incas revered quinoa as sacred
+1C2-E-TEST-0148-43.120	"Unless these saponins are removed, the grain will taste quite bitter and is actually toxic."
+1C2-E-TEST-0148-43.120/001	"unless saponins removed, the grain will taste quite bitter"
+1C2-E-TEST-0148-43.120/002	unless saponins removed the grain is actually toxic
+1C2-E-TEST-0148-43.86	Quinoa is gluten free and considered an ideal food for those prone to food allergies.
+1C2-E-TEST-0148-43.86/001	quinoa is gluten free
+1C2-E-TEST-0148-43.86/002	quinoa is considered an ideal food for those prone to food allergies
