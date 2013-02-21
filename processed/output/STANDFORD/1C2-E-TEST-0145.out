@@ -31,14 +31,14 @@
 1C2-E-TEST-0145-129.8/022	applied			
 1C2-E-TEST-0145-129.8/023	based	DEP=1C2-E-TEST-0145-129.8022		
 1C2-E-TEST-0145-159.10	"Compound Interest Interest that accrues on the initial principal and the accumulated interest of a principal deposit, loan or debt."			
-1C2-E-TEST-0145-159.10/001	£ cents		interest that accrues on initial principal and accumulated interest of a principal	
+1C2-E-TEST-0145-159.10/001	cents		interest that accrues on initial principal and accumulated interest of a principal	
 1C2-E-TEST-0145-159.10/002	initial principal		deposit loan or debt	1
 1C2-E-TEST-0145-159.10/003	accumulated			
 1C2-E-TEST-0145-159.10/004	principal deposit loan debt			
 1C2-E-TEST-0145-159.10/005		DEP=1C2-E-TEST-0145-159.10006		
 1C2-E-TEST-0145-159.10/006				
 1C2-E-TEST-0145-159.10/007	accrues			
-1C2-E-TEST-0145-159.11	"Compounding of interest allows a principal amount to grow at a faster rate than simple interest, which is calculated as a percentage of only the principal amount  source: Investopedia"			
+1C2-E-TEST-0145-159.11	"Compounding of interest allows a principal amount to grow at a faster rate than simple interest, which is calculated as a percentage of only the principal amount source: Investopedia"			
 1C2-E-TEST-0145-159.11/001	simple		compounding of interest allows principal amount to grow faster than simple interest	
 1C2-E-TEST-0145-159.11/002	percentage		simple interest is calculated as percentage of only principal amount source	
 1C2-E-TEST-0145-159.11/003	principal amount			

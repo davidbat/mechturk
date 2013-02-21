@@ -1,178 +1,132 @@
-1C2-E-TEST-0002-111.126	"He would have been 70 this year, but Marvin Gaye will go on forever."	
-1C2-E-TEST-0002-111.126/001	would be 70 this year	
-1C2-E-TEST-0002-111.126/002	will go forever	
-		
-1C2-E-TEST-0002-111.63	"He was born Marvin Pentz Gay Jr. on April 2, 1939, in Washington, D.C.,"	
-1C2-E-TEST-0002-111.63/001	born marvin pentz gay jr	
+1C2-E-TEST-0002-111.126	"He would have been 70 this year, but Marvin Gaye will go on forever."
+1C2-E-TEST-0002-111.126/001	would be 70 this year
+1C2-E-TEST-0002-111.126/002	will go on forever
+1C2-E-TEST-0002-111.63	"He was born Marvin Pentz Gay Jr. on April 2, 1939, in Washington, D.C.,"
+1C2-E-TEST-0002-111.63/001	born marvin pentz gay jr
 1C2-E-TEST-0002-111.63/003	april 2 1939	DEP=1C2-E-TEST-0002-111.63001
 1C2-E-TEST-0002-111.63/004	washington d.c.	DEP=1C2-E-TEST-0002-111.63001
-		
-1C2-E-TEST-0002-118.11	"His mid-1970s work including the Lets Get It On and I Want You albums helped influence the quiet storm, urban adult contemporary and slow jam genres."	
-1C2-E-TEST-0002-118.11/001	album Lets Get It On 	
-1C2-E-TEST-0002-118.11/002	album I Want You 	
-1C2-E-TEST-0002-118.11/003	mid-1970s work	DEP=1C2-E-TEST-0002-118.11001 DEP=1C2-E-TEST-0002-118.11002
-1C2-E-TEST-0002-118.11/006	influenced quiet storm	DEP=1C2-E-TEST-0002-118.11001 DEP=1C2-E-TEST-0002-118.11002
-1C2-E-TEST-0002-118.11/007	influenced slow jam genres	DEP=1C2-E-TEST-0002-118.11001 DEP=1C2-E-TEST-0002-118.11002
-1C2-E-TEST-0002-118.11/008	influenced urban adult contemporary	DEP=1C2-E-TEST-0002-118.11001 DEP=1C2-E-TEST-0002-118.11002
-		
-1C2-E-TEST-0002-118.119	"Two more of its singles, ""Mercy Mercy Me (The Ecology)"" and ""Inner City Blues (Make Me Wanna Holler)"", became Top 10 pop hits and #1 R&B hits."	
-1C2-E-TEST-0002-118.119/001	"single ""Mercy Mercy Me (The Ecology)"""	
-1C2-E-TEST-0002-118.119/002	"single ""Inner City Blues (Make Me Wanna Holler)"""	
-1C2-E-TEST-0002-118.119/007	top 10 pop hits	DEP=1C2-E-TEST-0002-118.119001 DEP=1C2-E-TEST-0002-118.119002
-1C2-E-TEST-0002-118.119/012	#1 r&b hits	DEP=1C2-E-TEST-0002-118.119001 DEP=1C2-E-TEST-0002-118.119002
-		
-1C2-E-TEST-0002-118.126	"The soundtrack and single became hits, the single peaking at the top ten in early 1973."	
-1C2-E-TEST-0002-118.126/001	soundtrack and single peaking 1973	
-		
-1C2-E-TEST-0002-118.15	"In 2008, the American music magazine Rolling Stone ranked Gaye #6 on its list of The Greatest Singers of All Time,[8] and ranked #18 on 100 Greatest Artists of All Time.[9]"	
-1C2-E-TEST-0002-118.15/001	ranked #6 The Greatest Singers of All Time	
-1C2-E-TEST-0002-118.15/002	american music magazine rolling stone	DEP=1C2-E-TEST-0002-118.15001 DEP=1C2-E-TEST-0002-118.15003
-1C2-E-TEST-0002-118.15/003	ranked #18 100 Greatest Artists of All Time	
-		
-1C2-E-TEST-0002-118.166	"In 1987, Gaye was posthumously inducted into the Rock and Roll Hall of Fame."	
-1C2-E-TEST-0002-118.166/001	inducted into Rock and Roll Hall of Fame	
-1C2-E-TEST-0002-118.166/002	1987	DEP=1C2-E-TEST-0002-118.166001
-1C2-E-TEST-0002-118.166/003	 posthumously	DEP=1C2-E-TEST-0002-118.166001
-		
-1C2-E-TEST-0002-118.201	"Throughout his 26-year career, Marvin GayeÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s musical style changed in various ways over the years."	
-1C2-E-TEST-0002-118.201/001	26-year career	
-1C2-E-TEST-0002-118.201/002	musical style changed in various ways	
-		
-1C2-E-TEST-0002-118.222	"MarvinÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s early hits were conceived by Berry Gordy, Smokey Robinson, Mickey Stevenson and Holland-Dozier-Holland."	
-1C2-E-TEST-0002-118.222/004	early hits conceived by	DEP=1C2-E-TEST-0002-118.166005 DEP=1C2-E-TEST-0002-118.166006 DEP=1C2-E-TEST-0002-118.166007 DEP=1C2-E-TEST-0002-118.166008
-1C2-E-TEST-0002-118.222/005	berry gordy	
-1C2-E-TEST-0002-118.222/006	smokey robinson	
-1C2-E-TEST-0002-118.222/007	mickey stevenson	
-1C2-E-TEST-0002-118.222/008	holland-dozier-holland	
-		
-1C2-E-TEST-0002-118.23	"Marvin Pentz Gay, Jr.,[1] better known by his stage name Marvin Gaye (April 2, 1939 ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ April 1, 1984) was an American singer-songwriter and instrumentalist with a [2] Starting as a three-octave vocal range. member of the doo-wop group The Moonglows in the late fifties, he ventured into a solo career after the group disbanded in 1960 signing with the Tamla subsidiary of Motown Records."	
-1C2-E-TEST-0002-118.23/001	stage name marvin gaye	
-1C2-E-TEST-0002-118.23/002	american singer-songwriter instrumentalist	
-1C2-E-TEST-0002-118.23/003	three octave vocal range	
-1C2-E-TEST-0002-118.23/004	doo-group The Moonglows	
-1C2-E-TEST-0002-118.23/005	solo career after 1960	
-1C2-E-TEST-0002-118.23/006	tamla subsidiary of Motown records	
-		
-1C2-E-TEST-0002-118.246	"Two tribute albums, 1995ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Inner City Blues: The Music of Marvin Gaye and 1999ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Marvin Is 60 featured covers of MarvinÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s most famous material."	
-1C2-E-TEST-0002-118.246/001	tribute album Inner City Blues: The Music of Marvin Gaye	
-1C2-E-TEST-0002-118.246/002	tribute album Marvin Is 60	
-1C2-E-TEST-0002-118.246/003	covers of most famous material	DEP=1C2-E-TEST-0002-118.246001 DEP=1C2-E-TEST-0002-118.246002
-		
-1C2-E-TEST-0002-118.83	"A number of GayeÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s hits for Motown were with female artists such as Kim Weston and Mary Wells; the first Gaye/Wells album, 1964ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Together, was GayeÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s first charting album."	
-1C2-E-TEST-0002-118.83/001	hits for Motown 	
+1C2-E-TEST-0002-118.11	"His mid-1970s work including the Lets Get It On and I Want You albums helped influence the quiet storm, urban adult contemporary and slow jam genres."
+1C2-E-TEST-0002-118.11/001	mid-1970s work album Lets Get It On 
+1C2-E-TEST-0002-118.11/002	mid-1970s work album I Want You 
+1C2-E-TEST-0002-118.11/003	mid-1970s work influenced quiet storm
+1C2-E-TEST-0002-118.11/006	mid-1970s work influenced slow jam genres
+1C2-E-TEST-0002-118.11/007	mid-1970s work influenced urban adult contemporary
+1C2-E-TEST-0002-118.119	"Two more of its singles, ""Mercy Mercy Me (The Ecology)"" and ""Inner City Blues (Make Me Wanna Holler)"", became Top 10 pop hits and #1 R&B hits."
+1C2-E-TEST-0002-118.119/001	"single ""Mercy Mercy Me (The Ecology)"" became top 10 pop hits #1 r&b hits"
+1C2-E-TEST-0002-118.119/002	"single ""Inner City Blues (Make Me Wanna Holler)"" became top 10 pop hits #1 r&b hits"
+1C2-E-TEST-0002-118.126	"The soundtrack and single became hits, the single peaking at the top ten in early 1973."
+1C2-E-TEST-0002-118.126/001	soundtrack and single became hits
+1C2-E-TEST-0002-118.126/002	peaking at top 10 early 1973	DEP=1C2-E-TEST-0002-118.126001
+1C2-E-TEST-0002-118.15	"In 2008, the American music magazine Rolling Stone ranked Gaye #6 on its list of The Greatest Singers of All Time,[8] and ranked #18 on 100 Greatest Artists of All Time.[9]"
+1C2-E-TEST-0002-118.15/001	ranked #6 on The Greatest Singers of All Time
+1C2-E-TEST-0002-118.15/002	in 2008 american music magazine rolling stone rakend gaye
+1C2-E-TEST-0002-118.15/003	ranked #18 on 100 Greatest Artists of All Time
+1C2-E-TEST-0002-118.166	"In 1987, Gaye was posthumously inducted into the Rock and Roll Hall of Fame."
+1C2-E-TEST-0002-118.166/001	inducted into Rock and Roll Hall of Fame
+1C2-E-TEST-0002-118.166/002	in 1987	DEP=1C2-E-TEST-0002-118.166001
+1C2-E-TEST-0002-118.166/003	inducted posthumously	DEP=1C2-E-TEST-0002-118.166001
+1C2-E-TEST-0002-118.201	"Throughout his 26-year career, Marvin GayeÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s musical style changed in various ways over the years."
+1C2-E-TEST-0002-118.201/001	26-year career
+1C2-E-TEST-0002-118.201/002	throughout career music style changed in various ways
+1C2-E-TEST-0002-118.222	"Marvins early hits were conceived by Berry Gordy, Smokey Robinson, Mickey Stevenson and Holland-Dozier-Holland."
+1C2-E-TEST-0002-118.222/004	early hits conceived by berry gordy
+1C2-E-TEST-0002-118.222/005	early hits conceived by smokey robinson
+1C2-E-TEST-0002-118.222/006	early hits conceived by mickey stevenson
+1C2-E-TEST-0002-118.222/007	early hits conceived by holland-dozier-holland
+1C2-E-TEST-0002-118.23	"Marvin Pentz Gay, Jr.,[1] better known by his stage name Marvin Gaye (April 2, 1939 ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ April 1, 1984) was an American singer-songwriter and instrumentalist with a [2] Starting as a three-octave vocal range. member of the doo-wop group The Moonglows in the late fifties, he ventured into a solo career after the group disbanded in 1960 signing with the Tamla subsidiary of Motown Records."
+1C2-E-TEST-0002-118.23/001	stage name marvin gaye
+1C2-E-TEST-0002-118.23/002	american singer-songwriter instrumentalist
+1C2-E-TEST-0002-118.23/003	three octave vocal range	DEP=1C2-E-TEST-0002-118.23004
+1C2-E-TEST-0002-118.23/004	member of doo-group The Moonglows late fifties
+1C2-E-TEST-0002-118.23/005	solo career after moonglows disbanded 1960
+1C2-E-TEST-0002-118.23/006	solo career singing with tamla subsidiary of Motown records	DEP=1C2-E-TEST-0002-118.23005
+1C2-E-TEST-0002-118.246	"Two tribute albums, 1995ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Inner City Blues: The Music of Marvin Gaye and 1999ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Marvin Is 60 featured covers of MarvinÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s most famous material."
+1C2-E-TEST-0002-118.246/001	tribute album Inner City Blues: The Music of Marvin Gaye 1999
+1C2-E-TEST-0002-118.246/002	tribute album Marvin Is 60 1995
+1C2-E-TEST-0002-118.246/003	tribute albums featured covers of most famous material
+1C2-E-TEST-0002-118.83	"A number of GayeÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s hits for Motown were with female artists such as Kim Weston and Mary Wells; the first Gaye/Wells album, 1964ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Together, was GayeÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s first charting album."
+1C2-E-TEST-0002-118.83/001	hits for motown with female artists
 1C2-E-TEST-0002-118.83/002	female artists Kim Weston	DEP=1C2-E-TEST-0002-118.83001
 1C2-E-TEST-0002-118.83/003	female artists Mary Wells	DEP=1C2-E-TEST-0002-118.83001
-1C2-E-TEST-0002-118.83/004	album Together	
-1C2-E-TEST-0002-118.83/005	first album Wells 	DEP=1C2-E-TEST-0002-118.83004
+1C2-E-TEST-0002-118.83/004	first Gaye/Wells album Together
+1C2-E-TEST-0002-118.83/005	1964	DEP=1C2-E-TEST-0002-118.83004
 1C2-E-TEST-0002-118.83/006	first charting album 	DEP=1C2-E-TEST-0002-118.83004
-		
-1C2-E-TEST-0002-16.11	"Like so many of his African American contemporaries, Gaye (born Marvin Gay Jr. in Washington, D.C., in 1939; as an adult, he added the ÃÂ¢Ã¢ÂÂ¬ÃÂeÃÂ¢Ã¢ÂÂ¬ÃÂ to emulate one of his idols, Sam Cooke) got his start singing and playing organ in church."	
-1C2-E-TEST-0002-16.11/001	african american contemporaries 	DEP=1C2-E-TEST-0002-16.11004 DEP=1C2-E-TEST-0002-16.11005 DEP=1C2-E-TEST-0002-16.11006
-1C2-E-TEST-0002-16.11/002	added e 	DEP=1C2-E-TEST-0002-118.83003
-1C2-E-TEST-0002-16.11/003	emulate idol Sam Cooke 	
-1C2-E-TEST-0002-16.11/004	start singing	
-1C2-E-TEST-0002-16.11/005	playing organ	
-1C2-E-TEST-0002-16.11/006	church 	DEP=1C2-E-TEST-0002-16.11005 DEP=1C2-E-TEST-0002-16.11004
-		
-		
-1C2-E-TEST-0002-16.97	"He is said to have threatened suicide several times in early 1984, but he never got a chance to carry out his threat: The day before his 45th birthday, on April 1, 1984, his father shot him to death, after hours of quarreling."	
-1C2-E-TEST-0002-16.97/001	said to threaten suicide	
-1C2-E-TEST-0002-16.97/002	early 1984 	DEP=1C2-E-TEST-0002-16.97001
-1C2-E-TEST-0002-16.97/004	shot dead	
-1C2-E-TEST-0002-16.97/005	april 1 1984 	DEP=1C2-E-TEST-0002-16.97004
-1C2-E-TEST-0002-16.97/006	his father	DEP=1C2-E-TEST-0002-16.97004
-1C2-E-TEST-0002-16.97/008	hours of quarreling 	DEP=1C2-E-TEST-0002-16.97004
-		
-1C2-E-TEST-0002-19.11	"Gaye was shot dead by his father on April 1, 1984."	
-1C2-E-TEST-0002-19.11/004	shot dead	
-1C2-E-TEST-0002-19.11/005	april 1 1984 	DEP=1C2-E-TEST-0002-19.11004
-1C2-E-TEST-0002-19.11/006	his father	DEP=1C2-E-TEST-0002-19.11004
-		
-1C2-E-TEST-0002-19.149	"Wanting creative control, he sought to produce singles for Motown session band The Originals , whose Gaye-produced hits, ÃÂ¢Ã¢ÂÂ¬ÃÂ Baby, IÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢m for Real ÃÂ¢Ã¢ÂÂ¬ÃÂ and ÃÂ¢Ã¢ÂÂ¬ÃÂ The Bells ÃÂ¢Ã¢ÂÂ¬ÃÂ, brought success."	
-1C2-E-TEST-0002-19.149/001	wanting creative control	DEP=1C2-E-TEST-0002-19.149002
-1C2-E-TEST-0002-19.149/002	produce singles	
-1C2-E-TEST-0002-19.149/003	motown session band 	DEP=1C2-E-TEST-0002-19.149002
-1C2-E-TEST-0002-19.149/004	the originals 	DEP=1C2-E-TEST-0002-19.149003
-1C2-E-TEST-0002-19.149/005	gaye-produced hits brought success	DEP=1C2-E-TEST-0002-19.149003
-1C2-E-TEST-0002-19.149/006	baby 	DEP=1C2-E-TEST-0002-19.149005
-1C2-E-TEST-0002-19.149/007	I'm for real 	DEP=1C2-E-TEST-0002-19.149005
-1C2-E-TEST-0002-19.149/008	The Bells 	DEP=1C2-E-TEST-0002-19.149005
-		
-		
-1C2-E-TEST-0002-19.185	"In late 1972, Gaye produced the score for the Trouble Man film and later produced the soundtrack of the same name ."	
-1C2-E-TEST-0002-19.185/001	late 1972 	DEP=1C2-E-TEST-0002-19.185002
-1C2-E-TEST-0002-19.185/002	produced score film	
-1C2-E-TEST-0002-19.185/003	trouble man 	DEP=1C2-E-TEST-0002-19.185002
-1C2-E-TEST-0002-19.185/004	produced soundtrack	DEP=1C2-E-TEST-0002-19.185003
-		
-1C2-E-TEST-0002-19.209	"In 1976, Gaye released his first solo album in three years with I Want You ."	
-1C2-E-TEST-0002-19.209/001	released 1976 	DEP=1C2-E-TEST-0002-19.209002
-1C2-E-TEST-0002-19.209/002	solo album	
-1C2-E-TEST-0002-19.209/003	first in three years 	DEP=1C2-E-TEST-0002-19.209002
-		
-		
-1C2-E-TEST-0002-19.268	"[21] In March 1983, he gave his final performance in front of his old mentor Berry Gordy and the Motown label for Motown 25 , performing ÃÂ¢Ã¢ÂÂ¬ÃÂWhatÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Going OnÃÂ¢Ã¢ÂÂ¬ÃÂ."	
-1C2-E-TEST-0002-19.268/001	march 1983	DEP=1C2-E-TEST-0002-19.268002
-1C2-E-TEST-0002-19.268/002	final performance	
-1C2-E-TEST-0002-19.268/003	old mentor berry gordy 	DEP=1C2-E-TEST-0002-19.268002
-1C2-E-TEST-0002-19.268/004	motown label for motown 25 	DEP=1C2-E-TEST-0002-19.268002
-1C2-E-TEST-0002-19.268/007	what's going on 	DEP=1C2-E-TEST-0002-19.268002
-		
-1C2-E-TEST-0002-19.328	"Upon his early recordings as member of The Marquees and Harvey & the New Moonglows in the late 1950s, Marvin recorded in a doo-wop vocal style."	
-1C2-E-TEST-0002-19.328/001	early recordings late 1950 	DEP=1C2-E-TEST-0002-19.328007
-1C2-E-TEST-0002-19.328/002	the marquees 	DEP=1C2-E-TEST-0002-19.328001
-1C2-E-TEST-0002-19.328/003	harvey & the new moonglows 	DEP=1C2-E-TEST-0002-19.328001
-1C2-E-TEST-0002-19.328/007	recored doo-wop vocal style	
-		
-1C2-E-TEST-0002-19.6	"He started off as a session drummer, but later ranked as the labelÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s top-selling solo artist during the 1960s."	
-1C2-E-TEST-0002-19.6/001	started off as session drummer	
-1C2-E-TEST-0002-19.6/002	top solo artist 	
-1C2-E-TEST-0002-19.6/003	during 1960s	DEP=1C2-E-TEST-0002-19.6002
- 		
-1C2-E-TEST-0002-19.8	"[4] because of solo hits such as ÃÂ¢Ã¢ÂÂ¬ÃÂ How Sweet It Is (To Be Loved by You) ÃÂ¢Ã¢ÂÂ¬ÃÂ, ÃÂ¢Ã¢ÂÂ¬ÃÂ AinÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢t That Peculiar ÃÂ¢Ã¢ÂÂ¬ÃÂ, ÃÂ¢Ã¢ÂÂ¬ÃÂ I Heard It Through the Grapevine ,ÃÂ¢Ã¢ÂÂ¬ÃÂ and his duet singles with singers such as Mary Wells and Tammi Terrell ."	
-1C2-E-TEST-0002-19.8/001	solo hits	
-1C2-E-TEST-0002-19.8/002	 How Sweet It Is (To Be Loved by You)	
-1C2-E-TEST-0002-19.8/003	Ain't That Peculiar	
-1C2-E-TEST-0002-19.8/004	I Heard It Through the Grapevine	
-1C2-E-TEST-0002-19.8/005	duet singles 	
-1C2-E-TEST-0002-19.8/006	Mary Wells 	
-1C2-E-TEST-0002-19.8/007	Tommy Terrell	
-		
-1C2-E-TEST-0002-19.9	"His work in the early and mid-1970s included the albums, WhatÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Going On , LetÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Get It On , and I Want You , which helped influence the quiet storm , urban adult contemporary , and slow jam genres."	
-1C2-E-TEST-0002-19.9/001	album What's going on	
-		
-1C2-E-TEST-0002-3.10	"What's Going On reached number two, and this success ensured that not only Gaye but other Motown artists as well were in control of their music."	
-1C2-E-TEST-0002-3.10/001	whats going on reached number two	
-1C2-E-TEST-0002-3.10/002	control of their music	
-1C2-E-TEST-0002-3.10/003	other Motown artists	DEP=1C2-E-TEST-0002-3.10002 
-		
-1C2-E-TEST-0002-3.16	"For the album Diana & Marvin, Gaye teamed up with Diana Ross."	
-1C2-E-TEST-0002-3.16/001	album diana & Marvin	
-1C2-E-TEST-0002-3.16/002	teamed up diana ross	
-		
-1C2-E-TEST-0002-3.3	"Over his immensely successful career as a Motown singer, songwriter, and producer, Marvin Gaye blazed a trail for African-American popular music."	
-1C2-E-TEST-0002-3.3/001	motown singer	
-1C2-E-TEST-0002-3.3/002	songwriter	
-1C2-E-TEST-0002-3.3/003	producer	
-1C2-E-TEST-0002-3.3/004	immensely successful career 	
-1C2-E-TEST-0002-3.3/005	african-american popular music	
-		
-1C2-E-TEST-0002-3.5	"Born in 1939 in Washington D.C, Marvin Pentz Gay began his musical career singing in local doo wop groups, but it was not long before he was discovered by Motown records and recruited for a solo career."	
-1C2-E-TEST-0002-3.5/001	born 1939 washington d.c.	
-1C2-E-TEST-0002-3.5/002	began musical career	DEP=1C2-E-TEST-0002-3.5003
-1C2-E-TEST-0002-3.5/003	singing local doo wop groups	
-1C2-E-TEST-0002-3.5/004	discovered by Motown records	DEP=1C2-E-TEST-0002-3.5004
-1C2-E-TEST-0002-3.5/005	recruited solo career	
-		
-1C2-E-TEST-0002-71.19	"The bio-musical then tells the story of the shy, young drummer and backup singer, Marvin Gaye (1939 ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ 1984) who moves from doo-wop group ÃÂ¢Ã¢ÂÂ¬ÃÂThe Moonglows ÃÂ¢Ã¢ÂÂ¬ÃÂ in the late 1950s to Motown R & B to establishing himself as the ÃÂ¢Ã¢ÂÂ¬ÃÂPrince of SoulÃÂ¢Ã¢ÂÂ¬ÃÂ with his tuneful smooth soul tunes.ÃÂÃÂ  With solo hits such as ÃÂ¢Ã¢ÂÂ¬ÃÂHow Sweet It Is (To Be Loved by You)ÃÂ¢Ã¢ÂÂ¬ÃÂ, ÃÂ¢Ã¢ÂÂ¬ÃÂAinÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢t That PeculiarÃÂ¢Ã¢ÂÂ¬ÃÂ, ÃÂ¢Ã¢ÂÂ¬ÃÂI Heard It Through the Grapevine,ÃÂ¢Ã¢ÂÂ¬ÃÂ GayeÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s mid-1970s included the albums, WhatÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Going On, LetÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Get It On, and I Want You, which helped influence the quiet storm, urban adult contemporary, and slow jam genres."	
-1C2-E-TEST-0002-71.19/001	bio-musical	DEP=1C2-E-TEST-0002-71.19002
-1C2-E-TEST-0002-71.19/002	story shy young drummer backup singer	
-1C2-E-TEST-0002-71.19/003	moves from doo-wop group the moonglows	
-1C2-E-TEST-0002-71.19/004	motown r&b	
-1C2-E-TEST-0002-71.19/005	prince soul	DEP=1C2-E-TEST-0002-71.19004
-1C2-E-TEST-0002-71.19/006	tuneful smooth soul tunes	DEP=1C2-E-TEST-0002-71.19005
-1C2-E-TEST-0002-71.19/007	solo hits how sweet it is	
-1C2-E-TEST-0002-71.19/008	solo hits I heard it through the grapevine	
-1C2-E-TEST-0002-71.19/009	mid-70s included album whats going on	
-1C2-E-TEST-0002-71.19/010	mid-70s included album lets get it on	
-1C2-E-TEST-0002-71.19/011	mid-70s included album I want you	
+1C2-E-TEST-0002-16.11	"Like so many of his African American contemporaries, Gaye (born Marvin Gay Jr. in Washington, D.C., in 1939; as an adult, he added the ÃÂ¢Ã¢ÂÂ¬ÃÂeÃÂ¢Ã¢ÂÂ¬ÃÂ to emulate one of his idols, Sam Cooke) got his start singing and playing organ in church."
+1C2-E-TEST-0002-16.11/001	"born Marvin Gay Jr. in Washington, D.C., in 1939"
+1C2-E-TEST-0002-16.11/002	like many african american contemporaries	DEP=1C2-E-TEST-0002-16.11004
+1C2-E-TEST-0002-16.11/003	added the e to emulate idol sam cooke
+1C2-E-TEST-0002-16.11/004	got his start singing and playing organ in church
+1C2-E-TEST-0002-16.97	"He is said to have threatened suicide several times in early 1984, but he never got a chance to carry out his threat: The day before his 45th birthday, on April 1, 1984, his father shot him to death, after hours of quarreling."
+1C2-E-TEST-0002-16.97/001	threatened suicide several times in early 1984
+1C2-E-TEST-0002-16.97/002	never got chance to carry out threat	DEP=1C2-E-TEST-0002-16.97001
+1C2-E-TEST-0002-16.97/004	father shot him to death after hours of quarreling
+1C2-E-TEST-0002-16.97/005	day before 45th birthday	DEP=1C2-E-TEST-0002-16.97003
+1C2-E-TEST-0002-16.97/006	april 1 1984	DEP=1C2-E-TEST-0002-16.97003
+1C2-E-TEST-0002-19.11	"Gaye was shot dead by his father on April 1, 1984."
+1C2-E-TEST-0002-19.11/004	shot dead by his father
+1C2-E-TEST-0002-19.11/005	april 1 1984 	DEP=1C2-E-TEST-0002-19.11001
+1C2-E-TEST-0002-19.149	"Wanting creative control, he sought to produce singles for Motown session band The Originals , whose Gaye-produced hits, Baby, Im for Real and The Bells, brought success."
+1C2-E-TEST-0002-19.149/001	sought to produce singles for motown session band the originals
+1C2-E-TEST-0002-19.149/002	wanting creative control	DEP=1C2-E-TEST-0002-19.149001
+1C2-E-TEST-0002-19.149/003	gaye-produced hits brought the originals success
+1C2-E-TEST-0002-19.149/004	"baby, I'm for real"	DEP=1C2-E-TEST-0002-19.149003
+1C2-E-TEST-0002-19.149/005	th bells	DEP=1C2-E-TEST-0002-19.149003
+1C2-E-TEST-0002-19.185	"In late 1972, Gaye produced the score for the Trouble Man film and later produced the soundtrack of the same name ."
+1C2-E-TEST-0002-19.185/001	produced score for the trouble man film
+1C2-E-TEST-0002-19.185/002	late 1972
+1C2-E-TEST-0002-19.185/003	produced soundtrack of same name
+1C2-E-TEST-0002-19.209	"In 1976, Gaye released his first solo album in three years with I Want You ."
+1C2-E-TEST-0002-19.209/001	released album I Want You
+1C2-E-TEST-0002-19.209/002	first solo album in three years	DEP=1C2-E-TEST-0002-19.209001
+1C2-E-TEST-0002-19.209/003	in 1976	DEP=1C2-E-TEST-0002-19.209001
+1C2-E-TEST-0002-19.268	"[21] In March 1983, he gave his final performance in front of his old mentor Berry Gordy and the Motown label for Motown 25 , performing ÃÂ¢Ã¢ÂÂ¬ÃÂWhatÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Going OnÃÂ¢Ã¢ÂÂ¬ÃÂ."
+1C2-E-TEST-0002-19.268/001	final performance march 1983
+1C2-E-TEST-0002-19.268/002	performed what's going on	DEP=1C2-E-TEST-0002-19.268001
+1C2-E-TEST-0002-19.268/003	in front of old mentor berry gordy	DEP=1C2-E-TEST-0002-19.268001
+1C2-E-TEST-0002-19.268/004	in front of motown label for motown 25	DEP=1C2-E-TEST-0002-19.268001
+1C2-E-TEST-0002-19.328	"Upon his early recordings as member of The Marquees and Harvey & the New Moonglows in the late 1950s, Marvin recorded in a doo-wop vocal style."
+1C2-E-TEST-0002-19.328/001	early recordings recorded in doo-wop vocal style
+1C2-E-TEST-0002-19.328/002	member of the marquees 	DEP=1C2-E-TEST-0002-19.328001
+1C2-E-TEST-0002-19.328/003	member of harvey & the new moonglows 	DEP=1C2-E-TEST-0002-19.328001
+1C2-E-TEST-0002-19.328/007	late 1950	DEP=1C2-E-TEST-0002-19.328001
+1C2-E-TEST-0002-19.6	"He started off as a session drummer, but later ranked as the labels top-selling solo artist during the 1960s."
+1C2-E-TEST-0002-19.6/001	started off as session drummer
+1C2-E-TEST-0002-19.6/002	solo artist 1960s
+1C2-E-TEST-0002-19.6/003	ranked as labels top-selling solo artist	DEP=1C2-E-TEST-0002-19.6002
+1C2-E-TEST-0002-19.8	"[4] because of solo hits such as ÃÂ¢Ã¢ÂÂ¬ÃÂ How Sweet It Is (To Be Loved by You) ÃÂ¢Ã¢ÂÂ¬ÃÂ, ÃÂ¢Ã¢ÂÂ¬ÃÂ AinÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢t That Peculiar ÃÂ¢Ã¢ÂÂ¬ÃÂ, ÃÂ¢Ã¢ÂÂ¬ÃÂ I Heard It Through the Grapevine ,ÃÂ¢Ã¢ÂÂ¬ÃÂ and his duet singles with singers such as Mary Wells and Tammi Terrell ."
+1C2-E-TEST-0002-19.8/001	solo hits How Sweet It Is (To Be Loved by You)
+1C2-E-TEST-0002-19.8/002	solo hits Ain't That Peculiar
+1C2-E-TEST-0002-19.8/003	solo hits I Heard It Through the Grapevine
+1C2-E-TEST-0002-19.8/004	duet singles with Mary Wells and Tammi Terrell
+1C2-E-TEST-0002-3.10	"What's Going On reached number two, and this success ensured that not only Gaye but other Motown artists as well were in control of their music."
+1C2-E-TEST-0002-3.10/001	whats going on reached number two
+1C2-E-TEST-0002-3.10/002	ensured gaye control of music	DEP=1C2-E-TEST-0002-3.10001
+1C2-E-TEST-0002-3.10/003	ensured other motown artists control of their music as well	DEP=1C2-E-TEST-0002-3.10001
+1C2-E-TEST-0002-3.16	"For the album Diana & Marvin, Gaye teamed up with Diana Ross."
+1C2-E-TEST-0002-3.16/001	album diana & Marvin
+1C2-E-TEST-0002-3.16/002	teamed up diana ross
+1C2-E-TEST-0002-3.3	"Over his immensely successful career as a Motown singer, songwriter, and producer, Marvin Gaye blazed a trail for African-American popular music."
+1C2-E-TEST-0002-3.3/001	blazed trail for african-american popular music
+1C2-E-TEST-0002-3.3/002	over immensely succesful career as Motown singer	DEP=1C2-E-TEST-0002-3.3001
+1C2-E-TEST-0002-3.3/003	over immensely succesful career as songwriter	DEP=1C2-E-TEST-0002-3.3001
+1C2-E-TEST-0002-3.3/004	over immensely succesful career as producer	DEP=1C2-E-TEST-0002-3.3001
+1C2-E-TEST-0002-3.5	"Born in 1939 in Washington D.C, Marvin Pentz Gay began his musical career singing in local doo wop groups, but it was not long before he was discovered by Motown records and recruited for a solo career."
+1C2-E-TEST-0002-3.5/001	born 1939 washington d.c.
+1C2-E-TEST-0002-3.5/002	began musical career singing local doo wop groups
+1C2-E-TEST-0002-3.5/003	discovered by Motown records	DEP=1C2-E-TEST-0002-3.5004
+1C2-E-TEST-0002-3.5/004	recruited for a solo career
+1C2-E-TEST-0002-71.19	"The bio-musical then tells the story of the shy, young drummer and backup singer, Marvin Gaye (1939 ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ 1984) who moves from doo-wop group ÃÂ¢Ã¢ÂÂ¬ÃÂThe Moonglows ÃÂ¢Ã¢ÂÂ¬ÃÂ in the late 1950s to Motown R & B to establishing himself as the ÃÂ¢Ã¢ÂÂ¬ÃÂPrince of SoulÃÂ¢Ã¢ÂÂ¬ÃÂ with his tuneful smooth soul tunes.ÃÂÃÂ  With solo hits such as ÃÂ¢Ã¢ÂÂ¬ÃÂHow Sweet It Is (To Be Loved by You)ÃÂ¢Ã¢ÂÂ¬ÃÂ, ÃÂ¢Ã¢ÂÂ¬ÃÂAinÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢t That PeculiarÃÂ¢Ã¢ÂÂ¬ÃÂ, ÃÂ¢Ã¢ÂÂ¬ÃÂI Heard It Through the Grapevine,ÃÂ¢Ã¢ÂÂ¬ÃÂ GayeÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s mid-1970s included the albums, WhatÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Going On, LetÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Get It On, and I Want You, which helped influence the quiet storm, urban adult contemporary, and slow jam genres."
+1C2-E-TEST-0002-71.19/001	bio-musical tells story of shy young drummer backup singer
+1C2-E-TEST-0002-71.19/002	moves from doo-wop group the moonglows	DEP=1C2-E-TEST-0002-71.19001
+1C2-E-TEST-0002-71.19/003	moves to motown r&b	DEP=1C2-E-TEST-0002-71.19001
+1C2-E-TEST-0002-71.19/004	establishing himself as prince of soul	DEP=1C2-E-TEST-0002-71.19001
+1C2-E-TEST-0002-71.19/005	tuneful smooth soul tunes	DEP=1C2-E-TEST-0002-71.19004
+1C2-E-TEST-0002-71.19/006	solo hits how sweet it is
+1C2-E-TEST-0002-71.19/007	solo hits Ain't That Peculiar
+1C2-E-TEST-0002-71.19/008	solo hits I heard it through the grapevine
+1C2-E-TEST-0002-71.19/009	mid-70s included album whats going on
+1C2-E-TEST-0002-71.19/010	mid-70s included album lets get it on
+1C2-E-TEST-0002-71.19/011	mid-70s included album I want you
+1C2-E-TEST-0002-71.19/012	mid-70s albums influenced quiet storm
+1C2-E-TEST-0002-71.19/013	mid-70s albums  urban adult contemporary
+1C2-E-TEST-0002-71.19/014	mid-70s albums  slow jam genres

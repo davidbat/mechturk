@@ -316,7 +316,7 @@
 1C2-E-TEST-0185-80.12	"It is the epicentre of uncertainty: the birthplace of a multitude of falsified or misrepresented stories - from the Da Vinci code to the death of Princess Diana, that Thierry Henry handball and, most importantly, the Bloody Mary."			
 1C2-E-TEST-0185-80.12/001	epicentre		epicenter of uncertainty	2
 1C2-E-TEST-0185-80.12/002	uncertainty		birthplace of multitude of falsified or misrepresented stories	
-1C2-E-TEST-0185-80.12/003	birthplace	DEP=1C2-E-TEST-0185-80.12001	"Da Vinci code,  death of Princess Diana, Thierry Henry handball and bloody mary"	2
+1C2-E-TEST-0185-80.12/003	birthplace	DEP=1C2-E-TEST-0185-80.12001	"Da Vinci code, eath of Princess Diana, Thierry Henry handball and bloody mary"	
 1C2-E-TEST-0185-80.12/004	multitude			
 1C2-E-TEST-0185-80.12/005	da vinci code			
 1C2-E-TEST-0185-80.12/006	death			
