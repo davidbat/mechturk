@@ -1,0 +1,224 @@
+1C2-E-TEST-0143-1.13	"Ewoks live high among the trees of their home moon's forests, in villages built on platforms between the closely spaced trees."			
+1C2-E-TEST-0143-1.13/001	ewoks live among trees		ewoks live among trees	
+1C2-E-TEST-0143-1.13/004	villages built on platforms 	DEP=1C2-E-TEST-0143-1.13001	villages built on platforms 	DEP=1C2-E-TEST-0143-1.13001
+1C2-E-TEST-0143-1.13/006	closely spaced trees 	DEP=1C2-E-TEST-0143-1.13004	closely spaced trees 	DEP=1C2-E-TEST-0143-1.13004
+1C2-E-TEST-0143-1.23	The Ewoks are involved in a large portion of the final installment in Lucas' original Star Wars trilogy.			
+1C2-E-TEST-0143-1.23/001	ewoks involved in Lucas original Star Wars trilogy		ewoks involved in Lucas original Star Wars trilogy	
+1C2-E-TEST-0143-1.23/002	involved in large portion of final installment 	DEP=1C2-E-TEST-0143-1.23001	involved in large portion of final installment 	DEP=1C2-E-TEST-0143-1.23001
+1C2-E-TEST-0143-1.27	"The Ewoks worship the protocol droid C-3PO, thinking he is a god due to his shininess and gold coverings and a later display of power arranged by Luke Skywalker through The Force ."			
+1C2-E-TEST-0143-1.27/001	ewoks worship droid C-3PO		ewoks worship droid C-3PO	
+1C2-E-TEST-0143-1.27/002	think C-3PO is god due to shininess		think C-3PO is god due to shininess	
+1C2-E-TEST-0143-1.27/004	think C-3PO is god due to his shininess 		think C-3PO is god due to his shininess 	
+1C2-E-TEST-0143-1.27/005	think C-3PO is god due to a later display of power by luke skywalker		think C-3PO is god due to a later display of power by luke skywalker	
+1C2-E-TEST-0143-1.27/006	display of power through the force	DEP=1C2-E-TEST-0143-1.27005	display of power through the force	DEP=1C2-E-TEST-0143-1.27005
+1C2-E-TEST-0143-1.3	George Lucas created the Ewoks because he wanted Return of the Jedi to feature a tribe of some primitive creatures that bring down the technological Empire.			
+1C2-E-TEST-0143-1.3/001	george lucas created ewoks		george lucas created ewoks	
+1C2-E-TEST-0143-1.3/003	wanted Return of Jedi to feature tribe of primitive creatures	DEP=1C2-E-TEST-0143-1.3001	wanted Return of Jedi to feature tribe of primitive creatures	DEP=1C2-E-TEST-0143-1.3001
+1C2-E-TEST-0143-1.3/006	bring down technological empire	DEP=1C2-E-TEST-0143-1.3002	bring down technological empire	DEP=1C2-E-TEST-0143-1.3002
+1C2-E-TEST-0143-1.30	"They then help in the ground battle to destroy the Imperial shield generator on the forest floor, and their primitive weapons fell the Imperial Stormtroopers and the AT-ST walkers of the Empire."			
+1C2-E-TEST-0143-1.30/001	can help ground battle		help in ground battle to destroy imperial sheild generator	
+1C2-E-TEST-0143-1.30/002	destroy imperial shield generator	DEP=1C2-E-TEST-0143-1.30001	their primitive weapons fell imperial stormtroopers	
+1C2-E-TEST-0143-1.30/003	forest floor DEP=1C2-E-TEST-0143-1.30002		their primitive weapons fell as-st walkers of the empire	
+1C2-E-TEST-0143-1.30/004	primitive weapons			
+1C2-E-TEST-0143-1.30/005	fell imperial stormtroopers	DEP=1C2-E-TEST-0143-1.30004		
+1C2-E-TEST-0143-1.30/006	and at-st walkers of the empire	DEP=1C2-E-TEST-0143-1.30004		
+1C2-E-TEST-0143-11.10	"They believe themselves to be descendants of the Great Tree, a sacred tree in the forests."			
+1C2-E-TEST-0143-11.10/001	descendants of great tree		descendants of great tree	
+1C2-E-TEST-0143-11.10/003	sacred tree	DEP=1C2-E-TEST-0143-11.10001	great tree a sacred tree in the forests	1
+1C2-E-TEST-0143-11.12	"A medicine man also lives in the Ewok village, a keeper of mystical lore, and a healer to the injured."			
+1C2-E-TEST-0143-11.12/001	medicine man lives in  Ewok village 		medicine man live in the ewok village	
+1C2-E-TEST-0143-11.12/003	keeper	of mystical lore DEP=1C2-E-TEST-0143-11.12001	medicine man a keeper of mystical lore	1
+1C2-E-TEST-0143-11.12/005	healer to injured DEP=1C2-E-TEST-0143-11.12001		medicine man a healer to the injured	1
+1C2-E-TEST-0143-11.13	"When the Empire began operations on the moon of Endor , they dismissed the primitive species as harmless."			
+1C2-E-TEST-0143-11.13/001	empire operations began	DEP=1C2-E-TEST-0143-11.13003	empire dismissed the primitive species as harmless	
+1C2-E-TEST-0143-11.13/002	moon of endor DEP=1C2-E-TEST-0143-11.13001		empire began operation on the moon of endor	1
+1C2-E-TEST-0143-11.13/003	dismissed the primitive species 			
+1C2-E-TEST-0143-11.13/004	harmless DEP=1C2-E-TEST-0143-11.13003			
+1C2-E-TEST-0143-11.18	"The Ewoks accepted the Rebels into their tribe, and allied themselves to their cause."			
+1C2-E-TEST-0143-11.18/001	ewoks accepted rebels into tribe		ewoks accepted rebels into tribe	
+1C2-E-TEST-0143-11.18/002	allied to the cause DEP=1C2-E-TEST-0143-11.13006		allied to the cause	1
+1C2-E-TEST-0143-11.2	The Ewoks are sentient furred bipeds native to the moon of Endor.			
+1C2-E-TEST-0143-11.2/002	sentient furred bipeds		sentient furred bipeds	
+1C2-E-TEST-0143-11.2/003	native moon endor		native moon endor	
+1C2-E-TEST-0143-11.20	This assist paved the way to victory at the Battle of Endor.			
+1C2-E-TEST-0143-11.20/002	victory battle of endor		victory battle of endor	
+1C2-E-TEST-0143-11.21	"Later that night, the Ewoks held a huge celebration that could be heard throughout the forest."			
+1C2-E-TEST-0143-11.21/002	huge celebration		held huge celebration	
+1C2-E-TEST-0143-11.21/003	later that night DEP=1C2-E-TEST-0143-11.21002		heard through forest	1
+1C2-E-TEST-0143-11.21/007	heard through forest	DEP=1C2-E-TEST-0143-11.21002	later that night	1
+1C2-E-TEST-0143-11.4	"Although extremely skilled in forest survival and the construction of primitive technology like gliders and catapults, the Ewoks have yet to progress past stone-level technology."			
+1C2-E-TEST-0143-11.4/001	extremely skilled forest survival		yet to progress past stone-level technology	
+1C2-E-TEST-0143-11.4/002	skilled construction	primitive technology 	extremely skilled forest survival	
+1C2-E-TEST-0143-11.4/004	gliders catapults DEP=1C2-E-TEST-0143-11.4002		skilled in construction of primitive technology	
+1C2-E-TEST-0143-11.4/006	yet to progress past stone-level technology		gliders and catapults	3
+1C2-E-TEST-0143-11.71	"Following the success of Return of the Jedi, the Ewoks would return in two made-for-television movies: Caravan of Courage: The Ewok Adventure and Ewoks: The Battle for Endor."			
+1C2-E-TEST-0143-11.71/001	success	return of the jedi DEP=1C2-E-TEST-0143-11.71002 DEP=1C2-E-TEST-0143-11.71003	return in two made-for-television movies	
+1C2-E-TEST-0143-11.71/002	Caravan of Courage: The Ewok Adventure		Caravan of Courage: The Ewok Adventure	1
+1C2-E-TEST-0143-11.71/003	Ewoks: The Battle for Endor		Ewoks: The Battle for Endor	1
+1C2-E-TEST-0143-11.71/004			following success of return of the jedi	1
+1C2-E-TEST-0143-117.10	"The surrounding giant trees play an important cultural role in the Ewok religion; the Ewoks are a deeply spiritual race who believe themselves to be descendants of the Great Tree, a sacred tree in the forests. Ewoks also get their medicine from a single tree deep in the forests of Endor's moon. The tree excretes a substance in which the Ewoks call ""Chak"". They use it to heal their ills. ."			
+1C2-E-TEST-0143-117.10/001	surrounding giant trees		surrounding giant trees play an important cultural role in the Ewok religion	
+1C2-E-TEST-0143-117.10/002	important cultural role religion DEP=1C2-E-TEST-0143-117.10001		deeply spiritual race 	
+1C2-E-TEST-0143-117.10/003	deeply spiritual race		believe themselves to be descendants of the Great tree	2
+1C2-E-TEST-0143-117.10/004	believed descendants of Great Tree		great tree a sacred tree in the forests	3
+1C2-E-TEST-0143-117.10/005	sacred DEP=1C2-E-TEST-0143-117.10004		get their medicine from a single tree deep in the forests of Endor's moon	
+1C2-E-TEST-0143-117.10/006	get medicine from single tree		"tree excretes a substance in which the Ewoks call ""Chak"""	5
+1C2-E-TEST-0143-117.10/007	deep forest Endor moon DEP=1C2-E-TEST-0143-117.10006		use chak to heal their ills	7
+1C2-E-TEST-0143-117.10/008	substance Chak heal ills DEP=1C2-E-TEST-0143-117.10006			
+1C2-E-TEST-0143-117.24	"Princess Leia Organa , part of a Rebel strike team, then befriends the Ewok Wicket W. Warrick , a scout from said village, and is taken to meet the other Ewoks."			
+1C2-E-TEST-0143-117.24/001	princess leia organa	befriends Wicket W. Warrick	princess leia organa befriends ewok wicket w warrick	
+1C2-E-TEST-0143-117.24/002	part rebel strike team	DEP=1C2-E-TEST-0143-117.24001	"Princess Leia Organa , part of a Rebel strike team"	
+1C2-E-TEST-0143-117.24/005	scout from village DEP=1C2-E-TEST-0143-117.24001		ewok wicket w warrick scout from village	
+1C2-E-TEST-0143-117.24/007	taken to meet ewoks	DEP=1C2-E-TEST-0143-117.24001		
+1C2-E-TEST-0143-117.32	"Walkers are fictional vehicles This assistance paves the way to victory at the Battle of Endor. Later that night, the Ewoks are shown holding a huge celebration."			
+1C2-E-TEST-0143-117.32/001	walkers	are fictional vehicles 	walkers fictional vehicles	
+1C2-E-TEST-0143-117.6	"Ewoks live high among the trees of their home planet's forests, in villages built on platforms between the closely spaced trees. They are shown venturing to the forest floor to hunt, and set traps to catch various prey. Although extremely skilled in forest survival and the construction of primitive technology such as wooden gliders and catapults, the Ewoks have yet to progress past stone age technology."			
+1C2-E-TEST-0143-117.6/001	live among trees forest		live among trees of their home planet's forest	
+1C2-E-TEST-0143-117.6/002	villages built on platforms		villages built on platforms between closely spaced trees	
+1C2-E-TEST-0143-117.6/003	closely spaced trees DEP=1C2-E-TEST-0143-117.6002		venture to forest floor to hunt and set traps to catch various prey	
+1C2-E-TEST-0143-117.6/008	forest floor hunt			
+1C2-E-TEST-0143-117.6/009	set traps catch pray			
+1C2-E-TEST-0143-117.9	"The Ewoks have a tribal culture, with a Council of Elders ruling over them, and the Council, in turn, headed by the Chief. A medicine man also lives in the Ewok village."			
+1C2-E-TEST-0143-117.9/002	tribal culture		have a tribal culture	
+1C2-E-TEST-0143-117.9/003	council	of elders ruling 	Council of Elders ruling over them	
+1C2-E-TEST-0143-117.9/004	headed by chief DEP=1C2-E-TEST-0143-117.9003		council headed by chief	2
+				
+1C2-E-TEST-0143-2.10	"When these Ewoks saw the protocol droid C-3PO, they identified him as a long-prophesied god called ""The Golden One ""."			
+1C2-E-TEST-0143-2.10/002	protocol droid c-3po		identified c-3po as long-prophesied god	
+1C2-E-TEST-0143-2.10/003	long-prophesied god DEP=1C2-E-TEST-0143-2.10002		"called c-3po ""the golden one'"	
+1C2-E-TEST-0143-2.10/005	the golden one DEP=1C2-E-TEST-0143-2.10002			
+1C2-E-TEST-0143-2.16	"The Ewoks helped in the ground battle to destroy the Imperial shield generator on the forest floor, and their primitive weapons felled the stormtroopers and the scout walkers of the Empire, although they took many losses to Imperial blaster fire."			
+1C2-E-TEST-0143-2.16/001	ewoks	DEP=1C2-E-TEST-0143-2.16011	primitive weapons felled storm troopers of the empire	
+1C2-E-TEST-0143-2.16/002	ground battle		primitive weapons felled scout walkers of the empire	
+1C2-E-TEST-0143-2.16/003	imperial shield generator	DEP=1C2-E-TEST-0143-2.16012	took many losses to imperial blaster fire	
+1C2-E-TEST-0143-2.16/004	forest floor			
+1C2-E-TEST-0143-2.16/005	primitive weapons	DEP=1C2-E-TEST-0143-2.16013		
+1C2-E-TEST-0143-2.16/006	stormtroopers	DEP=1C2-E-TEST-0143-2.16013		
+1C2-E-TEST-0143-2.16/007	scout walkers	DEP=1C2-E-TEST-0143-2.16006		
+1C2-E-TEST-0143-2.16/008	empire			
+1C2-E-TEST-0143-2.16/009	losses	DEP=1C2-E-TEST-0143-2.16014		
+1C2-E-TEST-0143-2.16/010	imperial blaster fire			
+1C2-E-TEST-0143-2.16/011	helped			
+1C2-E-TEST-0143-2.16/012	destroy	DEP=1C2-E-TEST-0143-2.16011		
+1C2-E-TEST-0143-2.16/013	felled	DEP=1C2-E-TEST-0143-2.16011		
+1C2-E-TEST-0143-2.16/014	took	DEP=1C2-E-TEST-0143-2.16013		
+1C2-E-TEST-0143-2.7	"Princess Leia Organa , part of a Rebel strike team, met and befriended Wicket W. Warrick, who took her back to his village as an honored guest."			
+1C2-E-TEST-0143-2.7/001	princess leia organa	DEP=1C2-E-TEST-0143-2.7007	Wicket W. Warrick took Princess Leia Organa back to his village as an honored guest.	
+1C2-E-TEST-0143-2.7/002	part	DEP=1C2-E-TEST-0143-2.7001		
+1C2-E-TEST-0143-2.7/003	rebel strike team			
+1C2-E-TEST-0143-2.7/004	wicket w. warrick	DEP=1C2-E-TEST-0143-2.7007		
+1C2-E-TEST-0143-2.7/005	back	DEP=1C2-E-TEST-0143-2.7009		
+1C2-E-TEST-0143-2.7/006	village			
+1C2-E-TEST-0143-2.7/007	met			
+1C2-E-TEST-0143-2.7/008	befriended	DEP=1C2-E-TEST-0143-2.7007		
+1C2-E-TEST-0143-2.7/009	took	DEP=1C2-E-TEST-0143-2.7004		
+1C2-E-TEST-0143-2.7/010	honored	DEP=1C2-E-TEST-0143-2.7011		
+1C2-E-TEST-0143-2.7/011	guest			
+1C2-E-TEST-0143-206.11	"For the forest dwellers, the surrounding giant trees play an important cultural role."			
+1C2-E-TEST-0143-206.11/001	forest dwellers		surrounding trees play important cultural role	
+1C2-E-TEST-0143-206.11/002	surrounding giant trees			
+1C2-E-TEST-0143-206.11/003	important cultural role			
+1C2-E-TEST-0143-206.2	"In the Star Wars series of films, Ewoks are sentient furred bipeds native to Endor 's forest moon who help the Rebel Alliance defeat the forces of the Galactic Empire in the Battle of Endor ."			
+1C2-E-TEST-0143-206.2/001	star wars series		sentinent furred biped native to endor forest moon	
+1C2-E-TEST-0143-206.2/002	films		help rebel alliance defeat the forces of the galactic empire	
+1C2-E-TEST-0143-206.2/003	ewoks	DEP=1C2-E-TEST-0143-206.2004	help in the battle of endor	2
+1C2-E-TEST-0143-206.2/004	sentient furred bipeds			
+1C2-E-TEST-0143-206.2/005	endor	DEP=1C2-E-TEST-0143-206.2013		
+1C2-E-TEST-0143-206.2/006	rebel alliance	DEP=1C2-E-TEST-0143-206.2014		
+1C2-E-TEST-0143-206.2/007	forces	DEP=1C2-E-TEST-0143-206.2014		
+1C2-E-TEST-0143-206.2/008	galactic empire			
+1C2-E-TEST-0143-206.2/009	battle			
+1C2-E-TEST-0143-206.2/010	endor			
+1C2-E-TEST-0143-206.2/011	native	DEP=1C2-E-TEST-0143-206.2004		
+1C2-E-TEST-0143-206.2/012	forest	DEP=1C2-E-TEST-0143-206.2013		
+1C2-E-TEST-0143-206.2/013	moon			
+1C2-E-TEST-0143-206.2/014	defeat			
+1C2-E-TEST-0143-206.20	"Threepio told the Council of Elders the adventures of the Rebel heroes Luke Skywalker Luke Skywalker is a fictional character of the Star Wars universe, a Jedi Knight, who plays a major role in the series of films."			
+1C2-E-TEST-0143-206.20/001	threepio	DEP=1C2-E-TEST-0143-206.20012	luke skywalker fictional character in star wars universe	
+1C2-E-TEST-0143-206.20/002	council	DEP=1C2-E-TEST-0143-206.20012	luke skywalker is a jedi knight	
+1C2-E-TEST-0143-206.20/003	elders		luke skywalker plays a major role in the series of films	
+1C2-E-TEST-0143-206.20/004	adventures	DEP=1C2-E-TEST-0143-206.20006	Threepio told the Council of Elders the adventures of the Rebel heroes Luke Skywalker	
+1C2-E-TEST-0143-206.20/005	rebel heroes luke skywalker luke skywalker			
+1C2-E-TEST-0143-206.20/006	fictional character	DEP=1C2-E-TEST-0143-206.20002		
+1C2-E-TEST-0143-206.20/007	star wars universe			
+1C2-E-TEST-0143-206.20/008	jedi knight	DEP=1C2-E-TEST-0143-206.20007		
+1C2-E-TEST-0143-206.20/009	major role	DEP=1C2-E-TEST-0143-206.20013		
+1C2-E-TEST-0143-206.20/010	series			
+1C2-E-TEST-0143-206.20/011	films			
+1C2-E-TEST-0143-206.20/012	told			
+1C2-E-TEST-0143-206.20/013	plays	DEP=1C2-E-TEST-0143-206.20007		
+1C2-E-TEST-0143-206.40	"Ewok Alternative meanings: Ewoks (cartoon In the Star Wars series of films, Ewoks are sentient furred bipeds native to Endor's forest moon who help the Rebel Alliance defeat the forces of the Galactic Empire in the Battle of Endor."			
+1C2-E-TEST-0143-206.40/001	alternative meanings		Ewoks are sentient furred bipeds native to Endor's forest moon	
+1C2-E-TEST-0143-206.40/002	ewoks	DEP=1C2-E-TEST-0143-206.40001	help the Rebel Alliance defeat the forces of the Galactic Empire	
+1C2-E-TEST-0143-206.40/003	cartoon	DEP=1C2-E-TEST-0143-206.40002	help in the battle of endor	2
+1C2-E-TEST-0143-206.40/004	star wars series		cartoon in star wars seires of films	
+1C2-E-TEST-0143-206.40/005	films			
+1C2-E-TEST-0143-206.40/006	ewoks	DEP=1C2-E-TEST-0143-206.40007		
+1C2-E-TEST-0143-206.40/007	sentient furred bipeds	DEP=1C2-E-TEST-0143-206.40002		
+1C2-E-TEST-0143-206.40/008	endor	DEP=1C2-E-TEST-0143-206.40016		
+1C2-E-TEST-0143-206.40/009	rebel alliance	DEP=1C2-E-TEST-0143-206.40017		
+1C2-E-TEST-0143-206.40/010	forces	DEP=1C2-E-TEST-0143-206.40017		
+1C2-E-TEST-0143-206.40/011	galactic empire			
+1C2-E-TEST-0143-206.40/012	battle			
+1C2-E-TEST-0143-206.40/013	endor			
+1C2-E-TEST-0143-206.40/014	native	DEP=1C2-E-TEST-0143-206.40007		
+1C2-E-TEST-0143-206.40/015	forest	DEP=1C2-E-TEST-0143-206.40016		
+1C2-E-TEST-0143-206.40/016	moon			
+1C2-E-TEST-0143-206.40/017	defeat			
+1C2-E-TEST-0143-39.15	Princess Leia Organa was the first member of a Rebel strike team to befriend the Ewok tribe.			
+1C2-E-TEST-0143-39.15/001	princess leia organa	DEP=1C2-E-TEST-0143-39.15002	Princess Leia Organa befriends ewok tribe	
+1C2-E-TEST-0143-39.15/002	member			
+1C2-E-TEST-0143-39.15/003	rebel strike team			
+1C2-E-TEST-0143-39.15/004	tribe	DEP=1C2-E-TEST-0143-39.15005		
+1C2-E-TEST-0143-39.15/005	befriend	DEP=1C2-E-TEST-0143-39.15002		
+1C2-E-TEST-0143-39.3	"Most Ewoks live high among the trees of Endor's forests, in villages built between the closely spaced trees."			
+1C2-E-TEST-0143-39.3/001	ewoks		live among trees of endor forest	
+1C2-E-TEST-0143-39.3/002	trees		live in villages built between closely space trees	
+1C2-E-TEST-0143-39.3/003	endor	DEP=1C2-E-TEST-0143-39.3008		
+1C2-E-TEST-0143-39.3/004	villages			
+1C2-E-TEST-0143-39.3/005	closely			
+1C2-E-TEST-0143-39.3/006	trees	DEP=1C2-E-TEST-0143-39.3010		
+1C2-E-TEST-0143-39.3/007	high			
+1C2-E-TEST-0143-39.3/008	forests			
+1C2-E-TEST-0143-39.3/009	built	DEP=1C2-E-TEST-0143-39.3004		
+1C2-E-TEST-0143-39.3/010	spaced	DEP=1C2-E-TEST-0143-39.3005		
+1C2-E-TEST-0143-44.17	Imperial operations were situated around the area near the Ewok village led by Chief Chirpa .			
+1C2-E-TEST-0143-44.17/001	imperial operations	DEP=1C2-E-TEST-0143-44.17005	imperial operations situated around the area near the Ewok village	
+1C2-E-TEST-0143-44.17/002	area		imperial operations led by chief chipra	
+1C2-E-TEST-0143-44.17/003	village			
+1C2-E-TEST-0143-44.17/004	chief chirpa			
+1C2-E-TEST-0143-44.17/005	situated			
+1C2-E-TEST-0143-44.17/006	led	DEP=1C2-E-TEST-0143-44.17003		
+1C2-E-TEST-0143-44.19	"These Ewoks also erroneously worshipped the protocol droid C-3PO , thinking he was their god."			
+1C2-E-TEST-0143-44.19/001	ewoks	DEP=1C2-E-TEST-0143-44.19005	errorneously worshipped protocol droid c-3po	
+1C2-E-TEST-0143-44.19/002	protocol droid c-3po	DEP=1C2-E-TEST-0143-44.19005	thought c-3po was their god	
+1C2-E-TEST-0143-44.19/003	god	DEP=1C2-E-TEST-0143-44.19006		
+1C2-E-TEST-0143-44.19/004	erroneously	DEP=1C2-E-TEST-0143-44.19005		
+1C2-E-TEST-0143-44.19/005	worshipped			
+1C2-E-TEST-0143-44.19/006	thinking	DEP=1C2-E-TEST-0143-44.19005		
+1C2-E-TEST-0143-44.20	"Threepio told the Council of Elders the adventures of the Rebel heroes Luke Skywalker , Princess Leia , and Han Solo ."			
+1C2-E-TEST-0143-44.20/001	threepio	DEP=1C2-E-TEST-0143-44.20010	Threepio told the Council of Elders the adventures of the Rebel heroes	
+1C2-E-TEST-0143-44.20/002	council	DEP=1C2-E-TEST-0143-44.20010	Rebel heroes Luke Skywalker princess Leia han solo	1
+1C2-E-TEST-0143-44.20/003	elders			
+1C2-E-TEST-0143-44.20/004	adventures	DEP=1C2-E-TEST-0143-44.20007		
+1C2-E-TEST-0143-44.20/005	rebel			
+1C2-E-TEST-0143-44.20/006	heroes	DEP=1C2-E-TEST-0143-44.20007		
+1C2-E-TEST-0143-44.20/007	luke skywalker	DEP=1C2-E-TEST-0143-44.20002		
+1C2-E-TEST-0143-44.20/008	princess leia	DEP=1C2-E-TEST-0143-44.20007		
+1C2-E-TEST-0143-44.20/009	han solo	DEP=1C2-E-TEST-0143-44.20007		
+1C2-E-TEST-0143-44.20/010	told			
+1C2-E-TEST-0143-44.6	"His answer was to create a new race called Ewoks, which is ""Wookiee"" with the syllables reversed."			
+1C2-E-TEST-0143-44.6/001	answer		Wookiee with the syllables reversed	
+1C2-E-TEST-0143-44.6/002	new race	DEP=1C2-E-TEST-0143-44.6006		
+1C2-E-TEST-0143-44.6/003	ewoks	DEP=1C2-E-TEST-0143-44.6007		
+1C2-E-TEST-0143-44.6/004	wookiee	DEP=1C2-E-TEST-0143-44.6003		
+1C2-E-TEST-0143-44.6/005	syllables	DEP=1C2-E-TEST-0143-44.6008		
+1C2-E-TEST-0143-44.6/006	create			
+1C2-E-TEST-0143-44.6/007	called	DEP=1C2-E-TEST-0143-44.6002		
+1C2-E-TEST-0143-44.6/008	reversed	DEP=1C2-E-TEST-0143-44.6004		
+1C2-E-TEST-0143-44.8	"They are quick learners, however, when exposed to advanced technology with simple mechanical processes and concepts."			
+1C2-E-TEST-0143-44.8/001	quick learners		quick learners when exposed to advanced technology	
+1C2-E-TEST-0143-44.8/002	advanced technology		technology with simple mechanical processes and concepts	1
+1C2-E-TEST-0143-44.8/003	simple mechanical processes			
+1C2-E-TEST-0143-44.8/004	concepts	DEP=1C2-E-TEST-0143-44.8003		
+1C2-E-TEST-0143-44.8/005	exposed	DEP=1C2-E-TEST-0143-44.8001		

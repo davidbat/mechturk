@@ -1,19 +1,19 @@
 1C2-E-TEST-0132-117.19	"On Caspian Lake, Highland Lodge also offers about 10 miles of groomed terrain on 36 miles of ski trails."			
-1C2-E-TEST-0132-117.19/001	caspian lake		caspian lake	
-1C2-E-TEST-0132-117.19/002	highland lodge	DEP=1C2-E-TEST-0132-117.19006	highland lodge	1
+1C2-E-TEST-0132-117.19/001	caspian lake		on caspian lake	2
+1C2-E-TEST-0132-117.19/002	highland lodge	DEP=1C2-E-TEST-0132-117.19006	highland lodge	
 1C2-E-TEST-0132-117.19/003	10 miles		10 miles groomed terrain	2
 1C2-E-TEST-0132-117.19/004	groomed terrain		36 miles ski trails	2
 1C2-E-TEST-0132-117.19/005	36 miles			
 1C2-E-TEST-0132-117.19/006	offers			
 1C2-E-TEST-0132-117.19/007	trails			
 1C2-E-TEST-0132-117.20	"Further west, Jay Peak (or Big Jay) is a remote resort that allows skiers and riders to truly embrace the rugged outdoors, and enjoy the most snow of any New England resort."			
-1C2-E-TEST-0132-117.20/001	west	DEP=1C2-E-TEST-0132-117.20005	jay peak	
+1C2-E-TEST-0132-117.20/001	west	DEP=1C2-E-TEST-0132-117.20005	jay peak remote resort	
 1C2-E-TEST-0132-117.20/002	jay peak	DEP=1C2-E-TEST-0132-117.20001	big jay	1
-1C2-E-TEST-0132-117.20/003	big	DEP=1C2-E-TEST-0132-117.20002	remote  resort	
-1C2-E-TEST-0132-117.20/004	jay	DEP=1C2-E-TEST-0132-117.20003	allows skiers riders	3
-1C2-E-TEST-0132-117.20/005	remote resort		truly embrace rugged outdoors	3
-1C2-E-TEST-0132-117.20/006	skiers riders	DEP=1C2-E-TEST-0132-117.20011	enjoy 	
-1C2-E-TEST-0132-117.20/007	rugged outdoors	DEP=1C2-E-TEST-0132-117.20011	most snow	6
+1C2-E-TEST-0132-117.20/003	big	DEP=1C2-E-TEST-0132-117.20002	allows skiers riders truly embrace rugged outdoors	1
+1C2-E-TEST-0132-117.20/004	jay	DEP=1C2-E-TEST-0132-117.20003	most snow of any New England resort	1
+1C2-E-TEST-0132-117.20/005	remote resort			
+1C2-E-TEST-0132-117.20/006	skiers riders	DEP=1C2-E-TEST-0132-117.20011		
+1C2-E-TEST-0132-117.20/007	rugged outdoors	DEP=1C2-E-TEST-0132-117.20011		
 1C2-E-TEST-0132-117.20/008	resort			
 1C2-E-TEST-0132-117.20/009	allows	DEP=1C2-E-TEST-0132-117.20005		
 1C2-E-TEST-0132-117.20/010	truly	DEP=1C2-E-TEST-0132-117.20011		
@@ -21,17 +21,17 @@
 1C2-E-TEST-0132-117.20/012	enjoy	DEP=1C2-E-TEST-0132-117.20011		
 1C2-E-TEST-0132-117.20/013	snow	DEP=1C2-E-TEST-0132-117.20012		
 1C2-E-TEST-0132-117.25	"Tucked in Vermont's Green Mountains, Smugglers' Notch is often referred to as one of the country's best-kept secrets, and with award-winning and innovative children's programs, gentle runs for the novices and steep slopes for the adults, the region's resorts are destined to please."			
-1C2-E-TEST-0132-117.25/001	vermont	DEP=1C2-E-TEST-0132-117.25010	vermonts green mountains	
-1C2-E-TEST-0132-117.25/002	smugglers	DEP=1C2-E-TEST-0132-117.25011	smugglers notch	1
-1C2-E-TEST-0132-117.25/003	country	DEP=1C2-E-TEST-0132-117.25014	countrys best-kept secret	2
-1C2-E-TEST-0132-117.25/004	novices		award-winning	2
-1C2-E-TEST-0132-117.25/005	steep slopes	DEP=1C2-E-TEST-0132-117.25004	innovative childrens programs	4
-1C2-E-TEST-0132-117.25/006	adults		gentle runs	2
-1C2-E-TEST-0132-117.25/007	region		novices	6
-1C2-E-TEST-0132-117.25/008	tucked	DEP=1C2-E-TEST-0132-117.25012	steep slopes	2
-1C2-E-TEST-0132-117.25/009	green	DEP=1C2-E-TEST-0132-117.25010	adults	8
-1C2-E-TEST-0132-117.25/010	mountains		destined 	
-1C2-E-TEST-0132-117.25/011	notch	DEP=1C2-E-TEST-0132-117.25012	please	11
+1C2-E-TEST-0132-117.25/001	vermont	DEP=1C2-E-TEST-0132-117.25010	in vermonts green mountains	2
+1C2-E-TEST-0132-117.25/002	smugglers	DEP=1C2-E-TEST-0132-117.25011	smugglers notch	
+1C2-E-TEST-0132-117.25/003	country	DEP=1C2-E-TEST-0132-117.25014	referred to as countrys best-kept secret	2
+1C2-E-TEST-0132-117.25/004	novices		award-winning innovative children program	2
+1C2-E-TEST-0132-117.25/005	steep slopes	DEP=1C2-E-TEST-0132-117.25004	gentle runs for the novices and steep slopes for the adults	2
+1C2-E-TEST-0132-117.25/006	adults		region's resorts are destined to please	1
+1C2-E-TEST-0132-117.25/007	region			
+1C2-E-TEST-0132-117.25/008	tucked	DEP=1C2-E-TEST-0132-117.25012		
+1C2-E-TEST-0132-117.25/009	green	DEP=1C2-E-TEST-0132-117.25010		
+1C2-E-TEST-0132-117.25/010	mountains			
+1C2-E-TEST-0132-117.25/011	notch	DEP=1C2-E-TEST-0132-117.25012		
 1C2-E-TEST-0132-117.25/012	referred			
 1C2-E-TEST-0132-117.25/013	best-kept	DEP=1C2-E-TEST-0132-117.25014		
 1C2-E-TEST-0132-117.25/014	secrets			
@@ -44,12 +44,12 @@
 1C2-E-TEST-0132-117.25/021	destined			
 1C2-E-TEST-0132-117.25/022	please	DEP=1C2-E-TEST-0132-117.25021		
 1C2-E-TEST-0132-117.29	"While Stowe is located on the state's highest peak, the huge Killington Resort still boasts the highest lift-served skiing in the state and has incredibly diverse terrain."			
-1C2-E-TEST-0132-117.29/001	stowe	DEP=1C2-E-TEST-0132-117.29006	stowe	
-1C2-E-TEST-0132-117.29/002	state	DEP=1C2-E-TEST-0132-117.29008	states highest peak	1
-1C2-E-TEST-0132-117.29/003	huge killington resort	DEP=1C2-E-TEST-0132-117.29009	huge killington resort	
-1C2-E-TEST-0132-117.29/004	highest lift-served skiing	DEP=1C2-E-TEST-0132-117.29009	boasts highest life-served skiing	3
-1C2-E-TEST-0132-117.29/005	state		states highest peak	3
-1C2-E-TEST-0132-117.29/006	located	DEP=1C2-E-TEST-0132-117.29009	incredibly diverse terrain	3
+1C2-E-TEST-0132-117.29/001	stowe	DEP=1C2-E-TEST-0132-117.29006	stowe located on state's highest peak	
+1C2-E-TEST-0132-117.29/002	state	DEP=1C2-E-TEST-0132-117.29008	huge killington resort bosts highest life-served skiing	
+1C2-E-TEST-0132-117.29/003	huge killington resort	DEP=1C2-E-TEST-0132-117.29009	has incredibly diverse terrain	2
+1C2-E-TEST-0132-117.29/004	highest lift-served skiing	DEP=1C2-E-TEST-0132-117.29009		
+1C2-E-TEST-0132-117.29/005	state			
+1C2-E-TEST-0132-117.29/006	located	DEP=1C2-E-TEST-0132-117.29009		
 1C2-E-TEST-0132-117.29/007	highest	DEP=1C2-E-TEST-0132-117.29008		
 1C2-E-TEST-0132-117.29/008	peak			
 1C2-E-TEST-0132-117.29/009	boasts			
@@ -57,40 +57,40 @@
 1C2-E-TEST-0132-117.29/011	diverse	DEP=1C2-E-TEST-0132-117.29012		
 1C2-E-TEST-0132-117.29/012	terrain			
 1C2-E-TEST-0132-117.32	"Families are drawn to Okemo Mountain, one of the state's last family-owned and operated resorts, as well as mid-size Ascutney, conveniently located just a couple hours from Boston and with Hartford right off the highway."			
-1C2-E-TEST-0132-117.32/001	families	DEP=1C2-E-TEST-0132-117.32008	families drawn	
-1C2-E-TEST-0132-117.32/002	okemo mountain		olemo mountain	1
-1C2-E-TEST-0132-117.32/003	state		last family-owned	2
-1C2-E-TEST-0132-117.32/004	mid-size ascutney		operated 	2
-1C2-E-TEST-0132-117.32/005	boston		mid-size ascutney	
-1C2-E-TEST-0132-117.32/006	hartford		conveniently located	5
-1C2-E-TEST-0132-117.32/007	highway		couple hours	5
-1C2-E-TEST-0132-117.32/008	drawn		boston	5
-1C2-E-TEST-0132-117.32/009	family-owned		hartford	
-1C2-E-TEST-0132-117.32/010	operated	DEP=1C2-E-TEST-0132-117.32008	highway	9
+1C2-E-TEST-0132-117.32/001	families	DEP=1C2-E-TEST-0132-117.32008	families drawn to okemo mountain	
+1C2-E-TEST-0132-117.32/002	okemo mountain		one of the state's last family-owned and operated resorts	1
+1C2-E-TEST-0132-117.32/003	state		mid-size Ascutney	1
+1C2-E-TEST-0132-117.32/004	mid-size ascutney		located just a couple hours from Boston and with Hartford right off the highway	2
+1C2-E-TEST-0132-117.32/005	boston			
+1C2-E-TEST-0132-117.32/006	hartford			
+1C2-E-TEST-0132-117.32/007	highway			
+1C2-E-TEST-0132-117.32/008	drawn			
+1C2-E-TEST-0132-117.32/009	family-owned			
+1C2-E-TEST-0132-117.32/010	operated	DEP=1C2-E-TEST-0132-117.32008		
 1C2-E-TEST-0132-117.32/011	conveniently			
 1C2-E-TEST-0132-117.32/012	located	DEP=1C2-E-TEST-0132-117.32013		
 1C2-E-TEST-0132-117.32/013	couple	DEP=1C2-E-TEST-0132-117.32014		
 1C2-E-TEST-0132-117.32/014	hours	DEP=1C2-E-TEST-0132-117.32011		
 1C2-E-TEST-0132-117.32/015	right			
 1C2-E-TEST-0132-117.35	"Stratton is a leading destination for snowboarders, who flock to the resort's renowned four terrain parks."			
-1C2-E-TEST-0132-117.35/001	stratton	DEP=1C2-E-TEST-0132-117.35002	stratton	
-1C2-E-TEST-0132-117.35/002	leading destination		leading destination	1
-1C2-E-TEST-0132-117.35/003	snowboarders		snowboarders	2
-1C2-E-TEST-0132-117.35/004	resort	DEP=1C2-E-TEST-0132-117.35009	flock	1
-1C2-E-TEST-0132-117.35/005	flock	DEP=1C2-E-TEST-0132-117.35003	renowned four terrain parks	1
+1C2-E-TEST-0132-117.35/001	stratton	DEP=1C2-E-TEST-0132-117.35002	stratton is a leading destination for snowboarders	
+1C2-E-TEST-0132-117.35/002	leading destination		snowboarders flock to the resort's renowned four terrain parks	1
+1C2-E-TEST-0132-117.35/003	snowboarders			
+1C2-E-TEST-0132-117.35/004	resort	DEP=1C2-E-TEST-0132-117.35009		
+1C2-E-TEST-0132-117.35/005	flock	DEP=1C2-E-TEST-0132-117.35003		
 1C2-E-TEST-0132-117.35/006	renowned	DEP=1C2-E-TEST-0132-117.35009		
 1C2-E-TEST-0132-117.35/007	four	DEP=1C2-E-TEST-0132-117.35009		
 1C2-E-TEST-0132-117.35/008	terrain	DEP=1C2-E-TEST-0132-117.35009		
 1C2-E-TEST-0132-117.35/009	parks			
 1C2-E-TEST-0132-117.38	"Manchester can be visited or can serve as a base town for area resorts, like the family-friendly and practical Bromley Mountain Resort just six miles away, a favorite for intermediate-level skiers and riders."			
-1C2-E-TEST-0132-117.38/001	manchester	DEP=1C2-E-TEST-0132-117.38007	manchester	
-1C2-E-TEST-0132-117.38/002	base town		base town 	1
-1C2-E-TEST-0132-117.38/003	area		area	2
-1C2-E-TEST-0132-117.38/004	six miles	DEP=1C2-E-TEST-0132-117.38014	family-friendly practical	5
-1C2-E-TEST-0132-117.38/005	favorite	DEP=1C2-E-TEST-0132-117.38007	bromley mountain	
-1C2-E-TEST-0132-117.38/006	intermediate-level skiers riders		six miles away	5
-1C2-E-TEST-0132-117.38/007	visited		favourite	5
-1C2-E-TEST-0132-117.38/008	serve	DEP=1C2-E-TEST-0132-117.38007	intermediate-level skiers riders	5
+1C2-E-TEST-0132-117.38/001	manchester	DEP=1C2-E-TEST-0132-117.38007	manchester base town for area resorts	
+1C2-E-TEST-0132-117.38/002	base town		family-friendly and practical Bromley Mountain Resort	
+1C2-E-TEST-0132-117.38/003	area		favourite intermediate-level skiers riders	2
+1C2-E-TEST-0132-117.38/004	six miles	DEP=1C2-E-TEST-0132-117.38014		
+1C2-E-TEST-0132-117.38/005	favorite	DEP=1C2-E-TEST-0132-117.38007		
+1C2-E-TEST-0132-117.38/006	intermediate-level skiers riders			
+1C2-E-TEST-0132-117.38/007	visited			
+1C2-E-TEST-0132-117.38/008	serve	DEP=1C2-E-TEST-0132-117.38007		
 1C2-E-TEST-0132-117.38/009	family-friendly	DEP=1C2-E-TEST-0132-117.38013		
 1C2-E-TEST-0132-117.38/010	practical	DEP=1C2-E-TEST-0132-117.38009		
 1C2-E-TEST-0132-117.38/011	bromley	DEP=1C2-E-TEST-0132-117.38013		
@@ -98,13 +98,13 @@
 1C2-E-TEST-0132-117.38/013	resort			
 1C2-E-TEST-0132-117.38/014	away			
 1C2-E-TEST-0132-117.42	"Washington Valley is a historic area offering classic New England-style skiing, hosting the country's best cross-country ski centers, and boasting some of the region's most rugged and extreme ski conditions."			
-1C2-E-TEST-0132-117.42/001	washington valley	DEP=1C2-E-TEST-0132-117.42002	washington valley	
-1C2-E-TEST-0132-117.42/002	historic area offering		historic area 	1
-1C2-E-TEST-0132-117.42/003	classic england-style skiing	DEP=1C2-E-TEST-0132-117.42002	classic new england-style 	1
-1C2-E-TEST-0132-117.42/004	country		hosting countrys best cross country	1
-1C2-E-TEST-0132-117.42/005	centers	DEP=1C2-E-TEST-0132-117.42007	centers	4
-1C2-E-TEST-0132-117.42/006	region	DEP=1C2-E-TEST-0132-117.42013	regions rugged	
-1C2-E-TEST-0132-117.42/007	hosting	DEP=1C2-E-TEST-0132-117.42002	extreme conditions	6
+1C2-E-TEST-0132-117.42/001	washington valley	DEP=1C2-E-TEST-0132-117.42002	washington valley is a historic area	
+1C2-E-TEST-0132-117.42/002	historic area offering		classic new england-style skiing	1
+1C2-E-TEST-0132-117.42/003	classic england-style skiing	DEP=1C2-E-TEST-0132-117.42002	hosting countrys best cross country	1
+1C2-E-TEST-0132-117.42/004	country		boasting regoins most rugged and extreme ski conditions	1
+1C2-E-TEST-0132-117.42/005	centers	DEP=1C2-E-TEST-0132-117.42007		
+1C2-E-TEST-0132-117.42/006	region	DEP=1C2-E-TEST-0132-117.42013		
+1C2-E-TEST-0132-117.42/007	hosting	DEP=1C2-E-TEST-0132-117.42002		
 1C2-E-TEST-0132-117.42/008	best			
 1C2-E-TEST-0132-117.42/009	cross-country			
 1C2-E-TEST-0132-117.42/010	boasting	DEP=1C2-E-TEST-0132-117.42007		
@@ -112,19 +112,19 @@
 1C2-E-TEST-0132-117.42/012	extreme	DEP=1C2-E-TEST-0132-117.42011		
 1C2-E-TEST-0132-117.42/013	conditions			
 1C2-E-TEST-0132-117.46	"Appropriately, such extreme weather means seriously extreme skiing at back-to-basic, rugged spots like Tuckerman Ravine and the family-owned Wildcat Ski Area."			
-1C2-E-TEST-0132-117.46/001	extreme weather	DEP=1C2-E-TEST-0132-117.46007	extreme weather	
-1C2-E-TEST-0132-117.46/002	extreme skiing	DEP=1C2-E-TEST-0132-117.46008	seriously extreme skiing	1
-1C2-E-TEST-0132-117.46/003	back-to-basic rugged spots		back-to-basic rugged spots	2
-1C2-E-TEST-0132-117.46/004	tuckerman ravine		tuckerman ravine	3
-1C2-E-TEST-0132-117.46/005	family-owned wildcat area	DEP=1C2-E-TEST-0132-117.46004	family-owned wildcat area	4
+1C2-E-TEST-0132-117.46/001	extreme weather	DEP=1C2-E-TEST-0132-117.46007	extreme weather means seriously extreme skiing 	
+1C2-E-TEST-0132-117.46/002	extreme skiing	DEP=1C2-E-TEST-0132-117.46008	extreme skiing at rugged spots like Tuckerman Ravine and the family-owned Wildcat Ski Area	
+1C2-E-TEST-0132-117.46/003	back-to-basic rugged spots			
+1C2-E-TEST-0132-117.46/004	tuckerman ravine			
+1C2-E-TEST-0132-117.46/005	family-owned wildcat area	DEP=1C2-E-TEST-0132-117.46004		
 1C2-E-TEST-0132-117.46/006	appropriately	DEP=1C2-E-TEST-0132-117.46007		
 1C2-E-TEST-0132-117.46/007	means			
 1C2-E-TEST-0132-117.46/008	seriously	DEP=1C2-E-TEST-0132-117.46007		
 1C2-E-TEST-0132-117.47	"Just an hour away, Bretton Woods stands proudly as New Hampshire's largest ski resort, boasting some of the best children's programs in the country."			
-1C2-E-TEST-0132-117.47/001	hour	DEP=1C2-E-TEST-0132-117.47006	bretton woods	
-1C2-E-TEST-0132-117.47/002	bretton woods	DEP=1C2-E-TEST-0132-117.47007	new hampshires largest	1
-1C2-E-TEST-0132-117.47/003	hampshire	DEP=1C2-E-TEST-0132-117.47010	best childrens programs	2
-1C2-E-TEST-0132-117.47/004	best children		country  	2
+1C2-E-TEST-0132-117.47/001	hour	DEP=1C2-E-TEST-0132-117.47006	bretton woods New Hampshire's largest ski resort	
+1C2-E-TEST-0132-117.47/002	bretton woods	DEP=1C2-E-TEST-0132-117.47007	best childrens programs in the country	1
+1C2-E-TEST-0132-117.47/003	hampshire	DEP=1C2-E-TEST-0132-117.47010		
+1C2-E-TEST-0132-117.47/004	best children			
 1C2-E-TEST-0132-117.47/005	country			
 1C2-E-TEST-0132-117.47/006	away	DEP=1C2-E-TEST-0132-117.47007		
 1C2-E-TEST-0132-117.47/007	stands			
@@ -134,41 +134,41 @@
 1C2-E-TEST-0132-117.47/011	boasting	DEP=1C2-E-TEST-0132-117.47010		
 1C2-E-TEST-0132-117.47/012	programs	DEP=1C2-E-TEST-0132-117.47011		
 1C2-E-TEST-0132-117.58	"Cardigan Mountain is actually the second-highest peak in southern New Hampshire, and its resort is considered a classic New England winter destination."			
-1C2-E-TEST-0132-117.58/001	cardigan mountain	DEP=1C2-E-TEST-0132-117.58002	cardigan mountain	
-1C2-E-TEST-0132-117.58/002	second-highest peak		second-highest peak	1
-1C2-E-TEST-0132-117.58/003	southern hampshire		southern hampshire	2
-1C2-E-TEST-0132-117.58/004	resort	DEP=1C2-E-TEST-0132-117.58007	classic winter destination	3
+1C2-E-TEST-0132-117.58/001	cardigan mountain	DEP=1C2-E-TEST-0132-117.58002	cardigan mountain second-highest peak southern new hampshire	
+1C2-E-TEST-0132-117.58/002	second-highest peak		resort is considered a classic New England winter destination	1
+1C2-E-TEST-0132-117.58/003	southern hampshire			
+1C2-E-TEST-0132-117.58/004	resort	DEP=1C2-E-TEST-0132-117.58007		
 1C2-E-TEST-0132-117.58/005	classic winter destination	DEP=1C2-E-TEST-0132-117.58007		
 1C2-E-TEST-0132-117.58/006	actually	DEP=1C2-E-TEST-0132-117.58002		
 1C2-E-TEST-0132-117.58/007	considered	DEP=1C2-E-TEST-0132-117.58002		
 1C2-E-TEST-0132-117.9	The New England-style skiing at New Hampshire's Cannon Mountain will likely have a similar effect.			
 1C2-E-TEST-0132-117.9/001	hampshire	DEP=1C2-E-TEST-0132-117.9006	hampshires cannon mountain	
-1C2-E-TEST-0132-117.9/002	similar effect		similar effect	
+1C2-E-TEST-0132-117.9/002	similar effect		New England-style skiing	1
 1C2-E-TEST-0132-117.9/003	england-style	DEP=1C2-E-TEST-0132-117.9004		
 1C2-E-TEST-0132-117.9/004	skiing			
 1C2-E-TEST-0132-117.9/005	cannon	DEP=1C2-E-TEST-0132-117.9006		
 1C2-E-TEST-0132-117.9/006	mountain			
 1C2-E-TEST-0132-117.9/007	likely			
 1C2-E-TEST-0132-7.12	"Okemo has mega-mountainside lodging including the expansive Jackson Gore Inn, a friendly staff, superb on-mountain cuisine and all the lesson programs your family should require."			
-1C2-E-TEST-0132-7.12/001	okemo		okemo	
-1C2-E-TEST-0132-7.12/002	mega-mountainside lodging		mega-mountainside lodging	1
-1C2-E-TEST-0132-7.12/003	expansive jackson gore inn		expansive jackson gore inn	1
-1C2-E-TEST-0132-7.12/004	friendly staff	DEP=1C2-E-TEST-0132-7.12003	friendly staff	3
-1C2-E-TEST-0132-7.12/005	superb on-mountain cuisine	DEP=1C2-E-TEST-0132-7.12003	superb on-mountain cuisine	3
-1C2-E-TEST-0132-7.12/006	lesson programs	DEP=1C2-E-TEST-0132-7.12003	lesson programs	3
-1C2-E-TEST-0132-7.12/007	family	DEP=1C2-E-TEST-0132-7.12008	family require	6
+1C2-E-TEST-0132-7.12/001	okemo		okemo has mega-mountainside lodging	
+1C2-E-TEST-0132-7.12/002	mega-mountainside lodging		has expansive jackson gore inn	1
+1C2-E-TEST-0132-7.12/003	expansive jackson gore inn		has friendly staff	1
+1C2-E-TEST-0132-7.12/004	friendly staff	DEP=1C2-E-TEST-0132-7.12003	has superb on-mountain cuisine	1
+1C2-E-TEST-0132-7.12/005	superb on-mountain cuisine	DEP=1C2-E-TEST-0132-7.12003	has lesson programs your family should require	1
+1C2-E-TEST-0132-7.12/006	lesson programs	DEP=1C2-E-TEST-0132-7.12003		
+1C2-E-TEST-0132-7.12/007	family	DEP=1C2-E-TEST-0132-7.12008		
 1C2-E-TEST-0132-7.12/008	require			
 1C2-E-TEST-0132-7.13	"OkemoÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s mountain scene will captivate you with lovely pastoral views of the Vermont river valley, and the exceptional snowmaking and grooming will keep you coming back, like the SUV-loads of families who have already discovered their so-coined ÃÂ¢Ã¢ÂÂ¬ÃÂOkemo-difference.ÃÂ¢Ã¢ÂÂ¬ÃÂ"			
-1C2-E-TEST-0132-7.13/001	okemoã cents		okemo	
-1C2-E-TEST-0132-7.13/002	¬		captivating mountain scene	1
-1C2-E-TEST-0132-7.13/003	â cents	DEP=1C2-E-TEST-0132-7.13004	lovely pastoral views	1
-1C2-E-TEST-0132-7.13/004	mountain scene	DEP=1C2-E-TEST-0132-7.13002	vermont river valley	1
-1C2-E-TEST-0132-7.13/005	lovely pastoral views		exceptional  snowmaking	1
-1C2-E-TEST-0132-7.13/006	vermont river valley		grooming	1
-1C2-E-TEST-0132-7.13/007	exceptional snowmaking	DEP=1C2-E-TEST-0132-7.13018	suv-loads families	
-1C2-E-TEST-0132-7.13/008	grooming	DEP=1C2-E-TEST-0132-7.13007	discovered 	7
-1C2-E-TEST-0132-7.13/009	suv-loads		so-coined	
-1C2-E-TEST-0132-7.13/010	families		okemo-difference	9
+1C2-E-TEST-0132-7.13/001	okemoã cents		okemo mountain scene will captivate	
+1C2-E-TEST-0132-7.13/002	¬		lovely pastoral views of vermont river valley	1
+1C2-E-TEST-0132-7.13/003	â cents	DEP=1C2-E-TEST-0132-7.13004	exceptional  snowmaking and grooming	1
+1C2-E-TEST-0132-7.13/004	mountain scene	DEP=1C2-E-TEST-0132-7.13002	suv-loads families discovered their so-coined okemo-dofference	1
+1C2-E-TEST-0132-7.13/005	lovely pastoral views			
+1C2-E-TEST-0132-7.13/006	vermont river valley			
+1C2-E-TEST-0132-7.13/007	exceptional snowmaking	DEP=1C2-E-TEST-0132-7.13018		
+1C2-E-TEST-0132-7.13/008	grooming	DEP=1C2-E-TEST-0132-7.13007		
+1C2-E-TEST-0132-7.13/009	suv-loads			
+1C2-E-TEST-0132-7.13/010	families			
 1C2-E-TEST-0132-7.13/011	so-coined ã cents	DEP=1C2-E-TEST-0132-7.13021		
 1C2-E-TEST-0132-7.13/012	¬ å			
 1C2-E-TEST-0132-7.13/013	okemo-difference	DEP=1C2-E-TEST-0132-7.13012		
@@ -181,26 +181,26 @@
 1C2-E-TEST-0132-7.13/020	back	DEP=1C2-E-TEST-0132-7.13019		
 1C2-E-TEST-0132-7.13/021	discovered	DEP=1C2-E-TEST-0132-7.13010		
 1C2-E-TEST-0132-7.17	"Sunday River is family friendly with events all winter long, a base to peak Chondola, and excellent lesson programs."			
-1C2-E-TEST-0132-7.17/001	sunday river	DEP=1C2-E-TEST-0132-7.17007	Sunday river	
-1C2-E-TEST-0132-7.17/002	events		family friendly	1
-1C2-E-TEST-0132-7.17/003	winter	DEP=1C2-E-TEST-0132-7.17008	events all winter long	1
-1C2-E-TEST-0132-7.17/004	chondola	DEP=1C2-E-TEST-0132-7.17010	base 	
-1C2-E-TEST-0132-7.17/005	excellent lesson programs	DEP=1C2-E-TEST-0132-7.17004	peak chondola	4
-1C2-E-TEST-0132-7.17/006	family	DEP=1C2-E-TEST-0132-7.17007	excellent lesson programs	5
+1C2-E-TEST-0132-7.17/001	sunday river	DEP=1C2-E-TEST-0132-7.17007	Sunday river family friendly	
+1C2-E-TEST-0132-7.17/002	events		events all winter long	1
+1C2-E-TEST-0132-7.17/003	winter	DEP=1C2-E-TEST-0132-7.17008	vase to peak chondola	1
+1C2-E-TEST-0132-7.17/004	chondola	DEP=1C2-E-TEST-0132-7.17010	excellent lesson programs	1
+1C2-E-TEST-0132-7.17/005	excellent lesson programs	DEP=1C2-E-TEST-0132-7.17004		
+1C2-E-TEST-0132-7.17/006	family	DEP=1C2-E-TEST-0132-7.17007		
 1C2-E-TEST-0132-7.17/007	friendly			
 1C2-E-TEST-0132-7.17/008	long	DEP=1C2-E-TEST-0132-7.17002		
 1C2-E-TEST-0132-7.17/009	base	DEP=1C2-E-TEST-0132-7.17007		
 1C2-E-TEST-0132-7.17/010	peak	DEP=1C2-E-TEST-0132-7.17009		
 1C2-E-TEST-0132-7.22	"Skiing at Bretton Woods , NHÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s largest ski area, is a treat for the skis and the eyes, featuring well-groomed snow, a good variety of glades, and dramatic views of the highest peak on the Eastern Seaboard, Mount Washington at 6,288ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢."			
-1C2-E-TEST-0132-7.22/001	skiing	DEP=1C2-E-TEST-0132-7.22005	skiing	
-1C2-E-TEST-0132-7.22/002	bretton woods		bretton woods	1
-1C2-E-TEST-0132-7.22/003	nhã cents â ¬	DEP=1C2-E-TEST-0132-7.22002	largest area	2
-1C2-E-TEST-0132-7.22/004	â cents	DEP=1C2-E-TEST-0132-7.22003	featuring well-groomed snow	2
-1C2-E-TEST-0132-7.22/005	largest area		good variety	
-1C2-E-TEST-0132-7.22/006	treat	DEP=1C2-E-TEST-0132-7.22005	glades	5
-1C2-E-TEST-0132-7.22/007	skis		dramatic views	
-1C2-E-TEST-0132-7.22/008	eyes	DEP=1C2-E-TEST-0132-7.22007	highest peak	7
-1C2-E-TEST-0132-7.22/009	well-groomed snow	DEP=1C2-E-TEST-0132-7.22021	eastern seaboard mount washington	8
+1C2-E-TEST-0132-7.22/001	skiing	DEP=1C2-E-TEST-0132-7.22005	bretton woods NHs largest ski area	
+1C2-E-TEST-0132-7.22/002	bretton woods		featuring well-groomed snow	1
+1C2-E-TEST-0132-7.22/003	nhã cents â ¬	DEP=1C2-E-TEST-0132-7.22002	good variety of glades	1
+1C2-E-TEST-0132-7.22/004	â cents	DEP=1C2-E-TEST-0132-7.22003	dramatic views of highest peaks on eastern seaboard mount washinghton	
+1C2-E-TEST-0132-7.22/005	largest area		"6,288"	4
+1C2-E-TEST-0132-7.22/006	treat	DEP=1C2-E-TEST-0132-7.22005		
+1C2-E-TEST-0132-7.22/007	skis			
+1C2-E-TEST-0132-7.22/008	eyes	DEP=1C2-E-TEST-0132-7.22007		
+1C2-E-TEST-0132-7.22/009	well-groomed snow	DEP=1C2-E-TEST-0132-7.22021		
 1C2-E-TEST-0132-7.22/010	good variety	DEP=1C2-E-TEST-0132-7.22009		
 1C2-E-TEST-0132-7.22/011	glades			
 1C2-E-TEST-0132-7.22/012	dramatic views	DEP=1C2-E-TEST-0132-7.22011		
@@ -214,41 +214,41 @@
 1C2-E-TEST-0132-7.22/020	s	DEP=1C2-E-TEST-0132-7.22005		
 1C2-E-TEST-0132-7.22/021	featuring	DEP=1C2-E-TEST-0132-7.22005		
 1C2-E-TEST-0132-7.24	Bretton WoodsÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢ Family Center continues to improve upon their reliable Babes in the Woods daycare and Hobbit ski programs.			
-1C2-E-TEST-0132-7.24/001	bretton woodsã cents		bretton woods	
-1C2-E-TEST-0132-7.24/002	¬	DEP=1C2-E-TEST-0132-7.24008	family center	1
-1C2-E-TEST-0132-7.24/003	â cents	DEP=1C2-E-TEST-0132-7.24002	improve reliable 	1
-1C2-E-TEST-0132-7.24/004	reliable babes		babes 	
-1C2-E-TEST-0132-7.24/005	woods daycare		woods daycare	4
-1C2-E-TEST-0132-7.24/006	hobbit programs	DEP=1C2-E-TEST-0132-7.24005	hobbit programs	1
+1C2-E-TEST-0132-7.24/001	bretton woodsã cents		bretton woods family center	
+1C2-E-TEST-0132-7.24/002	¬	DEP=1C2-E-TEST-0132-7.24008	improve upon their reliable Babes in the Woods daycare	1
+1C2-E-TEST-0132-7.24/003	â cents	DEP=1C2-E-TEST-0132-7.24002	improve upon their hobbit ski programs	1
+1C2-E-TEST-0132-7.24/004	reliable babes			
+1C2-E-TEST-0132-7.24/005	woods daycare			
+1C2-E-TEST-0132-7.24/006	hobbit programs	DEP=1C2-E-TEST-0132-7.24005		
 1C2-E-TEST-0132-7.24/007	family	DEP=1C2-E-TEST-0132-7.24008		
 1C2-E-TEST-0132-7.24/008	center	DEP=1C2-E-TEST-0132-7.24009		
 1C2-E-TEST-0132-7.24/009	continues			
 1C2-E-TEST-0132-7.24/010	improve	DEP=1C2-E-TEST-0132-7.24009		
 1C2-E-TEST-0132-7.32	SmugglersÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢ is also home to treasures of tricky terrain on Madonna Mountain for expert parents who want to drop in after they drop off their kids at ski camp or day care.			
-1C2-E-TEST-0132-7.32/001	smugglersã cents		smugglers cents	
-1C2-E-TEST-0132-7.32/002	¬	DEP=1C2-E-TEST-0132-7.32004	treasures	3
-1C2-E-TEST-0132-7.32/003	â cents	DEP=1C2-E-TEST-0132-7.32002	tricky terrain	
-1C2-E-TEST-0132-7.32/004	home		madonna mountain	3
-1C2-E-TEST-0132-7.32/005	treasures		expert parents	
-1C2-E-TEST-0132-7.32/006	tricky terrain		drop in	5
-1C2-E-TEST-0132-7.32/007	madonna mountain		drop off	5
-1C2-E-TEST-0132-7.32/008	expert parents		kids 	
-1C2-E-TEST-0132-7.32/009	kids		day care	8
+1C2-E-TEST-0132-7.32/001	smugglersã cents		smugglers home to treasure of tricky terrain	
+1C2-E-TEST-0132-7.32/002	¬	DEP=1C2-E-TEST-0132-7.32004	on madonna mountain	1
+1C2-E-TEST-0132-7.32/003	â cents	DEP=1C2-E-TEST-0132-7.32002	 for expert parents who want to drop in after they drop off their kids at ski camp or day care	1
+1C2-E-TEST-0132-7.32/004	home			
+1C2-E-TEST-0132-7.32/005	treasures			
+1C2-E-TEST-0132-7.32/006	tricky terrain			
+1C2-E-TEST-0132-7.32/007	madonna mountain			
+1C2-E-TEST-0132-7.32/008	expert parents			
+1C2-E-TEST-0132-7.32/009	kids			
 1C2-E-TEST-0132-7.32/010	camp			
 1C2-E-TEST-0132-7.32/011	care	DEP=1C2-E-TEST-0132-7.32010		
 1C2-E-TEST-0132-7.32/012	drop			
 1C2-E-TEST-0132-7.39	"Sugarloaf throws weekly themed parties for families in the rustic but real base village, and a cast of woodsy characters like Amos the Moose, Blueberry Bear, and Pierre the Logger, are on hand to keep your kids smiling, making up for the long ÃÂ¢Ã¢ÂÂ¬ÃÂare we there yet?ÃÂ¢Ã¢ÂÂ¬ÃÂ drive."			
-1C2-E-TEST-0132-7.39/001	sugarloaf	DEP=1C2-E-TEST-0132-7.39016	sugarloaf	
-1C2-E-TEST-0132-7.39/002	weekly themed parties	DEP=1C2-E-TEST-0132-7.39016	weekly themed parties	1
-1C2-E-TEST-0132-7.39/003	families		families drawn	
-1C2-E-TEST-0132-7.39/004	cast	DEP=1C2-E-TEST-0132-7.39002	rustic	2
-1C2-E-TEST-0132-7.39/005	woodsy characters		real base village	2
-1C2-E-TEST-0132-7.39/006	amos		woodsy characters	
-1C2-E-TEST-0132-7.39/007	moose		amos moose	6
-1C2-E-TEST-0132-7.39/008	blueberry bear	DEP=1C2-E-TEST-0132-7.39007	blueberry bear	6
-1C2-E-TEST-0132-7.39/009	pierre logger	DEP=1C2-E-TEST-0132-7.39008	pierre logger	6
-1C2-E-TEST-0132-7.39/010	hand		kids smiling	
-1C2-E-TEST-0132-7.39/011	kids	DEP=1C2-E-TEST-0132-7.39021	long drive	10
+1C2-E-TEST-0132-7.39/001	sugarloaf	DEP=1C2-E-TEST-0132-7.39016	sugarloaf throws weekly themed parties for families	
+1C2-E-TEST-0132-7.39/002	weekly themed parties	DEP=1C2-E-TEST-0132-7.39016	parties in rustic but real base village	1
+1C2-E-TEST-0132-7.39/003	families		"cast of woodsy characters like Amos the Moose, Blueberry Bear, and Pierre the Logger"	1
+1C2-E-TEST-0132-7.39/004	cast	DEP=1C2-E-TEST-0132-7.39002	keep your kids smiling	3
+1C2-E-TEST-0132-7.39/005	woodsy characters			
+1C2-E-TEST-0132-7.39/006	amos			
+1C2-E-TEST-0132-7.39/007	moose			
+1C2-E-TEST-0132-7.39/008	blueberry bear	DEP=1C2-E-TEST-0132-7.39007		
+1C2-E-TEST-0132-7.39/009	pierre logger	DEP=1C2-E-TEST-0132-7.39008		
+1C2-E-TEST-0132-7.39/010	hand			
+1C2-E-TEST-0132-7.39/011	kids	DEP=1C2-E-TEST-0132-7.39021		
 1C2-E-TEST-0132-7.39/012	long ã cents			
 1C2-E-TEST-0132-7.39/013	¬ å			
 1C2-E-TEST-0132-7.39/014	ã cents	DEP=1C2-E-TEST-0132-7.39004		
@@ -262,23 +262,23 @@
 1C2-E-TEST-0132-7.39/022	smiling	DEP=1C2-E-TEST-0132-7.39021		
 1C2-E-TEST-0132-7.39/023	making			
 1C2-E-TEST-0132-7.4	"Stowe is best saved as a destination once your kids get bigger, and everyone can do justice to this vertical venue."			
-1C2-E-TEST-0132-7.4/001	stowe	DEP=1C2-E-TEST-0132-7.4002	stowe	
-1C2-E-TEST-0132-7.4/002	best		destination	1
-1C2-E-TEST-0132-7.4/003	destination		bigger kids	2
-1C2-E-TEST-0132-7.4/004	kids	DEP=1C2-E-TEST-0132-7.4008	justice	
-1C2-E-TEST-0132-7.4/005	justice		vertical venue	4
+1C2-E-TEST-0132-7.4/001	stowe	DEP=1C2-E-TEST-0132-7.4002	Stowe is best saved as a destination once your kids get bigger	
+1C2-E-TEST-0132-7.4/002	best			
+1C2-E-TEST-0132-7.4/003	destination			
+1C2-E-TEST-0132-7.4/004	kids	DEP=1C2-E-TEST-0132-7.4008		
+1C2-E-TEST-0132-7.4/005	justice			
 1C2-E-TEST-0132-7.4/006	vertical venue			
 1C2-E-TEST-0132-7.4/007	saved	DEP=1C2-E-TEST-0132-7.4002		
 1C2-E-TEST-0132-7.4/008	bigger	DEP=1C2-E-TEST-0132-7.4007		
 1C2-E-TEST-0132-7.41	"Despite KillingtonÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s reputation as a sprawling beast of a resort, the recent improvement of RamÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Head and Snowshed Family Adventure Center make the Big-K more amiable for families."			
-1C2-E-TEST-0132-7.41/001	killingtonã cents		killington	
-1C2-E-TEST-0132-7.41/002	¬	DEP=1C2-E-TEST-0132-7.41004	sprawling beast	1
-1C2-E-TEST-0132-7.41/003	â cents	DEP=1C2-E-TEST-0132-7.41002	recent improvement	1
-1C2-E-TEST-0132-7.41/004	reputation		ram head	3
-1C2-E-TEST-0132-7.41/005	sprawling beast		snowshed family adventure center	3
-1C2-E-TEST-0132-7.41/006	resort		big-k	
-1C2-E-TEST-0132-7.41/007	recent improvement		amiable	6
-1C2-E-TEST-0132-7.41/008	ramã cents		families  	6
+1C2-E-TEST-0132-7.41/001	killingtonã cents		killington reputation as a sprawling beast of a resort	
+1C2-E-TEST-0132-7.41/002	¬	DEP=1C2-E-TEST-0132-7.41004	recent improvement make big-k more amiable for families	1
+1C2-E-TEST-0132-7.41/003	â cents	DEP=1C2-E-TEST-0132-7.41002	improvement of rams head and snowshed family adventure center	2
+1C2-E-TEST-0132-7.41/004	reputation			
+1C2-E-TEST-0132-7.41/005	sprawling beast			
+1C2-E-TEST-0132-7.41/006	resort			
+1C2-E-TEST-0132-7.41/007	recent improvement			
+1C2-E-TEST-0132-7.41/008	ramã cents			
 1C2-E-TEST-0132-7.41/009	¬	DEP=1C2-E-TEST-0132-7.41018		
 1C2-E-TEST-0132-7.41/010	â cents	DEP=1C2-E-TEST-0132-7.41009		
 1C2-E-TEST-0132-7.41/011	head snowshed	DEP=1C2-E-TEST-0132-7.41018		
@@ -292,77 +292,77 @@
 1C2-E-TEST-0132-7.41/019	make	DEP=1C2-E-TEST-0132-7.41018		
 1C2-E-TEST-0132-7.41/020	amiable	DEP=1C2-E-TEST-0132-7.41019		
 1C2-E-TEST-0132-7.43	Bear Mountain is devoted to freeskiers and riders with all the parks and pipes your gen-yÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢er could whine for.			
-1C2-E-TEST-0132-7.43/001	bear mountain	DEP=1C2-E-TEST-0132-7.43007	bear mountain	
-1C2-E-TEST-0132-7.43/002	freeskiers riders		devoted	1
-1C2-E-TEST-0132-7.43/003	parks pipes		freeskiers riders	2
-1C2-E-TEST-0132-7.43/004	gen-yã cents		parks	1
-1C2-E-TEST-0132-7.43/005	¬		pipes	1
-1C2-E-TEST-0132-7.43/006	â cents er	DEP=1C2-E-TEST-0132-7.43008	whine	
+1C2-E-TEST-0132-7.43/001	bear mountain	DEP=1C2-E-TEST-0132-7.43007	bear mountain devoted to freeskiers and riders	
+1C2-E-TEST-0132-7.43/002	freeskiers riders		parks and pipes your gen-yer could whine for	1
+1C2-E-TEST-0132-7.43/003	parks pipes			
+1C2-E-TEST-0132-7.43/004	gen-yã cents			
+1C2-E-TEST-0132-7.43/005	¬			
+1C2-E-TEST-0132-7.43/006	â cents er	DEP=1C2-E-TEST-0132-7.43008		
 1C2-E-TEST-0132-7.43/007	devoted			
 1C2-E-TEST-0132-7.43/008	whine	DEP=1C2-E-TEST-0132-7.43005		
 1C2-E-TEST-0132-7.44	"With a vast array of intersecting trails and separate base areas, Killington can be confusing for those not in the know."			
-1C2-E-TEST-0132-7.44/001	vast array		vast array	4
-1C2-E-TEST-0132-7.44/002	separate base areas	DEP=1C2-E-TEST-0132-7.44001	intersecting trails	4
-1C2-E-TEST-0132-7.44/003	killington	DEP=1C2-E-TEST-0132-7.44006	separate base area	4
-1C2-E-TEST-0132-7.44/004	intersecting		killington	
-1C2-E-TEST-0132-7.44/005	trails	DEP=1C2-E-TEST-0132-7.44004	confusing	4
+1C2-E-TEST-0132-7.44/001	vast array		vast array of intersecting trains	3
+1C2-E-TEST-0132-7.44/002	separate base areas	DEP=1C2-E-TEST-0132-7.44001	separate base area	3
+1C2-E-TEST-0132-7.44/003	killington	DEP=1C2-E-TEST-0132-7.44006	killington confusing	
+1C2-E-TEST-0132-7.44/004	intersecting			
+1C2-E-TEST-0132-7.44/005	trails	DEP=1C2-E-TEST-0132-7.44004		
 1C2-E-TEST-0132-7.44/006	confusing			
 1C2-E-TEST-0132-7.45	A side trip to sister resort Pico is ideal for families looking for one single panoramic peak with un-crowded trails funneling to a friendly base.			
-1C2-E-TEST-0132-7.45/001	side trip	DEP=1C2-E-TEST-0132-7.45010	side trip	
-1C2-E-TEST-0132-7.45/002	sister resort		pico	1
-1C2-E-TEST-0132-7.45/003	pico	DEP=1C2-E-TEST-0132-7.45008	one single panaoramic peak	2
-1C2-E-TEST-0132-7.45/004	families		uncrowded trails	2
-1C2-E-TEST-0132-7.45/005	single panoramic peak		funneling	
-1C2-E-TEST-0132-7.45/006	un-crowded		friendly base	5
+1C2-E-TEST-0132-7.45/001	side trip	DEP=1C2-E-TEST-0132-7.45010	pico ideal for families looking for single panoramic peak	
+1C2-E-TEST-0132-7.45/002	sister resort		uncrowded trails funneling to friendly base	1
+1C2-E-TEST-0132-7.45/003	pico	DEP=1C2-E-TEST-0132-7.45008		
+1C2-E-TEST-0132-7.45/004	families			
+1C2-E-TEST-0132-7.45/005	single panoramic peak			
+1C2-E-TEST-0132-7.45/006	un-crowded			
 1C2-E-TEST-0132-7.45/007	friendly base			
 1C2-E-TEST-0132-7.45/008	ideal	DEP=1C2-E-TEST-0132-7.45002		
 1C2-E-TEST-0132-7.45/009	looking	DEP=1C2-E-TEST-0132-7.45004		
 1C2-E-TEST-0132-7.45/010	trails			
 1C2-E-TEST-0132-7.45/011	funneling	DEP=1C2-E-TEST-0132-7.45010		
 1C2-E-TEST-0132-7.46	Pico has a Vermont-syrupy flavor - the antithesis of big-brother Killington.			
-1C2-E-TEST-0132-7.46/001	pico		pico	
-1C2-E-TEST-0132-7.46/002	vermont-syrupy flavor		vermont-syrupy flavor	1
-1C2-E-TEST-0132-7.46/003	antithesis	DEP=1C2-E-TEST-0132-7.46002	antithesis	4
-1C2-E-TEST-0132-7.46/004	big-brother killington		big-brother killington	
+1C2-E-TEST-0132-7.46/001	pico		pico has vermont-syrupy flavor	
+1C2-E-TEST-0132-7.46/002	vermont-syrupy flavor		antithesis of big-brother killington	1
+1C2-E-TEST-0132-7.46/003	antithesis	DEP=1C2-E-TEST-0132-7.46002		
+1C2-E-TEST-0132-7.46/004	big-brother killington			
 1C2-E-TEST-0132-7.48	In Vermont's beautiful Mad River Valley is this one great ski resort made up of two mountains - Lincoln Peak and Mt Ellen.			
-1C2-E-TEST-0132-7.48/001	vermont	DEP=1C2-E-TEST-0132-7.48008	vermont	
-1C2-E-TEST-0132-7.48/002	river valley		beautiful mad river valley	1
-1C2-E-TEST-0132-7.48/003	great resort	DEP=1C2-E-TEST-0132-7.48009	two mountains	
-1C2-E-TEST-0132-7.48/004	two mountains		lincoln peak	3
-1C2-E-TEST-0132-7.48/005	lincoln peak	DEP=1C2-E-TEST-0132-7.48004	mt ellen	3
+1C2-E-TEST-0132-7.48/001	vermont	DEP=1C2-E-TEST-0132-7.48008	vermonts beautiful mad river valley made up of two mountains	
+1C2-E-TEST-0132-7.48/002	river valley		lincoln peak	1
+1C2-E-TEST-0132-7.48/003	great resort	DEP=1C2-E-TEST-0132-7.48009	mt ellen	1
+1C2-E-TEST-0132-7.48/004	two mountains			
+1C2-E-TEST-0132-7.48/005	lincoln peak	DEP=1C2-E-TEST-0132-7.48004		
 1C2-E-TEST-0132-7.48/006	mt ellen	DEP=1C2-E-TEST-0132-7.48005		
 1C2-E-TEST-0132-7.48/007	beautiful	DEP=1C2-E-TEST-0132-7.48008		
 1C2-E-TEST-0132-7.48/008	mad			
 1C2-E-TEST-0132-7.48/009	made			
 1C2-E-TEST-0132-7.49	"Sugarbush offers challenge on au natural Castlerock, classic groomed runs like Jester, bumps on Steins and FIS and plenty of family friendly terrain too."			
-1C2-E-TEST-0132-7.49/001	sugarbush	DEP=1C2-E-TEST-0132-7.49010	sugarbush	
-1C2-E-TEST-0132-7.49/002	challenge	DEP=1C2-E-TEST-0132-7.49010	challenge 	1
-1C2-E-TEST-0132-7.49/003	au		au natural castlerock	2
-1C2-E-TEST-0132-7.49/004	natural castlerock	DEP=1C2-E-TEST-0132-7.49003	classic groomed runs	
-1C2-E-TEST-0132-7.49/005	classic groomed runs	DEP=1C2-E-TEST-0132-7.49003	jester	4
-1C2-E-TEST-0132-7.49/006	jester		bumps steins fis	4
-1C2-E-TEST-0132-7.49/007	bumps	DEP=1C2-E-TEST-0132-7.49003	family friendly terrain	1
+1C2-E-TEST-0132-7.49/001	sugarbush	DEP=1C2-E-TEST-0132-7.49010	sugarbush offers chanllenge on au natural castlerock	
+1C2-E-TEST-0132-7.49/002	challenge	DEP=1C2-E-TEST-0132-7.49010	classic groomed runs like Jester	1
+1C2-E-TEST-0132-7.49/003	au		 bumps on Steins and FIS 	1
+1C2-E-TEST-0132-7.49/004	natural castlerock	DEP=1C2-E-TEST-0132-7.49003	plenty of family friendly terrain too	1
+1C2-E-TEST-0132-7.49/005	classic groomed runs	DEP=1C2-E-TEST-0132-7.49003		
+1C2-E-TEST-0132-7.49/006	jester			
+1C2-E-TEST-0132-7.49/007	bumps	DEP=1C2-E-TEST-0132-7.49003		
 1C2-E-TEST-0132-7.49/008	steins fis			
 1C2-E-TEST-0132-7.49/009	family friendly terrain			
 1C2-E-TEST-0132-7.49/010	offers			
 1C2-E-TEST-0132-7.50	"Lodging at Sugarbush includes on mountain Clay Brook Inn, condos and charming inns throughout the Mad River Valley."			
-1C2-E-TEST-0132-7.50/001	sugarbush		sugarbush	
-1C2-E-TEST-0132-7.50/002	mountain		mountain clay brook inn	1
-1C2-E-TEST-0132-7.50/003	clay brook inn	DEP=1C2-E-TEST-0132-7.50007	condos	2
-1C2-E-TEST-0132-7.50/004	condos	DEP=1C2-E-TEST-0132-7.50003	charming inns	2
-1C2-E-TEST-0132-7.50/005	charming inns	DEP=1C2-E-TEST-0132-7.50004	mad river valley	
+1C2-E-TEST-0132-7.50/001	sugarbush		lodging at sugarbush includes mountain Clay Brook Inn	
+1C2-E-TEST-0132-7.50/002	mountain		lodging at sugarbush includes condos and charming inns throughout the Mad River Valley	
+1C2-E-TEST-0132-7.50/003	clay brook inn	DEP=1C2-E-TEST-0132-7.50007		
+1C2-E-TEST-0132-7.50/004	condos	DEP=1C2-E-TEST-0132-7.50003		
+1C2-E-TEST-0132-7.50/005	charming inns	DEP=1C2-E-TEST-0132-7.50004		
 1C2-E-TEST-0132-7.50/006	mad river valley			
 1C2-E-TEST-0132-7.50/007	lodging			
 1C2-E-TEST-0132-7.50/008	includes	DEP=1C2-E-TEST-0132-7.50007		
 1C2-E-TEST-0132-7.52	"New Hampshire's second largest ski resort, Attitash/Bear Peak has two big interconnected mountains for skiing and riding, with everything from long winding trails like Tightrope to exciting glades, and a monster pipe."			
-1C2-E-TEST-0132-7.52/001	hampshire	DEP=1C2-E-TEST-0132-7.52010	hampshires 	
-1C2-E-TEST-0132-7.52/002	attitash\/bear peak	DEP=1C2-E-TEST-0132-7.52010	attitash\/bear peak	
-1C2-E-TEST-0132-7.52/003	two big interconnected mountains		two big interconnected mountains	2
-1C2-E-TEST-0132-7.52/004	skiing		skiing riding	1
-1C2-E-TEST-0132-7.52/005	tightrope		long winding trails	1
-1C2-E-TEST-0132-7.52/006	exciting glades		tightrope	5
-1C2-E-TEST-0132-7.52/007	monster pipe	DEP=1C2-E-TEST-0132-7.52006	exciting glades	
-1C2-E-TEST-0132-7.52/008	second	DEP=1C2-E-TEST-0132-7.52010	monster pipe	1
+1C2-E-TEST-0132-7.52/001	hampshire	DEP=1C2-E-TEST-0132-7.52010	attitash\/bear peak new hampshires second largest ski resort	
+1C2-E-TEST-0132-7.52/002	attitash\/bear peak	DEP=1C2-E-TEST-0132-7.52010	two big interconnected mountains for skiing riding	1
+1C2-E-TEST-0132-7.52/003	two big interconnected mountains		everything from long winding trails like Tightrope to exciting glades	1
+1C2-E-TEST-0132-7.52/004	skiing		monster pipe	1
+1C2-E-TEST-0132-7.52/005	tightrope			
+1C2-E-TEST-0132-7.52/006	exciting glades			
+1C2-E-TEST-0132-7.52/007	monster pipe	DEP=1C2-E-TEST-0132-7.52006		
+1C2-E-TEST-0132-7.52/008	second	DEP=1C2-E-TEST-0132-7.52010		
 1C2-E-TEST-0132-7.52/009	largest	DEP=1C2-E-TEST-0132-7.52010		
 1C2-E-TEST-0132-7.52/010	resort			
 1C2-E-TEST-0132-7.52/011	riding	DEP=1C2-E-TEST-0132-7.52014		
@@ -370,20 +370,20 @@
 1C2-E-TEST-0132-7.52/013	winding			
 1C2-E-TEST-0132-7.52/014	trails			
 1C2-E-TEST-0132-7.53	"The whole family will enjoy Attitash for its diversity and its proximity to North Conway's shops, dining and amusements."			
-1C2-E-TEST-0132-7.53/001	family	DEP=1C2-E-TEST-0132-7.53008	whole family	
-1C2-E-TEST-0132-7.53/002	attitash	DEP=1C2-E-TEST-0132-7.53008	enjoy attitash	1
-1C2-E-TEST-0132-7.53/003	diversity		diversity	2
-1C2-E-TEST-0132-7.53/004	proximity	DEP=1C2-E-TEST-0132-7.53003	proximity	2
-1C2-E-TEST-0132-7.53/005	north conway	DEP=1C2-E-TEST-0132-7.53009	north conways shops	4
-1C2-E-TEST-0132-7.53/006	dining	DEP=1C2-E-TEST-0132-7.53009	dining	4
-1C2-E-TEST-0132-7.53/007	amusements	DEP=1C2-E-TEST-0132-7.53006	amusements	4
+1C2-E-TEST-0132-7.53/001	family	DEP=1C2-E-TEST-0132-7.53008	whole family will enjoy attitash for its diversity	
+1C2-E-TEST-0132-7.53/002	attitash	DEP=1C2-E-TEST-0132-7.53008	whole family will enjoy attitash for its proximity to north conway shops dining and amusement	
+1C2-E-TEST-0132-7.53/003	diversity			
+1C2-E-TEST-0132-7.53/004	proximity	DEP=1C2-E-TEST-0132-7.53003		
+1C2-E-TEST-0132-7.53/005	north conway	DEP=1C2-E-TEST-0132-7.53009		
+1C2-E-TEST-0132-7.53/006	dining	DEP=1C2-E-TEST-0132-7.53009		
+1C2-E-TEST-0132-7.53/007	amusements	DEP=1C2-E-TEST-0132-7.53006		
 1C2-E-TEST-0132-7.53/008	enjoy			
 1C2-E-TEST-0132-7.53/009	shops			
 1C2-E-TEST-0132-7.63	"For folks from the south (southern New England that is), you canÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢t beat Jiminy Peak for proximity."			
-1C2-E-TEST-0132-7.63/001	folks		folks	
-1C2-E-TEST-0132-7.63/002	south		south	1
-1C2-E-TEST-0132-7.63/003	southern		jiminy peak	2
-1C2-E-TEST-0132-7.63/004	cents	DEP=1C2-E-TEST-0132-7.63012	proximity	3
+1C2-E-TEST-0132-7.63/001	folks		jimmy peak for folks from souther england	
+1C2-E-TEST-0132-7.63/002	south			
+1C2-E-TEST-0132-7.63/003	southern			
+1C2-E-TEST-0132-7.63/004	cents	DEP=1C2-E-TEST-0132-7.63012		
 1C2-E-TEST-0132-7.63/005	¬	DEP=1C2-E-TEST-0132-7.63012		
 1C2-E-TEST-0132-7.63/006	â cents	DEP=1C2-E-TEST-0132-7.63005		
 1C2-E-TEST-0132-7.63/007	proximity			
@@ -393,12 +393,12 @@
 1C2-E-TEST-0132-7.63/011	jiminy	DEP=1C2-E-TEST-0132-7.63012		
 1C2-E-TEST-0132-7.63/012	peak			
 1C2-E-TEST-0132-7.8	Stowe Mountain Resort is on the move with a new interconnecting gondola whisking Mansfield skiers across the Notch to the new Spruce Village and luxury hotel - The Stowe Mountain Lodge .			
-1C2-E-TEST-0132-7.8/001	stowe mountain resort		stowe mountain	
+1C2-E-TEST-0132-7.8/001	stowe mountain resort		stowe mountain resort	
 1C2-E-TEST-0132-7.8/002	move		new interconnecting gondola	1
-1C2-E-TEST-0132-7.8/003	interconnecting gondola		whisking mansfield skiers	2
-1C2-E-TEST-0132-7.8/004	mansfield skiers	DEP=1C2-E-TEST-0132-7.8009	notch	
-1C2-E-TEST-0132-7.8/005	notch		new spruce village	4
-1C2-E-TEST-0132-7.8/006	spruce village		luxury hotel	
-1C2-E-TEST-0132-7.8/007	luxury hotel	DEP=1C2-E-TEST-0132-7.8005	stowe  mountain lodge	6
+1C2-E-TEST-0132-7.8/003	interconnecting gondola		whisking mansfield skiers across the notch	1
+1C2-E-TEST-0132-7.8/004	mansfield skiers	DEP=1C2-E-TEST-0132-7.8009	new spruce village	3
+1C2-E-TEST-0132-7.8/005	notch		new luxury hotel stowe  mountain lodge	3
+1C2-E-TEST-0132-7.8/006	spruce village			
+1C2-E-TEST-0132-7.8/007	luxury hotel	DEP=1C2-E-TEST-0132-7.8005		
 1C2-E-TEST-0132-7.8/008	stowe mountain lodge	DEP=1C2-E-TEST-0132-7.8007		
 1C2-E-TEST-0132-7.8/009	whisking	DEP=1C2-E-TEST-0132-7.8003		
