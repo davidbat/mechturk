@@ -1,27 +1,27 @@
 1C2-E-TEST-0149-1.9	"With Sonovoid round forms, projects require less concrete, steel and supporting material, without sacrificing structural integrity and strength."			
-1C2-E-TEST-0149-1.9/001	sonovoid forms		sonovoid forms	
-1C2-E-TEST-0149-1.9/002	projects		projects	
-1C2-E-TEST-0149-1.9/003	concrete		concrete steel supporting material	2
-1C2-E-TEST-0149-1.9/004	steel	DEP=1C2-E-TEST-0149-1.9003	sacrificing	
-1C2-E-TEST-0149-1.9/005	supporting material	DEP=1C2-E-TEST-0149-1.9004	structual integrity strength	4
+1C2-E-TEST-0149-1.9/001	sonovoid forms		sonovoid round forms require less concrete steel and supporting materials	
+1C2-E-TEST-0149-1.9/002	projects		without sacrificing structural integrity and strength	1
+1C2-E-TEST-0149-1.9/003	concrete			
+1C2-E-TEST-0149-1.9/004	steel	DEP=1C2-E-TEST-0149-1.9003		
+1C2-E-TEST-0149-1.9/005	supporting material	DEP=1C2-E-TEST-0149-1.9004		
 1C2-E-TEST-0149-1.9/006	structural integrity strength	DEP=1C2-E-TEST-0149-1.9007		
 1C2-E-TEST-0149-1.9/007	sacrificing			
 1C2-E-TEST-0149-138.43	They can be purchased from your local building supplier and may be used to level a gazebo on a moderately steep slope.			
-1C2-E-TEST-0149-138.43/001	local building supplier		local building supplier	
-1C2-E-TEST-0149-138.43/002	gazebo	DEP=1C2-E-TEST-0149-138.43004	level gazebo	
-1C2-E-TEST-0149-138.43/003	purchased		purchased	1
-1C2-E-TEST-0149-138.43/004	level		moderately steep slope	2
+1C2-E-TEST-0149-138.43/001	local building supplier		can be purchased from local building supplier	
+1C2-E-TEST-0149-138.43/002	gazebo	DEP=1C2-E-TEST-0149-138.43004	used to level a gazebo on moderately steep slope	1
+1C2-E-TEST-0149-138.43/003	purchased			
+1C2-E-TEST-0149-138.43/004	level			
 1C2-E-TEST-0149-138.43/005	moderately	DEP=1C2-E-TEST-0149-138.43006		
 1C2-E-TEST-0149-138.43/006	steep	DEP=1C2-E-TEST-0149-138.43007		
 1C2-E-TEST-0149-138.43/007	slope			
 1C2-E-TEST-0149-138.77	"Sonotube, also known as concrete footings, are used in situations where a gazebo needs to be raised, the ground is very uneven, or a building permit is required (i.e. in some areas a building permit is required if the area of the structure exceeds 110 square feet)."			
-1C2-E-TEST-0149-138.77/001	sonotube		sonotube	
-1C2-E-TEST-0149-138.77/002	concrete footings		concrete footings	1
-1C2-E-TEST-0149-138.77/003	situations		situations	1
-1C2-E-TEST-0149-138.77/004	gazebo	DEP=1C2-E-TEST-0149-138.77014	gazebo needs raised	3
-1C2-E-TEST-0149-138.77/005	ground	DEP=1C2-E-TEST-0149-138.77016	ground uneven	3
-1C2-E-TEST-0149-138.77/006	building permit	DEP=1C2-E-TEST-0149-138.77017	building permit required	3
-1C2-E-TEST-0149-138.77/007	i.e.	DEP=1C2-E-TEST-0149-138.77003	structure exceeds 110 square feet	6
+1C2-E-TEST-0149-138.77/001	sonotube		sonotube used in situations where gazebo needs to be raised	
+1C2-E-TEST-0149-138.77/002	concrete footings		sonotube also known as concrete footings	
+1C2-E-TEST-0149-138.77/003	situations		sonotube used in situations where ground is uneve	
+1C2-E-TEST-0149-138.77/004	gazebo	DEP=1C2-E-TEST-0149-138.77014	sonotube used in situations where building permit is required	
+1C2-E-TEST-0149-138.77/005	ground	DEP=1C2-E-TEST-0149-138.77016	some areas a building permit is required if the area of the structure exceeds 110 square feet	4
+1C2-E-TEST-0149-138.77/006	building permit	DEP=1C2-E-TEST-0149-138.77017		
+1C2-E-TEST-0149-138.77/007	i.e.	DEP=1C2-E-TEST-0149-138.77003		
 1C2-E-TEST-0149-138.77/008	areas			
 1C2-E-TEST-0149-138.77/009	building permit	DEP=1C2-E-TEST-0149-138.77018		
 1C2-E-TEST-0149-138.77/010	area	DEP=1C2-E-TEST-0149-138.77019		
@@ -68,18 +68,18 @@
 1C2-E-TEST-0149-182.28/015	cutting			
 1C2-E-TEST-0149-182.28/016	ready			
 1C2-E-TEST-0149-2.3	The Sonotube brand of forming tubes have been the industry standard for more than 50 years.			
-1C2-E-TEST-0149-2.3/001	sonotube brand	DEP=1C2-E-TEST-0149-2.3003	sonotube brand	2
-1C2-E-TEST-0149-2.3/002	tubes	DEP=1C2-E-TEST-0149-2.3004	forming tubes	
-1C2-E-TEST-0149-2.3/003	industry standard		industry standard	4
-1C2-E-TEST-0149-2.3/004	forming		50 years	
+1C2-E-TEST-0149-2.3/001	sonotube brand	DEP=1C2-E-TEST-0149-2.3003	sonotube brand forming tubes industry standard	
+1C2-E-TEST-0149-2.3/002	tubes	DEP=1C2-E-TEST-0149-2.3004	industry standard for more than 50 years	1
+1C2-E-TEST-0149-2.3/003	industry standard			
+1C2-E-TEST-0149-2.3/004	forming			
 1C2-E-TEST-0149-2.3/005	50	DEP=1C2-E-TEST-0149-2.3006		
 1C2-E-TEST-0149-2.3/006	years			
 1C2-E-TEST-0149-2.4	"Sonotube concrete forms stand strong as the most economical way to create columns for buildings, entranceways, structural support, light posts and other commercial and residential structures."			
-1C2-E-TEST-0149-2.4/001	sonotube concrete forms		sonotube concrete forms	3
-1C2-E-TEST-0149-2.4/002	columns	DEP=1C2-E-TEST-0149-2.4010	economical way	1
-1C2-E-TEST-0149-2.4/003	buildings		create columns	
-1C2-E-TEST-0149-2.4/004	entranceways	DEP=1C2-E-TEST-0149-2.4003	buildings entranceways structural support light posts	3
-1C2-E-TEST-0149-2.4/005	structural support	DEP=1C2-E-TEST-0149-2.4003	commercial residential structures	3
+1C2-E-TEST-0149-2.4/001	sonotube concrete forms		sonotube concrete forms most economical way to create commercial and residential structures	
+1C2-E-TEST-0149-2.4/002	columns	DEP=1C2-E-TEST-0149-2.4010	"columns for buildings, entranceways, structural support, light posts"	1
+1C2-E-TEST-0149-2.4/003	buildings			
+1C2-E-TEST-0149-2.4/004	entranceways	DEP=1C2-E-TEST-0149-2.4003		
+1C2-E-TEST-0149-2.4/005	structural support	DEP=1C2-E-TEST-0149-2.4003		
 1C2-E-TEST-0149-2.4/006	light posts	DEP=1C2-E-TEST-0149-2.4003		
 1C2-E-TEST-0149-2.4/007	strong			
 1C2-E-TEST-0149-2.4/008	economical	DEP=1C2-E-TEST-0149-2.4009		
@@ -90,23 +90,23 @@
 1C2-E-TEST-0149-2.4/013	structures	DEP=1C2-E-TEST-0149-2.4003		
 1C2-E-TEST-0149-2.5	The superior strength-to-weight properties of Sonotube forms prevent blowouts and may eliminate the need to use a crane during setup.			
 1C2-E-TEST-0149-2.5/001	superior strength-to-weight properties		superior strength-to-weight properties	
-1C2-E-TEST-0149-2.5/002	sonotube forms		sonotube forms	1
-1C2-E-TEST-0149-2.5/003	blowouts		prevent blowouts	2
-1C2-E-TEST-0149-2.5/004	crane		eliminate crane setup	2
+1C2-E-TEST-0149-2.5/002	sonotube forms		revent blowouts	1
+1C2-E-TEST-0149-2.5/003	blowouts		may eliminate the need to use a crane during setup	1
+1C2-E-TEST-0149-2.5/004	crane			
 1C2-E-TEST-0149-2.5/005	setup			
 1C2-E-TEST-0149-2.5/006	eliminate			
 1C2-E-TEST-0149-2.6	Contractors around the world know Sonotube concrete forms stand strong in their superior technology and value.			
-1C2-E-TEST-0149-2.6/001	contractors		contractors	
-1C2-E-TEST-0149-2.6/002	sonotube concrete forms	DEP=1C2-E-TEST-0149-2.6005	sonotube concrete forms	5
-1C2-E-TEST-0149-2.6/003	superior technology value		superior technology value	2
-1C2-E-TEST-0149-2.6/004	world		world	
-1C2-E-TEST-0149-2.6/005	know	DEP=1C2-E-TEST-0149-2.6004	strong	
+1C2-E-TEST-0149-2.6/001	contractors		Sonotube concrete forms stand strong 	
+1C2-E-TEST-0149-2.6/002	sonotube concrete forms	DEP=1C2-E-TEST-0149-2.6005	contractors around the world know sonotube	1
+1C2-E-TEST-0149-2.6/003	superior technology value		superior technology and value	1
+1C2-E-TEST-0149-2.6/004	world			
+1C2-E-TEST-0149-2.6/005	know	DEP=1C2-E-TEST-0149-2.6004		
 1C2-E-TEST-0149-2.6/006	strong			
 1C2-E-TEST-0149-20.15	Sono tubes are very popular because they are relatively inexpensive and require little in the way of specialized tools or equipment.			
-1C2-E-TEST-0149-20.15/001	sono tubes	DEP=1C2-E-TEST-0149-20.15005	sono tubes	4
-1C2-E-TEST-0149-20.15/002	way		specialized tools	3
-1C2-E-TEST-0149-20.15/003	specialized tools		equipment	
-1C2-E-TEST-0149-20.15/004	equipment	DEP=1C2-E-TEST-0149-20.15003	popular	
-1C2-E-TEST-0149-20.15/005	popular		relatively inexpensive	
+1C2-E-TEST-0149-20.15/001	sono tubes	DEP=1C2-E-TEST-0149-20.15005	sono tubes very popular	
+1C2-E-TEST-0149-20.15/002	way		relatively inexpensive 	
+1C2-E-TEST-0149-20.15/003	specialized tools		require little in the way of specialized tools or equipment	
+1C2-E-TEST-0149-20.15/004	equipment	DEP=1C2-E-TEST-0149-20.15003		
+1C2-E-TEST-0149-20.15/005	popular			
 1C2-E-TEST-0149-20.15/006	relatively	DEP=1C2-E-TEST-0149-20.15007		
 1C2-E-TEST-0149-20.15/007	inexpensive	DEP=1C2-E-TEST-0149-20.15005		

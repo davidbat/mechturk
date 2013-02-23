@@ -1,36 +1,36 @@
 1C2-E-TEST-0133-106.1	Calle 4 No.5-43 Barrio San Antonio			
-1C2-E-TEST-0133-106.1/001	calle		calle 4	
-1C2-E-TEST-0133-106.1/002	4 no.5-43	DEP=1C2-E-TEST-0133-106.1001	no.5-43	1
-1C2-E-TEST-0133-106.1/003	barrio san antonio	DEP=1C2-E-TEST-0133-106.1002	barrio san antonio	2
+1C2-E-TEST-0133-106.1/001	calle		calle 4 no.5-43 barrio san antonio	
+1C2-E-TEST-0133-106.1/002	4 no.5-43	DEP=1C2-E-TEST-0133-106.1001		
+1C2-E-TEST-0133-106.1/003	barrio san antonio	DEP=1C2-E-TEST-0133-106.1002		
 1C2-E-TEST-0133-106.5	Jovita`s Hostel & School of Salsa is the only hostel in Colombia that offers dance classes and yoga classes at no extra charge!			
 1C2-E-TEST-0133-106.5/001	jovita	DEP=1C2-E-TEST-0133-106.5004	jovita hostel school	
-1C2-E-TEST-0133-106.5/002	s	DEP=1C2-E-TEST-0133-106.5001	dance classes yoga classes	1
+1C2-E-TEST-0133-106.5/002	s	DEP=1C2-E-TEST-0133-106.5001	offers dance classes and yoga classes	1
 1C2-E-TEST-0133-106.5/003	hostel & school	DEP=1C2-E-TEST-0133-106.5001	no extra charge	2
-1C2-E-TEST-0133-106.5/004	hostel		offers	
+1C2-E-TEST-0133-106.5/004	hostel			
 1C2-E-TEST-0133-106.5/005	dance classes	DEP=1C2-E-TEST-0133-106.5008		
 1C2-E-TEST-0133-106.5/006	yoga classes	DEP=1C2-E-TEST-0133-106.5005		
 1C2-E-TEST-0133-106.5/007	extra charge			
 1C2-E-TEST-0133-106.5/008	offers	DEP=1C2-E-TEST-0133-106.5004		
 1C2-E-TEST-0133-12.4	"Red neon glows throughout Zaperoco, a popular salsa bar in the city's popular nightlife district, La Sexta."			
-1C2-E-TEST-0133-12.4/001	red neon	DEP=1C2-E-TEST-0133-12.4006	red neon glows	2
-1C2-E-TEST-0133-12.4/002	zaperoco		zaperoco	
-1C2-E-TEST-0133-12.4/003	popular bar	DEP=1C2-E-TEST-0133-12.4002	popular bar	2
-1C2-E-TEST-0133-12.4/004	city	DEP=1C2-E-TEST-0133-12.4009	popular nightlife district	
-1C2-E-TEST-0133-12.4/005	la sexta	DEP=1C2-E-TEST-0133-12.4009	la sexta	4
+1C2-E-TEST-0133-12.4/001	red neon	DEP=1C2-E-TEST-0133-12.4006	red neon glows throught	2
+1C2-E-TEST-0133-12.4/002	zaperoco		zaperoco popular salsa bar	
+1C2-E-TEST-0133-12.4/003	popular bar	DEP=1C2-E-TEST-0133-12.4002	in city's popular nightlife district	2
+1C2-E-TEST-0133-12.4/004	city	DEP=1C2-E-TEST-0133-12.4009	la sexta	3
+1C2-E-TEST-0133-12.4/005	la sexta	DEP=1C2-E-TEST-0133-12.4009		
 1C2-E-TEST-0133-12.4/006	glows			
 1C2-E-TEST-0133-12.4/007	popular	DEP=1C2-E-TEST-0133-12.4009		
 1C2-E-TEST-0133-12.4/008	nightlife	DEP=1C2-E-TEST-0133-12.4009		
 1C2-E-TEST-0133-12.4/009	district			
 1C2-E-TEST-0133-12.6	The large neon sign of Las Cascadas Discoteca on La Sexta advertises 7 large video screens and 4 dance floors.			
-1C2-E-TEST-0133-12.6/001	large neon sign	DEP=1C2-E-TEST-0133-12.6006	large neon sign	6
-1C2-E-TEST-0133-12.6/002	las cascadas discoteca		las cascadas discoteca	3
-1C2-E-TEST-0133-12.6/003	la sexta		la sexta	
-1C2-E-TEST-0133-12.6/004	7 large video screens	DEP=1C2-E-TEST-0133-12.6006	7 large video screens	1
-1C2-E-TEST-0133-12.6/005	4 dance floors	DEP=1C2-E-TEST-0133-12.6004	4 dance floors	1
-1C2-E-TEST-0133-12.6/006	advertises		advertises	
+1C2-E-TEST-0133-12.6/001	large neon sign	DEP=1C2-E-TEST-0133-12.6006	large neon sign advertises 7 large video screens and 4 dance floors	2
+1C2-E-TEST-0133-12.6/002	las cascadas discoteca		las cascadas discoteca	
+1C2-E-TEST-0133-12.6/003	la sexta		la sexta	2
+1C2-E-TEST-0133-12.6/004	7 large video screens	DEP=1C2-E-TEST-0133-12.6006		
+1C2-E-TEST-0133-12.6/005	4 dance floors	DEP=1C2-E-TEST-0133-12.6004		
+1C2-E-TEST-0133-12.6/006	advertises			
 1C2-E-TEST-0133-12.7	"On the 2nd floor of the Latin Palace, early on a Saturday night, the dance floor is still warming up."			
 1C2-E-TEST-0133-12.7/001	2nd floor		2nd floor latin palace	
-1C2-E-TEST-0133-12.7/002	latin palace		early saturday night	
+1C2-E-TEST-0133-12.7/002	latin palace		early saturday night	3
 1C2-E-TEST-0133-12.7/003	saturday night		dance floor warming	
 1C2-E-TEST-0133-12.7/004	dance floor	DEP=1C2-E-TEST-0133-12.7006		
 1C2-E-TEST-0133-12.7/005	early	DEP=1C2-E-TEST-0133-12.7006		
@@ -39,9 +39,9 @@
 1C2-E-TEST-0133-3.10/001	discoteka	DEP=1C2-E-TEST-0133-3.10007	salsa discoteka en la roosevelt	
 1C2-E-TEST-0133-3.10/002	la roosevelt		popular weekend	1
 1C2-E-TEST-0133-3.10/003	popular weekend	DEP=1C2-E-TEST-0133-3.10002	Sunday nights 10 pm	1
-1C2-E-TEST-0133-3.10/004	sunday nights		tip taxi driver	
-1C2-E-TEST-0133-3.10/005	10:00 PM		trouble tracking address	
-1C2-E-TEST-0133-3.10/006	ã â	DEP=1C2-E-TEST-0133-3.10003	club name generic	
+1C2-E-TEST-0133-3.10/004	sunday nights		club name generic	1
+1C2-E-TEST-0133-3.10/005	10:00 PM			
+1C2-E-TEST-0133-3.10/006	ã â	DEP=1C2-E-TEST-0133-3.10003		
 1C2-E-TEST-0133-3.10/007	tip			
 1C2-E-TEST-0133-3.10/008	taxi driver			
 1C2-E-TEST-0133-3.10/009	iã cents			
@@ -59,8 +59,8 @@
 1C2-E-TEST-0133-3.10/021	generic			
 1C2-E-TEST-0133-35.105	"Tin Tin Deo ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Calle 5 #38 ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ 71, Barrio San Fernando."			
 1C2-E-TEST-0133-35.105/001	tin tin deo	DEP=1C2-E-TEST-0133-35.105006	tin tin deo	
-1C2-E-TEST-0133-35.105/002	ã cents â ¬	DEP=1C2-E-TEST-0133-35.105001	calle 5 38	
-1C2-E-TEST-0133-35.105/003	¬		barrio san fernando	2
+1C2-E-TEST-0133-35.105/002	ã cents â ¬	DEP=1C2-E-TEST-0133-35.105001	calle 5 38 barrio san fernando	1
+1C2-E-TEST-0133-35.105/003	¬			
 1C2-E-TEST-0133-35.105/004	71			
 1C2-E-TEST-0133-35.105/005	barrio san fernando			
 1C2-E-TEST-0133-35.105/006	â			
@@ -72,8 +72,8 @@
 1C2-E-TEST-0133-35.105/012	â	DEP=1C2-E-TEST-0133-35.105003		
 1C2-E-TEST-0133-35.107	"Zaperoco ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Avenida 5N #16 ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ 46, one block off La Sexta."			
 1C2-E-TEST-0133-35.107/001	zaperoco ã cents		zaperoco	
-1C2-E-TEST-0133-35.107/002	¬	DEP=1C2-E-TEST-0133-35.107005	avenida 5n 16	1
-1C2-E-TEST-0133-35.107/003	46		la sexta	2
+1C2-E-TEST-0133-35.107/002	¬	DEP=1C2-E-TEST-0133-35.107005	avenida 5n 46 la sexta	1
+1C2-E-TEST-0133-35.107/003	46			
 1C2-E-TEST-0133-35.107/004	la sexta			
 1C2-E-TEST-0133-35.107/005	â	DEP=1C2-E-TEST-0133-35.107007		
 1C2-E-TEST-0133-35.107/006	avenida			
@@ -86,8 +86,8 @@
 1C2-E-TEST-0133-35.107/013	block			
 1C2-E-TEST-0133-35.48	"Jovitas Hostel ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Calle 4 #5 ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ 43, barrio San Antonio."			
 1C2-E-TEST-0133-35.48/001	jovitas hostel ã cents		jovitas hostel	
-1C2-E-TEST-0133-35.48/002	¬	DEP=1C2-E-TEST-0133-35.48006	calle 4 15	1
-1C2-E-TEST-0133-35.48/003	¬		barrio san antonio	2
+1C2-E-TEST-0133-35.48/002	¬	DEP=1C2-E-TEST-0133-35.48006	calle 4 15 barrio san antonio	1
+1C2-E-TEST-0133-35.48/003	¬			
 1C2-E-TEST-0133-35.48/004	43			
 1C2-E-TEST-0133-35.48/005	barrio san antonio			
 1C2-E-TEST-0133-35.48/006	â			
@@ -99,8 +99,8 @@
 1C2-E-TEST-0133-35.48/012	â	DEP=1C2-E-TEST-0133-35.48003		
 1C2-E-TEST-0133-35.90	"Rosa Mezcal ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Calle 2 #4 ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ 63B, barrio San Antonio."			
 1C2-E-TEST-0133-35.90/001	rosa mezcal ã cents		rosa mezcal	
-1C2-E-TEST-0133-35.90/002	¬	DEP=1C2-E-TEST-0133-35.90006	calle 2 4	1
-1C2-E-TEST-0133-35.90/003	¬		barrio san antonio	2
+1C2-E-TEST-0133-35.90/002	¬	DEP=1C2-E-TEST-0133-35.90006	calle 2 4 barrio san antonio	1
+1C2-E-TEST-0133-35.90/003	¬			
 1C2-E-TEST-0133-35.90/004	63b			
 1C2-E-TEST-0133-35.90/005	barrio san antonio			
 1C2-E-TEST-0133-35.90/006	â			
