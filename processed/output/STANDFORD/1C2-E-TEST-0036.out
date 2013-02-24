@@ -41,7 +41,7 @@
 1C2-E-TEST-0036-1.47/008	47	DEP=1C2-E-TEST-0036-1.47009		
 1C2-E-TEST-0036-1.47/009	began	DEP=1C2-E-TEST-0036-1.47010		
 1C2-E-TEST-0036-1.47/010	starred			
-1C2-E-TEST-0036-1.51	"While filming ÃÂÃ¢ÂÂ on Flux in Berlin, Germany, Theron suffered a herniated disc in her neck, which occurred as a result of her suffering a fall while filming a series of back handsprings ."			
+1C2-E-TEST-0036-1.51	"While filming ÃÂÃ¢ÂÂ�on Flux in Berlin, Germany, Theron suffered a herniated disc in her neck, which occurred as a result of her suffering a fall while filming a series of back handsprings ."			
 1C2-E-TEST-0036-1.51/001	ã â	DEP=1C2-E-TEST-0036-1.51009	"While filming on Flux in Berlin, Germany, suffered a herniated disc in her neck"	
 1C2-E-TEST-0036-1.51/002	flux		herinated disc result of her suffering a fall while filming series of back handsprings	1
 1C2-E-TEST-0036-1.51/003	berlin germany			
@@ -124,7 +124,7 @@
 1C2-E-TEST-0036-259.15/003	vanity fair			
 1C2-E-TEST-0036-259.15/004	white hot venus			
 1C2-E-TEST-0036-259.15/005	glossed			
-1C2-E-TEST-0036-259.23	"Theron resides in Los Angeles with her boyfriend Stuart Townsend, with whom she starred in Head in the Clouds (2004), Trapped (2002) and ÃÂÃ¢ÂÂ on Flux (2005)."			
+1C2-E-TEST-0036-259.23	"Theron resides in Los Angeles with her boyfriend Stuart Townsend, with whom she starred in Head in the Clouds (2004), Trapped (2002) and ÃÂÃ¢ÂÂ�on Flux (2005)."			
 1C2-E-TEST-0036-259.23/001	los angeles		Theron resides in Los Angeles	
 1C2-E-TEST-0036-259.23/002	boyfriend stuart townsend		"she starred in Head in the Clouds in 2004, Trapped in 2002 and on Flux in 2005 with townsend"	
 1C2-E-TEST-0036-259.23/003	head		resides  with her boyfriend Stuart Townsend	1
@@ -172,7 +172,7 @@
 1C2-E-TEST-0036-39.41	"For this role, Theron won the Academy Award for Best Actress at the 76th Academy Awards in February 2004, as well as the SAG Award and the Golden Globe Award."			
 1C2-E-TEST-0036-39.41/001	role		won the Academy Award for Best Actress at the 76th Academy Awards	
 1C2-E-TEST-0036-39.41/002	academy award	DEP=1C2-E-TEST-0036-39.41008	she also won SAG Award and the Golden Globe Award.	1
-1C2-E-TEST-0036-39.41/003	best actress		February 2004	
+1C2-E-TEST-0036-39.41/003	best actress		Feb-04	
 1C2-E-TEST-0036-39.41/004	76th academy awards			
 1C2-E-TEST-0036-39.41/005	4-Feb			
 1C2-E-TEST-0036-39.41/006	sag award	DEP=1C2-E-TEST-0036-39.41004		
@@ -256,9 +256,9 @@
 1C2-E-TEST-0036-68.14/007	johannesburg			
 1C2-E-TEST-0036-68.14/008	boarding			
 1C2-E-TEST-0036-68.14/009	began			
-1C2-E-TEST-0036-68.34	"The Oscar win pushed her to The Hollywood Reporter's 2006 list of highest-paid actresses in Hollywood; earning $10,000,000 for both her subsequent films, North Country and ÃÂÃ¢ÂÂ on Flux, she ranked seventh, behind Halle Berry, Cameron Diaz, Drew Barrymore, RenÃÂÃÂ©e Zellweger, Reese Witherspoon, and Nicole Kidman."			
+1C2-E-TEST-0036-68.34	"The Oscar win pushed her to The Hollywood Reporter's 2006 list of highest-paid actresses in Hollywood; earning $10,000,000 for both her subsequent films, North Country and ÃÂÃ¢ÂÂ�on Flux, she ranked seventh, behind Halle Berry, Cameron Diaz, Drew Barrymore, RenÃÂÃÂ©e Zellweger, Reese Witherspoon, and Nicole Kidman."			
 1C2-E-TEST-0036-68.34/001	oscar	DEP=1C2-E-TEST-0036-68.34016	The Oscar win pushed her to The Hollywood Reporter's 2006 list of highest-paid actresses in Hollywood	
-1C2-E-TEST-0036-68.34/002	hollywood reporter	DEP=1C2-E-TEST-0036-68.34019	"she earned $10,000,000 for both her subsequent films, North Country and�on Flux"	1
+1C2-E-TEST-0036-68.34/002	hollywood reporter	DEP=1C2-E-TEST-0036-68.34019	"she earned $10,000,000 for both her subsequent films, North Country andon Flux"	1
 1C2-E-TEST-0036-68.34/003	highest-paid actresses		 she ranked seventh behind Halle Berry	1
 1C2-E-TEST-0036-68.34/004	hollywood		 she ranked seventh behind Cameron Diaz	1
 1C2-E-TEST-0036-68.34/005	"10,000,000"		 she ranked seventh behind Drew Barrymore 	1
@@ -293,7 +293,7 @@
 1C2-E-TEST-0036-68.5/009	rose			
 1C2-E-TEST-0036-68.5/010	following	DEP=1C2-E-TEST-0036-68.5002		
 1C2-E-TEST-0036-68.5/011	advocate	DEP=1C2-E-TEST-0036-68.5006		
-1C2-E-TEST-0036-68.50	"Theron still resides in her Los Angeles home, though her ex-boyfriend Stuart Townsend, with whom she starred in the 2004 film Head in the Clouds, as well as in the 2002 film Trapped and 2005 ÃÂÃ¢ÂÂ on Flux has moved to their co-owned property in Malibu."			
+1C2-E-TEST-0036-68.50	"Theron still resides in her Los Angeles home, though her ex-boyfriend Stuart Townsend, with whom she starred in the 2004 film Head in the Clouds, as well as in the 2002 film Trapped and 2005 ÃÂÃ¢ÂÂ�on Flux has moved to their co-owned property in Malibu."			
 1C2-E-TEST-0036-68.50/001	los angeles home		Theron still resides in her Los Angeles home	
 1C2-E-TEST-0036-68.50/002	ex-boyfriend stuart townsend	DEP=1C2-E-TEST-0036-68.50012	ex-boyfriend Stuart Townsend has moved to their co-owned property in Malibu	1
 1C2-E-TEST-0036-68.50/003	2004 film head		"she starred in Head in the Clouds in 2004, Trapped in 2002 and on Flux in 2005 with townsend"	2
@@ -321,7 +321,7 @@
 1C2-E-TEST-0036-68.62/004	breach			
 1C2-E-TEST-0036-68.62/005	contract			
 1C2-E-TEST-0036-68.62/006	sued			
-1C2-E-TEST-0036-68.67	"She is also an active supporter of Democracy Now! and Link TV.ÃÂÃÂ  She is a supporter of same-sex marriage and attended a march in Fresno, California on 30 May 2009."			
+1C2-E-TEST-0036-68.67	"She is also an active supporter of Democracy Now! and Link TV.ÃÂÃÂ� She is a supporter of same-sex marriage and attended a march in Fresno, California on 30 May 2009."			
 1C2-E-TEST-0036-68.67/001	active supporter		She is an active supporter of Democracy Now! and Link TV.	
 1C2-E-TEST-0036-68.67/002	democracy		She is a supporter of same-sex marriage	
 1C2-E-TEST-0036-68.67/003	tv	DEP=1C2-E-TEST-0036-68.67010	"attended a march in Fresno, California on 30 May 2009"	2

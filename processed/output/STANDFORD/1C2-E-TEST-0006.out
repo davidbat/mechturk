@@ -30,22 +30,22 @@
 1C2-E-TEST-0006-1.59/006	nights	DEP=1C2-E-TEST-0006-1.59005	Country Boy 	1
 1C2-E-TEST-0006-1.59/007	u.s.	DEP=1C2-E-TEST-0006-1.59003	 You Got Your Feet in L.A	1
 1C2-E-TEST-0006-1.59/008	1	DEP=1C2-E-TEST-0006-1.59007		
-1C2-E-TEST-0006-1.59/009	hits	DEP=1C2-E-TEST-0006-1.59008	
-1C2-E-TEST-0006-1.59/010	sunflower	DEP=1C2-E-TEST-0006-1.59003	
-1C2-E-TEST-0006-1.59/011	neil diamond		
-1C2-E-TEST-0006-1.59/012	feet	DEP=1C2-E-TEST-0006-1.59020	
-1C2-E-TEST-0006-1.59/013	l.a.		
-1C2-E-TEST-0006-1.59/014	big		
-1C2-E-TEST-0006-1.59/015	u.s.	DEP=1C2-E-TEST-0006-1.59010	
-1C2-E-TEST-0006-1.59/016	39	DEP=1C2-E-TEST-0006-1.59015	
-1C2-E-TEST-0006-1.59/017	written	DEP=1C2-E-TEST-0006-1.59003	
-1C2-E-TEST-0006-1.59/018	country	DEP=1C2-E-TEST-0006-1.59019	
-1C2-E-TEST-0006-1.59/019	boy		
-1C2-E-TEST-0006-1.59/020	got		
-1C2-E-TEST-0006-119.50	Campbell was inducted to the Country Music Hall of Fame in 2005.		
-1C2-E-TEST-0006-119.50/001	country music hall		Campbell was inducted to the Country Music Hall of Fame in 2005
-1C2-E-TEST-0006-119.50/002	fame		
-1C2-E-TEST-0006-119.50/003	2005		
+1C2-E-TEST-0006-1.59/009	hits	DEP=1C2-E-TEST-0006-1.59008		
+1C2-E-TEST-0006-1.59/010	sunflower	DEP=1C2-E-TEST-0006-1.59003		
+1C2-E-TEST-0006-1.59/011	neil diamond			
+1C2-E-TEST-0006-1.59/012	feet	DEP=1C2-E-TEST-0006-1.59020		
+1C2-E-TEST-0006-1.59/013	l.a.			
+1C2-E-TEST-0006-1.59/014	big			
+1C2-E-TEST-0006-1.59/015	u.s.	DEP=1C2-E-TEST-0006-1.59010		
+1C2-E-TEST-0006-1.59/016	39	DEP=1C2-E-TEST-0006-1.59015		
+1C2-E-TEST-0006-1.59/017	written	DEP=1C2-E-TEST-0006-1.59003		
+1C2-E-TEST-0006-1.59/018	country	DEP=1C2-E-TEST-0006-1.59019		
+1C2-E-TEST-0006-1.59/019	boy			
+1C2-E-TEST-0006-1.59/020	got			
+1C2-E-TEST-0006-119.50	Campbell was inducted to the Country Music Hall of Fame in 2005.			
+1C2-E-TEST-0006-119.50/001	country music hall		Campbell was inducted to the Country Music Hall of Fame in 2005	
+1C2-E-TEST-0006-119.50/002	fame			
+1C2-E-TEST-0006-119.50/003	2005			
 1C2-E-TEST-0006-119.50/004	inducted			
 1C2-E-TEST-0006-119.52	"In August 2008, Campbell released a new album, Meet Glen Campbell."			
 1C2-E-TEST-0006-119.52/001	8-Aug		"In August 2008, Campbell released a new album, Meet Glen Campbell."	
@@ -78,118 +78,118 @@
 1C2-E-TEST-0006-139.3/008	frank sinatra	DEP=1C2-E-TEST-0006-139.3006		
 1C2-E-TEST-0006-139.3/009	elvis presley	DEP=1C2-E-TEST-0006-139.3006		
 1C2-E-TEST-0006-139.3/010	success			
-1C2-E-TEST-0006-139.3/011	solo artist		
-1C2-E-TEST-0006-139.3/012	hits		
-1C2-E-TEST-0006-139.3/013	gentle		
-1C2-E-TEST-0006-139.3/014	mind		
-1C2-E-TEST-0006-139.3/015	time		
-1C2-E-TEST-0006-139.3/016	phoenix		
-1C2-E-TEST-0006-139.3/017	galveston	DEP=1C2-E-TEST-0006-139.3013	
-1C2-E-TEST-0006-139.3/018	rhinestone cowboy	DEP=1C2-E-TEST-0006-139.3013	
-1C2-E-TEST-0006-139.3/019	career	DEP=1C2-E-TEST-0006-139.3020	
-1C2-E-TEST-0006-139.3/020	stretches		
-1C2-E-TEST-0006-139.3/021	played	DEP=1C2-E-TEST-0006-139.3004	
-1C2-E-TEST-0006-140.25	"Campbell was named both CMA Entertainer and Male Vocalist of the Year in 1968, and was inducted into the Country Music Hall of Fame in 2005."		
-1C2-E-TEST-0006-140.25/001	cma entertainer	DEP=1C2-E-TEST-0006-140.25007	Campbell was named CMA Entertainer 
-1C2-E-TEST-0006-140.25/002	male vocalist	DEP=1C2-E-TEST-0006-140.25001	campbell was named Male Vocalist of the Year in 1968
-1C2-E-TEST-0006-140.25/003	1968		campbell was inducted into the Country Music Hall of Fame in 2005
-1C2-E-TEST-0006-140.25/004	country music hall		
-1C2-E-TEST-0006-140.25/005	fame		
-1C2-E-TEST-0006-140.25/006	2005		
-1C2-E-TEST-0006-140.25/007	named		
-1C2-E-TEST-0006-140.25/008	inducted	DEP=1C2-E-TEST-0006-140.25007	
-1C2-E-TEST-0006-154.10	"The legendary performer has sold more than 45 million albums and recorded such classic hits as ""Wichita Lineman,"" ""Gentle on My Mind,"" ""Galveston,"" ""By the Time I Get to Phoenix,"" ""Southern Nights"" and ""Rhinestone Cowboy."""		
-1C2-E-TEST-0006-154.10/001	legendary performer	DEP=1C2-E-TEST-0006-154.10011	The legendary performer has sold more than 45 million albums 
-1C2-E-TEST-0006-154.10/002	classic hits	DEP=1C2-E-TEST-0006-154.10015	"he recorded such classic hits as ""Wichita Lineman,"" ""Gentle on My Mind,"" ""Galveston,"" ""By the Time I Get to Phoenix,"" ""Southern Nights"" and ""Rhinestone Cowboy."""
-1C2-E-TEST-0006-154.10/003	wichita lineman		
-1C2-E-TEST-0006-154.10/004	gentle	DEP=1C2-E-TEST-0006-154.10003	
-1C2-E-TEST-0006-154.10/005	mind		
-1C2-E-TEST-0006-154.10/006	galveston	DEP=1C2-E-TEST-0006-154.10004	
-1C2-E-TEST-0006-154.10/007	time		
-1C2-E-TEST-0006-154.10/008	phoenix		
-1C2-E-TEST-0006-154.10/009	southern nights	DEP=1C2-E-TEST-0006-154.10008	
-1C2-E-TEST-0006-154.10/010	rhinestone cowboy	DEP=1C2-E-TEST-0006-154.10008	
-1C2-E-TEST-0006-154.10/011	sold		
-1C2-E-TEST-0006-154.10/012	45	DEP=1C2-E-TEST-0006-154.10013	
-1C2-E-TEST-0006-154.10/013	million	DEP=1C2-E-TEST-0006-154.10014	
-1C2-E-TEST-0006-154.10/014	albums	DEP=1C2-E-TEST-0006-154.10011	
-1C2-E-TEST-0006-154.10/015	recorded	DEP=1C2-E-TEST-0006-154.10011	
-1C2-E-TEST-0006-154.13	"He acted alongside John Wayne in the movie ""True Grit,"" and hosted ""The Glen Campbell Goodtime Hour"" on television from 1968-1972."		
-1C2-E-TEST-0006-154.13/001	john wayne		He acted alongside John Wayne in the movie True Grit
-1C2-E-TEST-0006-154.13/002	movie true grit		he hosted The Glen Campbell Goodtime Hour on television from 1968-1972
-1C2-E-TEST-0006-154.13/003	goodtime hour	DEP=1C2-E-TEST-0006-154.13007	
-1C2-E-TEST-0006-154.13/004	television		
-1C2-E-TEST-0006-154.13/005	1968-1972		
-1C2-E-TEST-0006-154.13/006	acted		
-1C2-E-TEST-0006-154.13/007	hosted	DEP=1C2-E-TEST-0006-154.13006	
-1C2-E-TEST-0006-154.14	Earlier this year Glen Campbell announced he had been diagnosed with Alzheimer's disease.		
-1C2-E-TEST-0006-154.14/001	alzheimer	DEP=1C2-E-TEST-0006-154.14005	Earlier this year Glen Campbell announced he had been diagnosed with Alzheimer's disease
-1C2-E-TEST-0006-154.14/002	earlier		
-1C2-E-TEST-0006-154.14/003	announced		
-1C2-E-TEST-0006-154.14/004	diagnosed	DEP=1C2-E-TEST-0006-154.14003	
-1C2-E-TEST-0006-154.14/005	disease		
-1C2-E-TEST-0006-273.6	"Scored five No. 1 country hits (""I Wanna Live,"" ""Wichita Lineman,"" ""Galveston,"" ""Rhinestone Cowboy"" and ""Southern Nights"") and two No. 1 pop hits (""Rhinestone Cowboy,""ÃÂÃÂ ""Southern Nights"") during his career. Published his autobiography, Rhinestone Cowboy , in 1994.ÃÂÃÂ  Inducted into the Country Music Hall of Fame in 2005. Has his own theater in Branson, MO. Announced in 2011 that he has Alzheimer's disease. ~ Rovi"		
-1C2-E-TEST-0006-273.6/001	five no.	DEP=1C2-E-TEST-0006-273.6032	"he Scored five No. 1 country hits I Wanna Live,Wichita Lineman,Galveston, Rhinestone Cowboy and Southern Nights"
-1C2-E-TEST-0006-273.6/002	1 country hits	DEP=1C2-E-TEST-0006-273.6001	"he scored two No. 1 pop hits Rhinestone Cowboy, Southern Nights during his career"
-1C2-E-TEST-0006-273.6/003	wanna		"He Published his autobiography, Rhinestone Cowboy , in 1994"
-1C2-E-TEST-0006-273.6/004	live	DEP=1C2-E-TEST-0006-273.6003	�he Inducted into the Country Music Hall of Fame in 2005
-1C2-E-TEST-0006-273.6/005	wichita	DEP=1C2-E-TEST-0006-273.6004	"he Had his own theater in Branson, MO. "
-1C2-E-TEST-0006-273.6/006	lineman	DEP=1C2-E-TEST-0006-273.6005	he announced in 2011 that he has Alzheimer's disease
-1C2-E-TEST-0006-273.6/007	galveston	DEP=1C2-E-TEST-0006-273.6006	
-1C2-E-TEST-0006-273.6/008	rhinestone	DEP=1C2-E-TEST-0006-273.6009	
-1C2-E-TEST-0006-273.6/009	cowboy	DEP=1C2-E-TEST-0006-273.6010	
-1C2-E-TEST-0006-273.6/010	southern nights	DEP=1C2-E-TEST-0006-273.6006	
-1C2-E-TEST-0006-273.6/011	1 pop	DEP=1C2-E-TEST-0006-273.6034	
-1C2-E-TEST-0006-273.6/012	hits	DEP=1C2-E-TEST-0006-273.6011	
-1C2-E-TEST-0006-273.6/013	rhinestone cowboy	DEP=1C2-E-TEST-0006-273.6012	
-1C2-E-TEST-0006-273.6/014	ã	DEP=1C2-E-TEST-0006-273.6012
-1C2-E-TEST-0006-273.6/015	â	DEP=1C2-E-TEST-0006-273.6014
-1C2-E-TEST-0006-273.6/016	southern nights	DEP=1C2-E-TEST-0006-273.6015
-1C2-E-TEST-0006-273.6/017	career	
-1C2-E-TEST-0006-273.6/018	autobiography	DEP=1C2-E-TEST-0006-273.6021
-1C2-E-TEST-0006-273.6/019	rhinestone cowboy	DEP=1C2-E-TEST-0006-273.6018
-1C2-E-TEST-0006-273.6/020	1994	
-1C2-E-TEST-0006-273.6/021	ã â	DEP=1C2-E-TEST-0006-273.6035
-1C2-E-TEST-0006-273.6/022	country music hall	
-1C2-E-TEST-0006-273.6/023	fame	
-1C2-E-TEST-0006-273.6/024	2005	
-1C2-E-TEST-0006-273.6/025	theater	
-1C2-E-TEST-0006-273.6/026	branson	
-1C2-E-TEST-0006-273.6/027	mo.	DEP=1C2-E-TEST-0006-273.6002
-1C2-E-TEST-0006-273.6/028	2011	
-1C2-E-TEST-0006-273.6/029	alzheimer	DEP=1C2-E-TEST-0006-273.6038
-1C2-E-TEST-0006-273.6/030	~	DEP=1C2-E-TEST-0006-273.6027	
-1C2-E-TEST-0006-273.6/031	rovi	DEP=1C2-E-TEST-0006-273.6030	
-1C2-E-TEST-0006-273.6/032	scored		
-1C2-E-TEST-0006-273.6/033	two	DEP=1C2-E-TEST-0006-273.6034	
-1C2-E-TEST-0006-273.6/034	no.	DEP=1C2-E-TEST-0006-273.6035	
-1C2-E-TEST-0006-273.6/035	published		
-1C2-E-TEST-0006-273.6/036	inducted	DEP=1C2-E-TEST-0006-273.6021	
-1C2-E-TEST-0006-273.6/037	announced	DEP=1C2-E-TEST-0006-273.6027	
-1C2-E-TEST-0006-273.6/038	disease		
-1C2-E-TEST-0006-283.194	"Campbell's hits include ""Gentle On My Mind"", ""By the Time I Get to Phoenix"", ""Wichita Lineman"", ""Southern Nights"" and ..."		
-1C2-E-TEST-0006-283.194/001	mind		"Campbell's hits include Gentle On My Mind, By the Time I Get to Phoenix, Wichita Lineman, Southern Nights"
-1C2-E-TEST-0006-283.194/002	time		
-1C2-E-TEST-0006-283.194/003	phoenix		
-1C2-E-TEST-0006-283.194/004	wichita lineman		
-1C2-E-TEST-0006-283.194/005	southern nights	DEP=1C2-E-TEST-0006-283.194004	
-1C2-E-TEST-0006-283.194/006	hits		
-1C2-E-TEST-0006-283.194/007	gentle		
-1C2-E-TEST-0006-283.208	"By the Time I Get to Phoenix and ""Wichita Lineman"" made Glen a star."		
-1C2-E-TEST-0006-283.208/001	time		"By the Time I Get to Phoenix and ""Wichita Lineman"" made Glen a star."
-1C2-E-TEST-0006-283.208/002	phoenix		
-1C2-E-TEST-0006-283.208/003	wichita lineman	DEP=1C2-E-TEST-0006-283.208005	
-1C2-E-TEST-0006-283.208/004	star	DEP=1C2-E-TEST-0006-283.208005	
-1C2-E-TEST-0006-283.208/005	made		
-1C2-E-TEST-0006-283.54	"He is best known for a series of hits in the 1960s and 1970s, as well as for hosting a television variety show called The Glen Campbell Goodtime Hour on CBS television."		
-1C2-E-TEST-0006-283.54/001	series		He is best known for a series of hits in the 1960s and 1970s
-1C2-E-TEST-0006-283.54/002	hits		he is also known for hosting a television variety show called The Glen Campbell Goodtime Hour on CBS television
-1C2-E-TEST-0006-283.54/003	1960s 1970s		
-1C2-E-TEST-0006-283.54/004	television variety		
-1C2-E-TEST-0006-283.54/005	goodtime hour	DEP=1C2-E-TEST-0006-283.54010	
-1C2-E-TEST-0006-283.54/006	cbs television		
-1C2-E-TEST-0006-283.54/007	best	DEP=1C2-E-TEST-0006-283.54008	
-1C2-E-TEST-0006-283.54/008	known		
+1C2-E-TEST-0006-139.3/011	solo artist			
+1C2-E-TEST-0006-139.3/012	hits			
+1C2-E-TEST-0006-139.3/013	gentle			
+1C2-E-TEST-0006-139.3/014	mind			
+1C2-E-TEST-0006-139.3/015	time			
+1C2-E-TEST-0006-139.3/016	phoenix			
+1C2-E-TEST-0006-139.3/017	galveston	DEP=1C2-E-TEST-0006-139.3013		
+1C2-E-TEST-0006-139.3/018	rhinestone cowboy	DEP=1C2-E-TEST-0006-139.3013		
+1C2-E-TEST-0006-139.3/019	career	DEP=1C2-E-TEST-0006-139.3020		
+1C2-E-TEST-0006-139.3/020	stretches			
+1C2-E-TEST-0006-139.3/021	played	DEP=1C2-E-TEST-0006-139.3004		
+1C2-E-TEST-0006-140.25	"Campbell was named both CMA Entertainer and Male Vocalist of the Year in 1968, and was inducted into the Country Music Hall of Fame in 2005."			
+1C2-E-TEST-0006-140.25/001	cma entertainer	DEP=1C2-E-TEST-0006-140.25007	Campbell was named CMA Entertainer 	
+1C2-E-TEST-0006-140.25/002	male vocalist	DEP=1C2-E-TEST-0006-140.25001	campbell was named Male Vocalist of the Year in 1968	
+1C2-E-TEST-0006-140.25/003	1968		campbell was inducted into the Country Music Hall of Fame in 2005	
+1C2-E-TEST-0006-140.25/004	country music hall			
+1C2-E-TEST-0006-140.25/005	fame			
+1C2-E-TEST-0006-140.25/006	2005			
+1C2-E-TEST-0006-140.25/007	named			
+1C2-E-TEST-0006-140.25/008	inducted	DEP=1C2-E-TEST-0006-140.25007		
+1C2-E-TEST-0006-154.10	"The legendary performer has sold more than 45 million albums and recorded such classic hits as ""Wichita Lineman,"" ""Gentle on My Mind,"" ""Galveston,"" ""By the Time I Get to Phoenix,"" ""Southern Nights"" and ""Rhinestone Cowboy."""			
+1C2-E-TEST-0006-154.10/001	legendary performer	DEP=1C2-E-TEST-0006-154.10011	The legendary performer has sold more than 45 million albums 	
+1C2-E-TEST-0006-154.10/002	classic hits	DEP=1C2-E-TEST-0006-154.10015	"he recorded such classic hits as ""Wichita Lineman,"" ""Gentle on My Mind,"" ""Galveston,"" ""By the Time I Get to Phoenix,"" ""Southern Nights"" and ""Rhinestone Cowboy."""	
+1C2-E-TEST-0006-154.10/003	wichita lineman			
+1C2-E-TEST-0006-154.10/004	gentle	DEP=1C2-E-TEST-0006-154.10003		
+1C2-E-TEST-0006-154.10/005	mind			
+1C2-E-TEST-0006-154.10/006	galveston	DEP=1C2-E-TEST-0006-154.10004		
+1C2-E-TEST-0006-154.10/007	time			
+1C2-E-TEST-0006-154.10/008	phoenix			
+1C2-E-TEST-0006-154.10/009	southern nights	DEP=1C2-E-TEST-0006-154.10008		
+1C2-E-TEST-0006-154.10/010	rhinestone cowboy	DEP=1C2-E-TEST-0006-154.10008		
+1C2-E-TEST-0006-154.10/011	sold			
+1C2-E-TEST-0006-154.10/012	45	DEP=1C2-E-TEST-0006-154.10013		
+1C2-E-TEST-0006-154.10/013	million	DEP=1C2-E-TEST-0006-154.10014		
+1C2-E-TEST-0006-154.10/014	albums	DEP=1C2-E-TEST-0006-154.10011		
+1C2-E-TEST-0006-154.10/015	recorded	DEP=1C2-E-TEST-0006-154.10011		
+1C2-E-TEST-0006-154.13	"He acted alongside John Wayne in the movie ""True Grit,"" and hosted ""The Glen Campbell Goodtime Hour"" on television from 1968-1972."			
+1C2-E-TEST-0006-154.13/001	john wayne		He acted alongside John Wayne in the movie True Grit	
+1C2-E-TEST-0006-154.13/002	movie true grit		he hosted The Glen Campbell Goodtime Hour on television from 1968-1972	
+1C2-E-TEST-0006-154.13/003	goodtime hour	DEP=1C2-E-TEST-0006-154.13007		
+1C2-E-TEST-0006-154.13/004	television			
+1C2-E-TEST-0006-154.13/005	1968-1972			
+1C2-E-TEST-0006-154.13/006	acted			
+1C2-E-TEST-0006-154.13/007	hosted	DEP=1C2-E-TEST-0006-154.13006		
+1C2-E-TEST-0006-154.14	Earlier this year Glen Campbell announced he had been diagnosed with Alzheimer's disease.			
+1C2-E-TEST-0006-154.14/001	alzheimer	DEP=1C2-E-TEST-0006-154.14005	Earlier this year Glen Campbell announced he had been diagnosed with Alzheimer's disease	
+1C2-E-TEST-0006-154.14/002	earlier			
+1C2-E-TEST-0006-154.14/003	announced			
+1C2-E-TEST-0006-154.14/004	diagnosed	DEP=1C2-E-TEST-0006-154.14003		
+1C2-E-TEST-0006-154.14/005	disease			
+1C2-E-TEST-0006-273.6	"Scored five No. 1 country hits (""I Wanna Live,"" ""Wichita Lineman,"" ""Galveston,"" ""Rhinestone Cowboy"" and ""Southern Nights"") and two No. 1 pop hits (""Rhinestone Cowboy,""ÃÂÃÂ�""Southern Nights"") during his career. Published his autobiography, Rhinestone Cowboy , in 1994.ÃÂÃÂ� Inducted into the Country Music Hall of Fame in 2005. Has his own theater in Branson, MO. Announced in 2011 that he has Alzheimer's disease. ~ Rovi"			
+1C2-E-TEST-0006-273.6/001	five no.	DEP=1C2-E-TEST-0006-273.6032	"he Scored five No. 1 country hits I Wanna Live,Wichita Lineman,Galveston, Rhinestone Cowboy and Southern Nights"	
+1C2-E-TEST-0006-273.6/002	1 country hits	DEP=1C2-E-TEST-0006-273.6001	"he scored two No. 1 pop hits Rhinestone Cowboy, Southern Nights during his career"	
+1C2-E-TEST-0006-273.6/003	wanna		"He Published his autobiography, Rhinestone Cowboy , in 1994"	
+1C2-E-TEST-0006-273.6/004	live	DEP=1C2-E-TEST-0006-273.6003	he Inducted into the Country Music Hall of Fame in 2005	
+1C2-E-TEST-0006-273.6/005	wichita	DEP=1C2-E-TEST-0006-273.6004	"he Had his own theater in Branson, MO. "	
+1C2-E-TEST-0006-273.6/006	lineman	DEP=1C2-E-TEST-0006-273.6005	he announced in 2011 that he has Alzheimer's disease	
+1C2-E-TEST-0006-273.6/007	galveston	DEP=1C2-E-TEST-0006-273.6006		
+1C2-E-TEST-0006-273.6/008	rhinestone	DEP=1C2-E-TEST-0006-273.6009		
+1C2-E-TEST-0006-273.6/009	cowboy	DEP=1C2-E-TEST-0006-273.6010		
+1C2-E-TEST-0006-273.6/010	southern nights	DEP=1C2-E-TEST-0006-273.6006		
+1C2-E-TEST-0006-273.6/011	1 pop	DEP=1C2-E-TEST-0006-273.6034		
+1C2-E-TEST-0006-273.6/012	hits	DEP=1C2-E-TEST-0006-273.6011		
+1C2-E-TEST-0006-273.6/013	rhinestone cowboy	DEP=1C2-E-TEST-0006-273.6012		
+1C2-E-TEST-0006-273.6/014	ã	DEP=1C2-E-TEST-0006-273.6012		
+1C2-E-TEST-0006-273.6/015	â	DEP=1C2-E-TEST-0006-273.6014		
+1C2-E-TEST-0006-273.6/016	southern nights	DEP=1C2-E-TEST-0006-273.6015		
+1C2-E-TEST-0006-273.6/017	career			
+1C2-E-TEST-0006-273.6/018	autobiography	DEP=1C2-E-TEST-0006-273.6021		
+1C2-E-TEST-0006-273.6/019	rhinestone cowboy	DEP=1C2-E-TEST-0006-273.6018		
+1C2-E-TEST-0006-273.6/020	1994			
+1C2-E-TEST-0006-273.6/021	ã â	DEP=1C2-E-TEST-0006-273.6035		
+1C2-E-TEST-0006-273.6/022	country music hall			
+1C2-E-TEST-0006-273.6/023	fame			
+1C2-E-TEST-0006-273.6/024	2005			
+1C2-E-TEST-0006-273.6/025	theater			
+1C2-E-TEST-0006-273.6/026	branson			
+1C2-E-TEST-0006-273.6/027	mo.	DEP=1C2-E-TEST-0006-273.6002		
+1C2-E-TEST-0006-273.6/028	2011			
+1C2-E-TEST-0006-273.6/029	alzheimer	DEP=1C2-E-TEST-0006-273.6038		
+1C2-E-TEST-0006-273.6/030	~	DEP=1C2-E-TEST-0006-273.6027		
+1C2-E-TEST-0006-273.6/031	rovi	DEP=1C2-E-TEST-0006-273.6030		
+1C2-E-TEST-0006-273.6/032	scored			
+1C2-E-TEST-0006-273.6/033	two	DEP=1C2-E-TEST-0006-273.6034		
+1C2-E-TEST-0006-273.6/034	no.	DEP=1C2-E-TEST-0006-273.6035		
+1C2-E-TEST-0006-273.6/035	published			
+1C2-E-TEST-0006-273.6/036	inducted	DEP=1C2-E-TEST-0006-273.6021		
+1C2-E-TEST-0006-273.6/037	announced	DEP=1C2-E-TEST-0006-273.6027		
+1C2-E-TEST-0006-273.6/038	disease			
+1C2-E-TEST-0006-283.194	"Campbell's hits include ""Gentle On My Mind"", ""By the Time I Get to Phoenix"", ""Wichita Lineman"", ""Southern Nights"" and ..."			
+1C2-E-TEST-0006-283.194/001	mind		"Campbell's hits include Gentle On My Mind, By the Time I Get to Phoenix, Wichita Lineman, Southern Nights"	
+1C2-E-TEST-0006-283.194/002	time			
+1C2-E-TEST-0006-283.194/003	phoenix			
+1C2-E-TEST-0006-283.194/004	wichita lineman			
+1C2-E-TEST-0006-283.194/005	southern nights	DEP=1C2-E-TEST-0006-283.194004		
+1C2-E-TEST-0006-283.194/006	hits			
+1C2-E-TEST-0006-283.194/007	gentle			
+1C2-E-TEST-0006-283.208	"By the Time I Get to Phoenix and ""Wichita Lineman"" made Glen a star."			
+1C2-E-TEST-0006-283.208/001	time		"By the Time I Get to Phoenix and ""Wichita Lineman"" made Glen a star."	
+1C2-E-TEST-0006-283.208/002	phoenix			
+1C2-E-TEST-0006-283.208/003	wichita lineman	DEP=1C2-E-TEST-0006-283.208005		
+1C2-E-TEST-0006-283.208/004	star	DEP=1C2-E-TEST-0006-283.208005		
+1C2-E-TEST-0006-283.208/005	made			
+1C2-E-TEST-0006-283.54	"He is best known for a series of hits in the 1960s and 1970s, as well as for hosting a television variety show called The Glen Campbell Goodtime Hour on CBS television."			
+1C2-E-TEST-0006-283.54/001	series		He is best known for a series of hits in the 1960s and 1970s	
+1C2-E-TEST-0006-283.54/002	hits		he is also known for hosting a television variety show called The Glen Campbell Goodtime Hour on CBS television	
+1C2-E-TEST-0006-283.54/003	1960s 1970s			
+1C2-E-TEST-0006-283.54/004	television variety			
+1C2-E-TEST-0006-283.54/005	goodtime hour	DEP=1C2-E-TEST-0006-283.54010		
+1C2-E-TEST-0006-283.54/006	cbs television			
+1C2-E-TEST-0006-283.54/007	best	DEP=1C2-E-TEST-0006-283.54008		
+1C2-E-TEST-0006-283.54/008	known			
 1C2-E-TEST-0006-283.54/009	hosting			
 1C2-E-TEST-0006-283.54/010	called			
 1C2-E-TEST-0006-283.55	"Campbell's hits include ""Gentle On My Mind"", ""By the Time I Get ..."			
@@ -206,22 +206,22 @@
 1C2-E-TEST-0006-283.92/006	cbs television			
 1C2-E-TEST-0006-283.92/007	gentle			
 1C2-E-TEST-0006-283.92/008	mind			
-1C2-E-TEST-0006-283.92/009	time		
-1C2-E-TEST-0006-283.92/010	phoenix		
-1C2-E-TEST-0006-283.92/011	wichita lineman		
-1C2-E-TEST-0006-283.92/012	southern nights	DEP=1C2-E-TEST-0006-283.92011	
-1C2-E-TEST-0006-283.92/013	rhinestone cowboy	DEP=1C2-E-TEST-0006-283.92012	
-1C2-E-TEST-0006-283.92/014	best	DEP=1C2-E-TEST-0006-283.92015	
-1C2-E-TEST-0006-283.92/015	known		
-1C2-E-TEST-0006-283.92/016	hosting		
-1C2-E-TEST-0006-283.92/017	called		
-1C2-E-TEST-0006-283.92/018	hits		
-1C2-E-TEST-0006-283.99	"He performed it live at that year's Academy Awards Show. In 2005, Campbell was inducted into the Country Music Hall of Fame."		
-1C2-E-TEST-0006-283.99/001	2005		He performed it live at that year's Academy Awards Show
-1C2-E-TEST-0006-283.99/002	country music hall		" In 2005, Campbell was inducted into the Country Music Hall of Fame"
-1C2-E-TEST-0006-283.99/003	fame		
-1C2-E-TEST-0006-283.99/004	performed		
-1C2-E-TEST-0006-283.99/005	live	DEP=1C2-E-TEST-0006-283.99004	
+1C2-E-TEST-0006-283.92/009	time			
+1C2-E-TEST-0006-283.92/010	phoenix			
+1C2-E-TEST-0006-283.92/011	wichita lineman			
+1C2-E-TEST-0006-283.92/012	southern nights	DEP=1C2-E-TEST-0006-283.92011		
+1C2-E-TEST-0006-283.92/013	rhinestone cowboy	DEP=1C2-E-TEST-0006-283.92012		
+1C2-E-TEST-0006-283.92/014	best	DEP=1C2-E-TEST-0006-283.92015		
+1C2-E-TEST-0006-283.92/015	known			
+1C2-E-TEST-0006-283.92/016	hosting			
+1C2-E-TEST-0006-283.92/017	called			
+1C2-E-TEST-0006-283.92/018	hits			
+1C2-E-TEST-0006-283.99	"He performed it live at that year's Academy Awards Show. In 2005, Campbell was inducted into the Country Music Hall of Fame."			
+1C2-E-TEST-0006-283.99/001	2005		He performed it live at that year's Academy Awards Show	
+1C2-E-TEST-0006-283.99/002	country music hall		" In 2005, Campbell was inducted into the Country Music Hall of Fame"	
+1C2-E-TEST-0006-283.99/003	fame			
+1C2-E-TEST-0006-283.99/004	performed			
+1C2-E-TEST-0006-283.99/005	live	DEP=1C2-E-TEST-0006-283.99004		
 1C2-E-TEST-0006-283.99/006	academy	DEP=1C2-E-TEST-0006-283.99008		
 1C2-E-TEST-0006-283.99/007	awards	DEP=1C2-E-TEST-0006-283.99008		
 1C2-E-TEST-0006-283.99/008	show			
@@ -286,22 +286,22 @@
 1C2-E-TEST-0006-6.12/016	original material			
 1C2-E-TEST-0006-6.12/017	raymond			
 1C2-E-TEST-0006-6.12/018	returned			
-1C2-E-TEST-0006-6.12/019	applies	DEP=1C2-E-TEST-0006-6.12001	
-1C2-E-TEST-0006-6.12/020	s	DEP=1C2-E-TEST-0006-6.12006	
-1C2-E-TEST-0006-6.12/021	paul	DEP=1C2-E-TEST-0006-6.12022	
-1C2-E-TEST-0006-6.12/022	westerberg		
-1C2-E-TEST-0006-6.12/023	wrote	DEP=1C2-E-TEST-0006-6.12016	
-1C2-E-TEST-0006-68.13	"In 2005, Campbell was inducted into the Country Music Hall of Fame ."		
-1C2-E-TEST-0006-68.13/001	2005		"In 2005, Campbell was inducted into the Country Music Hall of Fame"
-1C2-E-TEST-0006-68.13/002	country music hall		
-1C2-E-TEST-0006-68.13/003	fame		
-1C2-E-TEST-0006-68.13/004	inducted		
-1C2-E-TEST-0006-68.3	"He is best known for a series of chart-topper|hits in the 1960s and 1970s, as well as for hosting a variety show called The Glen Campbell Goodtime Hour on CBS television."		
-1C2-E-TEST-0006-68.3/001	series		He is best known for a series of chart-topper hits in the 1960s and 1970s
-1C2-E-TEST-0006-68.3/002	chart-topper | hits		he is also known for hosting a variety show called The Glen Campbell Goodtime Hour on CBS television
-1C2-E-TEST-0006-68.3/003	1960s 1970s		
-1C2-E-TEST-0006-68.3/004	variety show	DEP=1C2-E-TEST-0006-68.3009	
-1C2-E-TEST-0006-68.3/005	goodtime hour	DEP=1C2-E-TEST-0006-68.3010	
+1C2-E-TEST-0006-6.12/019	applies	DEP=1C2-E-TEST-0006-6.12001		
+1C2-E-TEST-0006-6.12/020	s	DEP=1C2-E-TEST-0006-6.12006		
+1C2-E-TEST-0006-6.12/021	paul	DEP=1C2-E-TEST-0006-6.12022		
+1C2-E-TEST-0006-6.12/022	westerberg			
+1C2-E-TEST-0006-6.12/023	wrote	DEP=1C2-E-TEST-0006-6.12016		
+1C2-E-TEST-0006-68.13	"In 2005, Campbell was inducted into the Country Music Hall of Fame ."			
+1C2-E-TEST-0006-68.13/001	2005		"In 2005, Campbell was inducted into the Country Music Hall of Fame"	
+1C2-E-TEST-0006-68.13/002	country music hall			
+1C2-E-TEST-0006-68.13/003	fame			
+1C2-E-TEST-0006-68.13/004	inducted			
+1C2-E-TEST-0006-68.3	"He is best known for a series of chart-topper|hits in the 1960s and 1970s, as well as for hosting a variety show called The Glen Campbell Goodtime Hour on CBS television."			
+1C2-E-TEST-0006-68.3/001	series		He is best known for a series of chart-topper hits in the 1960s and 1970s	
+1C2-E-TEST-0006-68.3/002	chart-topper | hits		he is also known for hosting a variety show called The Glen Campbell Goodtime Hour on CBS television	
+1C2-E-TEST-0006-68.3/003	1960s 1970s			
+1C2-E-TEST-0006-68.3/004	variety show	DEP=1C2-E-TEST-0006-68.3009		
+1C2-E-TEST-0006-68.3/005	goodtime hour	DEP=1C2-E-TEST-0006-68.3010		
 1C2-E-TEST-0006-68.3/006	cbs television			
 1C2-E-TEST-0006-68.3/007	best	DEP=1C2-E-TEST-0006-68.3008		
 1C2-E-TEST-0006-68.3/008	known			
@@ -334,15 +334,15 @@
 1C2-E-TEST-0006-68.84/002	television		After he hosted a 1968 summer replacement for television's The Smothers Brothers Comedy Hour variety show	1
 1C2-E-TEST-0006-68.84/003	smothers brothers comedy hour variety show	DEP=1C2-E-TEST-0006-68.84002		
 1C2-E-TEST-0006-68.84/004	weekly variety show	DEP=1C2-E-TEST-0006-68.84009		
-1C2-E-TEST-0006-68.84/005	goodtime hour	DEP=1C2-E-TEST-0006-68.84004	
-1C2-E-TEST-0006-68.84/006	Jan-69		
-1C2-E-TEST-0006-68.84/007	Jun-72		
-1C2-E-TEST-0006-68.84/008	hosted	DEP=1C2-E-TEST-0006-68.84009	
-1C2-E-TEST-0006-68.84/009	hosted		
-1C2-E-TEST-0006-85.6	In 1969 he made the leap to television as host of The Glen Campbell Goodtime Hour.		
-1C2-E-TEST-0006-85.6/001	1969		In 1969 he made the leap to television as host of The Glen Campbell Goodtime Hour
-1C2-E-TEST-0006-85.6/002	leap	DEP=1C2-E-TEST-0006-85.6006	
-1C2-E-TEST-0006-85.6/003	television		
-1C2-E-TEST-0006-85.6/004	host		
-1C2-E-TEST-0006-85.6/005	goodtime hour		
-1C2-E-TEST-0006-85.6/006	made		
+1C2-E-TEST-0006-68.84/005	goodtime hour	DEP=1C2-E-TEST-0006-68.84004		
+1C2-E-TEST-0006-68.84/006	Jan-69			
+1C2-E-TEST-0006-68.84/007	Jun-72			
+1C2-E-TEST-0006-68.84/008	hosted	DEP=1C2-E-TEST-0006-68.84009		
+1C2-E-TEST-0006-68.84/009	hosted			
+1C2-E-TEST-0006-85.6	In 1969 he made the leap to television as host of The Glen Campbell Goodtime Hour.			
+1C2-E-TEST-0006-85.6/001	1969		In 1969 he made the leap to television as host of The Glen Campbell Goodtime Hour	
+1C2-E-TEST-0006-85.6/002	leap	DEP=1C2-E-TEST-0006-85.6006		
+1C2-E-TEST-0006-85.6/003	television			
+1C2-E-TEST-0006-85.6/004	host			
+1C2-E-TEST-0006-85.6/005	goodtime hour			
+1C2-E-TEST-0006-85.6/006	made			

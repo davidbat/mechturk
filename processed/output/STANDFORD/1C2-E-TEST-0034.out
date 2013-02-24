@@ -62,22 +62,22 @@
 1C2-E-TEST-0034-119.22/006	american	DEP=1C2-E-TEST-0034-119.22007		
 1C2-E-TEST-0034-119.22/007	offers			
 1C2-E-TEST-0034-119.24	"Missing the Oscar nod this time around he didn't seem deterred and signed to do his first film with The Walt Disney Company, Mystery, Alaska (1999)."			
-1C2-E-TEST-0034-119.24/001	oscar nod	DEP=1C2-E-TEST-0034-119.24007	Missing the Oscar nod this time around he didn't seem deterred 
-1C2-E-TEST-0034-119.24/002	film		"he signed to do his first film with The Walt Disney Company, Mystery, Alaska 1999"
-1C2-E-TEST-0034-119.24/003	walt disney company		
-1C2-E-TEST-0034-119.24/004	mystery	DEP=1C2-E-TEST-0034-119.24003	
-1C2-E-TEST-0034-119.24/005	alaska	DEP=1C2-E-TEST-0034-119.24007	
-1C2-E-TEST-0034-119.24/006	1999	DEP=1C2-E-TEST-0034-119.24005	
-1C2-E-TEST-0034-119.24/007	missing		
-1C2-E-TEST-0034-119.24/008	time	DEP=1C2-E-TEST-0034-119.24007	
-1C2-E-TEST-0034-119.24/009	did	DEP=1C2-E-TEST-0034-119.24011	
-1C2-E-TEST-0034-119.24/010	n't	DEP=1C2-E-TEST-0034-119.24011	
-1C2-E-TEST-0034-119.24/011	deterred	DEP=1C2-E-TEST-0034-119.24007	
-1C2-E-TEST-0034-119.24/012	signed	DEP=1C2-E-TEST-0034-119.24011	
-1C2-E-TEST-0034-119.39	Russell's rock group is named 30 Odd Foot of Grunts.		
-1C2-E-TEST-0034-119.39/001	30 odd foot	DEP=1C2-E-TEST-0034-119.39005	Russell's rock group is named 30 Odd Foot of Grunts.
-1C2-E-TEST-0034-119.39/002	grunts		
-1C2-E-TEST-0034-119.39/003	rock	DEP=1C2-E-TEST-0034-119.39004	
+1C2-E-TEST-0034-119.24/001	oscar nod	DEP=1C2-E-TEST-0034-119.24007	Missing the Oscar nod this time around he didn't seem deterred 	
+1C2-E-TEST-0034-119.24/002	film		"he signed to do his first film with The Walt Disney Company, Mystery, Alaska 1999"	
+1C2-E-TEST-0034-119.24/003	walt disney company			
+1C2-E-TEST-0034-119.24/004	mystery	DEP=1C2-E-TEST-0034-119.24003		
+1C2-E-TEST-0034-119.24/005	alaska	DEP=1C2-E-TEST-0034-119.24007		
+1C2-E-TEST-0034-119.24/006	1999	DEP=1C2-E-TEST-0034-119.24005		
+1C2-E-TEST-0034-119.24/007	missing			
+1C2-E-TEST-0034-119.24/008	time	DEP=1C2-E-TEST-0034-119.24007		
+1C2-E-TEST-0034-119.24/009	did	DEP=1C2-E-TEST-0034-119.24011		
+1C2-E-TEST-0034-119.24/010	n't	DEP=1C2-E-TEST-0034-119.24011		
+1C2-E-TEST-0034-119.24/011	deterred	DEP=1C2-E-TEST-0034-119.24007		
+1C2-E-TEST-0034-119.24/012	signed	DEP=1C2-E-TEST-0034-119.24011		
+1C2-E-TEST-0034-119.39	Russell's rock group is named 30 Odd Foot of Grunts.			
+1C2-E-TEST-0034-119.39/001	30 odd foot	DEP=1C2-E-TEST-0034-119.39005	Russell's rock group is named 30 Odd Foot of Grunts.	
+1C2-E-TEST-0034-119.39/002	grunts			
+1C2-E-TEST-0034-119.39/003	rock	DEP=1C2-E-TEST-0034-119.39004		
 1C2-E-TEST-0034-119.39/004	group	DEP=1C2-E-TEST-0034-119.39005		
 1C2-E-TEST-0034-119.39/005	named			
 1C2-E-TEST-0034-119.40	"They played their first US concert following Russell's success in Gladiator (2000) in Austin, Texas in August 2000."			
@@ -142,22 +142,22 @@
 1C2-E-TEST-0034-14.41/016	pinned	DEP=1C2-E-TEST-0034-14.41013		
 1C2-E-TEST-0034-14.41/017	threatening	DEP=1C2-E-TEST-0034-14.41013		
 1C2-E-TEST-0034-14.41/018	hurling	DEP=1C2-E-TEST-0034-14.41013		
-1C2-E-TEST-0034-171.36	"He first co-starred with Denzel Washington in Virtuosity , and with Sharon Stone in The Quick and the Dead in 1995."		
-1C2-E-TEST-0034-171.36/001	denzel washington		"He first co-starred with Denzel Washington in Virtuosity , "
-1C2-E-TEST-0034-171.36/002	virtuosity		He first co-starred with Sharon Stone in The Quick and the Dead in 1995.
-1C2-E-TEST-0034-171.36/003	sharon stone		
-1C2-E-TEST-0034-171.36/004	quick		
-1C2-E-TEST-0034-171.36/005	dead	DEP=1C2-E-TEST-0034-171.36003	
-1C2-E-TEST-0034-171.36/006	1995		
-1C2-E-TEST-0034-171.36/007	co-starred		
-1C2-E-TEST-0034-171.37	"He went on to become a three-time Oscar nominee, winning the Academy Award as Best Actor in 2001 for Gladiator ."		
-1C2-E-TEST-0034-171.37/001	three-time oscar nominee	DEP=1C2-E-TEST-0034-171.37006	He went on to become a three-time Oscar nominee
-1C2-E-TEST-0034-171.37/002	academy award	DEP=1C2-E-TEST-0034-171.37007	he won the Academy Award as Best Actor in 2001 for Gladiator .
-1C2-E-TEST-0034-171.37/003	best actor		
-1C2-E-TEST-0034-171.37/004	2001		
-1C2-E-TEST-0034-171.37/005	gladiator		
-1C2-E-TEST-0034-171.37/006	went		
-1C2-E-TEST-0034-171.37/007	winning	DEP=1C2-E-TEST-0034-171.37006	
+1C2-E-TEST-0034-171.36	"He first co-starred with Denzel Washington in Virtuosity , and with Sharon Stone in The Quick and the Dead in 1995."			
+1C2-E-TEST-0034-171.36/001	denzel washington		"He first co-starred with Denzel Washington in Virtuosity , "	
+1C2-E-TEST-0034-171.36/002	virtuosity		He first co-starred with Sharon Stone in The Quick and the Dead in 1995.	
+1C2-E-TEST-0034-171.36/003	sharon stone			
+1C2-E-TEST-0034-171.36/004	quick			
+1C2-E-TEST-0034-171.36/005	dead	DEP=1C2-E-TEST-0034-171.36003		
+1C2-E-TEST-0034-171.36/006	1995			
+1C2-E-TEST-0034-171.36/007	co-starred			
+1C2-E-TEST-0034-171.37	"He went on to become a three-time Oscar nominee, winning the Academy Award as Best Actor in 2001 for Gladiator ."			
+1C2-E-TEST-0034-171.37/001	three-time oscar nominee	DEP=1C2-E-TEST-0034-171.37006	He went on to become a three-time Oscar nominee	
+1C2-E-TEST-0034-171.37/002	academy award	DEP=1C2-E-TEST-0034-171.37007	he won the Academy Award as Best Actor in 2001 for Gladiator .	
+1C2-E-TEST-0034-171.37/003	best actor			
+1C2-E-TEST-0034-171.37/004	2001			
+1C2-E-TEST-0034-171.37/005	gladiator			
+1C2-E-TEST-0034-171.37/006	went			
+1C2-E-TEST-0034-171.37/007	winning	DEP=1C2-E-TEST-0034-171.37006		
 1C2-E-TEST-0034-171.45	"All three films were also nominated for best picture, and both Gladiator and A Beautiful Mind won the award."			
 1C2-E-TEST-0034-171.45/001	three films	DEP=1C2-E-TEST-0034-171.45006	All three films were also nominated for best picture	
 1C2-E-TEST-0034-171.45/002	best picture		 both Gladiator and A Beautiful Mind won the award	
@@ -206,22 +206,22 @@
 1C2-E-TEST-0034-215.13/008	episode			
 1C2-E-TEST-0034-215.13/009	opposite series star jack thompson	DEP=1C2-E-TEST-0034-215.13008		
 1C2-E-TEST-0034-215.13/010	years	DEP=1C2-E-TEST-0034-215.13018		
-1C2-E-TEST-0034-215.13/011	sum		
-1C2-E-TEST-0034-215.13/012	school		
-1C2-E-TEST-0034-215.13/013	two years		
-1C2-E-TEST-0034-215.13/014	sydney boys high school	DEP=1C2-E-TEST-0034-215.13012	
-1C2-E-TEST-0034-215.13/015	godfather		
-1C2-E-TEST-0034-215.13/016	hired	DEP=1C2-E-TEST-0034-215.13015	
-1C2-E-TEST-0034-215.13/017	later	DEP=1C2-E-TEST-0034-215.13018	
-1C2-E-TEST-0034-215.13/018	played	DEP=1C2-E-TEST-0034-215.13016	
-1C2-E-TEST-0034-215.13/019	father	DEP=1C2-E-TEST-0034-215.13018	
-1C2-E-TEST-0034-215.13/020	coincidentally	DEP=1C2-E-TEST-0034-215.13021	
-1C2-E-TEST-0034-215.13/021	educated	DEP=1C2-E-TEST-0034-215.13018	
-1C2-E-TEST-0034-215.13/022	attend		
-1C2-E-TEST-0034-215.2	"ÃÂÃÂ Russell Ira Crowe (born 7 April 1964) is an Academy Award-, BAFTA-, Golden Globe-, and Screen Actors Guild Award- winning New Zealand and Australian actor."		
-1C2-E-TEST-0034-215.2/001	ã â		�Russell Ira Crowe was born on 7 April 1964
-1C2-E-TEST-0034-215.2/002	ira		"russell Ira crowe is an Academy Award-, BAFTA-, Golden Globe-, and Screen Actors Guild Award- winning New Zealand and Australian actor"
-1C2-E-TEST-0034-215.2/003	7	DEP=1C2-E-TEST-0034-215.2012	
+1C2-E-TEST-0034-215.13/011	sum			
+1C2-E-TEST-0034-215.13/012	school			
+1C2-E-TEST-0034-215.13/013	two years			
+1C2-E-TEST-0034-215.13/014	sydney boys high school	DEP=1C2-E-TEST-0034-215.13012		
+1C2-E-TEST-0034-215.13/015	godfather			
+1C2-E-TEST-0034-215.13/016	hired	DEP=1C2-E-TEST-0034-215.13015		
+1C2-E-TEST-0034-215.13/017	later	DEP=1C2-E-TEST-0034-215.13018		
+1C2-E-TEST-0034-215.13/018	played	DEP=1C2-E-TEST-0034-215.13016		
+1C2-E-TEST-0034-215.13/019	father	DEP=1C2-E-TEST-0034-215.13018		
+1C2-E-TEST-0034-215.13/020	coincidentally	DEP=1C2-E-TEST-0034-215.13021		
+1C2-E-TEST-0034-215.13/021	educated	DEP=1C2-E-TEST-0034-215.13018		
+1C2-E-TEST-0034-215.13/022	attend			
+1C2-E-TEST-0034-215.2	"ÃÂÃÂ�Russell Ira Crowe (born 7 April 1964) is an Academy Award-, BAFTA-, Golden Globe-, and Screen Actors Guild Award- winning New Zealand and Australian actor."			
+1C2-E-TEST-0034-215.2/001	ã â		Russell Ira Crowe was born on 7 April 1964	
+1C2-E-TEST-0034-215.2/002	ira		"russell Ira crowe is an Academy Award-, BAFTA-, Golden Globe-, and Screen Actors Guild Award- winning New Zealand and Australian actor"	
+1C2-E-TEST-0034-215.2/003	7	DEP=1C2-E-TEST-0034-215.2012		
 1C2-E-TEST-0034-215.2/004	academy award	DEP=1C2-E-TEST-0034-215.2001		
 1C2-E-TEST-0034-215.2/005	bafta	DEP=1C2-E-TEST-0034-215.2004		
 1C2-E-TEST-0034-215.2/006	golden globe	DEP=1C2-E-TEST-0034-215.2005		
@@ -238,22 +238,22 @@
 1C2-E-TEST-0034-215.20/001	1986		In 1986 he was given his first professional role 	
 1C2-E-TEST-0034-215.20/002	professional role	DEP=1C2-E-TEST-0034-215.20007	role was given by director Daniel Abineri	1
 1C2-E-TEST-0034-215.20/003	director		the role was in a production of The Rocky Horror Show.	1
-1C2-E-TEST-0034-215.20/004	daniel abineri	DEP=1C2-E-TEST-0034-215.20007	
-1C2-E-TEST-0034-215.20/005	production		
-1C2-E-TEST-0034-215.20/006	rocky horror show		
-1C2-E-TEST-0034-215.20/007	given		
-1C2-E-TEST-0034-215.22	"In the 1988 Australian production of Blood Brothers, Crowe played the role of Mickey.He was also cast again by Daniel Abineri in the role of Johnny in the stage musical of Bad Boy Johnny and the Prophets of Doom in 1989."		
-1C2-E-TEST-0034-215.22/001	1988 australian production		"In the 1988 Australian production of Blood Brothers, Crowe played the role of Mickey"
-1C2-E-TEST-0034-215.22/002	blood brothers		He was also cast again by Daniel Abineri in the role of Johnny in the stage musical of Bad Boy Johnny and the Prophets of Doom in 1989
-1C2-E-TEST-0034-215.22/003	role	DEP=1C2-E-TEST-0034-215.22013	
-1C2-E-TEST-0034-215.22/004	mickey		
-1C2-E-TEST-0034-215.22/005	daniel abineri		
-1C2-E-TEST-0034-215.22/006	role		
-1C2-E-TEST-0034-215.22/007	johnny		
-1C2-E-TEST-0034-215.22/008	stage musical		
-1C2-E-TEST-0034-215.22/009	bad boy johnny		
-1C2-E-TEST-0034-215.22/010	prophets	DEP=1C2-E-TEST-0034-215.22008	
-1C2-E-TEST-0034-215.22/011	doom		
+1C2-E-TEST-0034-215.20/004	daniel abineri	DEP=1C2-E-TEST-0034-215.20007		
+1C2-E-TEST-0034-215.20/005	production			
+1C2-E-TEST-0034-215.20/006	rocky horror show			
+1C2-E-TEST-0034-215.20/007	given			
+1C2-E-TEST-0034-215.22	"In the 1988 Australian production of Blood Brothers, Crowe played the role of Mickey.He was also cast again by Daniel Abineri in the role of Johnny in the stage musical of Bad Boy Johnny and the Prophets of Doom in 1989."			
+1C2-E-TEST-0034-215.22/001	1988 australian production		"In the 1988 Australian production of Blood Brothers, Crowe played the role of Mickey"	
+1C2-E-TEST-0034-215.22/002	blood brothers		He was also cast again by Daniel Abineri in the role of Johnny in the stage musical of Bad Boy Johnny and the Prophets of Doom in 1989	
+1C2-E-TEST-0034-215.22/003	role	DEP=1C2-E-TEST-0034-215.22013		
+1C2-E-TEST-0034-215.22/004	mickey			
+1C2-E-TEST-0034-215.22/005	daniel abineri			
+1C2-E-TEST-0034-215.22/006	role			
+1C2-E-TEST-0034-215.22/007	johnny			
+1C2-E-TEST-0034-215.22/008	stage musical			
+1C2-E-TEST-0034-215.22/009	bad boy johnny			
+1C2-E-TEST-0034-215.22/010	prophets	DEP=1C2-E-TEST-0034-215.22008		
+1C2-E-TEST-0034-215.22/011	doom			
 1C2-E-TEST-0034-215.22/012	1989			
 1C2-E-TEST-0034-215.22/013	played			
 1C2-E-TEST-0034-215.22/014	cast	DEP=1C2-E-TEST-0034-215.22004		
@@ -286,22 +286,22 @@
 1C2-E-TEST-0034-215.31/008	starred			
 1C2-E-TEST-0034-215.31/009	follows	DEP=1C2-E-TEST-0034-215.31003		
 1C2-E-TEST-0034-215.31/010	directed	DEP=1C2-E-TEST-0034-215.31005		
-1C2-E-TEST-0034-215.33	"He went on to become a three-time Oscar nominee, winning the Academy Award as Best Actor in 2001 for Gladiator."		
-1C2-E-TEST-0034-215.33/001	three-time oscar nominee	DEP=1C2-E-TEST-0034-215.33006	He went on to become a three-time Oscar nominee
-1C2-E-TEST-0034-215.33/002	academy award	DEP=1C2-E-TEST-0034-215.33007	he won the Academy Award as Best Actor in 2001 for Gladiator
-1C2-E-TEST-0034-215.33/003	best actor		
-1C2-E-TEST-0034-215.33/004	2001		
-1C2-E-TEST-0034-215.33/005	gladiator		
-1C2-E-TEST-0034-215.33/006	went		
-1C2-E-TEST-0034-215.33/007	winning	DEP=1C2-E-TEST-0034-215.33006	
-1C2-E-TEST-0034-215.34	Crowe wore his grandfather Stan Wemyss's Member of the Order of the British Empire medal to the ceremony.		
-1C2-E-TEST-0034-215.34/001	grandfather	DEP=1C2-E-TEST-0034-215.34007	Crowe wore his grandfather Stan Wemyss's Member of the Order of the British Empire medal to the ceremony
-1C2-E-TEST-0034-215.34/002	stan wemyss	DEP=1C2-E-TEST-0034-215.34007	
-1C2-E-TEST-0034-215.34/003	order		
-1C2-E-TEST-0034-215.34/004	british empire medal		
-1C2-E-TEST-0034-215.34/005	ceremony		
-1C2-E-TEST-0034-215.34/006	wore		
-1C2-E-TEST-0034-215.34/007	member	DEP=1C2-E-TEST-0034-215.34006	
+1C2-E-TEST-0034-215.33	"He went on to become a three-time Oscar nominee, winning the Academy Award as Best Actor in 2001 for Gladiator."			
+1C2-E-TEST-0034-215.33/001	three-time oscar nominee	DEP=1C2-E-TEST-0034-215.33006	He went on to become a three-time Oscar nominee	
+1C2-E-TEST-0034-215.33/002	academy award	DEP=1C2-E-TEST-0034-215.33007	he won the Academy Award as Best Actor in 2001 for Gladiator	
+1C2-E-TEST-0034-215.33/003	best actor			
+1C2-E-TEST-0034-215.33/004	2001			
+1C2-E-TEST-0034-215.33/005	gladiator			
+1C2-E-TEST-0034-215.33/006	went			
+1C2-E-TEST-0034-215.33/007	winning	DEP=1C2-E-TEST-0034-215.33006		
+1C2-E-TEST-0034-215.34	Crowe wore his grandfather Stan Wemyss's Member of the Order of the British Empire medal to the ceremony.			
+1C2-E-TEST-0034-215.34/001	grandfather	DEP=1C2-E-TEST-0034-215.34007	Crowe wore his grandfather Stan Wemyss's Member of the Order of the British Empire medal to the ceremony	
+1C2-E-TEST-0034-215.34/002	stan wemyss	DEP=1C2-E-TEST-0034-215.34007		
+1C2-E-TEST-0034-215.34/003	order			
+1C2-E-TEST-0034-215.34/004	british empire medal			
+1C2-E-TEST-0034-215.34/005	ceremony			
+1C2-E-TEST-0034-215.34/006	wore			
+1C2-E-TEST-0034-215.34/007	member	DEP=1C2-E-TEST-0034-215.34006		
 1C2-E-TEST-0034-215.35	"Crowe received three consecutive best actor Oscar nominations for The Insider, Gladiator and A Beautiful Mind."			
 1C2-E-TEST-0034-215.35/001	insider		Crowe received three consecutive best actor Oscar nominations	
 1C2-E-TEST-0034-215.35/002	gladiator	DEP=1C2-E-TEST-0034-215.35001	" for The Insider, Gladiator and A Beautiful Mind"	1
@@ -318,22 +318,22 @@
 1C2-E-TEST-0034-215.49/002	french policewoman		" it was something to do with some recording picked up by a French policewoman, I think, in either Libya or Algiers"	1
 1C2-E-TEST-0034-215.49/003	libya		it was about taking iconographic Americans out of the picture as a sort of cultural-destabilization plan	1
 1C2-E-TEST-0034-215.49/004	algiers	DEP=1C2-E-TEST-0034-215.49003		
-1C2-E-TEST-0034-215.49/005	iconographic americans	DEP=1C2-E-TEST-0034-215.49011	
-1C2-E-TEST-0034-215.49/006	picture		
-1C2-E-TEST-0034-215.49/007	sort		
-1C2-E-TEST-0034-215.49/008	cultural-destabilization plan		
-1C2-E-TEST-0034-215.49/009	recalled		
-1C2-E-TEST-0034-215.49/010	picked		
-1C2-E-TEST-0034-215.49/011	taking		
-1C2-E-TEST-0034-215.5	"In the 2000s, he has been nominated for three Oscars, and in 2000, he won the Academy Award for Best Actor for his starring role in the film Gladiator."		
-1C2-E-TEST-0034-215.5/001	2000s		"In the 2000s, he has been nominated for three Oscars"
-1C2-E-TEST-0034-215.5/002	three oscars		in 2000 he won the Academy Award for Best Actor for his starring role in the film Gladiator
-1C2-E-TEST-0034-215.5/003	2000		
-1C2-E-TEST-0034-215.5/004	academy award	DEP=1C2-E-TEST-0034-215.5009	
-1C2-E-TEST-0034-215.5/005	best actor		
-1C2-E-TEST-0034-215.5/006	starring role		
-1C2-E-TEST-0034-215.5/007	film gladiator		
-1C2-E-TEST-0034-215.5/008	nominated		
+1C2-E-TEST-0034-215.49/005	iconographic americans	DEP=1C2-E-TEST-0034-215.49011		
+1C2-E-TEST-0034-215.49/006	picture			
+1C2-E-TEST-0034-215.49/007	sort			
+1C2-E-TEST-0034-215.49/008	cultural-destabilization plan			
+1C2-E-TEST-0034-215.49/009	recalled			
+1C2-E-TEST-0034-215.49/010	picked			
+1C2-E-TEST-0034-215.49/011	taking			
+1C2-E-TEST-0034-215.5	"In the 2000s, he has been nominated for three Oscars, and in 2000, he won the Academy Award for Best Actor for his starring role in the film Gladiator."			
+1C2-E-TEST-0034-215.5/001	2000s		"In the 2000s, he has been nominated for three Oscars"	
+1C2-E-TEST-0034-215.5/002	three oscars		in 2000 he won the Academy Award for Best Actor for his starring role in the film Gladiator	
+1C2-E-TEST-0034-215.5/003	2000			
+1C2-E-TEST-0034-215.5/004	academy award	DEP=1C2-E-TEST-0034-215.5009		
+1C2-E-TEST-0034-215.5/005	best actor			
+1C2-E-TEST-0034-215.5/006	starring role			
+1C2-E-TEST-0034-215.5/007	film gladiator			
+1C2-E-TEST-0034-215.5/008	nominated			
 1C2-E-TEST-0034-215.5/009	won	DEP=1C2-E-TEST-0034-215.5008		
 1C2-E-TEST-0034-263.132	"The irony being that he is a New Zealand born Australian, who has often made clear his dislike of being in Hollywood."			
 1C2-E-TEST-0034-263.132/001	irony		The irony being that he is a New Zealand born Australian	
@@ -446,38 +446,38 @@
 1C2-E-TEST-0034-399.3/004	james ellroy	DEP=1C2-E-TEST-0034-399.3003		
 1C2-E-TEST-0034-399.3/005	bud white wasn			
 1C2-E-TEST-0034-399.3/006	t	DEP=1C2-E-TEST-0034-399.3005		
-1C2-E-TEST-0034-399.3/007	drinker	DEP=1C2-E-TEST-0034-399.3006	
-1C2-E-TEST-0034-399.3/008	painful	DEP=1C2-E-TEST-0034-399.3009	
-1C2-E-TEST-0034-399.3/009	things		
-1C2-E-TEST-0034-399.3/010	character		
-1C2-E-TEST-0034-399.3/011	played	DEP=1C2-E-TEST-0034-399.3010	
-1C2-E-TEST-0034-399.3/012	kept		
-1C2-E-TEST-0034-399.3/013	telling	DEP=1C2-E-TEST-0034-399.3012	
-1C2-E-TEST-0034-427.32	"He went on to become a three-time Oscar nominee, winning the Academy Award as Best Actor in 2001 for Gladiator."		
-1C2-E-TEST-0034-427.32/001	three-time oscar nominee	DEP=1C2-E-TEST-0034-427.32006	He went on to become a three-time Oscar nominee
-1C2-E-TEST-0034-427.32/002	academy award	DEP=1C2-E-TEST-0034-427.32007	he won the Academy Award as Best Actor in 2001 for Gladiator
-1C2-E-TEST-0034-427.32/003	best actor		
-1C2-E-TEST-0034-427.32/004	2001		
-1C2-E-TEST-0034-427.32/005	gladiator		
-1C2-E-TEST-0034-427.32/006	went		
-1C2-E-TEST-0034-427.32/007	winning	DEP=1C2-E-TEST-0034-427.32006	
-1C2-E-TEST-0034-427.33	Crowe wore his grandfather Stan WemyssÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Member of the Order of the British Empire medal to the ceremony.		
-1C2-E-TEST-0034-427.33/001	grandfather	DEP=1C2-E-TEST-0034-427.33009	Crowe wore his grandfather Stan Wemyss Member of the Order of the British Empire medal to the ceremony
-1C2-E-TEST-0034-427.33/002	stan wemyssã cents		
-1C2-E-TEST-0034-427.33/003	¬	DEP=1C2-E-TEST-0034-427.33005	
-1C2-E-TEST-0034-427.33/004	â cents	DEP=1C2-E-TEST-0034-427.33003	
-1C2-E-TEST-0034-427.33/005	member		
-1C2-E-TEST-0034-427.33/006	order		
-1C2-E-TEST-0034-427.33/007	british empire medal		
-1C2-E-TEST-0034-427.33/008	ceremony		
-1C2-E-TEST-0034-427.33/009	wore		
-1C2-E-TEST-0034-427.33/010	s	DEP=1C2-E-TEST-0034-427.33005	
-1C2-E-TEST-0034-427.35	Crowe won the best actor award for A Beautiful Mind at the 2002 BAFTA award ceremony.		
-1C2-E-TEST-0034-427.35/001	best actor award	DEP=1C2-E-TEST-0034-427.35005	Crowe won the best actor award for A Beautiful Mind 
-1C2-E-TEST-0034-427.35/002	beautiful mind		crowe won the award at the 2002 BAFTA award ceremony
-1C2-E-TEST-0034-427.35/003	2002 bafta award		
-1C2-E-TEST-0034-427.35/004	ceremony	DEP=1C2-E-TEST-0034-427.35003	
-1C2-E-TEST-0034-427.35/005	won		
+1C2-E-TEST-0034-399.3/007	drinker	DEP=1C2-E-TEST-0034-399.3006		
+1C2-E-TEST-0034-399.3/008	painful	DEP=1C2-E-TEST-0034-399.3009		
+1C2-E-TEST-0034-399.3/009	things			
+1C2-E-TEST-0034-399.3/010	character			
+1C2-E-TEST-0034-399.3/011	played	DEP=1C2-E-TEST-0034-399.3010		
+1C2-E-TEST-0034-399.3/012	kept			
+1C2-E-TEST-0034-399.3/013	telling	DEP=1C2-E-TEST-0034-399.3012		
+1C2-E-TEST-0034-427.32	"He went on to become a three-time Oscar nominee, winning the Academy Award as Best Actor in 2001 for Gladiator."			
+1C2-E-TEST-0034-427.32/001	three-time oscar nominee	DEP=1C2-E-TEST-0034-427.32006	He went on to become a three-time Oscar nominee	
+1C2-E-TEST-0034-427.32/002	academy award	DEP=1C2-E-TEST-0034-427.32007	he won the Academy Award as Best Actor in 2001 for Gladiator	
+1C2-E-TEST-0034-427.32/003	best actor			
+1C2-E-TEST-0034-427.32/004	2001			
+1C2-E-TEST-0034-427.32/005	gladiator			
+1C2-E-TEST-0034-427.32/006	went			
+1C2-E-TEST-0034-427.32/007	winning	DEP=1C2-E-TEST-0034-427.32006		
+1C2-E-TEST-0034-427.33	Crowe wore his grandfather Stan WemyssÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Member of the Order of the British Empire medal to the ceremony.			
+1C2-E-TEST-0034-427.33/001	grandfather	DEP=1C2-E-TEST-0034-427.33009	Crowe wore his grandfather Stan Wemyss Member of the Order of the British Empire medal to the ceremony	
+1C2-E-TEST-0034-427.33/002	stan wemyssã cents			
+1C2-E-TEST-0034-427.33/003	¬	DEP=1C2-E-TEST-0034-427.33005		
+1C2-E-TEST-0034-427.33/004	â cents	DEP=1C2-E-TEST-0034-427.33003		
+1C2-E-TEST-0034-427.33/005	member			
+1C2-E-TEST-0034-427.33/006	order			
+1C2-E-TEST-0034-427.33/007	british empire medal			
+1C2-E-TEST-0034-427.33/008	ceremony			
+1C2-E-TEST-0034-427.33/009	wore			
+1C2-E-TEST-0034-427.33/010	s	DEP=1C2-E-TEST-0034-427.33005		
+1C2-E-TEST-0034-427.35	Crowe won the best actor award for A Beautiful Mind at the 2002 BAFTA award ceremony.			
+1C2-E-TEST-0034-427.35/001	best actor award	DEP=1C2-E-TEST-0034-427.35005	Crowe won the best actor award for A Beautiful Mind 	
+1C2-E-TEST-0034-427.35/002	beautiful mind		crowe won the award at the 2002 BAFTA award ceremony	
+1C2-E-TEST-0034-427.35/003	2002 bafta award			
+1C2-E-TEST-0034-427.35/004	ceremony	DEP=1C2-E-TEST-0034-427.35003		
+1C2-E-TEST-0034-427.35/005	won			
 1C2-E-TEST-0034-427.40	In 2005 he re-teamed with A Beautiful Mind director Ron Howard for Cinderella Man.			
 1C2-E-TEST-0034-427.40/001	2005		In 2005 he re-teamed with A Beautiful Mind director Ron Howard 	
 1C2-E-TEST-0034-427.40/002	beautiful mind director ron howard		for Cinderella Man	1
@@ -494,22 +494,22 @@
 1C2-E-TEST-0034-427.41/008	late 2007			
 1C2-E-TEST-0034-427.41/009	re-teamed			
 1C2-E-TEST-0034-427.41/010	second	DEP=1C2-E-TEST-0034-427.41003		
-1C2-E-TEST-0034-427.41/011	co-starring	DEP=1C2-E-TEST-0034-427.41006	
-1C2-E-TEST-0034-427.41/012	released	DEP=1C2-E-TEST-0034-427.41007	
-1C2-E-TEST-0034-47.3	Russell Crowe is a New Zealand / Australian actor.		
-1C2-E-TEST-0034-47.3/001	new zealand		
-1C2-E-TEST-0034-47.3/002	australian actor	DEP=1C2-E-TEST-0034-47.3001	
-1C2-E-TEST-0034-47.4	He is perhaps best known for his Academy Award-winning role in Gladiator.		
-1C2-E-TEST-0034-47.4/001	academy award-winning role		He is perhaps best known for his Academy Award-winning role in Gladiator
-1C2-E-TEST-0034-47.4/002	gladiator		
-1C2-E-TEST-0034-47.4/003	best	DEP=1C2-E-TEST-0034-47.4004	
-1C2-E-TEST-0034-47.4/004	known		
-1C2-E-TEST-0034-47.6	Russell Crowe was born in Wellington in New Zealand.		
-1C2-E-TEST-0034-47.6/001	wellington		
-1C2-E-TEST-0034-47.6/002	new zealand		
-1C2-E-TEST-0034-47.6/003	born		
-1C2-E-TEST-0034-56.1	"2002: BAFTA Award for Best Actor in ""A Beautiful Mind""."		
-1C2-E-TEST-0034-56.1/001	2002		2002 BAFTA Award for Best Actor in A Beautiful Mind
+1C2-E-TEST-0034-427.41/011	co-starring	DEP=1C2-E-TEST-0034-427.41006		
+1C2-E-TEST-0034-427.41/012	released	DEP=1C2-E-TEST-0034-427.41007		
+1C2-E-TEST-0034-47.3	Russell Crowe is a New Zealand / Australian actor.			
+1C2-E-TEST-0034-47.3/001	new zealand			
+1C2-E-TEST-0034-47.3/002	australian actor	DEP=1C2-E-TEST-0034-47.3001		
+1C2-E-TEST-0034-47.4	He is perhaps best known for his Academy Award-winning role in Gladiator.			
+1C2-E-TEST-0034-47.4/001	academy award-winning role		He is perhaps best known for his Academy Award-winning role in Gladiator	
+1C2-E-TEST-0034-47.4/002	gladiator			
+1C2-E-TEST-0034-47.4/003	best	DEP=1C2-E-TEST-0034-47.4004		
+1C2-E-TEST-0034-47.4/004	known			
+1C2-E-TEST-0034-47.6	Russell Crowe was born in Wellington in New Zealand.			
+1C2-E-TEST-0034-47.6/001	wellington			
+1C2-E-TEST-0034-47.6/002	new zealand			
+1C2-E-TEST-0034-47.6/003	born			
+1C2-E-TEST-0034-56.1	"2002: BAFTA Award for Best Actor in ""A Beautiful Mind""."			
+1C2-E-TEST-0034-56.1/001	2002		2002 BAFTA Award for Best Actor in A Beautiful Mind	
 1C2-E-TEST-0034-56.1/002	bafta award	DEP=1C2-E-TEST-0034-56.1001		
 1C2-E-TEST-0034-56.1/003	best actor			
 1C2-E-TEST-0034-56.1/004	beautiful mind			
@@ -523,13 +523,13 @@
 1C2-E-TEST-0034-56.3/002	broadcast film critics association award	DEP=1C2-E-TEST-0034-56.3001		
 1C2-E-TEST-0034-56.3/003	best actor			
 1C2-E-TEST-0034-56.3/004	beautiful mind			
-1C2-E-TEST-0034-98.14	"One of the most painful things of the L.A. Confidential (1997) character I played was that the author, James Ellroy , kept telling me that Bud White wasn't a drinker.ÃÂÃÂ I said, 'come on, this is 1953.ÃÂÃÂ He's a blue-collar bloke, a cop. You're telling me he doesn't sit around with the boys after his shift and have a beer?'ÃÂÃÂ And Ellroy says, 'absolutely not'.ÃÂÃÂ So for five months and seven days, I didn't have a drink.ÃÂÃÂ It's probably the most painful period of my life""."			
+1C2-E-TEST-0034-98.14	"One of the most painful things of the L.A. Confidential (1997) character I played was that the author, James Ellroy , kept telling me that Bud White wasn't a drinker.ÃÂÃÂ�I said, 'come on, this is 1953.ÃÂÃÂ�He's a blue-collar bloke, a cop. You're telling me he doesn't sit around with the boys after his shift and have a beer?'ÃÂÃÂ�And Ellroy says, 'absolutely not'.ÃÂÃÂ�So for five months and seven days, I didn't have a drink.ÃÂÃÂ�It's probably the most painful period of my life""."			
 1C2-E-TEST-0034-98.14/001	l.a. Confidential 	DEP=1C2-E-TEST-0034-98.14026	"One of the most painful things of the L.A. Confidential (1997) character I played was that the author, James Ellroy , kept telling me that Bud White wasn't a drinker"	
 1C2-E-TEST-0034-98.14/002	1997	DEP=1C2-E-TEST-0034-98.14001	".I said, 'come on, this is 1953"	1
 1C2-E-TEST-0034-98.14/003	author	DEP=1C2-E-TEST-0034-98.14028	"He's a blue-collar bloke, a cop"	2
 1C2-E-TEST-0034-98.14/004	james ellroy	DEP=1C2-E-TEST-0034-98.14003	You're telling me he doesn't sit around with the boys after his shift and have a beer?	3
 1C2-E-TEST-0034-98.14/005	bud white	DEP=1C2-E-TEST-0034-98.14006	"And Ellroy says, 'absolutely not"	4
-1C2-E-TEST-0034-98.14/006	drinker	DEP=1C2-E-TEST-0034-98.14029	"�So for five months and seven days, I didn't have a drink"	5
+1C2-E-TEST-0034-98.14/006	drinker	DEP=1C2-E-TEST-0034-98.14029	"So for five months and seven days, I didn't have a drink"	5
 1C2-E-TEST-0034-98.14/007	ã â	DEP=1C2-E-TEST-0034-98.14026	It's probably the most painful period of my life	6
 1C2-E-TEST-0034-98.14/008	1953	DEP=1C2-E-TEST-0034-98.14009		
 1C2-E-TEST-0034-98.14/009	ã â			
@@ -542,22 +542,22 @@
 1C2-E-TEST-0034-98.14/016	ellroy	DEP=1C2-E-TEST-0034-98.14036		
 1C2-E-TEST-0034-98.14/017	absolutely			
 1C2-E-TEST-0034-98.14/018	ã â	DEP=1C2-E-TEST-0034-98.14025		
-1C2-E-TEST-0034-98.14/019	five months	
-1C2-E-TEST-0034-98.14/020	seven days	DEP=1C2-E-TEST-0034-98.14025
-1C2-E-TEST-0034-98.14/021	drink	
-1C2-E-TEST-0034-98.14/022	ã â	DEP=1C2-E-TEST-0034-98.14020
-1C2-E-TEST-0034-98.14/023	life	
-1C2-E-TEST-0034-98.14/024	painful	DEP=1C2-E-TEST-0034-98.14025
-1C2-E-TEST-0034-98.14/025	things	
-1C2-E-TEST-0034-98.14/026	character	
-1C2-E-TEST-0034-98.14/027	played	DEP=1C2-E-TEST-0034-98.14026
-1C2-E-TEST-0034-98.14/028	kept	
-1C2-E-TEST-0034-98.14/029	telling	DEP=1C2-E-TEST-0034-98.14028
-1C2-E-TEST-0034-98.14/030	n't	DEP=1C2-E-TEST-0034-98.14006
-1C2-E-TEST-0034-98.14/031	come	
-1C2-E-TEST-0034-98.14/032	's	DEP=1C2-E-TEST-0034-98.14010
-1C2-E-TEST-0034-98.14/033	telling	
-1C2-E-TEST-0034-98.14/034	n't	DEP=1C2-E-TEST-0034-98.14035
+1C2-E-TEST-0034-98.14/019	five months			
+1C2-E-TEST-0034-98.14/020	seven days	DEP=1C2-E-TEST-0034-98.14025		
+1C2-E-TEST-0034-98.14/021	drink			
+1C2-E-TEST-0034-98.14/022	ã â	DEP=1C2-E-TEST-0034-98.14020		
+1C2-E-TEST-0034-98.14/023	life			
+1C2-E-TEST-0034-98.14/024	painful	DEP=1C2-E-TEST-0034-98.14025		
+1C2-E-TEST-0034-98.14/025	things			
+1C2-E-TEST-0034-98.14/026	character			
+1C2-E-TEST-0034-98.14/027	played	DEP=1C2-E-TEST-0034-98.14026		
+1C2-E-TEST-0034-98.14/028	kept			
+1C2-E-TEST-0034-98.14/029	telling	DEP=1C2-E-TEST-0034-98.14028		
+1C2-E-TEST-0034-98.14/030	n't	DEP=1C2-E-TEST-0034-98.14006		
+1C2-E-TEST-0034-98.14/031	come			
+1C2-E-TEST-0034-98.14/032	's	DEP=1C2-E-TEST-0034-98.14010		
+1C2-E-TEST-0034-98.14/033	telling			
+1C2-E-TEST-0034-98.14/034	n't	DEP=1C2-E-TEST-0034-98.14035		
 1C2-E-TEST-0034-98.14/035	sit			
 1C2-E-TEST-0034-98.14/036	says			
 1C2-E-TEST-0034-98.14/037	did			
@@ -670,9 +670,9 @@
 1C2-E-TEST-0034-98.7/011	2001	DEP=1C2-E-TEST-0034-98.7008		
 1C2-E-TEST-0034-98.7/012	missing	DEP=1C2-E-TEST-0034-98.7019		
 1C2-E-TEST-0034-98.7/013	time	DEP=1C2-E-TEST-0034-98.7012		
-1C2-E-TEST-0034-98.7/014	did	DEP=1C2-E-TEST-0034-98.7016
-1C2-E-TEST-0034-98.7/015	n't	DEP=1C2-E-TEST-0034-98.7016
-1C2-E-TEST-0034-98.7/016	deterred	
-1C2-E-TEST-0034-98.7/017	signed	DEP=1C2-E-TEST-0034-98.7016
-1C2-E-TEST-0034-98.7/018	recently	DEP=1C2-E-TEST-0034-98.7019
-1C2-E-TEST-0034-98.7/019	achieved	
+1C2-E-TEST-0034-98.7/014	did	DEP=1C2-E-TEST-0034-98.7016		
+1C2-E-TEST-0034-98.7/015	n't	DEP=1C2-E-TEST-0034-98.7016		
+1C2-E-TEST-0034-98.7/016	deterred			
+1C2-E-TEST-0034-98.7/017	signed	DEP=1C2-E-TEST-0034-98.7016		
+1C2-E-TEST-0034-98.7/018	recently	DEP=1C2-E-TEST-0034-98.7019		
+1C2-E-TEST-0034-98.7/019	achieved			
