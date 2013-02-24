@@ -128,7 +128,7 @@
 1C2-E-TEST-0006-154.14/003	announced			
 1C2-E-TEST-0006-154.14/004	diagnosed	DEP=1C2-E-TEST-0006-154.14003		
 1C2-E-TEST-0006-154.14/005	disease			
-1C2-E-TEST-0006-273.6	"Scored five No. 1 country hits (""I Wanna Live,"" ""Wichita Lineman,"" ""Galveston,"" ""Rhinestone Cowboy"" and ""Southern Nights"") and two No. 1 pop hits (""Rhinestone Cowboy,""ƒƒƒ""Southern Nights"") during his career. Published his autobiography, Rhinestone Cowboy , in 1994.ƒƒƒ Inducted into the Country Music Hall of Fame in 2005. Has his own theater in Branson, MO. Announced in 2011 that he has Alzheimer's disease. ~ Rovi"			
+1C2-E-TEST-0006-273.6	"Scored five No. 1 country hits (""I Wanna Live,"" ""Wichita Lineman,"" ""Galveston,"" ""Rhinestone Cowboy"" and ""Southern Nights"") and two No. 1 pop hits (""Rhinestone Cowboy,""""Southern Nights"") during his career. Published his autobiography, Rhinestone Cowboy , in 1994. Inducted into the Country Music Hall of Fame in 2005. Has his own theater in Branson, MO. Announced in 2011 that he has Alzheimer's disease. ~ Rovi"			
 1C2-E-TEST-0006-273.6/001	five no.	DEP=1C2-E-TEST-0006-273.6032	"he Scored five No. 1 country hits I Wanna Live,Wichita Lineman,Galveston, Rhinestone Cowboy and Southern Nights"	
 1C2-E-TEST-0006-273.6/002	1 country hits	DEP=1C2-E-TEST-0006-273.6001	"he scored two No. 1 pop hits Rhinestone Cowboy, Southern Nights during his career"	
 1C2-E-TEST-0006-273.6/003	wanna		"He Published his autobiography, Rhinestone Cowboy , in 1994"	
@@ -267,7 +267,7 @@
 1C2-E-TEST-0006-6.1/002	plans	DEP=1C2-E-TEST-0006-6.1001		
 1C2-E-TEST-0006-6.1/003	final album			
 1C2-E-TEST-0006-6.1/004	farewell tour	DEP=1C2-E-TEST-0006-6.1001		
-1C2-E-TEST-0006-6.12	"Instead, he returned to the studio with Raymond, who again applies Campbellƒƒƒƒs signature homespun vocals and guitar work to songs by the Replacementsƒƒƒƒ Paul Westerberg, Jakob Dylan, Teddy Thompson and Robert Pollard as well as to some original material that Campbell and Raymond wrote together."			
+1C2-E-TEST-0006-6.12	"Instead, he returned to the studio with Raymond, who again applies Campbells signature homespun vocals and guitar work to songs by the Replacements Paul Westerberg, Jakob Dylan, Teddy Thompson and Robert Pollard as well as to some original material that Campbell and Raymond wrote together."			
 1C2-E-TEST-0006-6.12/001	studio		"Instead, he returned to the studio with Raymond"	
 1C2-E-TEST-0006-6.12/002	raymond		" who again applies Campbell signature homespun vocals and guitar work to songs by the Replacements Paul Westerberg, Jakob Dylan, Teddy Thompson and Robert Pollard"	1
 1C2-E-TEST-0006-6.12/003	campbell cents		 as well as to some original material that Campbell and Raymond wrote together	2
