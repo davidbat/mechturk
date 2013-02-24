@@ -179,10 +179,10 @@
 1C2-E-TEST-0034-215.10/010	produced	DEP=1C2-E-TEST-0034-215.10002		
 1C2-E-TEST-0034-215.10/011	named	DEP=1C2-E-TEST-0034-215.10010		
 1C2-E-TEST-0034-215.10/012	filming			
-1C2-E-TEST-0034-215.11	"Crowe's maternal great-great grandmother was M√É¬É√Ç¬Ñ√É¬Ç√Ç¬Åori, and as a result Crowe is registered on the M√É¬É√Ç¬Ñ√É¬Ç√Ç¬Åori electoral roll in New Zealand; Crowe also has Welsh, Scottish, Norwegian, English and Irish ancestry.Two of Russell Crowe's cousins, Martin and Jeff Crowe are former New Zealand national cricket captains."			
-1C2-E-TEST-0034-215.11/001	m√£ √¢ ori		Crowe's maternal great-great grandmother was Mori	
+1C2-E-TEST-0034-215.11	"Crowe's maternal great-great grandmother was MÇÑÇÇÅori, and as a result Crowe is registered on the MÇÑÇÇÅori electoral roll in New Zealand; Crowe also has Welsh, Scottish, Norwegian, English and Irish ancestry.Two of Russell Crowe's cousins, Martin and Jeff Crowe are former New Zealand national cricket captains."			
+1C2-E-TEST-0034-215.11/001	m£ ¢ ori		Crowe's maternal great-great grandmother was Mori	
 1C2-E-TEST-0034-215.11/002	result		 as a result Crowe is registered on the Mori electoral roll in New Zealand	1
-1C2-E-TEST-0034-215.11/003	m√£ √¢ ori		"Crowe also has Welsh, Scottish, Norwegian, English and Irish ancestry"	
+1C2-E-TEST-0034-215.11/003	m£ ¢ ori		"Crowe also has Welsh, Scottish, Norwegian, English and Irish ancestry"	
 1C2-E-TEST-0034-215.11/004	electoral roll	DEP=1C2-E-TEST-0034-215.11014	"Two of Russell Crowe's cousins, Martin and Jeff Crowe are former New Zealand national cricket captains"	
 1C2-E-TEST-0034-215.11/005	new zealand			
 1C2-E-TEST-0034-215.11/006	welsh scottish norwegian english irish			
@@ -218,12 +218,12 @@
 1C2-E-TEST-0034-215.13/020	coincidentally	DEP=1C2-E-TEST-0034-215.13021		
 1C2-E-TEST-0034-215.13/021	educated	DEP=1C2-E-TEST-0034-215.13018		
 1C2-E-TEST-0034-215.13/022	attend			
-1C2-E-TEST-0034-215.2	"√É¬É√Ç¬Ç√É¬Ç√Ç¬Russell Ira Crowe (born 7 April 1964) is an Academy Award-, BAFTA-, Golden Globe-, and Screen Actors Guild Award- winning New Zealand and Australian actor."			
-1C2-E-TEST-0034-215.2/001	√£ √¢		Russell Ira Crowe was born on 7 April 1964	
-1C2-E-TEST-0034-215.2/002	ira		"russell Ira crowe is an Academy Award-, BAFTA-, Golden Globe-, and Screen Actors Guild Award- winning New Zealand and Australian actor"	
-1C2-E-TEST-0034-215.2/003	7	DEP=1C2-E-TEST-0034-215.2012		
-1C2-E-TEST-0034-215.2/004	academy award	DEP=1C2-E-TEST-0034-215.2001		
-1C2-E-TEST-0034-215.2/005	bafta	DEP=1C2-E-TEST-0034-215.2004		
+1C2-E-TEST-0034-215.2	"Russell Ira Crowe (born 7 April 1964) is an Academy Award-, BAFTA-, Golden Globe-, and Screen Actors Guild Award- winning New Zealand and Australian actor."			
+1C2-E-TEST-0034-215.2/001			Russell Ira Crowe was born on 7 April 1964	
+1C2-E-TEST-0034-215.2/002			"russell Ira crowe is an Academy Award-, BAFTA-, Golden Globe-, and Screen Actors Guild Award- winning New Zealand and Australian actor"	
+1C2-E-TEST-0034-215.2/003		DEP=1C2-E-TEST-0034-215.2012		
+1C2-E-TEST-0034-215.2/004		DEP=1C2-E-TEST-0034-215.2001		
+1C2-E-TEST-0034-215.2/005		DEP=1C2-E-TEST-0034-215.2004		
 1C2-E-TEST-0034-215.2/006	golden globe	DEP=1C2-E-TEST-0034-215.2005		
 1C2-E-TEST-0034-215.2/007	screen actors	DEP=1C2-E-TEST-0034-215.2008		
 1C2-E-TEST-0034-215.2/008	guild	DEP=1C2-E-TEST-0034-215.2004		
@@ -461,11 +461,11 @@
 1C2-E-TEST-0034-427.32/005	gladiator			
 1C2-E-TEST-0034-427.32/006	went			
 1C2-E-TEST-0034-427.32/007	winning	DEP=1C2-E-TEST-0034-427.32006		
-1C2-E-TEST-0034-427.33	Crowe wore his grandfather Stan Wemyss√É¬É√Ç¬¢√É¬¢√Ç¬Ç√Ç¬¨√É¬¢√Ç¬Ñ√Ç¬¢s Member of the Order of the British Empire medal to the ceremony.			
+1C2-E-TEST-0034-427.33	Crowe wore his grandfather Stan WemyssÇ¢¢ÇÇÇ¨¢ÇÑÇ¢s Member of the Order of the British Empire medal to the ceremony.			
 1C2-E-TEST-0034-427.33/001	grandfather	DEP=1C2-E-TEST-0034-427.33009	Crowe wore his grandfather Stan Wemyss Member of the Order of the British Empire medal to the ceremony	
-1C2-E-TEST-0034-427.33/002	stan wemyss√£ cents			
-1C2-E-TEST-0034-427.33/003	¬¨	DEP=1C2-E-TEST-0034-427.33005		
-1C2-E-TEST-0034-427.33/004	√¢ cents	DEP=1C2-E-TEST-0034-427.33003		
+1C2-E-TEST-0034-427.33/002	stan wemyss£ cents			
+1C2-E-TEST-0034-427.33/003	¨	DEP=1C2-E-TEST-0034-427.33005		
+1C2-E-TEST-0034-427.33/004	¢ cents	DEP=1C2-E-TEST-0034-427.33003		
 1C2-E-TEST-0034-427.33/005	member			
 1C2-E-TEST-0034-427.33/006	order			
 1C2-E-TEST-0034-427.33/007	british empire medal			
@@ -523,47 +523,47 @@
 1C2-E-TEST-0034-56.3/002	broadcast film critics association award	DEP=1C2-E-TEST-0034-56.3001		
 1C2-E-TEST-0034-56.3/003	best actor			
 1C2-E-TEST-0034-56.3/004	beautiful mind			
-1C2-E-TEST-0034-98.14	"One of the most painful things of the L.A. Confidential (1997) character I played was that the author, James Ellroy , kept telling me that Bud White wasn't a drinker.√É¬É√Ç¬Ç√É¬Ç√Ç¬I said, 'come on, this is 1953.√É¬É√Ç¬Ç√É¬Ç√Ç¬He's a blue-collar bloke, a cop. You're telling me he doesn't sit around with the boys after his shift and have a beer?'√É¬É√Ç¬Ç√É¬Ç√Ç¬And Ellroy says, 'absolutely not'.√É¬É√Ç¬Ç√É¬Ç√Ç¬So for five months and seven days, I didn't have a drink.√É¬É√Ç¬Ç√É¬Ç√Ç¬It's probably the most painful period of my life""."			
-1C2-E-TEST-0034-98.14/001	l.a. Confidential 	DEP=1C2-E-TEST-0034-98.14026	"One of the most painful things of the L.A. Confidential (1997) character I played was that the author, James Ellroy , kept telling me that Bud White wasn't a drinker"	
-1C2-E-TEST-0034-98.14/002	1997	DEP=1C2-E-TEST-0034-98.14001	".I said, 'come on, this is 1953"	1
-1C2-E-TEST-0034-98.14/003	author	DEP=1C2-E-TEST-0034-98.14028	"He's a blue-collar bloke, a cop"	2
-1C2-E-TEST-0034-98.14/004	james ellroy	DEP=1C2-E-TEST-0034-98.14003	You're telling me he doesn't sit around with the boys after his shift and have a beer?	3
-1C2-E-TEST-0034-98.14/005	bud white	DEP=1C2-E-TEST-0034-98.14006	"And Ellroy says, 'absolutely not"	4
-1C2-E-TEST-0034-98.14/006	drinker	DEP=1C2-E-TEST-0034-98.14029	"So for five months and seven days, I didn't have a drink"	5
-1C2-E-TEST-0034-98.14/007	√£ √¢	DEP=1C2-E-TEST-0034-98.14026	It's probably the most painful period of my life	6
-1C2-E-TEST-0034-98.14/008	1953	DEP=1C2-E-TEST-0034-98.14009		
-1C2-E-TEST-0034-98.14/009	√£ √¢			
-1C2-E-TEST-0034-98.14/010	blue-collar bloke	DEP=1C2-E-TEST-0034-98.14009		
-1C2-E-TEST-0034-98.14/011	cop	DEP=1C2-E-TEST-0034-98.14010		
-1C2-E-TEST-0034-98.14/012	boys			
-1C2-E-TEST-0034-98.14/013	shift			
-1C2-E-TEST-0034-98.14/014	beer			
-1C2-E-TEST-0034-98.14/015	√£ √¢	DEP=1C2-E-TEST-0034-98.14035		
-1C2-E-TEST-0034-98.14/016	ellroy	DEP=1C2-E-TEST-0034-98.14036		
-1C2-E-TEST-0034-98.14/017	absolutely			
-1C2-E-TEST-0034-98.14/018	√£ √¢	DEP=1C2-E-TEST-0034-98.14025		
-1C2-E-TEST-0034-98.14/019	five months			
-1C2-E-TEST-0034-98.14/020	seven days	DEP=1C2-E-TEST-0034-98.14025		
-1C2-E-TEST-0034-98.14/021	drink			
-1C2-E-TEST-0034-98.14/022	√£ √¢	DEP=1C2-E-TEST-0034-98.14020		
-1C2-E-TEST-0034-98.14/023	life			
-1C2-E-TEST-0034-98.14/024	painful	DEP=1C2-E-TEST-0034-98.14025		
-1C2-E-TEST-0034-98.14/025	things			
-1C2-E-TEST-0034-98.14/026	character			
-1C2-E-TEST-0034-98.14/027	played	DEP=1C2-E-TEST-0034-98.14026		
-1C2-E-TEST-0034-98.14/028	kept			
-1C2-E-TEST-0034-98.14/029	telling	DEP=1C2-E-TEST-0034-98.14028		
-1C2-E-TEST-0034-98.14/030	n't	DEP=1C2-E-TEST-0034-98.14006		
-1C2-E-TEST-0034-98.14/031	come			
-1C2-E-TEST-0034-98.14/032	's	DEP=1C2-E-TEST-0034-98.14010		
-1C2-E-TEST-0034-98.14/033	telling			
-1C2-E-TEST-0034-98.14/034	n't	DEP=1C2-E-TEST-0034-98.14035		
-1C2-E-TEST-0034-98.14/035	sit			
-1C2-E-TEST-0034-98.14/036	says			
-1C2-E-TEST-0034-98.14/037	did			
-1C2-E-TEST-0034-98.14/038	n't			
-1C2-E-TEST-0034-98.14/039	's	DEP=1C2-E-TEST-0034-98.14042		
-1C2-E-TEST-0034-98.14/040	probably	DEP=1C2-E-TEST-0034-98.14042		
+1C2-E-TEST-0034-98.14	"One of the most painful things of the L.A. Confidential (1997) character I played was that the author, James Ellroy , kept telling me that Bud White wasn't a drinker.I said, 'come on, this is 1953.ÇÇÇÇHe's a blue-collar bloke, a cop. You're telling me he doesn't sit around with the boys after his shift and have a beer?ÇÇÇÇAnd Ellroy says, 'absolutely not'.ÇÇÇÇSo for five months and seven days, I didn't have a drink.ÇÇÇÇIt's probably the most painful period of my life""."			
+1C2-E-TEST-0034-98.14/001		DEP=1C2-E-TEST-0034-98.14026	"One of the most painful things of the L.A. Confidential (1997) character I played was that the author, James Ellroy , kept telling me that Bud White wasn't a drinker"	
+1C2-E-TEST-0034-98.14/002		DEP=1C2-E-TEST-0034-98.14001	".I said, 'come on, this is 1953"	1
+1C2-E-TEST-0034-98.14/003		DEP=1C2-E-TEST-0034-98.14028	"He's a blue-collar bloke, a cop"	2
+1C2-E-TEST-0034-98.14/004		DEP=1C2-E-TEST-0034-98.14003	You're telling me he doesn't sit around with the boys after his shift and have a beer?	3
+1C2-E-TEST-0034-98.14/005		DEP=1C2-E-TEST-0034-98.14006	"And Ellroy says, 'absolutely not"	4
+1C2-E-TEST-0034-98.14/006		DEP=1C2-E-TEST-0034-98.14029	"So for five months and seven days, I didn't have a drink"	5
+1C2-E-TEST-0034-98.14/007		DEP=1C2-E-TEST-0034-98.14026	It's probably the most painful period of my life	6
+1C2-E-TEST-0034-98.14/008		DEP=1C2-E-TEST-0034-98.14009		
+1C2-E-TEST-0034-98.14/009				
+1C2-E-TEST-0034-98.14/010		DEP=1C2-E-TEST-0034-98.14009		
+1C2-E-TEST-0034-98.14/011		DEP=1C2-E-TEST-0034-98.14010		
+1C2-E-TEST-0034-98.14/012				
+1C2-E-TEST-0034-98.14/013				
+1C2-E-TEST-0034-98.14/014				
+1C2-E-TEST-0034-98.14/015		DEP=1C2-E-TEST-0034-98.14035		
+1C2-E-TEST-0034-98.14/016		DEP=1C2-E-TEST-0034-98.14036		
+1C2-E-TEST-0034-98.14/017				
+1C2-E-TEST-0034-98.14/018		DEP=1C2-E-TEST-0034-98.14025		
+1C2-E-TEST-0034-98.14/019				
+1C2-E-TEST-0034-98.14/020		DEP=1C2-E-TEST-0034-98.14025		
+1C2-E-TEST-0034-98.14/021				
+1C2-E-TEST-0034-98.14/022		DEP=1C2-E-TEST-0034-98.14020		
+1C2-E-TEST-0034-98.14/023				
+1C2-E-TEST-0034-98.14/024		DEP=1C2-E-TEST-0034-98.14025		
+1C2-E-TEST-0034-98.14/025				
+1C2-E-TEST-0034-98.14/026				
+1C2-E-TEST-0034-98.14/027		DEP=1C2-E-TEST-0034-98.14026		
+1C2-E-TEST-0034-98.14/028				
+1C2-E-TEST-0034-98.14/029		DEP=1C2-E-TEST-0034-98.14028		
+1C2-E-TEST-0034-98.14/030		DEP=1C2-E-TEST-0034-98.14006		
+1C2-E-TEST-0034-98.14/031				
+1C2-E-TEST-0034-98.14/032		DEP=1C2-E-TEST-0034-98.14010		
+1C2-E-TEST-0034-98.14/033				
+1C2-E-TEST-0034-98.14/034		DEP=1C2-E-TEST-0034-98.14035		
+1C2-E-TEST-0034-98.14/035				
+1C2-E-TEST-0034-98.14/036				
+1C2-E-TEST-0034-98.14/037				
+1C2-E-TEST-0034-98.14/038				
+1C2-E-TEST-0034-98.14/039		DEP=1C2-E-TEST-0034-98.14042		
+1C2-E-TEST-0034-98.14/040		DEP=1C2-E-TEST-0034-98.14042		
 1C2-E-TEST-0034-98.14/041	painful	DEP=1C2-E-TEST-0034-98.14042		
 1C2-E-TEST-0034-98.14/042	period			
 1C2-E-TEST-0034-98.16	"[on winning the Best Actor Oscar] ""If you grow up in the suburbs of anywhere, a dream like this seems kind of vaguely ludicrous and completely unattainable."			
