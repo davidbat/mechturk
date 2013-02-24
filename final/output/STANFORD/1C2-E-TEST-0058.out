@@ -1,167 +1,110 @@
-1C2-E-TEST-0058-119.14	President John F. Kennedy was assassinated as he traveled in an open top car in a motorcade in Dallas, Texas on November 22, 1963; Texas Governor John Connally was also injured.
-1C2-E-TEST-0058-119.14/001	assassinated
-1C2-E-TEST-0058-119.14/002	open top car
-1C2-E-TEST-0058-119.14/003	traveled DEP=002
-1C2-E-TEST-0058-119.14/004	dallas texas
-1C2-E-TEST-0058-119.14/005	november 22 1963
-1C2-E-TEST-0058-119.14/006	john connally injured
-1C2-E-TEST-0058-119.14/007	texas governor DEP=006
+1C2-E-TEST-0058-119.14	"President John F. Kennedy was assassinated as he traveled in an open top car in a motorcade in Dallas, Texas on November 22, 1963; Texas Governor John Connally was also injured."
+1C2-E-TEST-0058-119.14/001	assasinated in open top car in a motocade
+1C2-E-TEST-0058-119.14/002	"assasinated in Dallas, Texas on November 22, 1963"
+1C2-E-TEST-0058-119.14/003	texas governor john connally was also injured	DEP=1C2-E-TEST-0058-119.14001
 1C2-E-TEST-0058-119.173	The book further claims that the killing of Kennedy was paid for by oil magnates including Clint Murchison and H. L. Hunt.
-1C2-E-TEST-0058-119.173/001	book claims	DEP=1C2-E-TEST-0058-119.173007
-1C2-E-TEST-0058-119.173/002	paid oil magnates	DEP=1C2-E-TEST-0058-119.173008
-1C2-E-TEST-0058-119.173/003	clint murchison
-1C2-E-TEST-0058-119.173/004	h. l. hunt
-1C2-E-TEST-0058-119.18	In 1964, the Warren Commission concluded that there was no persuasive evidence
-1C2-E-TEST-0058-119.18/001	1964	DEP=1C2-E-TEST-0058-119.18002
-1C2-E-TEST-0058-119.18/002	warren commission
-1C2-E-TEST-0058-119.18/003	concluded no evidence
-1C2-E-TEST-0058-119.26	OswaldÃ¢ÂÂs rifle, through testing by the FBI, could only be fired three times within the five to eight seconds of the assassination.
-1C2-E-TEST-0058-119.26/001	fbi testing	DEP=1C2-E-TEST-0058-119.26002
-1C2-E-TEST-0058-119.26/002	oswald's rifle fired three times
-1C2-E-TEST-0058-119.26/003	five to eight seconds	DEP=1C2-E-TEST-0058-119.26003
-1C2-E-TEST-0058-119.27	The Warren Commission, through eyewitnesses, determined that only three bullets were fired as well: one of the three bullets missed the vehicle entirely; one hit Kennedy and passed through Governor John Connally, and the third bullet was fatal to the President.
-1C2-E-TEST-0058-119.27/001	warren commission	DEP=1C2-E-TEST-0058-119.27010
-1C2-E-TEST-0058-119.27/002	eyewitnesses	DEP=1C2-E-TEST-0058-119.27001
-1C2-E-TEST-0058-119.27/003	three bullets
-1C2-E-TEST-0058-119.27/004	missed vehicle
-1C2-E-TEST-0058-119.27/005	hit kennedy
-1C2-E-TEST-0058-119.27/006	passed through governor
-1C2-E-TEST-0058-119.27/007	fatal president
-1C2-E-TEST-0058-119.27/008	john connally	DEP=1C2-E-TEST-0058-119.27006
+1C2-E-TEST-0058-119.173/001	killing paid for by oil magnates
+1C2-E-TEST-0058-119.173/002	oil magnates including Clint Murchison and H. L. Hunt	DEP=1C2-E-TEST-0058-119.173001
+1C2-E-TEST-0058-119.18	"In 1964, the Warren Commission concluded that there was no persuasive evidence"
+1C2-E-TEST-0058-119.18/001	warren commission concluded no persuasive evidence
+1C2-E-TEST-0058-119.18/002	1964	DEP=1C2-E-TEST-0058-119.18001
+1C2-E-TEST-0058-119.26	"OswaldÃ¢ÂÂs rifle, through testing by the FBI, could only be fired three times within the five to eight seconds of the assassination."
+1C2-E-TEST-0058-119.26/001	oswalds rifle could only be fired three times	DEP=1C2-E-TEST-0058-119.26002
+1C2-E-TEST-0058-119.26/002	within the five to eight seconds of assasination
+1C2-E-TEST-0058-119.27	"The Warren Commission, through eyewitnesses, determined that only three bullets were fired as well: one of the three bullets missed the vehicle entirely; one hit Kennedy and passed through Governor John Connally, and the third bullet was fatal to the President."
+1C2-E-TEST-0058-119.27/001	warren commission determined that only three bullets were fired
+1C2-E-TEST-0058-119.27/002	one of the three bullets missed the vehicle entirely	DEP=1C2-E-TEST-0058-119.27001
+1C2-E-TEST-0058-119.27/003	one hit Kennedy and passed through Governor John Connally	DEP=1C2-E-TEST-0058-119.27001
+1C2-E-TEST-0058-119.27/004	third bullet was fatal to the President	DEP=1C2-E-TEST-0058-119.27001
 1C2-E-TEST-0058-119.5	There are many theories regarding the assassination of John F. Kennedy on 22 November 1963; many arose soon after his death and continue to be promoted today.
-1C2-E-TEST-0058-119.5/001	theories assassination	DEP=1C2-E-TEST-0058-119.5006
-1C2-E-TEST-0058-119.5/002	22 november 1963
-1C2-E-TEST-0058-119.5/003	soon after death	DEP=1C2-E-TEST-0058-119.5001
-1C2-E-TEST-0058-119.5/004	promoted today	DEP=1C2-E-TEST-0058-119.5001
+1C2-E-TEST-0058-119.5/001	many theories regarding assassination
+1C2-E-TEST-0058-119.5/002	22 November 1963	DEP=1C2-E-TEST-0058-119.5001
+1C2-E-TEST-0058-119.5/003	many arose after his death
 1C2-E-TEST-0058-119.74	Speculation regarding the identities of the three and their possible involvement in the assassination became widespread in the ensuing years.
-1C2-E-TEST-0058-119.74/001	identities three
-1C2-E-TEST-0058-119.74/002	possible involvement
-1C2-E-TEST-0058-119.74/003	widespread ensuing years	DEP=1C2-E-TEST-0058-119.74001
+1C2-E-TEST-0058-119.74/001	Speculation became widespread
+1C2-E-TEST-0058-119.74/002	speculation regarding identities and involvement of the three	DEP=1C2-E-TEST-0058-119.74001
 1C2-E-TEST-0058-141.16	A 2003 Gallup poll reported that 75% of Americans do not believe that Lee Harvey Oswald acted alone.
-1C2-E-TEST-0058-141.16/001	gallup poll	DEP=1C2-E-TEST-0058-141.16003
-1C2-E-TEST-0058-141.16/002	2003	DEP=1C2-E-TEST-0058-141.16001
-1C2-E-TEST-0058-141.16/003	75 % americans	DEP=1C2-E-TEST-0058-141.16004
-1C2-E-TEST-0058-141.16/004	not lee harvey oswald acted alone
-1C2-E-TEST-0058-141.233	The House Select Committee on Assassinations concluded (in its 1978 report) that although Oswald assassinated Kennedy, a conspiracy was probable.
-1C2-E-TEST-0058-141.233/001	house select committee assassinations
-1C2-E-TEST-0058-141.233/002	1978 report
-1C2-E-TEST-0058-141.233/003	conspiracy probable
-1C2-E-TEST-0058-141.234	Among its findings, the HSCA noted that President Kennedy had not received adequate protection in Dallas, that the Secret Service possessed information that was not properly analyzed, investigated or used by the Secret Service in connection with the President's trip to Dallas, and finally that the Secret Service agents in the motorcade were inadequately prepared to protect the President from a sniper.
-1C2-E-TEST-0058-141.234/001	hsca	DEP=1C2-E-TEST-0058-141.234002
-1C2-E-TEST-0058-141.234/002	not adequate protection
-1C2-E-TEST-0058-141.234/003	dallas	DEP=1C2-E-TEST-0058-141.234002
-1C2-E-TEST-0058-141.234/004	secret service information not analyzed investigated used
-1C2-E-TEST-0058-141.234/005	secret service agents	DEP=1C2-E-TEST-0058-141.234006
-1C2-E-TEST-0058-141.234/006	motorcade inadequately prepared protect sniper
+1C2-E-TEST-0058-141.16/001	75% of Americans do not believe that Lee Harvey Oswald acted alone
+1C2-E-TEST-0058-141.16/002	2003 gallup poll	DEP=1C2-E-TEST-0058-141.16001
+1C2-E-TEST-0058-141.233	"The House Select Committee on Assassinations concluded (in its 1978 report) that although Oswald assassinated Kennedy, a conspiracy was probable."
+1C2-E-TEST-0058-141.233/001	House Select Committee on Assassinations concluded  consipiracy was probably
+1C2-E-TEST-0058-141.233/002	1978 report	DEP=1C2-E-TEST-0058-141.233001
+1C2-E-TEST-0058-141.233/003	although Oswald assassinated Kennedy	DEP=1C2-E-TEST-0058-141.233001
+1C2-E-TEST-0058-141.234	"Among its findings, the HSCA noted that President Kennedy had not received adequate protection in Dallas, that the Secret Service possessed information that was not properly analyzed, investigated or used by the Secret Service in connection with the President's trip to Dallas, and finally that the Secret Service agents in the motorcade were inadequately prepared to protect the President from a sniper."
+1C2-E-TEST-0058-141.234/001	hsca noted president kennedy had not received adequate protection
+1C2-E-TEST-0058-141.234/002	hsca noted Secret Service possessed information that was not properly analyzed
+1C2-E-TEST-0058-141.234/003	hasca noted Secret service had information not used in connection with the President's trip to Dalla
+1C2-E-TEST-0058-141.234/004	hsca noted Secret Service agents in the motorcade were inadequately prepared to protect the President from a sniper
 1C2-E-TEST-0058-141.273	Documents never seen by the Warren Commission have revealed that some Mafiosi were working very closely with the CIA on several assassination attempts of Fidel Castro.
-1C2-E-TEST-0058-141.273/001	documents warren commission
-1C2-E-TEST-0058-141.273/002	mafiosi working closely cia
-1C2-E-TEST-0058-141.273/003	assassination attempts fidel castro
-1C2-E-TEST-0058-141.407	Three shots were fired from three different angles, none of them from Lee Harvey Oswald's window at the Texas School Book Depository.
-1C2-E-TEST-0058-141.407/001	three shots fired
-1C2-E-TEST-0058-141.407/002	three different angles
-1C2-E-TEST-0058-141.407/003	none lee harvey oswald window
-1C2-E-TEST-0058-141.407/004	texas school book depository	DEP=1C2-E-TEST-0058-141.407003
-1C2-E-TEST-0058-141.9	In 1979, the House Select Committee on Assassinations (HSCA) agreed with the Warren Commission that Oswald assassinated Kennedy but found its report and the original FBI investigation to be seriously flawed.
+1C2-E-TEST-0058-141.273/001	Documents  revealed that some Mafiosi were working very closely with the CIA
+1C2-E-TEST-0058-141.273/002	assassination attempts of Fidel Castro	DEP=1C2-E-TEST-0058-141.273001
+1C2-E-TEST-0058-141.273/003	documents not seen by the warren commision	DEP=1C2-E-TEST-0058-141.273001
+1C2-E-TEST-0058-141.407	"Three shots were fired from three different angles, none of them from Lee Harvey Oswald's window at the Texas School Book Depository."
+1C2-E-TEST-0058-141.407/001	Three shots were fired from three different angle
+1C2-E-TEST-0058-141.407/002	none of the shots fired from Lee Harvey Oswald's window
+1C2-E-TEST-0058-141.407/003	window at the Texas School Book Depository	DEP=1C2-E-TEST-0058-141.407002
+1C2-E-TEST-0058-141.9	"In 1979, the House Select Committee on Assassinations (HSCA) agreed with the Warren Commission that Oswald assassinated Kennedy but found its report and the original FBI investigation to be seriously flawed."
 1C2-E-TEST-0058-141.9/001	1979	DEP=1C2-E-TEST-0058-141.9002
-1C2-E-TEST-0058-141.9/002	house select committee assassinations
-1C2-E-TEST-0058-141.9/003	warren commission
-1C2-E-TEST-0058-141.9/004	oswald assassinated
-1C2-E-TEST-0058-141.9/005	report original fbi investigation flawed
-1C2-E-TEST-0058-141.97	The size of the back head wound, according to his description, indicated it was an exit wound, and that a second shooter from the front delivered the fatal head shot, or the president had his head turned.
-1C2-E-TEST-0058-141.97/001	size back head wound indicated exit wound
-1C2-E-TEST-0058-141.97/002	second shooter fatal head shot
-1C2-E-TEST-0058-141.97/003	president head turned
-1C2-E-TEST-0058-2.9	His probable assassin, Lee Harvey Oswald, was definitely killed by Jack Ruby in the Dallas jail two days later.
-1C2-E-TEST-0058-2.9/001	probable assassin	DEP=1C2-E-TEST-0058-2.9002
-1C2-E-TEST-0058-2.9/002	lee harvey oswald
-1C2-E-TEST-0058-2.9/003	killed jack ruby
-1C2-E-TEST-0058-2.9/004	dallas jail	DEP=1C2-E-TEST-0058-2.9003
-1C2-E-TEST-0058-2.9/005	two days later	DEP=1C2-E-TEST-0058-2.9003
-1C2-E-TEST-0058-216.112	TheÃÂ  House Select Committee on Assassinations ÃÂ concluded in 1979 that although Oswald assassinated Kennedy, aÃÂ  conspiracy ÃÂ was probable but that the conspiracy did not implicate any U.S. Intelligence agencies.
-1C2-E-TEST-0058-216.112/001	house select committee assassinations
-1C2-E-TEST-0058-216.112/002	1979	DEP=1C2-E-TEST-0058-216.112001
-1C2-E-TEST-0058-216.112/003	oswald assassinated
-1C2-E-TEST-0058-216.112/004	conspiracy not implicate u.s. intelligence agencies
+1C2-E-TEST-0058-141.9/002	House Select Committee on Assassinations (HSCA) agreed with the Warren Commission 
+1C2-E-TEST-0058-141.9/003	found its report and the original FBI investigation to be seriously flawed	DEP=1C2-E-TEST-0058-141.9002
+1C2-E-TEST-0058-141.97	"The size of the back head wound, according to his description, indicated it was an exit wound, and that a second shooter from the front delivered the fatal head shot, or the president had his head turned."
+1C2-E-TEST-0058-141.97/001	size of the back head wound indicated it was an exit wound
+1C2-E-TEST-0058-141.97/002	size of the back head wound indicated second shooter from the front delivered the fatal head shot
+1C2-E-TEST-0058-141.97/003	size of the back head wound indicated president had his head turned
+1C2-E-TEST-0058-2.9	"His probable assassin, Lee Harvey Oswald, was definitely killed by Jack Ruby in the Dallas jail two days later."
+1C2-E-TEST-0058-2.9/001	probable assasin Lee Harvey Oswald
+1C2-E-TEST-0058-2.9/002	Lee Harvey Oswald killed by Jack Ruby in the Dallas jail two days later
+1C2-E-TEST-0058-216.112	"TheÃÂ  House Select Committee on Assassinations ÃÂ concluded in 1979 that although Oswald assassinated Kennedy, aÃÂ  conspiracy ÃÂ was probable but that the conspiracy did not implicate any U.S. Intelligence agencies."
+1C2-E-TEST-0058-216.112/001	House Select Committee on Assassinations concluded  consipiracy was probably
+1C2-E-TEST-0058-216.112/002	did not implicate any u.s. intelligence agencies	DEP=1C2-E-TEST-0058-216.112001
+1C2-E-TEST-0058-216.112/003	1979	DEP=1C2-E-TEST-0058-216.112001
 1C2-E-TEST-0058-216.120	The House Select Committee on Assassinations believed evidence existed implicating certain violent Cuban exiles may have participated in Kennedy's murder.
-1C2-E-TEST-0058-216.120/001	house select committee assassinations
-1C2-E-TEST-0058-216.120/002	evidence implicating cuban exiles
-1C2-E-TEST-0058-216.120/003	violent	DEP=1C2-E-TEST-0058-216.120002
-1C2-E-TEST-0058-216.120/004	participated kennedy's murder	DEP=1C2-E-TEST-0058-216.120002
-1C2-E-TEST-0058-216.161	Teamsters Union presidentÃÂ  Jimmy Hoffa , and mobstersÃÂ  Carlos Marcello ,ÃÂ  Sam Giancana ,ÃÂ  Johnny Roselli ,ÃÂ  Charles Nicoletti ÃÂ andÃÂ  Santo Trafficante Jr. ÃÂ (all of whom say Hoffa worked with the CIA on the Castro assassination plots) top the list of House Select Committee on Assassinations Mafia suspects.
-1C2-E-TEST-0058-216.161/001	teamsters union president	DEP=1C2-E-TEST-0058-216.161002
-1C2-E-TEST-0058-216.161/002	jimmy hoffa
-1C2-E-TEST-0058-216.161/003	carlos marcello
-1C2-E-TEST-0058-216.161/004	sam giancana
-1C2-E-TEST-0058-216.161/005	johnny roselli
-1C2-E-TEST-0058-216.161/006	charles nicoletti
-1C2-E-TEST-0058-216.161/007	santo trafficante jr.
-1C2-E-TEST-0058-216.161/008	hoffa worked cia castro assassination plots
-1C2-E-TEST-0058-216.161/009	list assassinations mafia suspects
+1C2-E-TEST-0058-216.120/001	House Select Committee on Assassinations believed violent cuban may have participated
+1C2-E-TEST-0058-216.120/002	evidence existed implicating certain violent Cuban exiles	DEP=1C2-E-TEST-0058-216.120001
+1C2-E-TEST-0058-216.161	"Teamsters Union presidentÃÂ  Jimmy Hoffa , and mobstersÃÂ  Carlos Marcello ,ÃÂ  Sam Giancana ,ÃÂ  Johnny Roselli ,ÃÂ  Charles Nicoletti ÃÂ andÃÂ  Santo Trafficante Jr. ÃÂ (all of whom say Hoffa worked with the CIA on the Castro assassination plots) top the list of House Select Committee on Assassinations Mafia suspects."
+1C2-E-TEST-0058-216.161/001	Hoffa worked with the CIA on the Castro assassination plots 
+1C2-E-TEST-0058-216.161/002	top the list of House Select Committee on Assassinations Mafia suspects.	DEP=1C2-E-TEST-0058-216.161004
+1C2-E-TEST-0058-216.161/003	Teamsters Union president Jimmy Hoffa 	DEP=1C2-E-TEST-0058-216.161001
+1C2-E-TEST-0058-216.161/004	mobsters carlos marcello sam giancana johnny roselli charles nicoletti santo trafficante jr.
 1C2-E-TEST-0058-216.32	Kellerman said that he saw a 5-inch diameter hole in the back right-hand side of the PresidentÃ¢ÂÂs head.
-1C2-E-TEST-0058-216.32/001	kellerman
-1C2-E-TEST-0058-216.32/002	5-inch diameter hole	DEP=1C2-E-TEST-0058-216.32004
-1C2-E-TEST-0058-216.32/003	back right-hand side	DEP=1C2-E-TEST-0058-216.32004
-1C2-E-TEST-0058-216.32/004	president head
-1C2-E-TEST-0058-216.35	Thirty-five witnesses who were present at the shooting thought that shots were fired from in front of the President Ã¢ÂÂ from the area of the Grassy Knoll or Triple Underpass Ã¢ÂÂ while 56 eyewitnesses thought the shots came from the Depository, or at least in that direction, behind the President, and 5 witnesses thought that the shots came from two directions.
-1C2-E-TEST-0058-216.35/001	thirty-five witnesses
-1C2-E-TEST-0058-216.35/002	shots fired front president
-1C2-E-TEST-0058-216.35/003	grassy knoll
-1C2-E-TEST-0058-216.35/004	triple underpass
-1C2-E-TEST-0058-216.35/005	56 eyewitnesses
-1C2-E-TEST-0058-216.35/006	depository
-1C2-E-TEST-0058-216.35/007	5 witnesses
-1C2-E-TEST-0058-216.35/008	two directions
-1C2-E-TEST-0058-216.44	After Jack Ruby shot Lee Harvey Oswald, Cherami reportedly claimed that she had worked for Ruby as a stripper, that she knew both Ruby and Oswald, and that the two men were "bed partners" who "had been shacking up for years."
-1C2-E-TEST-0058-216.44/001	jack ruby
-1C2-E-TEST-0058-216.44/002	lee harvey oswald
-1C2-E-TEST-0058-216.44/003	cherami worked ruby stripper
-1C2-E-TEST-0058-216.44/004	ruby oswald bed partners
-1C2-E-TEST-0058-216.44/005	shacking up years	DEP=1C2-E-TEST-0058-216.44004
-1C2-E-TEST-0058-216.53	I donÃ¢ÂÂt know how many times we tried it, but we couldnÃ¢ÂÂt duplicate what the Warren Commission said Oswald did.
-1C2-E-TEST-0058-216.53/001	couldn't duplicate oswald did
-1C2-E-TEST-0058-216.53/002	warren commission	DEP=1C2-E-TEST-0058-216.53001
-1C2-E-TEST-0058-216.7	Within two hours,ÃÂ  Lee Harvey Oswald ÃÂ was arrested for the murder of a Dallas policeman, not for the assassination of President Kennedy.
-1C2-E-TEST-0058-216.7/001	two hours
-1C2-E-TEST-0058-216.7/002	within	DEP=1C2-E-TEST-0058-216.7001
-1C2-E-TEST-0058-216.7/003	lee harvey oswald arrested
-1C2-E-TEST-0058-216.7/004	murder dallas policeman
-1C2-E-TEST-0058-216.7/005	not assassination	DEP=1C2-E-TEST-0058-216.7004
-1C2-E-TEST-0058-216.87	Like Hunt, Sturgis was involved both in the Bay of Pigs invasion and the Watergate burglary.
-1C2-E-TEST-0058-216.87/001	hunt
-1C2-E-TEST-0058-216.87/002	sturgis
-1C2-E-TEST-0058-216.87/003	bay of pigs invasion
-1C2-E-TEST-0058-216.87/004	watergate burglary
-1C2-E-TEST-0058-216.9	In 1964, theÃÂ  Warren Commission ÃÂ concluded that there was no persuasive evidence that Oswald was in a conspiracy to assassinate the President, and stated their belief that he acted alone.
+1C2-E-TEST-0058-216.32/001	kellerman say 5-inch diameter hole in the back right-hand side of the president head
+1C2-E-TEST-0058-216.35	"Thirty-five witnesses who were present at the shooting thought that shots were fired from in front of the President Ã¢ÂÂ from the area of the Grassy Knoll or Triple Underpass Ã¢ÂÂ while 56 eyewitnesses thought the shots came from the Depository, or at least in that direction, behind the President, and 5 witnesses thought that the shots came from two directions."
+1C2-E-TEST-0058-216.35/001	Thirty-five witnesses who were present at the shooting thought that shots were fired from in front of the Presiden
+1C2-E-TEST-0058-216.35/002	area of the Grassy Knoll or Triple Underpass 	DEP=1C2-E-TEST-0058-216.35001
+1C2-E-TEST-0058-216.35/003	56 eyewitnesses thought the shots came from the Depository behind the president
+1C2-E-TEST-0058-216.35/004	 5 witnesses thought that the shots came from two directions
+1C2-E-TEST-0058-216.44	"After Jack Ruby shot Lee Harvey Oswald, Cherami reportedly claimed that she had worked for Ruby as a stripper, that she knew both Ruby and Oswald, and that the two men were ""bed partners"" who ""had been shacking up for years."""
+1C2-E-TEST-0058-216.44/001	Jack Ruby shot Lee Harvey Oswald
+1C2-E-TEST-0058-216.44/002	Cherami reportedly claimed that she had worked for Ruby as a stripper
+1C2-E-TEST-0058-216.44/003	Cherami claimed she knew both ruby and oswald
+1C2-E-TEST-0058-216.44/004	Cherami claimed that the two men were bed partners for years	DEP=1C2-E-TEST-0058-216.44003
+1C2-E-TEST-0058-216.53	"I donÃ¢ÂÂt know how many times we tried it, but we couldnÃ¢ÂÂt duplicate what the Warren Commission said Oswald did."
+1C2-E-TEST-0058-216.53/001	coudnt duplicate what the Warren Commission said Oswald di
+1C2-E-TEST-0058-216.7	"Within two hours,ÃÂ  Lee Harvey Oswald ÃÂ was arrested for the murder of a Dallas policeman, not for the assassination of President Kennedy."
+1C2-E-TEST-0058-216.7/001	Lee Harvey Oswald arrested for the murder of a Dallas policeman
+1C2-E-TEST-0058-216.7/002	within two hours
+1C2-E-TEST-0058-216.7/003	Lee Harvey Oswald not arrested for assasination of President Kennedy
+1C2-E-TEST-0058-216.87	"Like Hunt, Sturgis was involved both in the Bay of Pigs invasion and the Watergate burglary."
+1C2-E-TEST-0058-216.87/001	sturgis and hunt involved in the Bay of Pigs invasion and the Watergate burglary
+1C2-E-TEST-0058-216.9	"In 1964, theÃÂ  Warren Commission ÃÂ concluded that there was no persuasive evidence that Oswald was in a conspiracy to assassinate the President, and stated their belief that he acted alone."
 1C2-E-TEST-0058-216.9/001	1964	DEP=1C2-E-TEST-0058-216.9002
-1C2-E-TEST-0058-216.9/002	the warren commission
-1C2-E-TEST-0058-216.9/003	no evidence oswald conspiracy
-1C2-E-TEST-0058-216.9/004	persuasive	DEP=1C2-E-TEST-0058-216.9003
-1C2-E-TEST-0058-216.9/005	belief acted alone
+1C2-E-TEST-0058-216.9/002	warrant commission concluded that there was no persuasive evidence of consipracy
+1C2-E-TEST-0058-216.9/003	stated oswald acted alone	DEP=1C2-E-TEST-0058-216.9002
 1C2-E-TEST-0058-76.183	Documents never seen by the Warren Commission have revealed that the mafia was working very closely with the CIA on several assassination attempts of Fidel Castro known under the CIA code name Operation Mongoose.
-1C2-E-TEST-0058-76.183/001	documents never seen
-1C2-E-TEST-0058-76.183/002	warren commission	DEP=1C2-E-TEST-0058-76.183001
-1C2-E-TEST-0058-76.183/003	mafia working cia
-1C2-E-TEST-0058-76.183/004	assassination attempts fidel castro
-1C2-E-TEST-0058-76.183/005	operation mongoose
-1C2-E-TEST-0058-76.183/006	code name	DEP=1C2-E-TEST-0058-76.183006
+1C2-E-TEST-0058-76.183/001	documents have revealed mafia was working very closely with the CIA 
+1C2-E-TEST-0058-76.183/002	working on assassination attempts of Fidel Castro	DEP=1C2-E-TEST-0058-76.183001
+1C2-E-TEST-0058-76.183/003	CIA code name Operation Mongoose.	DEP=1C2-E-TEST-0058-76.183001
+1C2-E-TEST-0058-76.183/004	Documents never seen by the Warren Commission	DEP=1C2-E-TEST-0058-76.183001
 1C2-E-TEST-0058-76.220	Cuban President Fidel Castro 's agents killed President Kennedy in retaliation for the many times the CIA and Mafia had worked together and tried to kill Castro.
-1C2-E-TEST-0058-76.220/001	fidel castro agents
-1C2-E-TEST-0058-76.220/002	cuban president	DEP=1C2-E-TEST-0058-76.220001
-1C2-E-TEST-0058-76.220/003	killed retaliation
-1C2-E-TEST-0058-76.220/004	cia mafia tried kill castro	DEP=1C2-E-TEST-0058-76.220003
-1C2-E-TEST-0058-76.274	Jack Ruby, the assassin of Lee Harvey Oswald, the suspected Kennedy assassin, had links to the mafia.
-1C2-E-TEST-0058-76.274/001	jack ruby
-1C2-E-TEST-0058-76.274/002	assassin lee harvey oswald	DEP=1C2-E-TEST-0058-76.274001
-1C2-E-TEST-0058-76.274/003	links mafia	DEP=1C2-E-TEST-0058-76.274001
-1C2-E-TEST-0058-76.99	Many people have pointed to the Warren Commission 's single bullet theory causing all but one of the wounds in both Kennedy and John Connally, as unlikely.
-1C2-E-TEST-0058-76.99/001	warren commission	DEP=1C2-E-TEST-0058-76.99002
-1C2-E-TEST-0058-76.99/002	single bullet theory
-1C2-E-TEST-0058-76.99/003	all but one wounds
-1C2-E-TEST-0058-76.99/004	kennedy john connally	DEP=1C2-E-TEST-0058-76.99003
-1C2-E-TEST-0058-76.99/005	unlikely	DEP=1C2-E-TEST-0058-76.99002
-1C2-E-TEST-0058-9.20	In 1964 the Warren Commission concluded that Oswald was Kennedy's assassin, and that he had acted alone.
+1C2-E-TEST-0058-76.220/001	Cuban President Fidel Castro 's agents killed President Kennedy
+1C2-E-TEST-0058-76.220/002	retaliation for the times the CIA and Mafia had worked together and tried to kill Castro	DEP=1C2-E-TEST-0058-76.220001
+1C2-E-TEST-0058-76.274	"Jack Ruby, the assassin of Lee Harvey Oswald, the suspected Kennedy assassin, had links to the mafia."
+1C2-E-TEST-0058-76.274/001	jack ruby had links to the mafia
+1C2-E-TEST-0058-76.274/002	jack ruby assasin of the assassin of Lee Harvey Oswald
+1C2-E-TEST-0058-76.99	"Many people have pointed to the Warren Commission 's single bullet theory causing all but one of the wounds in both Kennedy and John Connally, as unlikely."
+1C2-E-TEST-0058-76.99/001	people pointed to Warren Commission 's single bullet theory as unlikely
+1C2-E-TEST-0058-76.99/002	single bullet causing all but one of the wounds in both Kennedy and John Connally	DEP=1C2-E-TEST-0058-76.99001
+1C2-E-TEST-0058-9.20	"In 1964 the Warren Commission concluded that Oswald was Kennedy's assassin, and that he had acted alone."
 1C2-E-TEST-0058-9.20/001	1964	DEP=1C2-E-TEST-0058-9.20002
-1C2-E-TEST-0058-9.20/002	warren commission	DEP=1C2-E-TEST-0058-9.20003
-1C2-E-TEST-0058-9.20/003	oswald assassin
-1C2-E-TEST-0058-9.20/004	acted alone
+1C2-E-TEST-0058-9.20/002	Warren Commission concluded that Oswald was Kennedy's assassin
+1C2-E-TEST-0058-9.20/003	Warren Commission concluded that Oswald had acted alone
