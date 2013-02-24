@@ -461,10 +461,10 @@
 1C2-E-TEST-0034-427.32/005	gladiator			
 1C2-E-TEST-0034-427.32/006	went			
 1C2-E-TEST-0034-427.32/007	winning	DEP=1C2-E-TEST-0034-427.32006		
-1C2-E-TEST-0034-427.33	Crowe wore his grandfather Stan Wemyss¬„s Member of the Order of the British Empire medal to the ceremony.			
+1C2-E-TEST-0034-427.33	Crowe wore his grandfather Stan Wemysss Member of the Order of the British Empire medal to the ceremony.			
 1C2-E-TEST-0034-427.33/001	grandfather	DEP=1C2-E-TEST-0034-427.33009	Crowe wore his grandfather Stan Wemyss Member of the Order of the British Empire medal to the ceremony	
 1C2-E-TEST-0034-427.33/002	stan wemyss cents			
-1C2-E-TEST-0034-427.33/003	¬	DEP=1C2-E-TEST-0034-427.33005		
+1C2-E-TEST-0034-427.33/003		DEP=1C2-E-TEST-0034-427.33005		
 1C2-E-TEST-0034-427.33/004	 cents	DEP=1C2-E-TEST-0034-427.33003		
 1C2-E-TEST-0034-427.33/005	member			
 1C2-E-TEST-0034-427.33/006	order			
