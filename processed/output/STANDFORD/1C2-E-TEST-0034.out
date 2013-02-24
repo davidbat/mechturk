@@ -180,9 +180,9 @@
 1C2-E-TEST-0034-215.10/011	named	DEP=1C2-E-TEST-0034-215.10010		
 1C2-E-TEST-0034-215.10/012	filming			
 1C2-E-TEST-0034-215.11	"Crowe's maternal great-great grandmother was Mori, and as a result Crowe is registered on the Mori electoral roll in New Zealand; Crowe also has Welsh, Scottish, Norwegian, English and Irish ancestry.Two of Russell Crowe's cousins, Martin and Jeff Crowe are former New Zealand national cricket captains."			
-1C2-E-TEST-0034-215.11/001	m£ ¢ ori		Crowe's maternal great-great grandmother was Mori	
+1C2-E-TEST-0034-215.11/001	m  ori		Crowe's maternal great-great grandmother was Mori	
 1C2-E-TEST-0034-215.11/002	result		 as a result Crowe is registered on the Mori electoral roll in New Zealand	1
-1C2-E-TEST-0034-215.11/003	m£ ¢ ori		"Crowe also has Welsh, Scottish, Norwegian, English and Irish ancestry"	
+1C2-E-TEST-0034-215.11/003	m  ori		"Crowe also has Welsh, Scottish, Norwegian, English and Irish ancestry"	
 1C2-E-TEST-0034-215.11/004	electoral roll	DEP=1C2-E-TEST-0034-215.11014	"Two of Russell Crowe's cousins, Martin and Jeff Crowe are former New Zealand national cricket captains"	
 1C2-E-TEST-0034-215.11/005	new zealand			
 1C2-E-TEST-0034-215.11/006	welsh scottish norwegian english irish			
@@ -461,11 +461,11 @@
 1C2-E-TEST-0034-427.32/005	gladiator			
 1C2-E-TEST-0034-427.32/006	went			
 1C2-E-TEST-0034-427.32/007	winning	DEP=1C2-E-TEST-0034-427.32006		
-1C2-E-TEST-0034-427.33	Crowe wore his grandfather Stan Wemyss¢¢¬¢„¢s Member of the Order of the British Empire medal to the ceremony.			
+1C2-E-TEST-0034-427.33	Crowe wore his grandfather Stan Wemyss¬„s Member of the Order of the British Empire medal to the ceremony.			
 1C2-E-TEST-0034-427.33/001	grandfather	DEP=1C2-E-TEST-0034-427.33009	Crowe wore his grandfather Stan Wemyss Member of the Order of the British Empire medal to the ceremony	
-1C2-E-TEST-0034-427.33/002	stan wemyss£ cents			
+1C2-E-TEST-0034-427.33/002	stan wemyss cents			
 1C2-E-TEST-0034-427.33/003	¬	DEP=1C2-E-TEST-0034-427.33005		
-1C2-E-TEST-0034-427.33/004	¢ cents	DEP=1C2-E-TEST-0034-427.33003		
+1C2-E-TEST-0034-427.33/004	 cents	DEP=1C2-E-TEST-0034-427.33003		
 1C2-E-TEST-0034-427.33/005	member			
 1C2-E-TEST-0034-427.33/006	order			
 1C2-E-TEST-0034-427.33/007	british empire medal			
