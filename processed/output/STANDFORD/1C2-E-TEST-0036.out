@@ -148,27 +148,9 @@
 1C2-E-TEST-0036-39.11/008	spelled	DEP=1C2-E-TEST-0036-39.11001		
 1C2-E-TEST-0036-39.11/009	pronounced	DEP=1C2-E-TEST-0036-39.11001		
 1C2-E-TEST-0036-39.11/010	pronounces	DEP=1C2-E-TEST-0036-39.11005		
-1C2-E-TEST-0036-39.3	Charlize Theron (American English pronunciation: play /äÜíâòrããÜliãês ããÜé∏â∫râÑn/; Afrikaans pronunciation: ; born 7 August 1975) is a South African actress and fashion model.			
+1C2-E-TEST-0036-39.3	Charlize Theron (American English pronunciation: Afrikaans pronunciation: ; born 7 August 1975) is a South African actress and fashion model.			
 1C2-E-TEST-0036-39.3/001	american english		born 7 August 1975	
 1C2-E-TEST-0036-39.3/002	pronunciation	DEP=1C2-E-TEST-0036-39.3001	south african actress and fashion model	
-1C2-E-TEST-0036-39.3/003	 ¶	DEP=1C2-E-TEST-0036-39.3013		
-1C2-E-TEST-0036-39.3/004	li  s			
-1C2-E-TEST-0036-39.3/005	´   ∏  			
-1C2-E-TEST-0036-39.3/006	 cents			
-1C2-E-TEST-0036-39.3/007	n	DEP=1C2-E-TEST-0036-39.3006		
-1C2-E-TEST-0036-39.3/008	afrikaans pronunciation	DEP=1C2-E-TEST-0036-39.3002		
-1C2-E-TEST-0036-39.3/009	7	DEP=1C2-E-TEST-0036-39.3018		
-1C2-E-TEST-0036-39.3/010	south african actress			
-1C2-E-TEST-0036-39.3/011	fashion model	DEP=1C2-E-TEST-0036-39.3010		
-1C2-E-TEST-0036-39.3/012	play	DEP=1C2-E-TEST-0036-39.3002		
-1C2-E-TEST-0036-39.3/013		DEP=1C2-E-TEST-0036-39.3014		
-1C2-E-TEST-0036-39.3/014		DEP=1C2-E-TEST-0036-39.3012		
-1C2-E-TEST-0036-39.3/015	r			
-1C2-E-TEST-0036-39.3/016	´	DEP=1C2-E-TEST-0036-39.3014		
-1C2-E-TEST-0036-39.3/017	∫r			
-1C2-E-TEST-0036-39.3/018	born			
-1C2-E-TEST-0036-39.3/019	august	DEP=1C2-E-TEST-0036-39.3009		
-1C2-E-TEST-0036-39.3/020	1975	DEP=1C2-E-TEST-0036-39.3019		
 1C2-E-TEST-0036-39.41	"For this role, Theron won the Academy Award for Best Actress at the 76th Academy Awards in February 2004, as well as the SAG Award and the Golden Globe Award."			
 1C2-E-TEST-0036-39.41/001	role		won the Academy Award for Best Actress at the 76th Academy Awards	
 1C2-E-TEST-0036-39.41/002	academy award	DEP=1C2-E-TEST-0036-39.41008	she also won SAG Award and the Golden Globe Award.	1
@@ -205,34 +187,10 @@
 1C2-E-TEST-0036-39.90/007	3			
 1C2-E-TEST-0036-39.90/008	million			
 1C2-E-TEST-0036-39.90/009	watches	DEP=1C2-E-TEST-0036-39.90005		
-1C2-E-TEST-0036-391.7	"Charlize Theron (pronounced /äÜíâòrããÜliãêz ããÜé∏â∫râÑn/, shar-LEEZ THERR-âÑn; born August 7, 1975) is a South African actress, film producer, and former fashion model."			
+1C2-E-TEST-0036-391.7	"Charlize Theron (pronounced shar-LEEZ THERR-n; born August 7, 1975) is a South African actress, film producer, and former fashion model."			
 1C2-E-TEST-0036-391.7/001	pronounced	DEP=1C2-E-TEST-0036-391.7011	Charlize Theron pronounced shar-LEEZ THERR-n	
-1C2-E-TEST-0036-391.7/002		DEP=1C2-E-TEST-0036-391.7001	"born August 7, 1975"	
-1C2-E-TEST-0036-391.7/003	¶ 	DEP=1C2-E-TEST-0036-391.7002	"South African actress, film producer, and former fashion model."	
-1C2-E-TEST-0036-391.7/004	 ´  	DEP=1C2-E-TEST-0036-391.7015		
-1C2-E-TEST-0036-391.7/005	∏  	DEP=1C2-E-TEST-0036-391.7004		
-1C2-E-TEST-0036-391.7/006	 cents	DEP=1C2-E-TEST-0036-391.7011		
-1C2-E-TEST-0036-391.7/007	n	DEP=1C2-E-TEST-0036-391.7006		
-1C2-E-TEST-0036-391.7/008	shar-leez therr-	DEP=1C2-E-TEST-0036-391.7007		
-1C2-E-TEST-0036-391.7/009	film producer	DEP=1C2-E-TEST-0036-391.7027		
-1C2-E-TEST-0036-391.7/010	former fashion model	DEP=1C2-E-TEST-0036-391.7027		
-1C2-E-TEST-0036-391.7/011		DEP=1C2-E-TEST-0036-391.7027		
-1C2-E-TEST-0036-391.7/012	r			
-1C2-E-TEST-0036-391.7/013	´	DEP=1C2-E-TEST-0036-391.7014		
-1C2-E-TEST-0036-391.7/014	li	DEP=1C2-E-TEST-0036-391.7015		
-1C2-E-TEST-0036-391.7/015		DEP=1C2-E-TEST-0036-391.7011		
-1C2-E-TEST-0036-391.7/016	z	DEP=1C2-E-TEST-0036-391.7004		
-1C2-E-TEST-0036-391.7/017	∫r			
-1C2-E-TEST-0036-391.7/018		DEP=1C2-E-TEST-0036-391.7019		
-1C2-E-TEST-0036-391.7/019	cents	DEP=1C2-E-TEST-0036-391.7020		
-1C2-E-TEST-0036-391.7/020	n	DEP=1C2-E-TEST-0036-391.7008		
-1C2-E-TEST-0036-391.7/021	born	DEP=1C2-E-TEST-0036-391.7007		
-1C2-E-TEST-0036-391.7/022	august	DEP=1C2-E-TEST-0036-391.7021		
-1C2-E-TEST-0036-391.7/023	7	DEP=1C2-E-TEST-0036-391.7022		
-1C2-E-TEST-0036-391.7/024	1975	DEP=1C2-E-TEST-0036-391.7022		
-1C2-E-TEST-0036-391.7/025	south	DEP=1C2-E-TEST-0036-391.7026		
-1C2-E-TEST-0036-391.7/026	african	DEP=1C2-E-TEST-0036-391.7027		
-1C2-E-TEST-0036-391.7/027	actress			
+1C2-E-TEST-0036-391.7/002	pronounced	DEP=1C2-E-TEST-0036-391.7001	"born August 7, 1975"	
+1C2-E-TEST-0036-391.7/003	pronounced	DEP=1C2-E-TEST-0036-391.7002	"South African actress, film producer, and former fashion model."	
 1C2-E-TEST-0036-68.10	"Theron is an Occitan surname (originally spelled Thron) pronounced in Afrikaans as ""Tronn"", although she said that the way it is pronounced in South Africa is ""Thrown""."			
 1C2-E-TEST-0036-68.10/001	occitan surname		Theron is an Occitan surname 	
 1C2-E-TEST-0036-68.10/002	th 	DEP=1C2-E-TEST-0036-68.10009	pronounced thrown in south africa	1
