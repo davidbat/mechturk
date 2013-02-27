@@ -26,7 +26,7 @@ Dir[processed + "*.out"].each do |full_path|
     next if line.empty?
     str = ""
     parts=line.split("\t")
-    if parts[0].include?("/") || parts[0].include?("-")
+    if parts[0].include?("/") || parts[0].count("-") > 4
       str=parts[0]
       if !parts[3].nil? && !parts[3].empty?
         str += "\t" + parts[3]
