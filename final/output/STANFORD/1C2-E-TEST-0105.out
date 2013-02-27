@@ -1,244 +1,143 @@
 1C2-E-TEST-0105-1.11	"According to various press reports, the company will hire 50,000 seasonal positions at its 1,750 stores."
+1C2-E-TEST-0105-1.11/001	" company will hire 50,000 seasonal positions at its 1,750 stores."
+1C2-E-TEST-0105-1.11/002	various press reports	DEP=1C2-E-TEST-0105-1.11001
 1C2-E-TEST-0105-1.2	"Home Depot, Lowes hiring for spring garden season"
-1C2-E-TEST-0105-1.2/001	spring garden season
+1C2-E-TEST-0105-1.2/001	 Lowes hiring for spring garden season
 1C2-E-TEST-0105-1.3	"The Home Depot has announced it will hire more than 60,000 seasonal associates in Feburary and March -- in time for its second annual Spring Black Friday event."
-1C2-E-TEST-0105-1.3/001	announced 
-1C2-E-TEST-0105-1.3/002	"hire more than 60,000 seasonal associates"	DEP=1C2-E-TEST-0105-1.3001
-1C2-E-TEST-0105-1.3/003	february march	DEP=1C2-E-TEST-0105-1.3002
-1C2-E-TEST-0105-1.3/004	second annual spring black Friday event	DEP=1C2-E-TEST-0105-1.3003
+1C2-E-TEST-0105-1.3/001	"hire more than 60,000 seasonal associates"
+1C2-E-TEST-0105-1.3/002	february march	DEP=1C2-E-TEST-0105-1.3001
+1C2-E-TEST-0105-1.3/003	second annual spring black Friday event	DEP=1C2-E-TEST-0105-1.3001
 1C2-E-TEST-0105-1.9	"Additionally, The Home Depot said it will be adding net new permanent full-time and part-time positions to its stores for the second year in a row."
-1C2-E-TEST-0105-1.9/001	additionally
-1C2-E-TEST-0105-1.9/002	adding net new permanent 	DEP=1C2-E-TEST-0105-1.9001
-1C2-E-TEST-0105-1.9/003	full-time part-time position	DEP=1C2-E-TEST-0105-1.9002
-1C2-E-TEST-0105-1.9/004	stores	DEP=1C2-E-TEST-0105-1.9003
-1C2-E-TEST-0105-1.9/005	second year 	DEP=1C2-E-TEST-0105-1.9004
-1C2-E-TEST-0105-1.9/006	row	DEP=1C2-E-TEST-0105-1.9005
+1C2-E-TEST-0105-1.9/001	adding net new permanent full-time part-time position to stores
+1C2-E-TEST-0105-1.9/002	second year in a row	DEP=1C2-E-TEST-0105-1.9001
 1C2-E-TEST-0105-14.11	"About 20% of Home Depot's seasonal positions have already been filled, mostly in southern states, such as Florida and Texas, Hourigan said."
-1C2-E-TEST-0105-14.11/001	20% seasonal positions
-1C2-E-TEST-0105-14.11/002	already filled	DEP=1C2-E-TEST-0105-14.11001
-1C2-E-TEST-0105-14.11/003	southern states	DEP=1C2-E-TEST-0105-14.11002
-1C2-E-TEST-0105-14.11/004	florida	DEP=1C2-E-TEST-0105-14.11003
-1C2-E-TEST-0105-14.11/005	texas	DEP=1C2-E-TEST-0105-14.11003
-1C2-E-TEST-0105-14.11/006	hourigan
+1C2-E-TEST-0105-14.11/001	20% seasonal positions already filled
+1C2-E-TEST-0105-14.11/002	southern states florida texas	DEP=1C2-E-TEST-0105-14.11001
 1C2-E-TEST-0105-14.15	"Lowe's, the country's second largest home improvement chain, is still in the beginning phases of filling its seasonal positions, Cobb said."
-1C2-E-TEST-0105-14.15/001	second largest 
-1C2-E-TEST-0105-14.15/002	improvement chain	DEP=1C2-E-TEST-0105-14.15001
-1C2-E-TEST-0105-14.15/003	beginning phases
-1C2-E-TEST-0105-14.15/004	filling seasonal positions	DEP=1C2-E-TEST-0105-14.15003
-1C2-E-TEST-0105-14.15/005	cobb
+1C2-E-TEST-0105-14.15/001	second largest  home improvement chain
+1C2-E-TEST-0105-14.15/002	still in the beginning phases of filling its seasonal positions
 1C2-E-TEST-0105-14.2	"Two big home improvement chains are furiously hiring now to meet demand during spring, their busiest season."
-1C2-E-TEST-0105-14.2/001	two big improvement chains
-1C2-E-TEST-0105-14.2/002	furiously hiring	DEP=1C2-E-TEST-0105-14.2001
-1C2-E-TEST-0105-14.2/003	meet demand	DEP=1C2-E-TEST-0105-14.2002
-1C2-E-TEST-0105-14.2/004	spring  
-1C2-E-TEST-0105-14.2/005	busiest season	DEP=1C2-E-TEST-0105-14.2004
+1C2-E-TEST-0105-14.2/001	two big improvement chains furiously hiring
+1C2-E-TEST-0105-14.2/002	meet demand during spring	DEP=1C2-E-TEST-0105-14.2001
+1C2-E-TEST-0105-14.2/003	busiest season	DEP=1C2-E-TEST-0105-14.2002
 1C2-E-TEST-0105-14.23	Applicants must apply online to land a seasonal job at either home improvement retailer.
-1C2-E-TEST-0105-14.23/001	applicants
-1C2-E-TEST-0105-14.23/002	apply online	DEP=1C2-E-TEST-0105-14.23001
-1C2-E-TEST-0105-14.23/003	seasonal job	DEP=1C2-E-TEST-0105-14.23002
-1C2-E-TEST-0105-14.23/004	retailer	DEP=1C2-E-TEST-0105-14.23003
+1C2-E-TEST-0105-14.23/001	applicants must apply online
 1C2-E-TEST-0105-14.3	"The jobs are temporary, but the companies say that the positions are often a foot in the door toward a full-time job for those who see retailing as a potential profession."
-1C2-E-TEST-0105-14.3/001	temporary jobs
-1C2-E-TEST-0105-14.3/002	positions	DEP=1C2-E-TEST-0105-14.3001
-1C2-E-TEST-0105-14.3/003	foot 	DEP=1C2-E-TEST-0105-14.3002
-1C2-E-TEST-0105-14.3/004	door	DEP=1C2-E-TEST-0105-14.3003
-1C2-E-TEST-0105-14.3/005	full-time job	DEP=1C2-E-TEST-0105-14.3002
-1C2-E-TEST-0105-14.3/006	retailing
-1C2-E-TEST-0105-14.3/007	potential profession	DEP=1C2-E-TEST-0105-14.3006
+1C2-E-TEST-0105-14.3/001	temporary positions are often a foot in the door
+1C2-E-TEST-0105-14.3/002	foot in door toward full-time jobs	DEP=1C2-E-TEST-0105-14.3001
+1C2-E-TEST-0105-14.3/003	retailing as a potential profession	DEP=1C2-E-TEST-0105-14.3002
 1C2-E-TEST-0105-14.5	It affords a person the opportunity to showcase their dedication and commitment during the busiest time of year in the home improvement industry.
-1C2-E-TEST-0105-14.5/001	opportunity 
-1C2-E-TEST-0105-14.5/002	showcase dedication	DEP=1C2-E-TEST-0105-14.5001
-1C2-E-TEST-0105-14.5/003	commitment	DEP=1C2-E-TEST-0105-14.5004
-1C2-E-TEST-0105-14.5/004	busiest time
-1C2-E-TEST-0105-14.5/005	improvement industry	DEP=1C2-E-TEST-0105-14.5004
+1C2-E-TEST-0105-14.5/001	opportunity to showcase their dedication and commitment	DEP=1C2-E-TEST-0105-14.5002
+1C2-E-TEST-0105-14.5/002	busiest time of year in home improvement industry
 1C2-E-TEST-0105-14.6	"At Home Depot , about half of the seasonal hires in 2011 stayed on in permanent positions, said Tim Hourigan, Home Depot's vice president of human resources."
-1C2-E-TEST-0105-14.6/001	half
-1C2-E-TEST-0105-14.6/002	seasonal hires 2011
-1C2-E-TEST-0105-14.6/003	permanent positions	DEP=1C2-E-TEST-0105-14.6002
-1C2-E-TEST-0105-14.6/004	tim hourigan
-1C2-E-TEST-0105-14.6/005	vice president	DEP=1C2-E-TEST-0105-14.6004
+1C2-E-TEST-0105-14.6/001	half seasonal hires 2011 stayed on in permanent positions
+1C2-E-TEST-0105-14.6/002	"said Tim Hourigan, Home Depot's vice president of human resources"	DEP=1C2-E-TEST-0105-14.6001
 1C2-E-TEST-0105-14.8	"Home Depot, the country's largest home improvement chain, is in the process of hiring 70,000 temporary workers, from cashiers and garden associates to loaders and lot associates, across its 2,000 U.S. stores."
-1C2-E-TEST-0105-14.8/001	country
-1C2-E-TEST-0105-14.8/002	largest improvement chain	DEP=1C2-E-TEST-0105-14.8001
-1C2-E-TEST-0105-14.8/003	process	DEP=1C2-E-TEST-0105-14.8002
-1C2-E-TEST-0105-14.8/004	hiring 70000 temporary workers	DEP=1C2-E-TEST-0105-14.8003
-1C2-E-TEST-0105-14.8/005	cashiers	DEP=1C2-E-TEST-0105-14.8004
-1C2-E-TEST-0105-14.8/006	garden associates	DEP=1C2-E-TEST-0105-14.8004
-1C2-E-TEST-0105-14.8/007	loaders	DEP=1C2-E-TEST-0105-14.8004
-1C2-E-TEST-0105-14.8/008	lot associates	DEP=1C2-E-TEST-0105-14.8004
-1C2-E-TEST-0105-14.8/009	across 2000 us stores
+1C2-E-TEST-0105-14.8/001	"Home Depot, the country's largest home improvement chain"
+1C2-E-TEST-0105-14.8/002	"home depot in process of hiring 70,000 temporary workers"
+1C2-E-TEST-0105-14.8/003	cashiers and garden associates to loaders and lot associates	DEP=1C2-E-TEST-0105-14.8002
+1C2-E-TEST-0105-14.8/004	"across its 2,000 U.S. stores"	DEP=1C2-E-TEST-0105-14.8002
 1C2-E-TEST-0105-14.9	"Lowe's is hiring 40,000 seasonal workers for similar positions at its 1,700 U.S. stores."
-1C2-E-TEST-0105-14.9/001	hiring 40000 season worker
-1C2-E-TEST-0105-14.9/002	similar positions 1700 us stores
+1C2-E-TEST-0105-14.9/001	lowe hiring 40000 season worker
+1C2-E-TEST-0105-14.9/002	similar positions 1700 us stores	DEP=1C2-E-TEST-0105-14.9002
 1C2-E-TEST-0105-184.26	"We are thrilled to have the opportunity to partner with The Home Depot, the largest home improvement retailer in the world, said Martha Stewart, MSLO Founder."
-1C2-E-TEST-0105-184.26/001	martha stewart
-1C2-E-TEST-0105-184.26/002	mslo founder	DEP=1C2-E-TEST-0105-184.26001
-1C2-E-TEST-0105-184.26/003	opportunity
-1C2-E-TEST-0105-184.26/004	partner	DEP=1C2-E-TEST-0105-184.26003
-1C2-E-TEST-0105-184.26/005	largest improvement retailer 	DEP=1C2-E-TEST-0105-184.26004
+1C2-E-TEST-0105-184.26/001	mslo thrilled to have the opportunity to partner with The Home Depot
+1C2-E-TEST-0105-184.26/002	"said Martha Stewart, MSLO Founder."	DEP=1C2-E-TEST-0105-184.26001
 1C2-E-TEST-0105-2.14	Lowe's will provide reasonable accommodation to complete the online application consistent with applicable law.
 1C2-E-TEST-0105-2.14/001	provide reasonable accomodation
-1C2-E-TEST-0105-2.14/002	complete online application	DEP=1C2-E-TEST-0105-2.14001
-1C2-E-TEST-0105-2.14/003	consistent	DEP=1C2-E-TEST-0105-2.14002
-1C2-E-TEST-0105-2.14/004	applicable law	DEP=1C2-E-TEST-0105-2.14003
+1C2-E-TEST-0105-2.14/002	complete online application 	DEP=1C2-E-TEST-0105-2.14001
+1C2-E-TEST-0105-2.14/003	consistent with applicable law	DEP=1C2-E-TEST-0105-2.14002
 1C2-E-TEST-0105-2.3	"Since 1946, home is what Lowe's has been all about - helping our customers improve their homes, while creating a world-class environment our employees are proud to call home."
-1C2-E-TEST-0105-2.3/001	1946
-1C2-E-TEST-0105-2.3/002	home	DEP=1C2-E-TEST-0105-2.3001
-1C2-E-TEST-0105-2.3/003	helping customers improve homes
-1C2-E-TEST-0105-2.3/004	creating world-class environment
-1C2-E-TEST-0105-2.3/005	employees	DEP=1C2-E-TEST-0105-2.3004
-1C2-E-TEST-0105-2.3/006	proud	DEP=1C2-E-TEST-0105-2.3005
-1C2-E-TEST-0105-2.3/007	call	DEP=1C2-E-TEST-0105-2.3005
+1C2-E-TEST-0105-2.3/001	1946	DEP=1C2-E-TEST-0105-2.3002
+1C2-E-TEST-0105-2.3/002	home is what lowe's is about
+1C2-E-TEST-0105-2.3/003	helping customers improve homes	DEP=1C2-E-TEST-0105-2.3001
+1C2-E-TEST-0105-2.3/004	creating world-class environment	DEP=1C2-E-TEST-0105-2.3001
+1C2-E-TEST-0105-2.3/005	employees proud to call home	DEP=1C2-E-TEST-0105-2.3004
 1C2-E-TEST-0105-26.2	Home Improvement Stores Begin Seasonal Hiring
-1C2-E-TEST-0105-26.2/001	improvement stores begin
-1C2-E-TEST-0105-26.2/002	seasonal
+1C2-E-TEST-0105-26.2/001	improvement stores begin seasonal hiring
 1C2-E-TEST-0105-26.5	Companies such as Home Depot and Lowe's have announced they will be hiring seasonal workers to prepare for the spring rush of do-it-yourself handypeople looking to make home improvements and spruce up their yards.
-1C2-E-TEST-0105-26.5/001	companies
-1C2-E-TEST-0105-26.5/002	lowe 
-1C2-E-TEST-0105-26.5/003	announced 	DEP=1C2-E-TEST-0105-26.5002
-1C2-E-TEST-0105-26.5/004	seasonal workers	DEP=1C2-E-TEST-0105-26.5003
-1C2-E-TEST-0105-26.5/005	prepare spring rush	DEP=1C2-E-TEST-0105-26.5004
-1C2-E-TEST-0105-26.5/006	do-it-yourself handy people	DEP=1C2-E-TEST-0105-26.5005
-1C2-E-TEST-0105-26.5/007	improvements	DEP=1C2-E-TEST-0105-26.5006
-1C2-E-TEST-0105-26.5/008	spruce 	DEP=1C2-E-TEST-0105-26.5007
-1C2-E-TEST-0105-26.5/009	yards
+1C2-E-TEST-0105-26.5/001	Home Depot and Lowe's have announced they will be hiring seasonal workers
+1C2-E-TEST-0105-26.5/002	prepare for the spring rush of do-it-yourself handypeople 	DEP=1C2-E-TEST-0105-26.5001
+1C2-E-TEST-0105-26.5/003	looking to make home improvements and spruce up their yards	DEP=1C2-E-TEST-0105-26.5002
 1C2-E-TEST-0105-26.6	"Home Depot was reportedly hiring and training 60,000 workers nationwide to meet the demands of consumers (search jobs at Home Depot )."
-1C2-E-TEST-0105-26.6/001	reportedly
-1C2-E-TEST-0105-26.6/002	training 60000 workers	DEP=1C2-E-TEST-0105-26.6001
-1C2-E-TEST-0105-26.6/003	nationwide	DEP=1C2-E-TEST-0105-26.6002
-1C2-E-TEST-0105-26.6/004	meet demands	DEP=1C2-E-TEST-0105-26.6003
-1C2-E-TEST-0105-26.6/005	consumers	DEP=1C2-E-TEST-0105-26.6004
+1C2-E-TEST-0105-26.6/001	"Home Depot was reportedly hiring and training 60,000 workers"
+1C2-E-TEST-0105-26.6/002	meet the demands of consumers 	DEP=1C2-E-TEST-0105-26.6001
+1C2-E-TEST-0105-26.6/003	nationwide	DEP=1C2-E-TEST-0105-26.6001
 1C2-E-TEST-0105-38.16	Goldman Sachs recently upped Home Depot's target price from $37 to $42 a share.
-1C2-E-TEST-0105-38.16/001	goldman sachs
-1C2-E-TEST-0105-38.16/002	upped target price	DEP=1C2-E-TEST-0105-38.16001
-1C2-E-TEST-0105-38.16/003	$37 to $42 share	DEP=1C2-E-TEST-0105-38.16002
+1C2-E-TEST-0105-38.16/001	goldman sachs upped target price home depot	DEP=1C2-E-TEST-0105-38.16002
+1C2-E-TEST-0105-38.16/002	$37 to $42 share
 1C2-E-TEST-0105-38.34	"The temporary workers at Home Depot will be hired in time for the store's annual spring ""Black Friday,"" which includes ""door-busting"" sales on spring items ranging from patio sets to lawn and garden goods."
-1C2-E-TEST-0105-38.34/001	temporary workers
-1C2-E-TEST-0105-38.34/002	stores annual spring black Friday	DEP=1C2-E-TEST-0105-38.34001
-1C2-E-TEST-0105-38.34/003	door-busting sales	DEP=1C2-E-TEST-0105-38.34002
-1C2-E-TEST-0105-38.34/004	spring items	DEP=1C2-E-TEST-0105-38.34003
-1C2-E-TEST-0105-38.34/005	ranging patio sets	DEP=1C2-E-TEST-0105-38.34003
-1C2-E-TEST-0105-38.34/006	lawn garden goods	DEP=1C2-E-TEST-0105-38.34003
+1C2-E-TEST-0105-38.34/001	"temporary workers at Home Depot will be hired in time for the store's annual spring ""Black Friday,"""
+1C2-E-TEST-0105-38.34/002	"includes ""door-busting"" sales on spring items"	DEP=1C2-E-TEST-0105-38.34001
+1C2-E-TEST-0105-38.34/003	patio sets to lawn and garden goods	DEP=1C2-E-TEST-0105-38.34002
 1C2-E-TEST-0105-38.4	"Home Depot said Tuesday it will hire nearly 1,000 part-time seasonal workers for its 32 Minnesota stores, including 700 workers in its 20 Twin Cities stores, to handle the annual spring crush of business that appears to portend a pickup in home improvement projects as well."
-1C2-E-TEST-0105-38.4/001	32 minnesota stores
-1C2-E-TEST-0105-38.4/002	700 workers	DEP=1C2-E-TEST-0105-38.4001
-1C2-E-TEST-0105-38.4/003	20 twin cities	DEP=1C2-E-TEST-0105-38.4002
-1C2-E-TEST-0105-38.4/004	annual spring crush
-1C2-E-TEST-0105-38.4/005	business	DEP=1C2-E-TEST-0105-38.4004
-1C2-E-TEST-0105-38.4/006	portend pickup
-1C2-E-TEST-0105-38.4/007	improvement projects	DEP=1C2-E-TEST-0105-38.4005
+1C2-E-TEST-0105-38.4/001	"hire nearly 1,000 part-time seasonal workers for its 32 Minnesota stores"
+1C2-E-TEST-0105-38.4/002	hire 700 workers in its 20 Twin Cities stores
+1C2-E-TEST-0105-38.4/003	handle the annual spring crush of business 	DEP=1C2-E-TEST-0105-38.4001
+1C2-E-TEST-0105-38.4/004	spring crush appears to portend a pickup in home improvement projects as well
+1C2-E-TEST-0105-38.4/005	Home Depot said Tuesday	DEP=1C2-E-TEST-0105-38.4001
 1C2-E-TEST-0105-38.7	"Lowe's Companies Inc. said Tuesday that it will hire about 50,000 temporary workers this spring, up from 43,000 last year, a 16 percent increase."
-1C2-E-TEST-0105-38.7/001	"50,000 temporary workers"
-1C2-E-TEST-0105-38.7/002	spring
-1C2-E-TEST-0105-38.7/003	last year 43000
+1C2-E-TEST-0105-38.7/001	" hire about 50,000 temporary workers"
+1C2-E-TEST-0105-38.7/002	Lowe's Companies Inc. said Tuesday	DEP=1C2-E-TEST-0105-38.7001
+1C2-E-TEST-0105-38.7/003	"up from 43,000 last year, a 16 percent increase"	DEP=1C2-E-TEST-0105-38.7001
 1C2-E-TEST-0105-38.7/004	16percent increase
 1C2-E-TEST-0105-4.1	"Spring cleaning spurs Home Depot to hire 70,000"
-1C2-E-TEST-0105-4.1/001	spring cleaning
-1C2-E-TEST-0105-4.1/002	spurs
-1C2-E-TEST-0105-4.1/003	hire 70000
+1C2-E-TEST-0105-4.1/001	"Spring cleaning spurs Home Depot to hire 70,000"
 1C2-E-TEST-0105-4.10	"Home Depot would not provide a pay range for the positions, saying pay varies depending on the position, the worker's experience and the market where the store is located."
-1C2-E-TEST-0105-4.10/001	pay range for positions
-1C2-E-TEST-0105-4.10/002	pay varies	DEP=1C2-E-TEST-0105-4.10001
-1C2-E-TEST-0105-4.10/003	position 	DEP=1C2-E-TEST-0105-4.10002
-1C2-E-TEST-0105-4.10/004	workers experience	DEP=1C2-E-TEST-0105-4.10002
-1C2-E-TEST-0105-4.10/005	store location	DEP=1C2-E-TEST-0105-4.10002
+1C2-E-TEST-0105-4.10/001	Home Depot would not provide a pay range for the positions
+1C2-E-TEST-0105-4.10/002	pay varies depending on the position
+1C2-E-TEST-0105-4.10/003	pay varies depending on worker's experience
+1C2-E-TEST-0105-4.10/004	pay varies depending on market where the store is located
 1C2-E-TEST-0105-4.12	"The spring shopping season at Home Depot ( HD , Fortune 500 ) is like the holiday shopping season for the typical retailer."
-1C2-E-TEST-0105-4.12/001	spring shopping season
-1C2-E-TEST-0105-4.12/002	hd forutne 500	DEP=1C2-E-TEST-0105-4.12001
-1C2-E-TEST-0105-4.12/003	holiday shopping season	DEP=1C2-E-TEST-0105-4.12002
-1C2-E-TEST-0105-4.12/004	typical retailer	DEP=1C2-E-TEST-0105-4.12002
+1C2-E-TEST-0105-4.12/001	spring shopping season at Home Depot
+1C2-E-TEST-0105-4.12/002	 like the holiday shopping season for the typical retailer.	DEP=1C2-E-TEST-0105-4.12001
 1C2-E-TEST-0105-4.14	"As the nation's largest home improvement chain, Home Depot has 1,974 U.S. stores, and more than 300,000 employees worldwide."
-1C2-E-TEST-0105-4.14/001	nation largest improvement chain
-1C2-E-TEST-0105-4.14/002	1974 us stores	DEP=1C2-E-TEST-0105-4.14001
-1C2-E-TEST-0105-4.14/003	300000 employees worldwide	DEP=1C2-E-TEST-0105-4.14002
+1C2-E-TEST-0105-4.14/001	"Home Depot has 1,974 U.S. stores"
+1C2-E-TEST-0105-4.14/002	"home depot has more than 300,000 employees worldwide"
 1C2-E-TEST-0105-4.3	"Home Depot intends to hire 70,000 seasonal workers for its busy spring selling season this year."
-1C2-E-TEST-0105-4.3/001	intends 
-1C2-E-TEST-0105-4.3/002	hire 70000 seasonal workers	DEP=1C2-E-TEST-0105-4.3001
-1C2-E-TEST-0105-4.3/003	busy spring selling season	DEP=1C2-E-TEST-0105-4.3002
-1C2-E-TEST-0105-4.3/004	year	DEP=1C2-E-TEST-0105-4.3003
+1C2-E-TEST-0105-4.3/001	"Home Depot intends to hire 70,000 seasonal workers"
+1C2-E-TEST-0105-4.3/002	for its busy spring selling season this year.	DEP=1C2-E-TEST-0105-4.3001
 1C2-E-TEST-0105-4.5	"Home Depot announced Thursday it plans to hire 70,000 temporary workers at its U.S. stores to handle its spring selling season, the busiest time of the year for the home improvement chain."
-1C2-E-TEST-0105-4.5/001	hire 70000 temporary workers
-1C2-E-TEST-0105-4.5/002	us stores	DEP=1C2-E-TEST-0105-4.5001
-1C2-E-TEST-0105-4.5/003	handle spring selling seaon	DEP=1C2-E-TEST-0105-4.5002
-1C2-E-TEST-0105-4.5/004	busiest time	DEP=1C2-E-TEST-0105-4.5003
-1C2-E-TEST-0105-4.5/005	improvement chain	DEP=1C2-E-TEST-0105-4.5004
+1C2-E-TEST-0105-4.5/001	Home Depot announced Thursday	DEP=1C2-E-TEST-0105-4.5002
+1C2-E-TEST-0105-4.5/002	"plans to hire 70,000 temporary workers at its U.S. stores "
+1C2-E-TEST-0105-4.5/003	handle its spring selling season	DEP=1C2-E-TEST-0105-4.5002
+1C2-E-TEST-0105-4.5/004	busiest time of the year for the home improvement chain.	DEP=1C2-E-TEST-0105-4.5003
 1C2-E-TEST-0105-4.7	"The hiring target is 10,000 more than its announced target a year ago, although at that time it ended up hiring about 70,000 workers."
-1C2-E-TEST-0105-4.7/001	target 10000 more
-1C2-E-TEST-0105-4.7/002	announced target last year	DEP=1C2-E-TEST-0105-4.7001
-1C2-E-TEST-0105-4.7/003	although
-1C2-E-TEST-0105-4.7/004	70000 workers
+1C2-E-TEST-0105-4.7/001	" hiring target is 10,000 more than its announced target a year ago"
+1C2-E-TEST-0105-4.7/002	"ended up hiring about 70,000 workers."
 1C2-E-TEST-0105-4.9	"About half of The Home Depot's 2011 seasonal hires stayed on in permanent positions, said the company."
-1C2-E-TEST-0105-4.9/001	half
-1C2-E-TEST-0105-4.9/002	2011 seasonal hires	DEP=1C2-E-TEST-0105-4.9001
-1C2-E-TEST-0105-4.9/003	stayed	DEP=1C2-E-TEST-0105-4.9002
-1C2-E-TEST-0105-4.9/004	permanent positions	DEP=1C2-E-TEST-0105-4.9003
+1C2-E-TEST-0105-4.9/001	half of The Home Depot's 2011 seasonal hires stayed on in permanent positions
 1C2-E-TEST-0105-5.12	A seasonal job at the Home Depot can often lead to a regular position if you're passionate about customer service.
-1C2-E-TEST-0105-5.12/001	seasonal job
-1C2-E-TEST-0105-5.12/002	lead	DEP=1C2-E-TEST-0105-5.12001
-1C2-E-TEST-0105-5.12/003	regular position	DEP=1C2-E-TEST-0105-5.12002
-1C2-E-TEST-0105-5.12/004	passionate	DEP=1C2-E-TEST-0105-5.12003
-1C2-E-TEST-0105-5.12/005	customer service	DEP=1C2-E-TEST-0105-5.12004
-1C2-E-TEST-0105-5.13	"About half of Home Depot's 2011 seasonal hires stayed on in permanent positions, according to the Columbus Dispatch."
-1C2-E-TEST-0105-5.13/001	columbus dispatch
-1C2-E-TEST-0105-5.13/002	half 2011 seasonal hires	DEP=1C2-E-TEST-0105-5.13001
-1C2-E-TEST-0105-5.13/003	permanent positions	DEP=1C2-E-TEST-0105-5.13002
+1C2-E-TEST-0105-5.12/001	seasonal job at the Home Depot can often lead to a regular position
+1C2-E-TEST-0105-5.12/002	 if you're passionate about customer service.	DEP=1C2-E-TEST-0105-5.12001
 1C2-E-TEST-0105-5.5	"Home Depot and Lowe's are hiring tens of thousands of temporary workers for the spring, the Columbus Dispatch reported."
-1C2-E-TEST-0105-5.5/001	columbus dispatch
-1C2-E-TEST-0105-5.5/002	tens
-1C2-E-TEST-0105-5.5/003	thousands	DEP=1C2-E-TEST-0105-5.5002
-1C2-E-TEST-0105-5.5/004	temporary workers	DEP=1C2-E-TEST-0105-5.5001
-1C2-E-TEST-0105-5.5/005	spring	DEP=1C2-E-TEST-0105-5.5004
+1C2-E-TEST-0105-5.5/001	hiring tens of thousands of temporary workers
+1C2-E-TEST-0105-5.5/002	for the spring	DEP=1C2-E-TEST-0105-5.5001
 1C2-E-TEST-0105-5.6	"Home Depot plans to hire 70,000 seasonal workers for the majority of its 2,252 stores around the country, while Lowe's plans to hire 40,000 seasonal workers across its 1,714 U.S. stores."
-1C2-E-TEST-0105-5.6/001	plans
-1C2-E-TEST-0105-5.6/002	hire 70000 seasonal workers	DEP=1C2-E-TEST-0105-5.6001
-1C2-E-TEST-0105-5.6/003	majority
-1C2-E-TEST-0105-5.6/004	2252 stores	DEP=1C2-E-TEST-0105-5.6003
-1C2-E-TEST-0105-5.6/005	country	DEP=1C2-E-TEST-0105-5.6004
-1C2-E-TEST-0105-5.6/006	lowes 
-1C2-E-TEST-0105-5.6/007	"40,000 seasonal workers"	DEP=1C2-E-TEST-0105-5.6005
-1C2-E-TEST-0105-5.6/008	1714 us stores	DEP=1C2-E-TEST-0105-5.6006
+1C2-E-TEST-0105-5.6/001	"Home Depot plans to hire 70,000 seasonal workers"
+1C2-E-TEST-0105-5.6/002	" for the majority of its 2,252 stores around the country"	DEP=1C2-E-TEST-0105-5.6001
+1C2-E-TEST-0105-5.6/003	"Lowe's plans to hire 40,000 seasonal workers "
+1C2-E-TEST-0105-5.6/004	"across its 1,714 U.S. stores"	DEP=1C2-E-TEST-0105-5.6002
 1C2-E-TEST-0105-9.11	"About 61 percent worked full-time, and the company says its looking to bolster both full time and part time rosters."
-1C2-E-TEST-0105-9.11/001	61 percent
-1C2-E-TEST-0105-9.11/002	worked full-time	DEP=1C2-E-TEST-0105-9.11001
-1C2-E-TEST-0105-9.11/003	bolster both full time	DEP=1C2-E-TEST-0105-9.11002
-1C2-E-TEST-0105-9.11/004	part time rosters	DEP=1C2-E-TEST-0105-9.11003
+1C2-E-TEST-0105-9.11/001	 61 percent worked full-time
+1C2-E-TEST-0105-9.11/002	company says its looking to bolster both full time and part time rosters.
 1C2-E-TEST-0105-9.20	"In addition, there are openings at Home Depot distribution centers in Ontario, CA; Westfield, Mass; and Salem, Ore."
-1C2-E-TEST-0105-9.20/001	openings
-1C2-E-TEST-0105-9.20/002	distribution centers	DEP=1C2-E-TEST-0105-9.20001
-1C2-E-TEST-0105-9.20/003	ontario ca	DEP=1C2-E-TEST-0105-9.20002
-1C2-E-TEST-0105-9.20/004	westfield	DEP=1C2-E-TEST-0105-9.20002
-1C2-E-TEST-0105-9.20/005	mass	DEP=1C2-E-TEST-0105-9.20002
-1C2-E-TEST-0105-9.20/006	salem ore.	DEP=1C2-E-TEST-0105-9.20002
+1C2-E-TEST-0105-9.20/001	openings at Home Depot distribution centers
+1C2-E-TEST-0105-9.20/002	"centers in Ontario, CA Westfield, Mass and Salem, Ore."	DEP=1C2-E-TEST-0105-9.20001
 1C2-E-TEST-0105-9.26	"DonÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢t forget, Home Depot isnÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢t the only one hiring.ÃÂÃÂ  Lowes is hiring as well so get your foot in the door for a part-time job right now!"
-1C2-E-TEST-0105-9.26/001	foor
-1C2-E-TEST-0105-9.26/002	door	DEP=1C2-E-TEST-0105-9.26001
-1C2-E-TEST-0105-9.26/003	part-time job	DEP=1C2-E-TEST-0105-9.26002
+1C2-E-TEST-0105-9.26/001	Lowes is hiring
+1C2-E-TEST-0105-9.26/002	get your foot in the door for a part-time job right now	DEP=1C2-E-TEST-0105-9.26001
 1C2-E-TEST-0105-9.3	"Are you looking for a job?ÃÂÃÂ  Well Home Depot and Lowes is looking for you and youÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢d better go see them right now.ÃÂÃÂ  The new jobs may be seasonal, part time and temporary, but the 60,000 jobs Home Depot is offering right now total more than all new jobs created in the entire nation last month (36,000)."
-1C2-E-TEST-0105-9.3/001	looking
-1C2-E-TEST-0105-9.3/002	job	DEP=1C2-E-TEST-0105-9.3001
-1C2-E-TEST-0105-9.3/003	new jobs	DEP=1C2-E-TEST-0105-9.3002
-1C2-E-TEST-0105-9.3/004	seasonal	DEP=1C2-E-TEST-0105-9.3003
-1C2-E-TEST-0105-9.3/005	part time  	DEP=1C2-E-TEST-0105-9.3003
-1C2-E-TEST-0105-9.3/006	temporary	DEP=1C2-E-TEST-0105-9.3003
-1C2-E-TEST-0105-9.3/007	60000 jobs
-1C2-E-TEST-0105-9.3/008	total	DEP=1C2-E-TEST-0105-9.3007
-1C2-E-TEST-0105-9.3/009	all new jobs created
-1C2-E-TEST-0105-9.3/010	entire nation last month 36000	DEP=1C2-E-TEST-0105-9.3009
+1C2-E-TEST-0105-9.3/001	new jobs may be seasonal
+1C2-E-TEST-0105-9.3/002	"part time and temporary,"	DEP=1C2-E-TEST-0105-9.3001
+1C2-E-TEST-0105-9.3/003	"60,000 jobs Home Depot is offering right now total more than all new jobs created in the entire nation last month (36,000)"
 1C2-E-TEST-0105-9.5	"It seems the worldÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s largest home improvementÃÂÃÂ retailer is staffing upÃÂÃÂ as it prepares for the biggest selling season of the year, March through mid-June, when people do their Spring cleaning and repair, and gear up for summer."
-1C2-E-TEST-0105-9.5/001	worlds largest improvement retailer
-1C2-E-TEST-0105-9.5/002	staffing 	DEP=1C2-E-TEST-0105-9.5001
-1C2-E-TEST-0105-9.5/003	prepares biggest selling season	DEP=1C2-E-TEST-0105-9.5001
-1C2-E-TEST-0105-9.5/004	march mid-june	DEP=1C2-E-TEST-0105-9.5003
-1C2-E-TEST-0105-9.5/005	people 
-1C2-E-TEST-0105-9.5/006	spring cleaning	DEP=1C2-E-TEST-0105-9.5005
-1C2-E-TEST-0105-9.5/007	repair	DEP=1C2-E-TEST-0105-9.5005
-1C2-E-TEST-0105-9.5/008	gear up
-1C2-E-TEST-0105-9.5/009	summer	DEP=1C2-E-TEST-0105-9.5008
+1C2-E-TEST-0105-9.5/001	worlds largest improvement retailer staffing up
+1C2-E-TEST-0105-9.5/002	"prepares for the biggest selling season of the year,"	DEP=1C2-E-TEST-0105-9.5001
+1C2-E-TEST-0105-9.5/003	March through mid-June	DEP=1C2-E-TEST-0105-9.5002
+1C2-E-TEST-0105-9.5/004	"people do their Spring cleaning and repair, and gear up for summer."	DEP=1C2-E-TEST-0105-9.5002
 1C2-E-TEST-0105-9.6	"Beginning in March, the retailer will roll out massive advertising campaigns, touting discounts on cooking grills, garden tools and other outdoor supplies."
-1C2-E-TEST-0105-9.6/001	beginning march
-1C2-E-TEST-0105-9.6/002	retailer roll out	DEP=1C2-E-TEST-0105-9.6001
-1C2-E-TEST-0105-9.6/003	massive advertising campaigns	DEP=1C2-E-TEST-0105-9.6002
-1C2-E-TEST-0105-9.6/004	touting discounts	DEP=1C2-E-TEST-0105-9.6002
-1C2-E-TEST-0105-9.6/005	cooking grills	DEP=1C2-E-TEST-0105-9.6004
-1C2-E-TEST-0105-9.6/006	garden tools	DEP=1C2-E-TEST-0105-9.6004
-1C2-E-TEST-0105-9.6/007	outdoor supplies	DEP=1C2-E-TEST-0105-9.6004
+1C2-E-TEST-0105-9.6/001	beginning march	DEP=1C2-E-TEST-0105-9.6002
+1C2-E-TEST-0105-9.6/002	retailer will roll out massive advertising campaigns
+1C2-E-TEST-0105-9.6/003	touting discounts 	DEP=1C2-E-TEST-0105-9.6002
+1C2-E-TEST-0105-9.6/004	"discounts on cooking grills, garden tools and other outdoor supplies."	DEP=1C2-E-TEST-0105-9.6003

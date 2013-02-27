@@ -1,336 +1,111 @@
 ﻿1C2-E-TEST-0049-109.2	COLUMBIA, SCÃÂÃÂ ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ 2012 Republican Presidential candidate Ron Paul received today the key endorsement of tea party favorite and South Carolina political heavyweight, state Sen. Tom Davis (R-Beaufort).
-1C2-E-TEST-0049-109.2/001	Columbia
-1C2-E-TEST-0049-109.2/002	2012
-1C2-E-TEST-0049-109.2/003	Republican presedential candidate
-1C2-E-TEST-0049-109.2/004	Received today	DEP=1C2-E-TEST-0049-109.2003
-1C2-E-TEST-0049-109.2/005	Key endorsement	DEP=1C2-E-TEST-0049-109.2004
-1C2-E-TEST-0049-109.2/006	Favorite
-1C2-E-TEST-0049-109.2/007	South carolina political heavyweight
-1C2-E-TEST-0049-109.2/008	State sen. Tom davis 
-1C2-E-TEST-0049-109.2/009	r-beaufort	DEP=1C2-E-TEST-0049-109.2008
+1C2-E-TEST-0049-109.2/001	COLUMBIA, 2012 Republican Presidential candidate Ron Paul received today the key endorsement of tea party favorite
+1C2-E-TEST-0049-109.2/002	South Carolina political heavyweight, state Sen. Tom Davis R-Beaufort	DEP=1C2-E-TEST-0049-109.2001
 1C2-E-TEST-0049-139.10	Paul's son, Rand, is a Tea Party favorite in his race for Senate in Kentucky -- he was recently endorsed by Sarah Palin , who was the keynote speaker at the Tea Party Convention in Nashville earlier this month.ÃÂ 
-1C2-E-TEST-0049-139.10/001	Son 
-1C2-E-TEST-0049-139.10/002	Rand	DEP=1C2-E-TEST-0049-139.10001
-1C2-E-TEST-0049-139.10/003	Favorite
-1C2-E-TEST-0049-139.10/004	Race
-1C2-E-TEST-0049-139.10/005	Senate
-1C2-E-TEST-0049-139.10/006	Kentucky	DEP=1C2-E-TEST-0049-139.10005
-1C2-E-TEST-0049-139.10/007	Recently endorsed
-1C2-E-TEST-0049-139.10/008	Sarah palin
-1C2-E-TEST-0049-139.10/009	Keynote speaker	DEP=1C2-E-TEST-0049-139.10008
-1C2-E-TEST-0049-139.10/010	Convention
-1C2-E-TEST-0049-139.10/011	Nashville
-1C2-E-TEST-0049-139.10/012	Earlier 
-1C2-E-TEST-0049-139.10/013	Month	DEP=1C2-E-TEST-0049-139.10012
+1C2-E-TEST-0049-139.10/001	Paul's son, Rand, is a Tea Party favorite in his race for Senate in Kentucky
+1C2-E-TEST-0049-139.10/002	he was recently endorsed by Sarah Palin , who was the keynote speaker at the Tea Party Convention in Nashville earlier this month
 1C2-E-TEST-0049-139.31	He and Wall, who helped organize a local tax day Tea Party rally last April, said the claim that Paul inspired the Tea Party movement is false.ÃÂ 
-1C2-E-TEST-0049-139.31/001	Wall
-1C2-E-TEST-0049-139.31/002	Helped organize
-1C2-E-TEST-0049-139.31/003	Local tax day	DEP=1C2-E-TEST-0049-139.31002
-1C2-E-TEST-0049-139.31/004	Rally
-1C2-E-TEST-0049-139.31/005	Last april	DEP=1C2-E-TEST-0049-139.31004
-1C2-E-TEST-0049-139.31/006	Claim
-1C2-E-TEST-0049-139.31/007	Inspired	DEP=1C2-E-TEST-0049-139.31006
-1C2-E-TEST-0049-139.31/008	Movement	DEP=1C2-E-TEST-0049-139.31007
-1C2-E-TEST-0049-139.31/009	False	DEP=1C2-E-TEST-0049-139.31006
+1C2-E-TEST-0049-139.31/001	He and Wall, helped organize a local tax day Tea Party rally last April
+1C2-E-TEST-0049-139.31/002	they said the claim that Paul inspired the Tea Party movement is false	DEP=1C2-E-TEST-0049-139.31001
 1C2-E-TEST-0049-139.7	Though Ron Paul may be the model of the grassroots-backed conservative candidate that Tea Party groups are looking for, the candidates challenging him in the Republican primary this year say the good doctor brought it on himself -- by spending too much time running for president and not enough time tending to his district, and being so prickly with congressional colleagues as to render himself obsolete.
-1C2-E-TEST-0049-139.7/001	Model
-1C2-E-TEST-0049-139.7/002	Grassroots-backed conservative candidate	DEP=1C2-E-TEST-0049-139.7001
-1C2-E-TEST-0049-139.7/003	Groups
-1C2-E-TEST-0049-139.7/004	Looking
-1C2-E-TEST-0049-139.7/005	Candidates challenging 
-1C2-E-TEST-0049-139.7/006	Republican primary	DEP=1C2-E-TEST-0049-139.7005
-1C2-E-TEST-0049-139.7/007	Year
-1C2-E-TEST-0049-139.7/008	Good doctor
-1C2-E-TEST-0049-139.7/009	Spending
-1C2-E-TEST-0049-139.7/010	Time	DEP=1C2-E-TEST-0049-139.7009
-1C2-E-TEST-0049-139.7/011	Running
-1C2-E-TEST-0049-139.7/012	President	DEP=1C2-E-TEST-0049-139.7011
-1C2-E-TEST-0049-139.7/013	Enough time tending
-1C2-E-TEST-0049-139.7/014	District
-1C2-E-TEST-0049-139.7/015	Prickly
-1C2-E-TEST-0049-139.7/016	Congressional collegues	DEP=1C2-E-TEST-0049-139.7015
-1C2-E-TEST-0049-139.7/017	Render
-1C2-E-TEST-0049-139.7/018	Obsolete	DEP=1C2-E-TEST-0049-139.7017
+1C2-E-TEST-0049-139.7/001	Though Ron Paul may be the model of the grassroots-backed conservative candidate that Tea Party groups are looking for
+1C2-E-TEST-0049-139.7/002	 the candidates challenging him in the Republican primary this year say the good doctor brought it on himself	DEP=1C2-E-TEST-0049-139.7001
+1C2-E-TEST-0049-139.7/003	 he spent too much time running for president 	DEP=1C2-E-TEST-0049-139.7001
+1C2-E-TEST-0049-139.7/004	he did not give enough time tending to his district	DEP=1C2-E-TEST-0049-139.7001
+1C2-E-TEST-0049-139.7/005	 he was being so prickly with congressional colleagues as to render himself obsolete	DEP=1C2-E-TEST-0049-139.7001
 1C2-E-TEST-0049-147.120	If Cruz manages a run-off, the Tea Party movement in Texas and Indiana may be prologue to a wider story of Tea Party insurgency in election 2012.
-1C2-E-TEST-0049-147.120/001	Cruz
-1C2-E-TEST-0049-147.120/002	Manages run-off	DEP=1C2-E-TEST-0049-147.120001
-1C2-E-TEST-0049-147.120/003	Movement
-1C2-E-TEST-0049-147.120/004	Texas	DEP=1C2-E-TEST-0049-147.120003
-1C2-E-TEST-0049-147.120/005	Indiana	DEP=1C2-E-TEST-0049-147.120003
-1C2-E-TEST-0049-147.120/006	Prologue
-1C2-E-TEST-0049-147.120/007	Wider story	DEP=1C2-E-TEST-0049-147.120006
-1C2-E-TEST-0049-147.120/008	Insurgency
-1C2-E-TEST-0049-147.120/009	Election 2012	DEP=1C2-E-TEST-0049-147.120007
+1C2-E-TEST-0049-147.120/001	the Tea Party movement in Texas and Indiana may be prologue to a wider story of Tea Party insurgency in election 2012
+1C2-E-TEST-0049-147.120/002	If Cruz manages a run-off	DEP=1C2-E-TEST-0049-147.120001
 1C2-E-TEST-0049-197.17	Neo-Nazis speak openly about their involvement and support for the Tea Party movement on the White Supremacist Site, Stormfront.
-1C2-E-TEST-0049-197.17/001	Neo-nazis
-1C2-E-TEST-0049-197.17/002	Speak openly
-1C2-E-TEST-0049-197.17/003	Involvement Support
-1C2-E-TEST-0049-197.17/004	Movement
-1C2-E-TEST-0049-197.17/005	White supremacist site
-1C2-E-TEST-0049-197.17/006	Stormfront
+1C2-E-TEST-0049-197.17/001	Neo-Nazis speak openly about their involvement and support for the Tea Party movement on the White Supremacist Site, Stormfront
 1C2-E-TEST-0049-197.2	The Tea Party, which started off as a Libertarian protest against taxes and government, has turned into a right wing, corporate sponsored, racist hate-fest.
-1C2-E-TEST-0049-197.2/001	Started off
-1C2-E-TEST-0049-197.2/002	Libertarian protest
-1C2-E-TEST-0049-197.2/003	Taxes government	DEP=1C2-E-TEST-0049-197.2002
-1C2-E-TEST-0049-197.2/004	Right wing	DEP=1C2-E-TEST-0049-197.2006
-1C2-E-TEST-0049-197.2/005	Corporate sponsored Racist hate-fest	DEP=1C2-E-TEST-0049-197.2004
-1C2-E-TEST-0049-197.2/006	Turned
+1C2-E-TEST-0049-197.2/001	The Tea Party started off as a Libertarian protest against taxes and government
+1C2-E-TEST-0049-197.2/002	 The Tea Party has turned into a right wing, corporate sponsored, racist hate-fest
 1C2-E-TEST-0049-197.6	The same people behind the Bush administration have decided to use the Tea Party movement to put the Republicans back in power.
-1C2-E-TEST-0049-197.6/001	People
-1C2-E-TEST-0049-197.6/002	Bush administration
-1C2-E-TEST-0049-197.6/003	Decided	DEP=1C2-E-TEST-0049-197.6001
-1C2-E-TEST-0049-197.6/004	Movement
-1C2-E-TEST-0049-197.6/005	Put
-1C2-E-TEST-0049-197.6/006	Republicans back	DEP=1C2-E-TEST-0049-197.6005
-1C2-E-TEST-0049-197.6/007	Power	DEP=1C2-E-TEST-0049-197.6006
+1C2-E-TEST-0049-197.6/001	The same people behind the Bush administration have decided to use the Tea Party movement to put the Republicans back in power
 1C2-E-TEST-0049-217.10	Rand Paul indicated today that he believes it would be bad for the Tea Party if his father, Ron Paul, decides to run as a third-party presidential candidate.
-1C2-E-TEST-0049-217.10/001	Rand
-1C2-E-TEST-0049-217.10/002	Indicated today	DEP=1C2-E-TEST-0049-217.10001
-1C2-E-TEST-0049-217.10/003	Believes	DEP=1C2-E-TEST-0049-217.10001
-1C2-E-TEST-0049-217.10/004	Bad
-1C2-E-TEST-0049-217.10/005	Father
-1C2-E-TEST-0049-217.10/006	Decides
-1C2-E-TEST-0049-217.10/007	Run 	DEP=1C2-E-TEST-0049-217.10006
-1C2-E-TEST-0049-217.10/008	Third-party presidential candidate	DEP=1C2-E-TEST-0049-217.10007
+1C2-E-TEST-0049-217.10/001	he believes it would be bad for the Tea Party if his father, Ron Paul, decides to run as a third-party presidential candidate.
+1C2-E-TEST-0049-217.10/002	Rand Paul indicated today 	DEP=1C2-E-TEST-0049-217.10001
 1C2-E-TEST-0049-217.11	But the younger Paul, a Republican senator from Kentucky, declined to say if he would support his father if Ron Paul does end up running on a third-party ticket.
-1C2-E-TEST-0049-217.11/001	Younger
-1C2-E-TEST-0049-217.11/002	Repulican senator
-1C2-E-TEST-0049-217.11/003	Kentucky	DEP=1C2-E-TEST-0049-217.11002
-1C2-E-TEST-0049-217.11/004	Declined
-1C2-E-TEST-0049-217.11/005	Support
-1C2-E-TEST-0049-217.11/006	Father	DEP=1C2-E-TEST-0049-217.11005
-1C2-E-TEST-0049-217.11/007	End up running
-1C2-E-TEST-0049-217.11/008	Third-party ticket	DEP=1C2-E-TEST-0049-217.11007
+1C2-E-TEST-0049-217.11/001	But the younger Paul declined to say if he would support his father if Ron Paul does end up running on a third-party ticket.
+1C2-E-TEST-0049-217.11/002	a Republican senator from Kentucky	DEP=1C2-E-TEST-0049-217.11001
 1C2-E-TEST-0049-217.15	Asked if he would support his father as a third-party candidate, Paul replied:ÃÂÃÂ "I've always said I think the Tea Party movement is best and most effective within the Republican party.
-1C2-E-TEST-0049-217.15/001	Asked
-1C2-E-TEST-0049-217.15/002	Support
-1C2-E-TEST-0049-217.15/003	Father	DEP=1C2-E-TEST-0049-217.15002
-1C2-E-TEST-0049-217.15/004	Third-party candidate	DEP=1C2-E-TEST-0049-217.15003
-1C2-E-TEST-0049-217.15/005	Replied
-1C2-E-TEST-0049-217.15/006	Best	DEP=1C2-E-TEST-0049-217.15009
-1C2-E-TEST-0049-217.15/007	Effective	DEP=1C2-E-TEST-0049-217.15009
-1C2-E-TEST-0049-217.15/008	Republican party
-1C2-E-TEST-0049-217.15/009	Movement
+1C2-E-TEST-0049-217.15/001	Asked if he would support his father as a third-party candidate, 	DEP=1C2-E-TEST-0049-217.15002
+1C2-E-TEST-0049-217.15/002	I've always said I think the Tea Party movement is best and most effective within the Republican party.
+1C2-E-TEST-0049-217.15/003	Paul replied 	DEP=1C2-E-TEST-0049-217.15002
 1C2-E-TEST-0049-217.16	The Tea Party movement as a separate movement would divide some of the Republican vote."ÃÂÃÂ 
-1C2-E-TEST-0049-217.16/001	Movement
-1C2-E-TEST-0049-217.16/002	Separate movement
-1C2-E-TEST-0049-217.16/003	Divide	DEP=1C2-E-TEST-0049-217.16001
-1C2-E-TEST-0049-217.16/004	Republican vote	DEP=1C2-E-TEST-0049-217.16003
+1C2-E-TEST-0049-217.16/001	The Tea Party movement as a separate movement would divide some of the Republican vote
 1C2-E-TEST-0049-217.17	I have not been publicly in favor of a third party candidate and I have not been in favor of the Tea Party splitting off, Paul said.
-1C2-E-TEST-0049-217.17/001	Publicly
-1C2-E-TEST-0049-217.17/002	Favor
-1C2-E-TEST-0049-217.17/003	Third party candidate	DEP=1C2-E-TEST-0049-217.17002
-1C2-E-TEST-0049-217.17/004	Favor
-1C2-E-TEST-0049-217.17/005	Splitting
+1C2-E-TEST-0049-217.17/001	I have not been publicly in favor of a third party candidate 
+1C2-E-TEST-0049-217.17/002	 I have not been in favor of the Tea Party splitting off, Paul said
 1C2-E-TEST-0049-221.7	In an election year without the Tea Party movement, Rand PaulÃ¢ÂÂs campaign to become KentuckyÃ¢ÂÂs next U.S. senator would be just as quixotic as the bid his father, Ron Paul, made for the Republican presidential nomination in 2008.
-1C2-E-TEST-0049-221.7/001	Election year
-1C2-E-TEST-0049-221.7/002	Movement
-1C2-E-TEST-0049-221.7/003	Rand
-1C2-E-TEST-0049-221.7/004	Campaign	DEP=1C2-E-TEST-0049-221.7003
-1C2-E-TEST-0049-221.7/005	Kentucky	DEP=1C2-E-TEST-0049-221.7004
-1C2-E-TEST-0049-221.7/006	Us senator
-1C2-E-TEST-0049-221.7/007	Quixotic	DEP=1C2-E-TEST-0049-221.7006
-1C2-E-TEST-0049-221.7/008	Bid
-1C2-E-TEST-0049-221.7/009	Father
-1C2-E-TEST-0049-221.7/010	Republican presedential nomination	DEP=1C2-E-TEST-0049-221.7011
-1C2-E-TEST-0049-221.7/011	2008
+1C2-E-TEST-0049-221.7/001	In an election year without the Tea Party movement, Rand Paul campaign to become Kentucky next U.S. senator would be just as quixotic as the bid his father, Ron Paul, made for the Republican presidential nomination in 2008
 1C2-E-TEST-0049-237.3	ThereÃ¢ÂÂs a battle brewing between the big-government establishment, sometimes called neoconservatives, and both the Ron Paul and Tea Party factions of the party.
-1C2-E-TEST-0049-237.3/001	Battle brewing
-1C2-E-TEST-0049-237.3/002	Big government establishment	DEP=1C2-E-TEST-0049-237.3001
-1C2-E-TEST-0049-237.3/003	Called Neoconservatives	DEP=1C2-E-TEST-0049-237.3002
-1C2-E-TEST-0049-237.3/004	Factions
-1C2-E-TEST-0049-237.3/005	Party	DEP=1C2-E-TEST-0049-237.3004
+1C2-E-TEST-0049-237.3/001	There a battle brewing between the big-government establishment
+1C2-E-TEST-0049-237.3/002	it is sometime called neoconservatives, and both the Ron Paul and Tea Party factions of the party	DEP=1C2-E-TEST-0049-237.3001
 1C2-E-TEST-0049-237.35	The insurgency inside the GOP got a shot in the arm in 2010 with the election of Tea Party candidates such as Kentucky Senator Rand Paul and Utah Senator Mike Lee.
-1C2-E-TEST-0049-237.35/001	Insurgency
-1C2-E-TEST-0049-237.35/002	Gop
-1C2-E-TEST-0049-237.35/003	Shot
-1C2-E-TEST-0049-237.35/004	Arm	DEP=1C2-E-TEST-0049-237.35003
-1C2-E-TEST-0049-237.35/005	2010
-1C2-E-TEST-0049-237.35/006	Candidates  
-1C2-E-TEST-0049-237.35/007	Kentucky senator rand	DEP=1C2-E-TEST-0049-237.35006
-1C2-E-TEST-0049-237.35/008	Utah senator mike lee	DEP=1C2-E-TEST-0049-237.35006
+1C2-E-TEST-0049-237.35/001	The insurgency inside the GOP got a shot in the arm in 2010
+1C2-E-TEST-0049-237.35/002	 with the election of Tea Party candidates such as Kentucky Senator Rand Paul and Utah Senator Mike Lee	DEP=1C2-E-TEST-0049-237.35001
 1C2-E-TEST-0049-237.70	Kwiatkowski, on the other hand, has pledged to vote against all debt limit increases and to stand with both the Ron Paul movement and the Tea Party movement in seeking less spending and lower taxes.
-1C2-E-TEST-0049-237.70/001	Kwiatkowski
-1C2-E-TEST-0049-237.70/002	Hand
-1C2-E-TEST-0049-237.70/003	Pledged
-1C2-E-TEST-0049-237.70/004	Vote	DEP=1C2-E-TEST-0049-237.70003
-1C2-E-TEST-0049-237.70/005	Debt limit increases
-1C2-E-TEST-0049-237.70/006	Stand
-1C2-E-TEST-0049-237.70/007	Movement	DEP=1C2-E-TEST-0049-237.70006
-1C2-E-TEST-0049-237.70/008	Movement	DEP=1C2-E-TEST-0049-237.70006
-1C2-E-TEST-0049-237.70/009	Seeking less spending	DEP=1C2-E-TEST-0049-237.70008
-1C2-E-TEST-0049-237.70/010	Lower taxes	DEP=1C2-E-TEST-0049-237.70008
+1C2-E-TEST-0049-237.70/001	Kwiatkowski, on the other hand, has pledged to vote against all debt limit increases
+1C2-E-TEST-0049-237.70/002	he pledged to stand with both the Ron Paul movement and the Tea Party movement in seeking less spending and lower taxes	DEP=1C2-E-TEST-0049-237.70001
 1C2-E-TEST-0049-239.1	Ron, Rand Paul hold joint tea party rally in Texas
 1C2-E-TEST-0049-239.7	The national Tea Party Express is sponsoring the event which also features Ted Cruz.
-1C2-E-TEST-0049-239.7/001	National Express
-1C2-E-TEST-0049-239.7/002	Sponsoring	DEP=1C2-E-TEST-0049-239.7001
-1C2-E-TEST-0049-239.7/003	Event	DEP=1C2-E-TEST-0049-239.7002
-1C2-E-TEST-0049-239.7/004	Features
-1C2-E-TEST-0049-239.7/005	Ted cruz	DEP=1C2-E-TEST-0049-239.7004
+1C2-E-TEST-0049-239.7/001	The national Tea Party Express is sponsoring the event
+1C2-E-TEST-0049-239.7/002	it also features Ted Cruz	DEP=1C2-E-TEST-0049-239.7001
 1C2-E-TEST-0049-25.13	Ron Paul supporters do not want to talk about the real Ron Paul and his entire record.
-1C2-E-TEST-0049-25.13/001	Supporters
-1C2-E-TEST-0049-25.13/002	Talk
-1C2-E-TEST-0049-25.13/003	Real
-1C2-E-TEST-0049-25.13/004	Entire record
+1C2-E-TEST-0049-25.13/001	Ron Paul supporters do not want to talk about the real Ron Paul and his entire record
 1C2-E-TEST-0049-25.15	Ron Paul supporters have cried for the spotllight on their candidate. So far he has run from it.
-1C2-E-TEST-0049-25.15/001	Supporters
-1C2-E-TEST-0049-25.15/002	Cried	DEP=1C2-E-TEST-0049-25.15001
-1C2-E-TEST-0049-25.15/003	Spotllight	DEP=1C2-E-TEST-0049-25.15002
-1C2-E-TEST-0049-25.15/004	Candidate 	DEP=1C2-E-TEST-0049-25.15003
-1C2-E-TEST-0049-25.15/005	Run 
+1C2-E-TEST-0049-25.15/001	Ron Paul supporters have cried for the spotllight on their candidate
+1C2-E-TEST-0049-25.15/002	So far he has run from it	DEP=1C2-E-TEST-0049-25.15001
 1C2-E-TEST-0049-80.116	On June 21, 2011, Paul was the first 2012 Republican presidential candidate to sign the Cut, Cap, and Balance Pledge.
-1C2-E-TEST-0049-80.116/001	June 21 2011
-1C2-E-TEST-0049-80.116/002	First 2012 republican candidate	DEP=1C2-E-TEST-0049-80.116001
-1C2-E-TEST-0049-80.116/003	Sign
-1C2-E-TEST-0049-80.116/004	Cut
-1C2-E-TEST-0049-80.116/005	Cap
-1C2-E-TEST-0049-80.116/006	Balance pledge
+1C2-E-TEST-0049-80.116/001	On June 21, 2011, Paul was the first 2012 Republican presidential candidate to sign the Cut, Cap, and Balance Pledge
 1C2-E-TEST-0049-80.181	Ron Paul support sign on day of the Michigan presidential primary, Ann Arbor
-1C2-E-TEST-0049-80.181/001	Support sign
-1C2-E-TEST-0049-80.181/002	Day
-1C2-E-TEST-0049-80.181/003	Michigan presidential primary
-1C2-E-TEST-0049-80.181/004	Ann arbor	DEP=1C2-E-TEST-0049-80.181003
+1C2-E-TEST-0049-80.181/001	Ron Paul support sign on day of the Michigan presidential primary, Ann Arbor
 1C2-E-TEST-0049-80.3	Heavily speculated as a possible Republican candidate in the 2012 presidential election , Paul appeared in the 2010 Conservative Political Action Conference (CPAC) straw poll .
-1C2-E-TEST-0049-80.3/001	Heavily speculated
-1C2-E-TEST-0049-80.3/002	Possible republican candidate
-1C2-E-TEST-0049-80.3/003	2012 presidential election	DEP=1C2-E-TEST-0049-80.3002
-1C2-E-TEST-0049-80.3/004	Appeared
-1C2-E-TEST-0049-80.3/005	2010 conservative political action conference	DEP=1C2-E-TEST-0049-80.3004
-1C2-E-TEST-0049-80.3/006	Cpac	DEP=1C2-E-TEST-0049-80.3005
-1C2-E-TEST-0049-80.3/007	Straw poll
+1C2-E-TEST-0049-80.3/001	paul was heavily speculated as a possible Republican candidate in the 2012 presidential election
+1C2-E-TEST-0049-80.3/002	Paul appeared in the 2010 Conservative Political Action Conference (CPAC) straw poll
 1C2-E-TEST-0049-80.38	On September 12, Paul attended the Tea Party Republican Presidential debate broadcasted by CNN.
-1C2-E-TEST-0049-80.38/001	September 12
-1C2-E-TEST-0049-80.38/002	Attended
-1C2-E-TEST-0049-80.38/003	Republican presidential debate 	DEP=1C2-E-TEST-0049-80.38002
-1C2-E-TEST-0049-80.38/004	broadcasted
-1C2-E-TEST-0049-80.38/005	Cnn	DEP=1C2-E-TEST-0049-80.38004
+1C2-E-TEST-0049-80.38/001	 Paul attended the Tea Party Republican Presidential debate broadcasted by CNN.
+1C2-E-TEST-0049-80.38/002	On September 12	DEP=1C2-E-TEST-0049-80.38001
 1C2-E-TEST-0049-80.52	On October 22, Paul won the Ohio Republican straw poll with the support of 53% of the participants, more than double the support of the second-place candidate, Herman Cain (26%).
-1C2-E-TEST-0049-80.52/001	October 22
-1C2-E-TEST-0049-80.52/002	Won
-1C2-E-TEST-0049-80.52/003	Ohio republican straw poll	DEP=1C2-E-TEST-0049-80.52002
-1C2-E-TEST-0049-80.52/004	Support
-1C2-E-TEST-0049-80.52/005	53%	DEP=1C2-E-TEST-0049-80.52004
-1C2-E-TEST-0049-80.52/006	Participants	DEP=1C2-E-TEST-0049-80.52005
-1C2-E-TEST-0049-80.52/007	Support
-1C2-E-TEST-0049-80.52/008	Second-place candidate
-1C2-E-TEST-0049-80.52/009	Hermain cain	DEP=1C2-E-TEST-0049-80.52008
-1C2-E-TEST-0049-80.52/010	26%	DEP=1C2-E-TEST-0049-80.52007
+1C2-E-TEST-0049-80.52/001	On October 22, Paul won the Ohio Republican straw poll with the support of 53% of the participants
+1C2-E-TEST-0049-80.52/002	it was more than double the support of the second-place candidate, Herman Cain 26%	DEP=1C2-E-TEST-0049-80.52001
 1C2-E-TEST-0049-91.111	The Tea Party movement is not a national political party; polls show that most Tea Partiers consider themselves to be Republicans [77] [78] and the movement's supporters have tended to endorse Republican candidates.
-1C2-E-TEST-0049-91.111/001	Movement
-1C2-E-TEST-0049-91.111/002	National political
-1C2-E-TEST-0049-91.111/003	Polls
-1C2-E-TEST-0049-91.111/004	Partiers
-1C2-E-TEST-0049-91.111/005	Republicans  	DEP=1C2-E-TEST-0049-91.111004
-1C2-E-TEST-0049-91.111/006	77
-1C2-E-TEST-0049-91.111/007	78
-1C2-E-TEST-0049-91.111/008	Movement supporters
-1C2-E-TEST-0049-91.111/009	Tended	DEP=1C2-E-TEST-0049-91.111008
-1C2-E-TEST-0049-91.111/010	Endorse	DEP=1C2-E-TEST-0049-91.111009
-1C2-E-TEST-0049-91.111/011	Republican candidates	DEP=1C2-E-TEST-0049-91.111010
+1C2-E-TEST-0049-91.111/001	The Tea Party movement is not a national political party
+1C2-E-TEST-0049-91.111/002	polls show that most Tea Partiers consider themselves to be Republicans 	DEP=1C2-E-TEST-0049-91.111001
+1C2-E-TEST-0049-91.111/003	the movement's supporters have tended to endorse Republican candidates	DEP=1C2-E-TEST-0049-91.111001
 1C2-E-TEST-0049-91.220	[148] The Wall Street JournalÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂNBC News poll in mid October showed 35% of likely voters were Tea-party supporters, and they favored the Republicans by 84% to 10%.
-1C2-E-TEST-0049-91.220/001	Wall street journal
-1C2-E-TEST-0049-91.220/002	Nbc news poll	DEP=1C2-E-TEST-0049-91.220002
-1C2-E-TEST-0049-91.220/003	Mid october showed
-1C2-E-TEST-0049-91.220/004	35%
-1C2-E-TEST-0049-91.220/005	Likely voters	DEP=1C2-E-TEST-0049-91.220004
-1C2-E-TEST-0049-91.220/006	Supporters
-1C2-E-TEST-0049-91.220/007	Favored
-1C2-E-TEST-0049-91.220/008	Republicans	DEP=1C2-E-TEST-0049-91.220007
-1C2-E-TEST-0049-91.220/009	84%
-1C2-E-TEST-0049-91.220/010	10%
+1C2-E-TEST-0049-91.220/001	 The Wall Street Journal NBC News poll in mid October showed 35% of likely voters were Tea-party supporters
+1C2-E-TEST-0049-91.220/002	 they favored the Republicans by 84% to 10%
 1C2-E-TEST-0049-91.222	However the effectiveness of the Tea Party to endorse candidates has come into question as only 32% of the candidates that were backed by the Tea Party, or were on a ballot line with a "Tea Party" name, won the election [150]
-1C2-E-TEST-0049-91.222/001	Effectiveness
-1C2-E-TEST-0049-91.222/002	Endorse candidates
-1C2-E-TEST-0049-91.222/003	Come
-1C2-E-TEST-0049-91.222/004	Question
-1C2-E-TEST-0049-91.222/005	32%
-1C2-E-TEST-0049-91.222/006	Candidates  	DEP=1C2-E-TEST-0049-91.222005
-1C2-E-TEST-0049-91.222/007	Backed 
-1C2-E-TEST-0049-91.222/008	Ballot line
-1C2-E-TEST-0049-91.222/009	Name
-1C2-E-TEST-0049-91.222/010	Won
-1C2-E-TEST-0049-91.222/011	Election 	DEP=1C2-E-TEST-0049-91.222010
-1C2-E-TEST-0049-91.222/012	150
+1C2-E-TEST-0049-91.222/001	However the effectiveness of the Tea Party to endorse candidates has come into question 
+1C2-E-TEST-0049-91.222/002	as only 32% of the candidates that were backed by the Tea Party, or were on a ballot line with a Tea Party name, won the election	DEP=1C2-E-TEST-0049-91.222001
 1C2-E-TEST-0049-91.301	[203] Later that month tea party candidate for Senate Ted Cruz got enough of the primary vote in Texas to force a run-off vote against establishment GOP candidate David Dewhurst .
-1C2-E-TEST-0049-91.301/001	Month
-1C2-E-TEST-0049-91.301/002	Candidate 
-1C2-E-TEST-0049-91.301/003	Senate ted cruz	DEP=1C2-E-TEST-0049-91.301002
-1C2-E-TEST-0049-91.301/004	Primary vote
-1C2-E-TEST-0049-91.301/005	Texas	DEP=1C2-E-TEST-0049-91.301004
-1C2-E-TEST-0049-91.301/006	Force
-1C2-E-TEST-0049-91.301/007	Run-off vote	DEP=1C2-E-TEST-0049-91.301006
-1C2-E-TEST-0049-91.301/008	Establishment
-1C2-E-TEST-0049-91.301/009	Gop candidate david dewhurst	DEP=1C2-E-TEST-0049-91.301008
+1C2-E-TEST-0049-91.301/001	 Later that month tea party candidate for Senate Ted Cruz got enough of the primary vote in Texas 
+1C2-E-TEST-0049-91.301/002	It could force a run-off vote against establishment GOP candidate David Dewhurst 	DEP=1C2-E-TEST-0049-91.301001
 1C2-E-TEST-0049-91.309	Mostly, Tea Party organizations are said to have shifted away from national demonstrations to local issues.
-1C2-E-TEST-0049-91.309/001	Organizations
-1C2-E-TEST-0049-91.309/002	Shifted away
-1C2-E-TEST-0049-91.309/003	National demonstrations	DEP=1C2-E-TEST-0049-91.309002
-1C2-E-TEST-0049-91.309/004	Local issues	DEP=1C2-E-TEST-0049-91.309003
+1C2-E-TEST-0049-91.309/001	Mostly, Tea Party organizations are said to have shifted away from national demonstrations to local issues
 1C2-E-TEST-0049-91.330	In that poll, 42% said the Tea Party has been good for the U.S. political system; 18% called it a bad thing.
-1C2-E-TEST-0049-91.330/001	Polls
-1C2-E-TEST-0049-91.330/002	42%
-1C2-E-TEST-0049-91.330/003	Good	DEP=1C2-E-TEST-0049-91.330002
-1C2-E-TEST-0049-91.330/004	Us political system	DEP=1C2-E-TEST-0049-91.330003
-1C2-E-TEST-0049-91.330/005	18%
-1C2-E-TEST-0049-91.330/006	Called  	DEP=1C2-E-TEST-0049-91.330005
-1C2-E-TEST-0049-91.330/007	Bad thing	DEP=1C2-E-TEST-0049-91.330006
+1C2-E-TEST-0049-91.330/001	In that poll, 42% said the Tea Party has been good for the U.S. political system
+1C2-E-TEST-0049-91.330/002	18% called it a bad thing	DEP=1C2-E-TEST-0049-91.330001
 1C2-E-TEST-0049-91.338	When asked if the Tea Party movement will help or hurt Republicans in the 2012 elections, 53% of Republicans said they see the Tea Party as a political plus.
-1C2-E-TEST-0049-91.338/001	Movement
-1C2-E-TEST-0049-91.338/002	Help 	DEP=1C2-E-TEST-0049-91.338004
-1C2-E-TEST-0049-91.338/003	Hurt	DEP=1C2-E-TEST-0049-91.338004
-1C2-E-TEST-0049-91.338/004	Republicans
-1C2-E-TEST-0049-91.338/005	2012 elections
-1C2-E-TEST-0049-91.338/006	53%
-1C2-E-TEST-0049-91.338/007	Republicans	DEP=1C2-E-TEST-0049-91.338006
-1C2-E-TEST-0049-91.338/008	Political plus
+1C2-E-TEST-0049-91.338/001	53% of Republicans said they see the Tea Party as a political plus
+1C2-E-TEST-0049-91.338/002	When asked if the Tea Party movement will help or hurt Republicans in the 2012 elections	DEP=1C2-E-TEST-0049-91.338001
 1C2-E-TEST-0049-91.442	In 2009, the major Tea Party protests were quoted twice as often as the National Equality March despite a much lower turnout.
-1C2-E-TEST-0049-91.442/001	2009
-1C2-E-TEST-0049-91.442/002	Major protests	DEP=1C2-E-TEST-0049-91.442001
-1C2-E-TEST-0049-91.442/003	Quoted twice
-1C2-E-TEST-0049-91.442/004	National equality march 
-1C2-E-TEST-0049-91.442/005	Lower turnout	DEP=1C2-E-TEST-0049-91.442002
+1C2-E-TEST-0049-91.442/001	In 2009 the major Tea Party protests were quoted twice as often as the National Equality March despite a much lower turnout
 1C2-E-TEST-0049-91.457	In October 2010, a survey conducted by The Washington Post found that the majority of local Tea Party organizers consider the media coverage of their groups to be fair.
-1C2-E-TEST-0049-91.457/001	October 2010
-1C2-E-TEST-0049-91.457/002	Survey conducted
-1C2-E-TEST-0049-91.457/003	Washington post	DEP=1C2-E-TEST-0049-91.457002
-1C2-E-TEST-0049-91.457/004	Majority 
-1C2-E-TEST-0049-91.457/005	Local organisers	DEP=1C2-E-TEST-0049-91.457004
-1C2-E-TEST-0049-91.457/006	Media coverage
-1C2-E-TEST-0049-91.457/007	Groups
-1C2-E-TEST-0049-91.457/008	Fair	DEP=1C2-E-TEST-0049-91.457006
+1C2-E-TEST-0049-91.457/001	In October 2010, a survey was conducted by The Washington Post 
+1C2-E-TEST-0049-91.457/002	it found that the majority of local Tea Party organizers consider the media coverage of their groups to be fair
 1C2-E-TEST-0049-91.467	Like Brice, McAllister thinks leaders of the Tea Party movement must not ignore the issue.
-1C2-E-TEST-0049-91.467/001	Brice
-1C2-E-TEST-0049-91.467/002	Mcallister
-1C2-E-TEST-0049-91.467/003	Leaders
-1C2-E-TEST-0049-91.467/004	Movement
-1C2-E-TEST-0049-91.467/005	Ignore
-1C2-E-TEST-0049-91.467/006	Issues	DEP=1C2-E-TEST-0049-91.467005
+1C2-E-TEST-0049-91.467/001	Like Brice, McAllister thinks leaders of the Tea Party movement must not ignore the issue
 1C2-E-TEST-0049-91.473	[284] "I have been speaking to Tea Parties, Americans for Prosperity, since 2009, before it was cool," Cain said, and then, referring to his victories in recent Tea Party Straw polls, "...ÃÂÃÂ If the Tea Party organization is racist, why does the black guy keep winning all these straw polls?"
-1C2-E-TEST-0049-91.473/001	Parties
-1C2-E-TEST-0049-91.473/002	Americans
-1C2-E-TEST-0049-91.473/003	Prosperity
-1C2-E-TEST-0049-91.473/004	2009
-1C2-E-TEST-0049-91.473/005	Cool
-1C2-E-TEST-0049-91.473/006	Cain
-1C2-E-TEST-0049-91.473/007	Referring
-1C2-E-TEST-0049-91.473/008	Victories	DEP=1C2-E-TEST-0049-91.473007
-1C2-E-TEST-0049-91.473/009	Recent straw polls	DEP=1C2-E-TEST-0049-91.473008
-1C2-E-TEST-0049-91.473/010	Organization
-1C2-E-TEST-0049-91.473/011	Racist	DEP=1C2-E-TEST-0049-91.473010
-1C2-E-TEST-0049-91.473/012	Black guy
-1C2-E-TEST-0049-91.473/013	Winning	DEP=1C2-E-TEST-0049-91.473012
-1C2-E-TEST-0049-91.473/014	Straw polls	DEP=1C2-E-TEST-0049-91.473013
+1C2-E-TEST-0049-91.473/001	I have been speaking to Tea Parties, Americans for Prosperity, since 2009, before it was cool
+1C2-E-TEST-0049-91.473/002	Cain said	DEP=1C2-E-TEST-0049-91.473001
+1C2-E-TEST-0049-91.473/003	 referring to his victories in recent Tea Party Straw polls	DEP=1C2-E-TEST-0049-91.473002
+1C2-E-TEST-0049-91.473/004	If the Tea Party organization is racist, why does the black guy keep winning all these straw polls	DEP=1C2-E-TEST-0049-91.473002
 1C2-E-TEST-0049-91.555	Leaders of the Tea Party movement tried to contain the damage by denouncing the violent acts.
-1C2-E-TEST-0049-91.555/001	Leaders
-1C2-E-TEST-0049-91.555/002	Movement
-1C2-E-TEST-0049-91.555/003	Tried	DEP=1C2-E-TEST-0049-91.555001
-1C2-E-TEST-0049-91.555/004	Contain
-1C2-E-TEST-0049-91.555/005	Damage	DEP=1C2-E-TEST-0049-91.555004
-1C2-E-TEST-0049-91.555/006	Denouncing
-1C2-E-TEST-0049-91.555/007	Violent acts	DEP=1C2-E-TEST-0049-91.555006
+1C2-E-TEST-0049-91.555/001	Leaders of the Tea Party movement tried to contain the damage 
+1C2-E-TEST-0049-91.555/002	by denouncing the violent acts	DEP=1C2-E-TEST-0049-91.555001
 1C2-E-TEST-0049-91.86	The Tea Party Patriots have asked both Democrats and Republicans to sign on to the Contract.
-1C2-E-TEST-0049-91.86/001	Patriots
-1C2-E-TEST-0049-91.86/002	Asked	DEP=1C2-E-TEST-0049-91.86001
-1C2-E-TEST-0049-91.86/003	Democrats Republicans	DEP=1C2-E-TEST-0049-91.86002
-1C2-E-TEST-0049-91.86/004	Sign
-1C2-E-TEST-0049-91.86/005	Contract	DEP=1C2-E-TEST-0049-91.86004
+1C2-E-TEST-0049-91.86/001	The Tea Party Patriots have asked both Democrats and Republicans to sign on to the Contract
