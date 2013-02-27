@@ -35,13 +35,13 @@
 1C2-E-TEST-0149-138.77/018	required	DEP=1C2-E-TEST-0149-138.77008		
 1C2-E-TEST-0149-138.77/019	exceeds	DEP=1C2-E-TEST-0149-138.77018		
 1C2-E-TEST-0149-182.24	"The bigfoots are connected to the sono tubes and placed in the holes, so the sono tubes are in line with the string line. Rebar is placed in the bigfoots and the bigfoot is buried to keep it in place."			
-1C2-E-TEST-0149-182.24/001	bigfoots	DEP=1C2-E-TEST-0149-182.24011	bigfoots	
-1C2-E-TEST-0149-182.24/002	sono tubes		connected	
-1C2-E-TEST-0149-182.24/003	holes		sono tubes	1
-1C2-E-TEST-0149-182.24/004	sono tubes		placed holes	1
-1C2-E-TEST-0149-182.24/005	line		in line string line	4
-1C2-E-TEST-0149-182.24/006	string line		rebar placed bigfoots	
-1C2-E-TEST-0149-182.24/007	rebar	DEP=1C2-E-TEST-0149-182.24013	bigfoot buried keep place	
+1C2-E-TEST-0149-182.24/001	bigfoots	DEP=1C2-E-TEST-0149-182.24011	bigfoots are connected to the sono tubes 	
+1C2-E-TEST-0149-182.24/002	sono tubes		bigfoots places in holes	
+1C2-E-TEST-0149-182.24/003	holes		sono tubes are in line with the string line	1
+1C2-E-TEST-0149-182.24/004	sono tubes		Rebar is placed in the bigfoots 	
+1C2-E-TEST-0149-182.24/005	line		bigfoot is buried to keep it in place.	
+1C2-E-TEST-0149-182.24/006	string line			
+1C2-E-TEST-0149-182.24/007	rebar	DEP=1C2-E-TEST-0149-182.24013		
 1C2-E-TEST-0149-182.24/008	bigfoots			
 1C2-E-TEST-0149-182.24/009	bigfoot	DEP=1C2-E-TEST-0149-182.24014		
 1C2-E-TEST-0149-182.24/010	place			
@@ -51,13 +51,13 @@
 1C2-E-TEST-0149-182.24/014	buried	DEP=1C2-E-TEST-0149-182.24011		
 1C2-E-TEST-0149-182.24/015	keep	DEP=1C2-E-TEST-0149-182.24014		
 1C2-E-TEST-0149-182.28	Then the sonotubes are marked using the laser level to the desired height in relation to the footers. ÃÂÃÂ And now it's just a matter of cutting the tops off to this mark. ÃÂÃÂ And the sonotubes are ready for mud!			
-1C2-E-TEST-0149-182.28/001	laser		sonotubes	
-1C2-E-TEST-0149-182.28/002	level	DEP=1C2-E-TEST-0149-182.28001	marked	3
-1C2-E-TEST-0149-182.28/003	desired height		laser level	
-1C2-E-TEST-0149-182.28/004	relation		desired height	2
-1C2-E-TEST-0149-182.28/005	footers		relation footers	4
-1C2-E-TEST-0149-182.28/006	ã	DEP=1C2-E-TEST-0149-182.28002	cutting tops	
-1C2-E-TEST-0149-182.28/007	â	DEP=1C2-E-TEST-0149-182.28006	ready mud	
+1C2-E-TEST-0149-182.28/001	laser		sonotubes are marked using laser level	
+1C2-E-TEST-0149-182.28/002	level	DEP=1C2-E-TEST-0149-182.28001	laser level used to the desired height in relation to the footers	1
+1C2-E-TEST-0149-182.28/003	desired height		cut tops off to this mark and sonotubes ready for mud	1
+1C2-E-TEST-0149-182.28/004	relation			
+1C2-E-TEST-0149-182.28/005	footers			
+1C2-E-TEST-0149-182.28/006	ã	DEP=1C2-E-TEST-0149-182.28002		
+1C2-E-TEST-0149-182.28/007	â	DEP=1C2-E-TEST-0149-182.28006		
 1C2-E-TEST-0149-182.28/008	matter			
 1C2-E-TEST-0149-182.28/009	tops	DEP=1C2-E-TEST-0149-182.28015		
 1C2-E-TEST-0149-182.28/010	mark			
