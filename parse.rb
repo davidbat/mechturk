@@ -22,15 +22,15 @@ Dir[processed + "*.out"].each do |full_path|
  
   ip.readlines.each do |line|
     line = line.chomp.sub(/\t*$/,'')
-    puts line.inspect if debug
+    #puts "Split - #{line.split("\t")}" if debug
     next if line.empty?
     str = ""
     parts=line.split("\t")
-    if parts[0].include?("/")
+    if parts[0].include?("/") || parts[0].include?("-")
       str=parts[0]
-      if !parts[3].nil?
+      if !parts[3].nil? && !parts[3].empty?
         str += "\t" + parts[3]
-        if !parts[4].nil?
+        if !parts[4].nil? && !parts[4].empty?
           if [parts[4]].grep(/^DEP/).empty?
             str += "\t" + "DEP=" + parts[0].split("/").first + "%03d" % parts[4]
           else
@@ -42,9 +42,11 @@ Dir[processed + "*.out"].each do |full_path|
         str = ""
       end
     else
+      #puts "here"
       str = line
     end
     if !str.empty?
+      puts str if debug
       op.write(str+"\n")
     end
   end
