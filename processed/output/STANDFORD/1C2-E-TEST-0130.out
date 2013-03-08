@@ -1,174 +1,174 @@
-﻿1C2-E-TEST-0130-1.001	Bikini lost some muscle in recent years, with the big-name stars it once booked replaced by little-knowns and ageing rockers.			
-1C2-E-TEST-0130-1.001/001	bikini	DEP=1C2-E-TEST-0130-1.001007	Bikini lost	
-1C2-E-TEST-0130-1.001/002	Muscle	DEP=1C2-E-TEST-0130-1.001007	Muscle	1
-1C2-E-TEST-0130-1.001/003	recent years		recent years	
-1C2-E-TEST-0130-1.001/004	big-name stars		big-name stars	
-1C2-E-TEST-0130-1.001/005	little-knowns		booked	
-1C2-E-TEST-0130-1.001/006	ageing rockers	DEP=1C2-E-TEST-0130-1.001005	replaced	
-1C2-E-TEST-0130-1.001/007	lost		little-knowns	6
-1C2-E-TEST-0130-1.001/008	booked	DEP=1C2-E-TEST-0130-1.001004	ageing rockers	7
+1C2-E-TEST-0130-1.001	"Bikini lost some muscle in recent years, with the big-name stars it once booked replaced by little-knowns and ageing rockers."			
+1C2-E-TEST-0130-1.001/001	bikini	DEP=1C2-E-TEST-0130-1.001007	Bikini lost some muscle in recent years	
+1C2-E-TEST-0130-1.001/002	Muscle	DEP=1C2-E-TEST-0130-1.001007	 big-name stars it once booked replaced by little-knowns and ageing rockers	1
+1C2-E-TEST-0130-1.001/003	recent years			
+1C2-E-TEST-0130-1.001/004	big-name stars			
+1C2-E-TEST-0130-1.001/005	little-knowns			
+1C2-E-TEST-0130-1.001/006	ageing rockers	DEP=1C2-E-TEST-0130-1.001005		
+1C2-E-TEST-0130-1.001/007	lost			
+1C2-E-TEST-0130-1.001/008	booked	DEP=1C2-E-TEST-0130-1.001004		
 1C2-E-TEST-0130-1.001/009	replaced	DEP=1C2-E-TEST-0130-1.001008		
 1C2-E-TEST-0130-1.002	Bikini Avda Diagonal 547			
-1C2-E-TEST-0130-1.002/001	bikini avda diagonal		bikini avda diagonal	
-1C2-E-TEST-0130-1.002/002	547	DEP=1C2-E-TEST-0130-1.002001	547	1
+1C2-E-TEST-0130-1.002/001	bikini avda diagonal		Bikini Avda Diagonal 547	
+1C2-E-TEST-0130-1.002/002	547	DEP=1C2-E-TEST-0130-1.002001		
 1C2-E-TEST-0130-1.003	Distrito Diagonal			
 1C2-E-TEST-0130-1.003/001	distrito diagonal		distrito diagonal	
-1C2-E-TEST-0130-1.004	Distrito Diagonal attracts a slightly older crowd with an easygoing atmosphere. The venue is bathed in red light, sounds run from from nu jazz to deep...			
-1C2-E-TEST-0130-1.004/001	distrito diagonal	DEP=1C2-E-TEST-0130-1.004009	distrito diagonal	
-1C2-E-TEST-0130-1.004/002	easygoing atmosphere		attracts	1
-1C2-E-TEST-0130-1.004/003	venue	DEP=1C2-E-TEST-0130-1.004013	slightly older crowd 	
-1C2-E-TEST-0130-1.004/004	red light		easygoing atmosphere	
-1C2-E-TEST-0130-1.004/005	run	DEP=1C2-E-TEST-0130-1.004014	venue	
-1C2-E-TEST-0130-1.004/006	nu		bathed	
-1C2-E-TEST-0130-1.004/007	jazz	DEP=1C2-E-TEST-0130-1.004013	red light	6
-1C2-E-TEST-0130-1.004/008	deep		sounds	
-1C2-E-TEST-0130-1.004/009	attracts	DEP=1C2-E-TEST-0130-1.004013	run	8
-1C2-E-TEST-0130-1.004/010	slightly	DEP=1C2-E-TEST-0130-1.004011	Nu jazz	
-1C2-E-TEST-0130-1.004/011	older	DEP=1C2-E-TEST-0130-1.004012	deep	
+1C2-E-TEST-0130-1.004	"Distrito Diagonal attracts a slightly older crowd with an easygoing atmosphere. The venue is bathed in red light, sounds run from from nu jazz to deep..."			
+1C2-E-TEST-0130-1.004/001	distrito diagonal	DEP=1C2-E-TEST-0130-1.004009	Distrito Diagonal attracts a slightly older crowd	
+1C2-E-TEST-0130-1.004/002	easygoing atmosphere		easygoing atmosphere	1
+1C2-E-TEST-0130-1.004/003	venue	DEP=1C2-E-TEST-0130-1.004013	venue is bathed in red light	1
+1C2-E-TEST-0130-1.004/004	red light		sounds run from from nu jazz to deep	1
+1C2-E-TEST-0130-1.004/005	run	DEP=1C2-E-TEST-0130-1.004014		
+1C2-E-TEST-0130-1.004/006	nu			
+1C2-E-TEST-0130-1.004/007	jazz	DEP=1C2-E-TEST-0130-1.004013		
+1C2-E-TEST-0130-1.004/008	deep			
+1C2-E-TEST-0130-1.004/009	attracts	DEP=1C2-E-TEST-0130-1.004013		
+1C2-E-TEST-0130-1.004/010	slightly	DEP=1C2-E-TEST-0130-1.004011		
+1C2-E-TEST-0130-1.004/011	older	DEP=1C2-E-TEST-0130-1.004012		
 1C2-E-TEST-0130-1.004/012	crowd	DEP=1C2-E-TEST-0130-1.004009		
 1C2-E-TEST-0130-1.004/013	bathed			
 1C2-E-TEST-0130-1.004/014	sounds	DEP=1C2-E-TEST-0130-1.004013		
 1C2-E-TEST-0130-1.005	Distrito Diagonal Avda Diagonal 442			
-1C2-E-TEST-0130-1.005/001	distrito diagonal avda diagonal			
+1C2-E-TEST-0130-1.005/001	distrito diagonal avda diagonal		Distrito Diagonal Avda Diagonal 442	
 1C2-E-TEST-0130-1.005/002	442	DEP=1C2-E-TEST-0130-1.005001		
-1C2-E-TEST-0130-1.006	Lotus Theatre Formerly a strip club, this place was reborn a few years ago as the city's hottest, biggest, newest, most over-hyped nightspot.			
-1C2-E-TEST-0130-1.006/001	lotus theatre	DEP=1C2-E-TEST-0130-1.006006	lotus theatre	
-1C2-E-TEST-0130-1.006/002	strip club	DEP=1C2-E-TEST-0130-1.006006	strip club	1
-1C2-E-TEST-0130-1.006/003	place	DEP=1C2-E-TEST-0130-1.006002	place	
-1C2-E-TEST-0130-1.006/004	years	DEP=1C2-E-TEST-0130-1.006007	reborn	3
-1C2-E-TEST-0130-1.006/005	city		years	
-1C2-E-TEST-0130-1.006/006	reborn		ago	5
-1C2-E-TEST-0130-1.006/007	ago		city hottest	
-1C2-E-TEST-0130-1.006/008	hottest	DEP=1C2-E-TEST-0130-1.006005	biggest	7
-1C2-E-TEST-0130-1.006/009	biggest	DEP=1C2-E-TEST-0130-1.006010	newest	8
-1C2-E-TEST-0130-1.006/010	newest	DEP=1C2-E-TEST-0130-1.006012	over-hyped	
-1C2-E-TEST-0130-1.006/011	over-hyped	DEP=1C2-E-TEST-0130-1.006010	nightspot	
+1C2-E-TEST-0130-1.006	"Lotus Theatre Formerly a strip club, this place was reborn a few years ago as the city's hottest, biggest, newest, most over-hyped nightspot."			
+1C2-E-TEST-0130-1.006/001	lotus theatre	DEP=1C2-E-TEST-0130-1.006006	Lotus Theatre Formerly a strip club	
+1C2-E-TEST-0130-1.006/002	strip club	DEP=1C2-E-TEST-0130-1.006006	place was reborn a few years ago as the city's hottest nightspot	1
+1C2-E-TEST-0130-1.006/003	place	DEP=1C2-E-TEST-0130-1.006002		
+1C2-E-TEST-0130-1.006/004	years	DEP=1C2-E-TEST-0130-1.006007		
+1C2-E-TEST-0130-1.006/005	city			
+1C2-E-TEST-0130-1.006/006	reborn			
+1C2-E-TEST-0130-1.006/007	ago			
+1C2-E-TEST-0130-1.006/008	hottest	DEP=1C2-E-TEST-0130-1.006005		
+1C2-E-TEST-0130-1.006/009	biggest	DEP=1C2-E-TEST-0130-1.006010		
+1C2-E-TEST-0130-1.006/010	newest	DEP=1C2-E-TEST-0130-1.006012		
+1C2-E-TEST-0130-1.006/011	over-hyped	DEP=1C2-E-TEST-0130-1.006010		
 1C2-E-TEST-0130-1.006/012	nightspot	DEP=1C2-E-TEST-0130-1.006005		
 1C2-E-TEST-0130-1.007	Lotus Theatre C/Bailen 22			
-1C2-E-TEST-0130-1.007/001	lotus theatre c\/bailen		lotus theatre c/bailen	
-1C2-E-TEST-0130-1.007/002	22	DEP=1C2-E-TEST-0130-1.007001	22	
+1C2-E-TEST-0130-1.007/001	lotus theatre c\/bailen		lotus theatre c\/bailen 22	
+1C2-E-TEST-0130-1.007/002	22	DEP=1C2-E-TEST-0130-1.007001		
 1C2-E-TEST-0130-1.008	Razzmatazz Critics' choice			
 1C2-E-TEST-0130-1.008/001	razzmatazz critics	DEP=1C2-E-TEST-0130-1.008002	razzmatazz critics	
 1C2-E-TEST-0130-1.008/002	choice		choice	1
 1C2-E-TEST-0130-1.009	Razzmatazz This monstrous club's five distinct spaces form the night-time playground of seemingly all young Barcelona.			
-1C2-E-TEST-0130-1.009/001	razzmatazz		razzmatazz	
-1C2-E-TEST-0130-1.009/002	monstrous club	DEP=1C2-E-TEST-0130-1.009006	monstrous club	1
-1C2-E-TEST-0130-1.009/003	night-time playground		five distinct spaces	2
-1C2-E-TEST-0130-1.009/004	five	DEP=1C2-E-TEST-0130-1.009006	night-time playground	
-1C2-E-TEST-0130-1.009/005	distinct	DEP=1C2-E-TEST-0130-1.009006	seemingly	
-1C2-E-TEST-0130-1.009/006	spaces		young	
+1C2-E-TEST-0130-1.009/001	razzmatazz		razzmatazz club	
+1C2-E-TEST-0130-1.009/002	monstrous club	DEP=1C2-E-TEST-0130-1.009006	 five distinct spaces	1
+1C2-E-TEST-0130-1.009/003	night-time playground		night-time playground of seemingly all young Barcelona.	1
+1C2-E-TEST-0130-1.009/004	five	DEP=1C2-E-TEST-0130-1.009006		
+1C2-E-TEST-0130-1.009/005	distinct	DEP=1C2-E-TEST-0130-1.009006		
+1C2-E-TEST-0130-1.009/006	spaces			
 1C2-E-TEST-0130-1.009/007	seemingly	DEP=1C2-E-TEST-0130-1.009008		
 1C2-E-TEST-0130-1.009/008	young			
-1C2-E-TEST-0130-1.010	Razzmatazz C/AlmogÃÂ vers 122			
-1C2-E-TEST-0130-1.010/001	razzmatazz c\/almog ã vers		Razzmatazz	
+1C2-E-TEST-0130-1.010	Razzmatazz C/AlmogÃ vers 122			
+1C2-E-TEST-0130-1.010/001	razzmatazz c\/almog � vers		Razzmatazz C\/Almoga�vers 122	
 1C2-E-TEST-0130-1.010/002	122	DEP=1C2-E-TEST-0130-1.010001	vers 122	1
-1C2-E-TEST-0130-1.011	Sala Apolo, one of Barcelona's most popular clubs, is a 1940s dancehall, with all that implies for atmosphere (good) and acoustics (bad).			
-1C2-E-TEST-0130-1.011/001	sala apolo	DEP=1C2-E-TEST-0130-1.011002	sala apolo	
-1C2-E-TEST-0130-1.011/002	1940s dancehall		popular clubs	1
-1C2-E-TEST-0130-1.011/003	atmosphere		1940s dancehall	
-1C2-E-TEST-0130-1.011/004	acoustics	DEP=1C2-E-TEST-0130-1.011003	implies	
-1C2-E-TEST-0130-1.011/005	popular		atmosphere	
-1C2-E-TEST-0130-1.011/006	implies		good	5
-1C2-E-TEST-0130-1.011/007	good	DEP=1C2-E-TEST-0130-1.011003	acoustics	
-1C2-E-TEST-0130-1.011/008	bad	DEP=1C2-E-TEST-0130-1.011003	bad	7
+1C2-E-TEST-0130-1.011	"Sala Apolo, one of Barcelona's most popular clubs, is a 1940s dancehall, with all that implies for atmosphere (good) and acoustics (bad)."			
+1C2-E-TEST-0130-1.011/001	sala apolo	DEP=1C2-E-TEST-0130-1.011002	"Sala Apolo, one of Barcelona's most popular clubs"	
+1C2-E-TEST-0130-1.011/002	1940s dancehall		1940s dancehall	1
+1C2-E-TEST-0130-1.011/003	atmosphere		atmosphere (good) and acoustics (bad)	1
+1C2-E-TEST-0130-1.011/004	acoustics	DEP=1C2-E-TEST-0130-1.011003		
+1C2-E-TEST-0130-1.011/005	popular			
+1C2-E-TEST-0130-1.011/006	implies			
+1C2-E-TEST-0130-1.011/007	good	DEP=1C2-E-TEST-0130-1.011003		
+1C2-E-TEST-0130-1.011/008	bad	DEP=1C2-E-TEST-0130-1.011003		
 1C2-E-TEST-0130-1.012	Sala Apolo C/Nou de la Rambla 111-113			
-1C2-E-TEST-0130-1.012/001	sala			
-1C2-E-TEST-0130-1.012/002	apolo c\/nou	DEP=1C2-E-TEST-0130-1.012001	Sala Apolo C/Nou de la Rambla	
-1C2-E-TEST-0130-1.012/003	rambla	DEP=1C2-E-TEST-0130-1.012002	111-113	1
+1C2-E-TEST-0130-1.012/001	sala		Sala Apolo C\/Nou de la Rambla 111-113	
+1C2-E-TEST-0130-1.012/002	apolo c\/nou	DEP=1C2-E-TEST-0130-1.012001		
+1C2-E-TEST-0130-1.012/003	rambla	DEP=1C2-E-TEST-0130-1.012002		
 1C2-E-TEST-0130-1.012/004	111-113	DEP=1C2-E-TEST-0130-1.012003		
 1C2-E-TEST-0130-1.012/005	de	DEP=1C2-E-TEST-0130-1.012006		
 1C2-E-TEST-0130-1.012/006	la	DEP=1C2-E-TEST-0130-1.012003		
 1C2-E-TEST-0130-1.013	Jamboree			
 1C2-E-TEST-0130-1.013/001	jamboree		jamboree	
-1C2-E-TEST-0130-1.014	Jamboree PlaÃÂ§a Reial 17, Barri GÃÂ²tic			
-1C2-E-TEST-0130-1.014/001	jamboree plaã	DEP=1C2-E-TEST-0130-1.014005	jamboree	
-1C2-E-TEST-0130-1.014/002	reial 17	DEP=1C2-E-TEST-0130-1.014005	reial 17	
-1C2-E-TEST-0130-1.014/003	barri gã ²	DEP=1C2-E-TEST-0130-1.014002	Barri	
+1C2-E-TEST-0130-1.014	"Jamboree PlaÃ§a Reial 17, Barri GÃ²tic"			
+1C2-E-TEST-0130-1.014/001	jamboree pla�	DEP=1C2-E-TEST-0130-1.014005	jamboree plaza reial 17 barri	
+1C2-E-TEST-0130-1.014/002	reial 17	DEP=1C2-E-TEST-0130-1.014005		
+1C2-E-TEST-0130-1.014/003	barri g� �	DEP=1C2-E-TEST-0130-1.014002		
 1C2-E-TEST-0130-1.014/004	tic	DEP=1C2-E-TEST-0130-1.014003		
-1C2-E-TEST-0130-1.014/005	§			
+1C2-E-TEST-0130-1.014/005	�			
 1C2-E-TEST-0130-1.015	Jamboree Metro Liceu			
 1C2-E-TEST-0130-1.015/001	jamboree metro liceu		jamboree metro liceu	
 1C2-E-TEST-0130-1.016	Jamboree Tel (+34) 93 319 17 89			
-1C2-E-TEST-0130-1.016/001	jamboree tel		jamboree tel	
+1C2-E-TEST-0130-1.016/001	jamboree tel		jamboree	
 1C2-E-TEST-0130-1.016/002	34	DEP=1C2-E-TEST-0130-1.016001	(+34) 93 319 17 89	1
 1C2-E-TEST-0130-1.016/003	17 89	DEP=1C2-E-TEST-0130-1.016005		
 1C2-E-TEST-0130-1.016/004	93	DEP=1C2-E-TEST-0130-1.016005		
 1C2-E-TEST-0130-1.016/005	319	DEP=1C2-E-TEST-0130-1.016001		
-1C2-E-TEST-0130-1.017	Once the quality live jazz shuts down at midnight, Jamboree turns into a club for funk, hip hop and R&B.			
-1C2-E-TEST-0130-1.017/001	quality live jazz	DEP=1C2-E-TEST-0130-1.017006	quality live jazz	
-1C2-E-TEST-0130-1.017/002	midnight		shuts down	
-1C2-E-TEST-0130-1.017/003	jamboree	DEP=1C2-E-TEST-0130-1.017007	midnight	
-1C2-E-TEST-0130-1.017/004	club		jamboree	
-1C2-E-TEST-0130-1.017/005	funk hip hop r&b		club	
-1C2-E-TEST-0130-1.017/006	shuts	DEP=1C2-E-TEST-0130-1.017007	funk, hip hop and R&B	
+1C2-E-TEST-0130-1.017	"Once the quality live jazz shuts down at midnight, Jamboree turns into a club for funk, hip hop and R&B."			
+1C2-E-TEST-0130-1.017/001	quality live jazz	DEP=1C2-E-TEST-0130-1.017006	"Jamboree turns into a club for funk, hip hop and R&B"	
+1C2-E-TEST-0130-1.017/002	midnight		Once the quality live jazz shuts down at midnight	1
+1C2-E-TEST-0130-1.017/003	jamboree	DEP=1C2-E-TEST-0130-1.017007		
+1C2-E-TEST-0130-1.017/004	club			
+1C2-E-TEST-0130-1.017/005	funk hip hop r&b			
+1C2-E-TEST-0130-1.017/006	shuts	DEP=1C2-E-TEST-0130-1.017007		
 1C2-E-TEST-0130-1.017/007	turns			
 1C2-E-TEST-0130-1.018	Bikini			
 1C2-E-TEST-0130-1.018/001	bikini		Bikini	
-1C2-E-TEST-0130-1.019	Bikini c/ Deu i Mata 105 (off Av. Diagonal), Les Corts			
-1C2-E-TEST-0130-1.019/001	bikini c		bikini 	
-1C2-E-TEST-0130-1.019/002	deu	DEP=1C2-E-TEST-0130-1.019003	Deu i Mata 105	1
-1C2-E-TEST-0130-1.019/003	mata	DEP=1C2-E-TEST-0130-1.019001	Av. Diagonal	2
-1C2-E-TEST-0130-1.019/004	105	DEP=1C2-E-TEST-0130-1.019003	les corts	3
+1C2-E-TEST-0130-1.019	"Bikini c/ Deu i Mata 105 (off Av. Diagonal), Les Corts"			
+1C2-E-TEST-0130-1.019/001	bikini c		bikini	
+1C2-E-TEST-0130-1.019/002	deu	DEP=1C2-E-TEST-0130-1.019003	c Deu i Mata 105	1
+1C2-E-TEST-0130-1.019/003	mata	DEP=1C2-E-TEST-0130-1.019001	off Av. Diagonal	2
+1C2-E-TEST-0130-1.019/004	105	DEP=1C2-E-TEST-0130-1.019003	les corts	1
 1C2-E-TEST-0130-1.019/005	diagonal	DEP=1C2-E-TEST-0130-1.019004		
 1C2-E-TEST-0130-1.019/006	les corts	DEP=1C2-E-TEST-0130-1.019003		
 1C2-E-TEST-0130-1.020	Bikini Metro Les Corts or Maria Cristina			
 1C2-E-TEST-0130-1.020/001	bikini metro		bikini metro	
-1C2-E-TEST-0130-1.020/002	les corts	DEP=1C2-E-TEST-0130-1.020001	les corts	
+1C2-E-TEST-0130-1.020/002	les corts	DEP=1C2-E-TEST-0130-1.020001	les corts	1
 1C2-E-TEST-0130-1.020/003	maria cristina	DEP=1C2-E-TEST-0130-1.020002	maria cristina	
 1C2-E-TEST-0130-1.021	Bikini Tel (+34) 93 322 08 00			
-1C2-E-TEST-0130-1.021/001	bikini tel		bikini tel	
+1C2-E-TEST-0130-1.021/001	bikini tel		bikini	
 1C2-E-TEST-0130-1.021/002	34	DEP=1C2-E-TEST-0130-1.021001	(+34) 93 322 08 00	
 1C2-E-TEST-0130-1.021/003	08 00	DEP=1C2-E-TEST-0130-1.021005		
 1C2-E-TEST-0130-1.021/004	93	DEP=1C2-E-TEST-0130-1.021005		
 1C2-E-TEST-0130-1.021/005	322	DEP=1C2-E-TEST-0130-1.021001		
-1C2-E-TEST-0130-1.022	Part live music venue, part club, Bikini's 3 separate rooms allow for 3 different DJs to spin at once.			
-1C2-E-TEST-0130-1.022/001	part live music venue		part live music venue	
-1C2-E-TEST-0130-1.022/002	part club	DEP=1C2-E-TEST-0130-1.022001	part club	
-1C2-E-TEST-0130-1.022/003	bikini	DEP=1C2-E-TEST-0130-1.022007	bikini	
-1C2-E-TEST-0130-1.022/004	3 different djs		3 separate rooms	3
-1C2-E-TEST-0130-1.022/005	3	DEP=1C2-E-TEST-0130-1.022007	allow	4
-1C2-E-TEST-0130-1.022/006	separate	DEP=1C2-E-TEST-0130-1.022007	3 different DJs	5
-1C2-E-TEST-0130-1.022/007	rooms	DEP=1C2-E-TEST-0130-1.022002	spin	6
+1C2-E-TEST-0130-1.022	"Part live music venue, part club, Bikini's 3 separate rooms allow for 3 different DJs to spin at once."			
+1C2-E-TEST-0130-1.022/001	part live music venue		part live music venue	3
+1C2-E-TEST-0130-1.022/002	part club	DEP=1C2-E-TEST-0130-1.022001	part club	3
+1C2-E-TEST-0130-1.022/003	bikini	DEP=1C2-E-TEST-0130-1.022007	bikini club	
+1C2-E-TEST-0130-1.022/004	3 different djs		3 separate rooms allow for 3 different DJs to spin at once.	3
+1C2-E-TEST-0130-1.022/005	3	DEP=1C2-E-TEST-0130-1.022007		
+1C2-E-TEST-0130-1.022/006	separate	DEP=1C2-E-TEST-0130-1.022007		
+1C2-E-TEST-0130-1.022/007	rooms	DEP=1C2-E-TEST-0130-1.022002		
 1C2-E-TEST-0130-1.022/008	spin			
 1C2-E-TEST-0130-1.023	Bikini It's one of the best Barcelona night clubs for hip hop and funk music.			
-1C2-E-TEST-0130-1.023/001	bikini		bikini	
-1C2-E-TEST-0130-1.023/002	best night		best night	1
-1C2-E-TEST-0130-1.023/003	hip hop		hip hop	
-1C2-E-TEST-0130-1.023/004	funk music	DEP=1C2-E-TEST-0130-1.023003	funk music	
+1C2-E-TEST-0130-1.023/001	bikini		bikini one of best barcelona night clubs	
+1C2-E-TEST-0130-1.023/002	best night		hip hop	1
+1C2-E-TEST-0130-1.023/003	hip hop		funk music	1
+1C2-E-TEST-0130-1.023/004	funk music	DEP=1C2-E-TEST-0130-1.023003		
 1C2-E-TEST-0130-1.023/005	s			
-1C2-E-TEST-0130-10.001	Mirabe (on Mount Tibidabo) = has a hip hop / RnB room, and downstairs it has a house room			
+1C2-E-TEST-0130-10.001	"Mirabe (on Mount Tibidabo) = has a hip hop / RnB room, and downstairs it has a house room"			
 1C2-E-TEST-0130-10.001/001	mirabe		mirabe	
-1C2-E-TEST-0130-10.001/002	mount tibidabo		mount tibidabo	1
-1C2-E-TEST-0130-10.001/003	hip hop		hip hop	
-1C2-E-TEST-0130-10.001/004	rnb room	DEP=1C2-E-TEST-0130-10.001003	rnb room	3
-1C2-E-TEST-0130-10.001/005	house room		downstairs	
-1C2-E-TEST-0130-10.001/006	=	DEP=1C2-E-TEST-0130-10.001001	house room	
+1C2-E-TEST-0130-10.001/002	mount tibidabo		on mount tibidabo	1
+1C2-E-TEST-0130-10.001/003	hip hop		has hip hop rnb room	1
+1C2-E-TEST-0130-10.001/004	rnb room	DEP=1C2-E-TEST-0130-10.001003	downstairs has a house room	1
+1C2-E-TEST-0130-10.001/005	house room			
+1C2-E-TEST-0130-10.001/006	=	DEP=1C2-E-TEST-0130-10.001001		
 1C2-E-TEST-0130-10.001/007	downstairs			
-1C2-E-TEST-0130-10.002	Up n down, Otto Zutz = more on the RnB/hip hop side. Otto Zutz has 3 different rooms, and definately has some RnB hip hop.			
-1C2-E-TEST-0130-10.002/001	n		up down	
-1C2-E-TEST-0130-10.002/002	otto zutz		otto zutz	
-1C2-E-TEST-0130-10.002/003	=	DEP=1C2-E-TEST-0130-10.002002	rnb/hip hop side	2
-1C2-E-TEST-0130-10.002/004	rnb\/hip hop side		3 different rooms	
-1C2-E-TEST-0130-10.002/005	otto zutz		definately	
-1C2-E-TEST-0130-10.002/006	3 different rooms		rnb hip hop	
+1C2-E-TEST-0130-10.002	"Up n down, Otto Zutz = more on the RnB/hip hop side. Otto Zutz has 3 different rooms, and definately has some RnB hip hop."			
+1C2-E-TEST-0130-10.002/001	n		up down otto zutz	
+1C2-E-TEST-0130-10.002/002	otto zutz		more on rnb/hip hop side	1
+1C2-E-TEST-0130-10.002/003	=	DEP=1C2-E-TEST-0130-10.002002	Otto Zutz has 3 different rooms	2
+1C2-E-TEST-0130-10.002/004	rnb\/hip hop side		definitely has some RnB hip hop.	
+1C2-E-TEST-0130-10.002/005	otto zutz			
+1C2-E-TEST-0130-10.002/006	3 different rooms			
 1C2-E-TEST-0130-10.002/007	rnb hip hop			
 1C2-E-TEST-0130-10.002/008	definately			
 1C2-E-TEST-0130-10.003	Catwalk = some RnB/hip hop			
 1C2-E-TEST-0130-10.003/001	catwalk	DEP=1C2-E-TEST-0130-10.003002	catwalk	
 1C2-E-TEST-0130-10.003/002	rnb\/hip hop		rnb\/hip hop	1
 1C2-E-TEST-0130-10.003/003	=	DEP=1C2-E-TEST-0130-10.003002		
-1C2-E-TEST-0130-103.13	En The Sutton Club el SÃÂÃÂ¡bado 4 de Julio. Barcelona			
-1C2-E-TEST-0130-103.13/001	sutton club el sã â		en sutton club 	
-1C2-E-TEST-0130-103.13/002	¡ bado	DEP=1C2-E-TEST-0130-103.13001	4 de Julio	1
+1C2-E-TEST-0130-103.13	En The Sutton Club el SÃÂ¡bado 4 de Julio. Barcelona			
+1C2-E-TEST-0130-103.13/001	sutton club el s� �		en sutton club 	
+1C2-E-TEST-0130-103.13/002	� bado	DEP=1C2-E-TEST-0130-103.13001	4 de Julio barcelona	1
 1C2-E-TEST-0130-103.13/003	4	DEP=1C2-E-TEST-0130-103.13001		
 1C2-E-TEST-0130-103.13/004	julio			
-1C2-E-TEST-0130-105.7	David Guetta @ Sporting Club, ViÃÂÃÂ±a del Mar, Chile, Viernes 13 de Enero 2012 - Parte 1			
-1C2-E-TEST-0130-105.7/001	david guetta		david guetta	
-1C2-E-TEST-0130-105.7/002	sporting club		sporting club	1
-1C2-E-TEST-0130-105.7/003	viã â	DEP=1C2-E-TEST-0130-105.7009	mar	
-1C2-E-TEST-0130-105.7/004	mar	DEP=1C2-E-TEST-0130-105.7009	chile	
-1C2-E-TEST-0130-105.7/005	chile	DEP=1C2-E-TEST-0130-105.7004	viernes 13	
-1C2-E-TEST-0130-105.7/006	viernes 13	DEP=1C2-E-TEST-0130-105.7004	enero 2012	
-1C2-E-TEST-0130-105.7/007	enero 2012		parte 1	
+1C2-E-TEST-0130-105.7	"David Guetta @ Sporting Club, ViÃÂ±a del Mar, Chile, Viernes 13 de Enero 2012 - Parte 1"			
+1C2-E-TEST-0130-105.7/001	david guetta		david guetta sporting club	
+1C2-E-TEST-0130-105.7/002	sporting club		del mar chile	1
+1C2-E-TEST-0130-105.7/003	vi� �	DEP=1C2-E-TEST-0130-105.7009	Viernes 13 de Enero 2012 - Parte 1	1
+1C2-E-TEST-0130-105.7/004	mar	DEP=1C2-E-TEST-0130-105.7009		
+1C2-E-TEST-0130-105.7/005	chile	DEP=1C2-E-TEST-0130-105.7004		
+1C2-E-TEST-0130-105.7/006	viernes 13	DEP=1C2-E-TEST-0130-105.7004		
+1C2-E-TEST-0130-105.7/007	enero 2012			
 1C2-E-TEST-0130-105.7/008	parte 1	DEP=1C2-E-TEST-0130-105.7004		
-1C2-E-TEST-0130-105.7/009	±			
+1C2-E-TEST-0130-105.7/009	�			

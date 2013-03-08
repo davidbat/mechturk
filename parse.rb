@@ -5,9 +5,14 @@ final = File.expand_path("../", __FILE__) + '/final/output/STANFORD/'
 processed = File.expand_path("../", __FILE__) + '/processed/output/STANDFORD/'
 args = []
 debug = false
+as_it_is = false
 ARGV.each do |arg|
   if arg == "-d"
     debug = true
+    next
+  end
+  if arg == "-a"
+    as_it_is = true
     next
   end
   args << "1C2-E-TEST-0" + "%03d" % arg + ".out"
@@ -26,7 +31,7 @@ Dir[processed + "*.out"].each do |full_path|
     next if line.empty?
     str = ""
     parts=line.split("\t")
-    if parts[0].include?("/") || parts[0].count("-") > 4
+    if (parts[0].include?("/") || parts[0].count("-") > 4) && !as_it_is
       str=parts[0]
       if !parts[3].nil? && !parts[3].empty?
         str += "\t" + parts[3]
