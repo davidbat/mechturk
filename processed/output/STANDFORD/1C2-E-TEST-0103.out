@@ -71,7 +71,7 @@
 1C2-E-TEST-0103-173.7/002	¬	DEP=1C2-E-TEST-0103-173.7004	justice christopher dietzen	1
 1C2-E-TEST-0103-173.7/003	â cents	DEP=1C2-E-TEST-0103-173.7002	expalined background	2
 1C2-E-TEST-0103-173.7/004	supreme court opinion		case	
-1C2-E-TEST-0103-173.7/005	justice christopher dietzen	DEP=1C2-E-TEST-0103-173.7013	1 august 2007	4
+1C2-E-TEST-0103-173.7/005	justice christopher dietzen	DEP=1C2-E-TEST-0103-173.7013	1-Aug-07	4
 1C2-E-TEST-0103-173.7/006	background	DEP=1C2-E-TEST-0103-173.7013	interstate 35w	4
 1C2-E-TEST-0103-173.7/007	case		crosses mississippi river	4
 1C2-E-TEST-0103-173.7/008	1		minneapolis 	7
@@ -114,7 +114,7 @@
 1C2-E-TEST-0103-2.7/007	released			
 1C2-E-TEST-0103-242.32	"1, 2007 -- At 6:05 p.m., the I-35W Bridge collapses into the Mississippi River."			
 1C2-E-TEST-0103-242.32/001	1		1 2007	
-1C2-E-TEST-0103-242.32/002	2007	DEP=1C2-E-TEST-0103-242.32001	6:05 pm	
+1C2-E-TEST-0103-242.32/002	2007	DEP=1C2-E-TEST-0103-242.32001	6:05 PM	
 1C2-E-TEST-0103-242.32/003	6:05 p.m.		i-35w	
 1C2-E-TEST-0103-242.32/004	i-35w		mississippi river 	
 1C2-E-TEST-0103-242.32/005	mississippi river			
@@ -204,7 +204,7 @@
 1C2-E-TEST-0103-27.14	The entire length of the bridge over the river collapsed at 6:05 p.m.			
 1C2-E-TEST-0103-27.14/001	entire length	DEP=1C2-E-TEST-0103-27.14004	entire length	
 1C2-E-TEST-0103-27.14/002	river		river	
-1C2-E-TEST-0103-27.14/003	6:05		6:05 pm	
+1C2-E-TEST-0103-27.14/003	6:05		6:05 PM	
 1C2-E-TEST-0103-27.14/004	collapsed			
 1C2-E-TEST-0103-27.14/005	p.m.	DEP=1C2-E-TEST-0103-27.14004		
 1C2-E-TEST-0103-27.3	"The Interstate 35W Mississippi River eight-lane bridge in Minneapolis, Minnesota has collapsed on both sides of the highway over the Mississippi River during rush hour."			
@@ -277,7 +277,7 @@
 1C2-E-TEST-0103-438.10/004	failure	DEP=1C2-E-TEST-0103-438.10009	failure	
 1C2-E-TEST-0103-438.10/005	gusset plates		gusset plates	4
 1C2-E-TEST-0103-438.10/006	significant role	DEP=1C2-E-TEST-0103-438.10009	significant role	4
-1C2-E-TEST-0103-438.10/007	7-Aug		august 2007	7
+1C2-E-TEST-0103-438.10/007	7-Aug		Aug-07	7
 1C2-E-TEST-0103-438.10/008	13 people	DEP=1C2-E-TEST-0103-438.10010	killed 13 people	
 1C2-E-TEST-0103-438.10/009	played			
 1C2-E-TEST-0103-438.10/010	killed			

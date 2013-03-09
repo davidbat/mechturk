@@ -1,0 +1,238 @@
+1C2-E-TEST-0188-112.68	These complex interactions may result in climate change that is more rapid and on a larger scale than projected by current climate models.	
+1C2-E-TEST-0188-112.68/001	complex interactions result in climate change 	
+1C2-E-TEST-0188-112.68/002	more rapid on larger scale 	DEP=1C2-E-TEST-0188-112.68001
+1C2-E-TEST-0188-112.68/003	projected by climate models 	DEP=1C2-E-TEST-0188-112.68002
+		
+1C2-E-TEST-0188-112.72	Climate varies by region as a result of local differences in these interactions.	
+1C2-E-TEST-0188-112.72/001	Climate varies by region	
+1C2-E-TEST-0188-112.72/002	result of local differences 	DEP= 1C2-E-TEST-0188-112.72/001
+		
+		
+1C2-E-TEST-0188-13.22	"To more accurately portray the climatic character of an area, variations, patterns, and extremes must also be included. Thus, climate is the sum of all statistical weather information that helps describe a place or region."	
+1C2-E-TEST-0188-13.22/001	"variations, patterns, and extremes must  be included to accurately portray climatic character"	
+1C2-E-TEST-0188-13.22/002	climate is the sum of all statistical weather information 	
+1C2-E-TEST-0188-13.22/003	helps describe a place or region.	DEP=1C2-E-TEST-0188-13.22002
+		
+		
+1C2-E-TEST-0188-13.41	"Oceans have a major effect on climate, because water in the oceans holds a large amount of heat."""	
+1C2-E-TEST-0188-13.41/001	Oceans have a major effect on climate	
+1C2-E-TEST-0188-13.41/002	water in the oceans holds a large amount of heat 	DEP=1C2-E-TEST-0188-13.41001
+		
+		
+		
+1C2-E-TEST-0188-13.6	Understanding and interpreting local weather data and understanding the relationship between weather and climate are important first steps to understanding larger-scale global climate changes.	
+1C2-E-TEST-0188-13.6/001	Understanding and interpreting local weather data 	DEP=1C2-E-TEST-0188-13.6003
+1C2-E-TEST-0188-13.6/002	understanding the relationship between weather and climate 	DEP=1C2-E-TEST-0188-13.6003
+1C2-E-TEST-0188-13.6/003	important first steps to understanding larger-scale global climate changes.	
+		
+		
+1C2-E-TEST-0188-161.12	"Weather refers to the day-to-day state of the atmosphere, characterized by meteorological factors such as temperature, humidity, precipitation, and winds."	
+1C2-E-TEST-0188-161.12/001	Weather refers to the day-to-day state of the atmosphere	
+1C2-E-TEST-0188-161.12/002	characterized by meteorological factors 	DEP=1C2-E-TEST-0188-161.12001
+1C2-E-TEST-0188-161.12/003	"such as temperature, humidity, precipitation, and winds."	DEP=1C2-E-TEST-0188-161.12002
+		
+		
+		
+1C2-E-TEST-0188-161.33	" On century-to-millennial scales, climate changes such as the “little ice occur; and over the past approximately million years the global climate record is characterized by larger glacial-interglacial transitions, with multiple periodicities of roughly 20,000, 40,000, and 100,000 years, associated statistically with the effects of Earth-Sun orbital variations."	
+1C2-E-TEST-0188-161.33/001	On century-to-millennial scales	DEP=1C2-E-TEST-0188-161.33002
+1C2-E-TEST-0188-161.33/002	climate changes such as the “little ice occur	
+1C2-E-TEST-0188-161.33/003	global climate record is characterized by larger glacial-interglacial transitions	
+1C2-E-TEST-0188-161.33/004 	over the past approximately million years 	DEP=1C2-E-TEST-0188-161.33003
+1C2-E-TEST-0188-161.33/005	"multiple periodicities of roughly 20,000, 40,000, and 100,000 years"	DEP=1C2-E-TEST-0188-161.33003
+1C2-E-TEST-0188-161.33/006	associated statistically with the effects of Earth-Sun orbital variations.	DEP=1C2-E-TEST-0188-161.33003
+		
+		
+		
+		
+1C2-E-TEST-0188-163.124	Climate is the long-term average or total of weather conditions at a given point.	
+1C2-E-TEST-0188-163.124/001	 Climate is the long-term average 	
+1C2-E-TEST-0188-163.124/002	 total of weather conditions at a given point	DEP=1C2-E-TEST-0188-163.124.001
+		
+		
+1C2-E-TEST-0188-163.181	A: Meteorologists describe the wind direction based on the direction from which it is blowing.	
+1C2-E-TEST-0188-163.181/001	 Meteorologists describe the wind direction 	
+1C2-E-TEST-0188-163.181/002	  based on the direction from which it is blowing 	DEP=1C2-E-TEST-0188-163.181001
+		
+		
+1C2-E-TEST-0188-2.11	"Weather changes from season to season, but the ""sum"" of the weather over time is climate."	
+1C2-E-TEST-0188-2.11/001	Weather changes from season to season	
+1C2-E-TEST-0188-2.11/002	"the ""sum"" of the weather over time is climate"	
+		
+1C2-E-TEST-0188-2.13	"Certainly we see climate changing rapidly now as the general warming of the earth has been characterized as ""global climate change"" meaning the general weather everywhere isn't going to ""be like it used to"" in the near future."	
+1C2-E-TEST-0188-2.13/001	" general warming of the earth has been characterized as ""global climate change"""	
+1C2-E-TEST-0188-2.13/002	we see climate changing rapidly now 	DEP=1C2-E-TEST-0188-2.13001
+1C2-E-TEST-0188-2.13/003	"general weather everywhere isn't going to ""be like it used to"" in the near future."	DEP=1C2-E-TEST-0188-2.13001
+		
+1C2-E-TEST-0188-2.14	Climate is recorded weather over a period of time (like over a year).	
+1C2-E-TEST-0188-2.14/001	Climate is recorded weather over a period of time 	
+		
+		
+1C2-E-TEST-0188-2.16	Weather is the sun and the rain and the snow and the sleet and the hail and a sunny day. climate is what the weather isn't.	
+1C2-E-TEST-0188-2.16/001	Weather is rain snow sleep hail and sunny day	
+1C2-E-TEST-0188-2.16/002 	climate is what the weather isn't.	
+		
+		
+1C2-E-TEST-0188-2.4	Weather is what the conditions of the atmosphere are over a short period of time and climate is the average weather over a very long period of time.	
+1C2-E-TEST-0188-2.4/001	Weather is what the conditions of the atmosphere are over a short period of time 	
+1C2-E-TEST-0188-2.4/002	climate is the average weather over a very long period of time.	
+		
+		
+1C2-E-TEST-0188-2.5	"Weather means conditions such as air temperature, rain, snow, wind, or other atmospheric phenomena, on a particular day."	
+1C2-E-TEST-0188-2.5/001	Weather means conditions 	
+1C2-E-TEST-0188-2.5/002	"conditions such as air temperature, rain, snow, wind, or other atmospheric phenomena "	DEP=1C2-E-TEST-0188-2.5001
+1C2-E-TEST-0188-2.5/003	conditions on a particular day. 	DEP=1C2-E-TEST-0188-2.5001
+		
+		
+1C2-E-TEST-0188-2.6	"Climate describes what kind of weather a particular location is likely to have either seasonally or all the time; for example, Albuquerque has a dry climate, so you expect that it will rarely rain there, because a low amount of rain is the average condition there measured long enough to know what to expect."	
+1C2-E-TEST-0188-2.6/001	Climate describes what kind of weather a particular location is likely to have	
+1C2-E-TEST-0188-2.6/002	seasonally or all the time 	DEP=1C2-E-TEST-0188-2.6001
+1C2-E-TEST-0188-2.6/003	Albuquerque has a dry climate	
+1C2-E-TEST-0188-2.6/004	expect that it will rarely rain there 	DEP=1C2-E-TEST-0188-2.6003
+1C2-E-TEST-0188-2.6/005	low amount of rain is the average condition there  	DEP=1C2-E-TEST-0188-2.6003
+1C2-E-TEST-0188-2.6/006	 measured long enough to know what to expect. 	DEP=1C2-E-TEST-0188-2.6003
+		
+		
+		
+1C2-E-TEST-0188-2.8	"Climate is statistics on weather, describing day to day patterns at a specific location for a certain amount of time, usually annually."	
+1C2-E-TEST-0188-2.8/001	Climate is statistics on weather	
+1C2-E-TEST-0188-2.8/002	describing day to day patterns at a specific location 	DEP=1C2-E-TEST-0188-2.8001
+1C2-E-TEST-0188-2.8/003	usually annually	DEP=1C2-E-TEST-0188-2.8002
+		
+		
+		
+1C2-E-TEST-0188-3.10	"Therefore, Climate is the trends in weather patterns over an extended period of time."	
+1C2-E-TEST-0188-3.10/001	Climate is the trends in weather patterns 	
+1C2-E-TEST-0188-3.10/002	over an extended period of time 	DEP=1C2-E-TEST-0188-3.10001
+		
+		
+1C2-E-TEST-0188-36.12	"Climate is defined as the various atmospheric conditions which include rainfall, temperature, wind, humidity and other meteorological elements etc., in a region over a long period of time."	
+1C2-E-TEST-0188-36.12/001	Climate is defined as the various atmospheric conditions in a region over a long period of time. 	
+1C2-E-TEST-0188-36.12/002	"rainfall, temperature, wind, humidity and other meteorological elements etc "	DEP=1C2-E-TEST-0188-36.12001
+		
+		
+		
+1C2-E-TEST-0188-36.14	"Climate can be affected due to various factors which include human activities like burning fossil fuel, cutting down forest, local land features like mountains etc. climate change is one of the biggest problems facing the human beings."	
+1C2-E-TEST-0188-36.14/001	Climate can be affected due to various factors 	
+1C2-E-TEST-0188-36.14/002	" human activities like burning fossil fuel, cutting down forest, local land features like mountains etc.  "	DEP=1C2-E-TEST-0188-36.14001
+1C2-E-TEST-0188-36.14/003	climate change is one of the biggest problems facing the human beings.	
+		
+1C2-E-TEST-0188-36.15	"Due to changes in climatic conditions the earth temperature is increasing day to day which causes global warming, depletion of ozone layer."	
+1C2-E-TEST-0188-36.15/001	Due to changes in climatic conditions 	DEP=1C2-E-TEST-0188-36.15002
+1C2-E-TEST-0188-36.15/002	 the earth temperature is increasing day to day 	
+1C2-E-TEST-0188-36.15/003	"causes global warming, depletion of ozone layer. "	DEP=1C2-E-TEST-0188-36.15001
+		
+		
+1C2-E-TEST-0188-36.21	Changes in the weather can be caused due to differences in energy from the sun to earth so; the weather of the earth is different from one place to other.	
+1C2-E-TEST-0188-36.21/001	Changes in the weather can be caused due to differences in energy from the sun to earth	
+1C2-E-TEST-0188-36.21/002	the weather of the earth is different from one place to other.	
+		
+		
+1C2-E-TEST-0188-36.25	Climate is the pattern of weather that a region experiences over a long period of time.	
+1C2-E-TEST-0188-36.25/001	Climate is the pattern of weather 	
+1C2-E-TEST-0188-36.25/002	region experiences over a long period of time.	DEP=1C2-E-TEST-0188-36.25001
+		
+1C2-E-TEST-0188-36.33	Climate is what you expect according to averages of atmospheric conditions collected over several years at a place.	
+1C2-E-TEST-0188-36.33/001	Climate is what you expect 	
+1C2-E-TEST-0188-36.33/002	according to averages of atmospheric conditions 	DEP=1C2-E-TEST-0188-36.33001
+1C2-E-TEST-0188-36.33/003	collected over several years at a place.	DEP=1C2-E-TEST-0188-36.33002
+		
+		
+1C2-E-TEST-0188-36.38	Climate is recorded over a period of time where as weather is current condition.	
+1C2-E-TEST-0188-36.38/001	Climate is recorded over a period of time 	
+1C2-E-TEST-0188-36.38/002	weather is current condition	
+		
+		
+1C2-E-TEST-0188-36.6	"Weather is the day-to-day state of atmosphere, whereas, the climate is constructed by the average weather conditions at a particular place for a long period of time."	
+1C2-E-TEST-0188-36.6/001	Weather is the day-to-day state of atmosphere	
+1C2-E-TEST-0188-36.6/002	climate is constructed by the average weather conditions 	
+1C2-E-TEST-0188-36.6/003	at a particular place for a long period of time. 	DEP=1C2-E-TEST-0188-36.6002
+		
+		
+1C2-E-TEST-0188-38.10	"Or, as one middle school student put it, ""Climate helps you decide what clothes to buy, weather helps you decide what clothes to wear."""	
+1C2-E-TEST-0188-38.10/001	Climate helps you decide what clothes to buy 	
+1C2-E-TEST-0188-38.10/002	weather helps you decide what clothes to wear 	
+		
+		
+		
+1C2-E-TEST-0188-38.9	"Meteorologists often point out that ""climate is what you expect and weather is what you get."""	
+1C2-E-TEST-0188-38.9/001	climate is what you expect 	
+1C2-E-TEST-0188-38.9/002	weather is what you get 	
+		
+1C2-E-TEST-0188-4.18	Climate determines the animals that live in a certain region and what plants will grow there.	
+1C2-E-TEST-0188-4.18/001	Climate determines 	
+1C2-E-TEST-0188-4.18/002	animals that live in a certain region 	DEP=1C2-E-TEST-0188-4.18001
+1C2-E-TEST-0188-4.18/003	what plants will grow there 	DEP=1C2-E-TEST-0188-4.18001
+		
+		
+1C2-E-TEST-0188-4.19	Climate helps farmers determine the best time to plant crops.	
+1C2-E-TEST-0188-4.19/001	Climate helps farmers determine the best time to plant crops. 	
+		
+		
+1C2-E-TEST-0188-4.8	Climate of a region is usually determined by averaging the weather over a 30-year period.	
+1C2-E-TEST-0188-4.8/001	Climate of a region is usually determined by averaging the weather 	
+1C2-E-TEST-0188-4.8/002	averaging over a 30-year period 	DEP=1C2-E-TEST-0188-4.8001
+		
+1C2-E-TEST-0188-49.20	"Weather is the current atmospheric conditions, including temperature, rainfall, wind, and humidity at a given place."	
+1C2-E-TEST-0188-49.20/001	Weather is the current atmospheric conditions	
+1C2-E-TEST-0188-49.20/002	"including temperature, rainfall, wind, and humidity "	DEP=1C2-E-TEST-0188-49.20001
+1C2-E-TEST-0188-49.20/003	at a given place 	DEP=1C2-E-TEST-0188-49.20001
+		
+1C2-E-TEST-0188-49.32	"Thus, climate is the sum of all statistical weather information that helps describe a place or region."	
+1C2-E-TEST-0188-49.32/001	climate is the sum of all statistical weather information 	
+1C2-E-TEST-0188-49.32/002	helps describe a place or region 	DEP=1C2-E-TEST-0188-49.32001
+		
+		
+1C2-E-TEST-0188-49.36	"While we know how the weather changes from day to day, subtle climate changes are not as readily detectable. Weather patterns and climate types take similar elements into account, the most important of which are:"	
+1C2-E-TEST-0188-49.36/001	weather changes from day to day	
+1C2-E-TEST-0188-49.36/002	subtle climate changes are not as detectable 	
+1C2-E-TEST-0188-49.36/003	Weather patterns and climate types take similar elements 	
+		
+		
+		
+1C2-E-TEST-0188-49.43	" Although weather and climate are different, they are very much interrelated. A change in one weather element often produces changes in the others - and in the region's climate."	
+1C2-E-TEST-0188-49.43/001	weather and climate are different	
+1C2-E-TEST-0188-49.43/002	they are very much interrelated 	DEP=1C2-E-TEST-0188-49.43001
+1C2-E-TEST-0188-49.43/003	A change in one weather element often produces changes in the others 	
+1C2-E-TEST-0188-49.43/004	change in one weather element often produces changes the region's climate. 	
+		
+		
+		
+1C2-E-TEST-0188-49.53	Studying past climates and climate changes help us to better understand our current climate and what may happen in the future.	
+1C2-E-TEST-0188-49.53/001	Studying past climates and climate changes help us better understand our current climate 	
+1C2-E-TEST-0188-49.53/002	Studying past climates and climate changes help us better understand may happen in the future. 	
+		
+		
+		
+1C2-E-TEST-0188-49.6	Long-term climate averages are the result of significant annual climate variability.	
+1C2-E-TEST-0188-49.6/001	long-term climate averages	
+1C2-E-TEST-0188-49.6/002	 result of significant annual climate variability 	DEP=1C2-E-TEST-0188-49.6001
+		
+		
+1C2-E-TEST-0188-49.9	Paleoclimatologists study the earth's climate over millions of years using a variety of methods. Data for past climate changes can be gathered from sources beyond long-term weather observations.	
+1C2-E-TEST-0188-49.9/001	Paleoclimatologists study the earth's climate 	
+1C2-E-TEST-0188-49.9/002	study over millions of years using a variety of methods 	DEP=1C2-E-TEST-0188-49.9001
+1C2-E-TEST-0188-49.9/003	Data for past climate changes can be gathered from sources	
+1C2-E-TEST-0188-49.9/004	gathered beyond long-term weather observations. 	DEP=1C2-E-TEST-0188-49.9003
+		
+		
+		
+1C2-E-TEST-0188-7.2	Weather reflects short-term conditions of the atmosphere while climate is the average daily weather for an extended period of time at a certain location	
+1C2-E-TEST-0188-7.2/001	Weather reflects short-term conditions of the atmosphere 	
+1C2-E-TEST-0188-7.2/002	climate is the average daily weather 	
+1C2-E-TEST-0188-7.2/003	weather for an extended period of time at a certain location 	DEP=1C2-E-TEST-0188-7.2002
+		
+		
+1C2-E-TEST-0188-80.11	The oceans influence the climate by storing solar energy and distributing it around the planet through currents and atmospheric winds.	
+1C2-E-TEST-0188-80.11/001	The oceans influence the climate 	
+1C2-E-TEST-0188-80.11/002	storing solar energy 	DEP=1C2-E-TEST-0188-80.11001
+1C2-E-TEST-0188-80.11/003	distributing it around the planet 	DEP=1C2-E-TEST-0188-80.11002 
+1C2-E-TEST-0188-80.11/004	through currents and atmospheric winds. 	DEP=1C2-E-TEST-0188-80.11003
+		
+1C2-E-TEST-0188-80.5	"He also reportedly noted that climate is what we expect, whereas weather is what we get."	
+1C2-E-TEST-0188-80.5/001	climate is what we expect 	
+1C2-E-TEST-0188-80.5/002	weather is what we get 	
+		
+1C2-E-TEST-0188-92.6	"The old adage is that ""climate is what you expect, weather is what you get,"" since day-to-day weather may depart significantly from average conditions."	
+1C2-E-TEST-0188-92.6/001	climate is what you expect 	
+1C2-E-TEST-0188-92.6/002	weather is what you get 	
+1C2-E-TEST-0188-92.6/003	day-to-day weather may depart significantly from average conditions.	
