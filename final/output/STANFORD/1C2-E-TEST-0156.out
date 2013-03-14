@@ -1,179 +1,30 @@
 1C2-E-TEST-0156-1.25	"In his famous essay "" What is Enlightenment? "" (1784), Immanuel Kant described it simply as freedom to use one's own intelligence."
-1C2-E-TEST-0156-1.25/001	famous essay
+1C2-E-TEST-0156-1.25/001	Immanuel Kant described it simply as freedom to use one's own intelligence
 1C2-E-TEST-0156-1.25/002	1784	DEP=1C2-E-TEST-0156-1.25001
-1C2-E-TEST-0156-1.25/003	immanuel kant
-1C2-E-TEST-0156-1.25/004	freedom	DEP=1C2-E-TEST-0156-1.25003
-1C2-E-TEST-0156-1.25/005	use one's own intelligence	DEP=1C2-E-TEST-0156-1.25004
+1C2-E-TEST-0156-1.25/003	" essay "" What is Enlightenment? """	DEP=1C2-E-TEST-0156-1.25001
 1C2-E-TEST-0156-1.36	"A variety of 19th-century movements, including liberalism and neo-classicism , traced their intellectual heritage back to the Enlightenment."
-1C2-E-TEST-0156-1.36/001	variety
-1C2-E-TEST-0156-1.36/002	19th-century movements	DEP=1C2-E-TEST-0156-1.36001
-1C2-E-TEST-0156-1.36/003	liberalism neo-classicism	DEP=1C2-E-TEST-0156-1.36002
-1C2-E-TEST-0156-1.36/004	traced intellectual heritage	DEP=1C2-E-TEST-0156-1.36002
-1C2-E-TEST-0156-1.36/005	back
+1C2-E-TEST-0156-1.36/001	variety of 19th-century movements traced their intellectual heritage back to the Enlightenment.
+1C2-E-TEST-0156-1.36/002	liberalism and neo-classicism	DEP=1C2-E-TEST-0156-1.36001
 1C2-E-TEST-0156-12.148	Most of the American Enlightenment thinkers advocated democratic ideas and participated directly in the revolution.
-1C2-E-TEST-0156-12.148/001	american thinkers
-1C2-E-TEST-0156-12.148/002	advocated democratic ideas	DEP=1C2-E-TEST-0156-12.148001
-1C2-E-TEST-0156-12.148/003	participated directly	DEP=1C2-E-TEST-0156-12.148002
-1C2-E-TEST-0156-12.148/004	revolution	DEP=1C2-E-TEST-0156-12.148003
+1C2-E-TEST-0156-12.148/001	American Enlightenment thinkers advocated democratic ideas
+1C2-E-TEST-0156-12.148/002	American Enlightenment thinkers participated directly in the revolution.
 1C2-E-TEST-0156-12.196	"The Russian Enlightenment, like the Western European Enlightenment, may be described as the intellectual preparation for the bourgeois revolution."
-1C2-E-TEST-0156-12.196/001	russian
-1C2-E-TEST-0156-12.196/002	western european 	DEP=1C2-E-TEST-0156-12.196001
-1C2-E-TEST-0156-12.196/003	intellectual preparation	DEP=1C2-E-TEST-0156-12.196002
-1C2-E-TEST-0156-12.196/004	bourgeois revolution	DEP=1C2-E-TEST-0156-12.196003
+1C2-E-TEST-0156-12.196/001	Russian Enlightenment intellectual preparation for the bourgeois revolution.
+1C2-E-TEST-0156-12.196/002	 like the Western European Enlightenment	DEP=1C2-E-TEST-0156-12.196001
 1C2-E-TEST-0156-12.236	Enlightenment ideas strongly influenced literature and art (the ÃÂ¢Ã¢ÂÂ¬ÃÂnatural schoolÃÂ¢Ã¢ÂÂ¬ÃÂ and M. E. Saltykov-Shchedrin).
-1C2-E-TEST-0156-12.236/001	ideas strongly influenced
-1C2-E-TEST-0156-12.236/002	literature	DEP=1C2-E-TEST-0156-12.236001
-1C2-E-TEST-0156-12.236/003	art-the natural school	DEP=1C2-E-TEST-0156-12.236001
-1C2-E-TEST-0156-12.236/004	m. e. saltykov-shchedrin	DEP=1C2-E-TEST-0156-12.236001
+1C2-E-TEST-0156-12.236/001	Enlightenment ideas strongly influenced literature and art
+1C2-E-TEST-0156-12.236/002	m. e. saltykov-shchedrin	DEP=1C2-E-TEST-0156-12.236001
 1C2-E-TEST-0156-12.314	"In the Middle East, Enlightenment ideas developed in the second half of the 19th century and in the early 20th under the influence of the Western European and the Russian Enlightenment."
-1C2-E-TEST-0156-12.314/001	middle east
-1C2-E-TEST-0156-12.314/002	ideas developed	DEP=1C2-E-TEST-0156-12.314001
-1C2-E-TEST-0156-12.314/003	second half 19th century early 20th 	DEP=1C2-E-TEST-0156-12.314002
-1C2-E-TEST-0156-12.314/004	under influence 
-1C2-E-TEST-0156-12.314/005	western european 	DEP=1C2-E-TEST-0156-12.314004
-1C2-E-TEST-0156-12.314/006	russian	DEP=1C2-E-TEST-0156-12.314004
+1C2-E-TEST-0156-12.314/001	"Middle East, Enlightenment ideas developed in the second half of the 19th century"
+1C2-E-TEST-0156-12.314/002	under the influence of the Western European and the Russian Enlightenment.	DEP=1C2-E-TEST-0156-12.314001
 1C2-E-TEST-0156-121.5	"ÃÂÃÂ ÃÂÃÂ ÃÂÃÂ ÃÂÃÂ  Like the scientific revolution, the Enlightenment involved an application of the natural, humanistic attitudes typical of theRenaissance."
-1C2-E-TEST-0156-121.5/001	scientific revolution
-1C2-E-TEST-0156-121.5/002	invlolved
-1C2-E-TEST-0156-121.5/003	application
-1C2-E-TEST-0156-121.5/004	natural humanistic attitudes typical	DEP=1C2-E-TEST-0156-121.5001
-1C2-E-TEST-0156-121.5/005	renaissance	DEP=1C2-E-TEST-0156-121.5002
+1C2-E-TEST-0156-121.5/001	"Enlightenment involved an application of the natural, humanistic attitudes"
+1C2-E-TEST-0156-121.5/002	Like the scientific revolution	DEP=1C2-E-TEST-0156-121.5001
+1C2-E-TEST-0156-121.5/003	 attitudes typical of the Renaissance.	DEP=1C2-E-TEST-0156-121.5001
 1C2-E-TEST-0156-13.182	"It was Kant himself who answered the question, ""Do we now live in an enlightened age?"" by saying: ""No, but we live in an age of enlightenment""ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂa judgment that perhaps remains as true today as when it was first rendered."
-1C2-E-TEST-0156-13.182/001	kant 
-1C2-E-TEST-0156-13.182/002	live	DEP=1C2-E-TEST-0156-13.182001
-1C2-E-TEST-0156-13.182/003	enlightened age	DEP=1C2-E-TEST-0156-13.182002
-1C2-E-TEST-0156-13.182/004	saying
-1C2-E-TEST-0156-13.182/005	"no, "
-1C2-E-TEST-0156-13.182/006	age
-1C2-E-TEST-0156-13.182/007	judgement perhaps remains true today
-1C2-E-TEST-0156-13.182/008	first rendered	DEP=1C2-E-TEST-0156-13.182007
+1C2-E-TEST-0156-13.182/001	we live in an age of enlightenment
+1C2-E-TEST-0156-13.182/002	Kant himself who answered the question Do we now live in an enlightened age?	DEP=1C2-E-TEST-0156-13.182001
+1C2-E-TEST-0156-13.182/003	judgment that remains as true today as when it was first rendered	DEP=1C2-E-TEST-0156-13.182001
 1C2-E-TEST-0156-13.80	"By the mid-eighteenth century, the basic conceptual vocabulary of the natural rights traditionÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ""natural rights,"" ""state of nature,"" ""civil society,"" ""social contract""ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂhad entered the mainstream of Enlightenment political thought, which embraced, nearly unanimously, the belief that the only legitimate basis of political authority was consent."
-1C2-E-TEST-0156-13.80/001	mid-eighteenth century
-1C2-E-TEST-0156-13.80/002	basic conceptual vocabulary 
-1C2-E-TEST-0156-13.80/003	natural rights tradition	DEP=1C2-E-TEST-0156-13.80002
-1C2-E-TEST-0156-13.80/004	natural rights  	DEP=1C2-E-TEST-0156-13.80002
-1C2-E-TEST-0156-13.80/005	state 	DEP=1C2-E-TEST-0156-13.80002
-1C2-E-TEST-0156-13.80/006	nature	DEP=1C2-E-TEST-0156-13.80005
-1C2-E-TEST-0156-13.80/007	civil society	DEP=1C2-E-TEST-0156-13.80002
-1C2-E-TEST-0156-13.80/008	social contract	DEP=1C2-E-TEST-0156-13.80002
-1C2-E-TEST-0156-13.80/009	entered mainstream
-1C2-E-TEST-0156-13.80/010	political thought 	DEP=1C2-E-TEST-0156-13.80009
-1C2-E-TEST-0156-13.80/011	embraced nearly unanimously
-1C2-E-TEST-0156-13.80/012	belief	DEP=1C2-E-TEST-0156-13.80011
-1C2-E-TEST-0156-13.80/013	only legitimate basis	DEP=1C2-E-TEST-0156-13.80012
-1C2-E-TEST-0156-13.80/014	political authority	DEP=1C2-E-TEST-0156-13.80013
-1C2-E-TEST-0156-13.80/015	consent	DEP=1C2-E-TEST-0156-13.80014
-1C2-E-TEST-0156-13.86	"Meanwhile, the most influential work of political theory of the Enlightenment turned its back on natural rights theory altogether."
-1C2-E-TEST-0156-13.86/001	most influential work
-1C2-E-TEST-0156-13.86/002	political theory	DEP=1C2-E-TEST-0156-13.86001
-1C2-E-TEST-0156-13.86/003	turned	DEP=1C2-E-TEST-0156-13.86002
-1C2-E-TEST-0156-13.86/004	back 	DEP=1C2-E-TEST-0156-13.86003
-1C2-E-TEST-0156-13.86/005	natural rights theory altogether	DEP=1C2-E-TEST-0156-13.86004
-1C2-E-TEST-0156-138.28	"Enlightenment powered: The Enlightenment window manager provides a desktop featuring a fast, light, very flexible environment that still offers eye candy and all the necessary resources to run your day to day applications."
-1C2-E-TEST-0156-138.28/001	powered
-1C2-E-TEST-0156-138.28/002	window manager	DEP=1C2-E-TEST-0156-138.28001
-1C2-E-TEST-0156-138.28/003	provides desktop	DEP=1C2-E-TEST-0156-138.28002
-1C2-E-TEST-0156-138.28/004	featuring	DEP=1C2-E-TEST-0156-138.28003
-1C2-E-TEST-0156-138.28/005	fast light very flexible environment	DEP=1C2-E-TEST-0156-138.28004
-1C2-E-TEST-0156-138.28/006	offers eye candy	DEP=1C2-E-TEST-0156-138.28005
-1C2-E-TEST-0156-138.28/007	necessaryresources	DEP=1C2-E-TEST-0156-138.28006
-1C2-E-TEST-0156-138.28/008	run	DEP=1C2-E-TEST-0156-138.28007
-1C2-E-TEST-0156-138.28/009	day	DEP=1C2-E-TEST-0156-138.28008
-1C2-E-TEST-0156-138.28/010	day applications	DEP=1C2-E-TEST-0156-138.28009
-1C2-E-TEST-0156-174.2	"The first tentative step forward towards archaeology as a science took place during the Enlightenment , also known as the Age of Reason."
-1C2-E-TEST-0156-174.2/001	first tentative step forward
-1C2-E-TEST-0156-174.2/002	archaeology	DEP=1C2-E-TEST-0156-174.2001
-1C2-E-TEST-0156-174.2/003	science	DEP=1C2-E-TEST-0156-174.2002
-1C2-E-TEST-0156-174.2/004	age
-1C2-E-TEST-0156-174.2/005	reason	DEP=1C2-E-TEST-0156-174.2004
-1C2-E-TEST-0156-174.7	"The Enlightenment ended with the American and French Revolutions, but the main concept of the Enlightenment--that of the ""Great Chain"" of human cultural evolution--was to lead men (rich European men) to investigate the globe over the next century."
-1C2-E-TEST-0156-174.7/001	ended
-1C2-E-TEST-0156-174.7/002	american	DEP=1C2-E-TEST-0156-174.7001
-1C2-E-TEST-0156-174.7/003	french revolutions	DEP=1C2-E-TEST-0156-174.7001
-1C2-E-TEST-0156-174.7/004	main concept
-1C2-E-TEST-0156-174.7/005	great chain	DEP=1C2-E-TEST-0156-174.7004
-1C2-E-TEST-0156-174.7/006	human cultural evolution	DEP=1C2-E-TEST-0156-174.7005
-1C2-E-TEST-0156-174.7/007	lead men
-1C2-E-TEST-0156-174.7/008	rich european men	DEP=1C2-E-TEST-0156-174.7007
-1C2-E-TEST-0156-174.7/009	investigate	DEP=1C2-E-TEST-0156-174.7008
-1C2-E-TEST-0156-174.7/010	globe
-1C2-E-TEST-0156-174.7/011	next century	DEP=1C2-E-TEST-0156-174.7010
-1C2-E-TEST-0156-20.3	"The boundaries of the Enlightenment are often thought to cover much of the 17th century as well, though others term the previous era "" The Age of Reason ""."
-1C2-E-TEST-0156-345.3	(Hinduism and Buddhism) the beatitude that transcends the cycle of reincarnation; characterized by the extinction of desire and suffering and individual consciousness
-1C2-E-TEST-0156-345.3/001	hinduism	DEP=1C2-E-TEST-0156-345.3003
-1C2-E-TEST-0156-345.3/002	buddhism	DEP=1C2-E-TEST-0156-345.3003
-1C2-E-TEST-0156-345.3/003	beatitude
-1C2-E-TEST-0156-345.3/004	transcends cycle 	DEP=1C2-E-TEST-0156-345.3003
-1C2-E-TEST-0156-345.3/005	reincarnation	DEP=1C2-E-TEST-0156-345.3004
-1C2-E-TEST-0156-345.3/006	characterized
-1C2-E-TEST-0156-345.3/007	extinction	DEP=1C2-E-TEST-0156-345.3006
-1C2-E-TEST-0156-345.3/008	desire	DEP=1C2-E-TEST-0156-345.3007
-1C2-E-TEST-0156-345.3/009	suffering	DEP=1C2-E-TEST-0156-345.3006
-1C2-E-TEST-0156-345.3/010	individual consciousness	DEP=1C2-E-TEST-0156-345.3006
-1C2-E-TEST-0156-36.3	"The goal of the Enlightenment was to establish an authoritative ethics, aesthetics, and knowledge based on an ""enlightened"" rationality."
-1C2-E-TEST-0156-36.3/001	goal
-1C2-E-TEST-0156-36.3/002	establish 	DEP=1C2-E-TEST-0156-36.3001
-1C2-E-TEST-0156-36.3/003	authoritative ethics	DEP=1C2-E-TEST-0156-36.3002
-1C2-E-TEST-0156-36.3/004	aesthetics	DEP=1C2-E-TEST-0156-36.3003
-1C2-E-TEST-0156-36.3/005	knowledge based 
-1C2-E-TEST-0156-36.3/006	elightened rationaity	DEP=1C2-E-TEST-0156-36.3005
-1C2-E-TEST-0156-39.12	The Enlightenment (The Age of Enlightenment) was an intellectual movement in 18th Century Europe .
-1C2-E-TEST-0156-39.12/001	age
-1C2-E-TEST-0156-39.12/002	intellectual movement	DEP=1C2-E-TEST-0156-39.12001
-1C2-E-TEST-0156-39.12/003	18th century europe	DEP=1C2-E-TEST-0156-39.12002
-1C2-E-TEST-0156-39.27	Enlightenment ideas were also strongly influential in the Constitution of the United States.
-1C2-E-TEST-0156-39.27/001	ideas
-1C2-E-TEST-0156-39.27/002	strongly influential	DEP=1C2-E-TEST-0156-39.27001
-1C2-E-TEST-0156-39.27/003	constitution	DEP=1C2-E-TEST-0156-39.27002
-1C2-E-TEST-0156-39.27/004	united states	DEP=1C2-E-TEST-0156-39.27003
-1C2-E-TEST-0156-39.28	The Enlightenment was also marked by the rise of capitalism and the wide availability of printed materials.
-1C2-E-TEST-0156-39.28/001	marked 
-1C2-E-TEST-0156-39.28/002	rise	DEP=1C2-E-TEST-0156-39.28001
-1C2-E-TEST-0156-39.28/003	capitalism	DEP=1C2-E-TEST-0156-39.28002
-1C2-E-TEST-0156-39.28/004	wide availability	DEP=1C2-E-TEST-0156-39.28001
-1C2-E-TEST-0156-39.28/005	printed materials	DEP=1C2-E-TEST-0156-39.28004
-1C2-E-TEST-0156-44.16	Enlightenment A philosophical movement of the 18th century that emphasized the use of reason to scrutinize previously accepted doctrines and traditions and that brought about many humanitarian reforms.
-1C2-E-TEST-0156-44.16/001	18th century philosophical movement
-1C2-E-TEST-0156-44.16/002	emphasized use	DEP=1C2-E-TEST-0156-44.16001
-1C2-E-TEST-0156-44.16/003	reason	DEP=1C2-E-TEST-0156-44.16002
-1C2-E-TEST-0156-44.16/004	scrutinize previously accepted doctrines	DEP=1C2-E-TEST-0156-44.16003
-1C2-E-TEST-0156-44.16/005	traditions	DEP=1C2-E-TEST-0156-44.16004
-1C2-E-TEST-0156-44.16/006	brought about
-1C2-E-TEST-0156-44.16/007	humanitarian reforms	DEP=1C2-E-TEST-0156-44.16006
-1C2-E-TEST-0156-44.18	Buddhism & Hinduism A blessed state in which the individual transcends desire and suffering and attains Nirvana.
-1C2-E-TEST-0156-44.18/001	buddhism	DEP=1C2-E-TEST-0156-44.18003
-1C2-E-TEST-0156-44.18/002	hinduism	DEP=1C2-E-TEST-0156-44.18003
-1C2-E-TEST-0156-44.18/003	blessed stated
-1C2-E-TEST-0156-44.18/004	individual transcends desire	DEP=1C2-E-TEST-0156-44.18003
-1C2-E-TEST-0156-44.18/005	suffering	DEP=1C2-E-TEST-0156-44.18004
-1C2-E-TEST-0156-44.18/006	attains nirvana	DEP=1C2-E-TEST-0156-44.18003
-1C2-E-TEST-0156-70.20	"During this period of time the Enlightenment, as more and more people began to use reason, some came to disagree with the idea that God created the world."
-1C2-E-TEST-0156-70.20/001	period
-1C2-E-TEST-0156-70.20/002	time	DEP=1C2-E-TEST-0156-70.20001
-1C2-E-TEST-0156-70.20/003	more people
-1C2-E-TEST-0156-70.20/004	began	DEP=1C2-E-TEST-0156-70.20003
-1C2-E-TEST-0156-70.20/005	use reason	DEP=1C2-E-TEST-0156-70.20003
-1C2-E-TEST-0156-70.20/006	disagree	DEP=1C2-E-TEST-0156-70.20003
-1C2-E-TEST-0156-70.20/007	idea
-1C2-E-TEST-0156-70.20/008	god	DEP=1C2-E-TEST-0156-70.20007
-1C2-E-TEST-0156-70.20/009	created	DEP=1C2-E-TEST-0156-70.20008
-1C2-E-TEST-0156-70.20/010	world	DEP=1C2-E-TEST-0156-70.20009
-1C2-E-TEST-0156-70.22	"The Enlightenment is held to be the source of important ideas, such as the centrality of freedom, democracy and reason as primary values in society."
-1C2-E-TEST-0156-70.22/001	source
-1C2-E-TEST-0156-70.22/002	important ideas
-1C2-E-TEST-0156-70.22/003	centrality	DEP=1C2-E-TEST-0156-70.22002
-1C2-E-TEST-0156-70.22/004	freedom	DEP=1C2-E-TEST-0156-70.22003
-1C2-E-TEST-0156-70.22/005	democracy	DEP=1C2-E-TEST-0156-70.22002
-1C2-E-TEST-0156-70.22/006	reason	DEP=1C2-E-TEST-0156-70.22002
-1C2-E-TEST-0156-70.22/007	primary values society	DEP=1C2-E-TEST-0156-70.22002
-1C2-E-TEST-0156-70.30	"During the Enlightenment, its figures started thinking with reason and natural science."
-1C2-E-TEST-0156-70.30/001	figures
-1C2-E-TEST-0156-70.30/002	started thinking	DEP=1C2-E-TEST-0156-70.30001
-1C2-E-TEST-0156-70.30/003	reason	DEP=1C2-E-TEST-0156-70.30002
-1C2-E-TEST-0156-70.30/004	natural sciences	DEP=1C2-E-TEST-0156-70.30003
-1C2-E-TEST-0156-99.63	"The Enlightenment took place during the 18th century and was defined as ""man's leaving his self-caused immaturity."""
-1C2-E-TEST-0156-99.63/001	took place
-1C2-E-TEST-0156-99.63/002	18th century	DEP=1C2-E-TEST-0156-99.63001
-1C2-E-TEST-0156-99.63/003	defined
-1C2-E-TEST-0156-99.63/004	mans leaving
-1C2-E-TEST-0156-99.63/005	self-caused immaturity	DEP=1C2-E-TEST-0156-99.63004
+1C2-E-TEST-0156-13.80/001	mid-eighteenth century	DEP=1C2-E-TEST-0156-13.80002
+1C2-E-TEST-0156-13.80/002	basic conceptual vocabulary of the natural rights tradition had entered the mainstream of Enlightenment political thought

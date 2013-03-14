@@ -1,50 +1,31 @@
 1C2-E-TEST-0009-11.125	He returned two years later to perform at a benefit concert for the victims of the Chernobyl disaster.
-1C2-E-TEST-0009-11.125/001	returned	DEP=1C2-E-TEST-0009-11.125002
-1C2-E-TEST-0009-11.125/002	two years later	DEP=1C2-E-TEST-0009-11.125003
-1C2-E-TEST-0009-11.125/003	perform benefit concert
-1C2-E-TEST-0009-11.125/004	victims	DEP=1C2-E-TEST-0009-11.125005
-1C2-E-TEST-0009-11.125/005	chernobyl disaster
+1C2-E-TEST-0009-11.125/001	 perform at a benefit concert for the victims of the Chernobyl disaster.
+1C2-E-TEST-0009-11.125/002	two years later	DEP=1C2-E-TEST-0009-11.125001
 1C2-E-TEST-0009-11.222	"This two-CD set, John Denver ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Live in the USSR, was produced by Denver's friend Roger Nichols, and released by AAO Music."
 1C2-E-TEST-0009-11.222/001	two-cd set	DEP=1C2-E-TEST-0009-11.222002
-1C2-E-TEST-0009-11.222/002	live ussr
-1C2-E-TEST-0009-11.222/003	produced	DEP=1C2-E-TEST-0009-11.222004
-1C2-E-TEST-0009-11.222/004	friend	DEP=1C2-E-TEST-0009-11.222005
-1C2-E-TEST-0009-11.222/005	roger nichols
-1C2-E-TEST-0009-11.222/006	released	DEP=1C2-E-TEST-0009-11.222007
-1C2-E-TEST-0009-11.222/007	aao music
+1C2-E-TEST-0009-11.222/002	john denver Live in the USSR
+1C2-E-TEST-0009-11.222/003	produced by Denver's friend Roger Nichols	DEP=1C2-E-TEST-0009-11.222002
+1C2-E-TEST-0009-11.222/004	released by AAO Music	DEP=1C2-E-TEST-0009-11.222002
 1C2-E-TEST-0009-11.238	"Bill Danoff and Taffy Nivert, credited as co-writers of Denver's song ""Take Me Home, Country Roads"", were close friends of Denver and his family, appearing as singers and songwriters on many of Denver's albums until they formed the Starland Vocal Band in 1976."
-1C2-E-TEST-0009-11.238/001	bill danoff	DEP=1C2-E-TEST-0009-11.238004
-1C2-E-TEST-0009-11.238/002	taffy nivert	DEP=1C2-E-TEST-0009-11.238004
-1C2-E-TEST-0009-11.238/003	credited	DEP=1C2-E-TEST-0009-11.238004
-1C2-E-TEST-0009-11.238/004	co-writers song	DEP=1C2-E-TEST-0009-11.238005
-1C2-E-TEST-0009-11.238/005	take me home country roads
-1C2-E-TEST-0009-11.238/006	close friends	DEP=1C2-E-TEST-0009-11.238004
+1C2-E-TEST-0009-11.238/001	"Bill Danoff and Taffy Nivert credited as co-writers ""Take Me Home Country Rode"""
+1C2-E-TEST-0009-11.238/002	Bill Danoff and Taffy Nivert close friends of Denver and his family
+1C2-E-TEST-0009-11.238/003	Bill Danoff and Taffy Nivert singers and songwriters on many of Denver's albums
+1C2-E-TEST-0009-11.238/004	Bill Danoff and Taffy Nivert formed the Starland Vocal Band in 1976.
 1C2-E-TEST-0009-114.17	"In 1969, John abandoned the band life to pursue a solo career, and released his first album for RCA Records, Rhymes and Reasons."
 1C2-E-TEST-0009-114.17/001	1969	DEP=1C2-E-TEST-0009-114.17002
-1C2-E-TEST-0009-114.17/002	abandoned band life
-1C2-E-TEST-0009-114.17/003	pursue solo career
-1C2-E-TEST-0009-114.17/004	released first album	DEP=1C2-E-TEST-0009-114.17005
-1C2-E-TEST-0009-114.17/005	rca records	DEP=1C2-E-TEST-0009-114.17006
-1C2-E-TEST-0009-114.17/006	rhymes reasons
+1C2-E-TEST-0009-114.17/002	John abandoned the band life to pursue a solo career
+1C2-E-TEST-0009-114.17/003	released his first album for RCA Records
+1C2-E-TEST-0009-114.17/004	first album Rhymes and Reasons
 1C2-E-TEST-0009-114.24	"Denver's next album, Poems, Prayers and Promises, released the following year, was a breakthrough for him in America, thanks in part to the single ""Take Me Home, Country Roads"", which went to number two on the Billboard charts."
-1C2-E-TEST-0009-114.24/001	next album	DEP=1C2-E-TEST-0009-114.24002
-1C2-E-TEST-0009-114.24/002	poems prayers promises
-1C2-E-TEST-0009-114.24/003	relased following year
-1C2-E-TEST-0009-114.24/004	breakthrough	DEP=1C2-E-TEST-0009-114.24005
-1C2-E-TEST-0009-114.24/005	america
-1C2-E-TEST-0009-114.24/006	single	DEP=1C2-E-TEST-0009-114.24007
-1C2-E-TEST-0009-114.24/007	take me home country roads	DEP=1C2-E-TEST-0009-114.24008
-1C2-E-TEST-0009-114.24/008	number two	DEP=1C2-E-TEST-0009-114.24009
-1C2-E-TEST-0009-114.24/009	billboard charts
+1C2-E-TEST-0009-114.24/001	"Denver's next album, Poems, Prayers and Promises, released the following year"
+1C2-E-TEST-0009-114.24/002	breakthrough for him in America	DEP=1C2-E-TEST-0009-114.24001
+1C2-E-TEST-0009-114.24/003	"Take Me Home, Country Roads went to number two on the Billboard charts"
 1C2-E-TEST-0009-114.3	"John Denver (December 31, 1943ÃÂÃÂ ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ October 12, 1997), born Henry John Deutschendorf, Jr., was an American Country Music/folk singer-songwriter and folk rock musician."
-1C2-E-TEST-0009-114.3/001	december 31 1943	DEP=1C2-E-TEST-0009-114.3002
-1C2-E-TEST-0009-114.3/002	born
-1C2-E-TEST-0009-114.3/003	henry deutschendorf jr.	DEP=1C2-E-TEST-0009-114.3002
-1C2-E-TEST-0009-114.3/004	american country music	DEP=1C2-E-TEST-0009-114.3003
-1C2-E-TEST-0009-114.3/005	folk singer-songwriter	DEP=1C2-E-TEST-0009-114.3003
-1C2-E-TEST-0009-114.3/006	folk rock musician	DEP=1C2-E-TEST-0009-114.3003
+1C2-E-TEST-0009-114.3/001	"born Henry John Deutschendorf, Jr."
+1C2-E-TEST-0009-114.3/002	"December 31, 1943 - October 12, 1997"	DEP=1C2-E-TEST-0009-114.3001
+1C2-E-TEST-0009-114.3/003	 American Country Music/folk singer-songwriter and folk rock musician
 1C2-E-TEST-0009-114.6	"Songs such as ""Leaving on a Jet Plane"" (1967), ""Take Me Home, Country Roads"" (1971), ""Rocky Mountain High"" (1973), ""Thank God I'm a Country Boy"" (1974), ""Annie's Song"" (1974), ""Sunshine on My Shoulders"" (1974), and ""Calypso"" (1975) are popular worldwide."
-1C2-E-TEST-0009-114.6/001	songs	DEP=1C2-E-TEST-0009-114.6009
+1C2-E-TEST-0009-114.6/001	songs popular worldwide
 1C2-E-TEST-0009-114.6/002	leaving jet plane 1967	DEP=1C2-E-TEST-0009-114.6001
 1C2-E-TEST-0009-114.6/003	take me home country roads 1971	DEP=1C2-E-TEST-0009-114.6001
 1C2-E-TEST-0009-114.6/004	rocky mountain high 1973	DEP=1C2-E-TEST-0009-114.6001
@@ -52,209 +33,115 @@
 1C2-E-TEST-0009-114.6/006	annie song 1974	DEP=1C2-E-TEST-0009-114.6001
 1C2-E-TEST-0009-114.6/007	sunshine shoulder 1974	DEP=1C2-E-TEST-0009-114.6001
 1C2-E-TEST-0009-114.6/008	calypso 1975	DEP=1C2-E-TEST-0009-114.6001
-1C2-E-TEST-0009-114.6/009	popular worldwide
 1C2-E-TEST-0009-138.33	"He was one of the biggest-selling singers in the world during the '70s, producing ""Rocky Mountain High"", ""Annie's Song"", ""Sunshine On My Shoulders"", ""Back Home Again"", and ""Thank God I'm a Country Boy""."
-1C2-E-TEST-0009-138.33/001	biggest-selling singers	DEP=1C2-E-TEST-0009-138.33002
-1C2-E-TEST-0009-138.33/002	world	DEP=1C2-E-TEST-0009-138.33003
-1C2-E-TEST-0009-138.33/003	70s
-1C2-E-TEST-0009-138.33/004	producing
-1C2-E-TEST-0009-138.33/005	rocky mountain high	DEP=1C2-E-TEST-0009-138.33004
-1C2-E-TEST-0009-138.33/006	annie song	DEP=1C2-E-TEST-0009-138.33004
-1C2-E-TEST-0009-138.33/007	sunshine shoulder	DEP=1C2-E-TEST-0009-138.33004
-1C2-E-TEST-0009-138.33/008	back home again	DEP=1C2-E-TEST-0009-138.33004
-1C2-E-TEST-0009-138.33/009	thank god country boy	DEP=1C2-E-TEST-0009-138.33004
+1C2-E-TEST-0009-138.33/001	biggest-selling singers in the world during the '70s
+1C2-E-TEST-0009-138.33/002	rocky mountain high	DEP=1C2-E-TEST-0009-138.33001
+1C2-E-TEST-0009-138.33/003	annie song	DEP=1C2-E-TEST-0009-138.33001
+1C2-E-TEST-0009-138.33/004	sunshine shoulder	DEP=1C2-E-TEST-0009-138.33001
+1C2-E-TEST-0009-138.33/005	back home again	DEP=1C2-E-TEST-0009-138.33001
+1C2-E-TEST-0009-138.33/006	thank god country boy	DEP=1C2-E-TEST-0009-138.33001
 1C2-E-TEST-0009-138.39	"Denver, born John Henry Deutschendorfer, in Roswell, New Mexico, dropped out of school to pursue a career in folk music in Los Angeles and sang with the Chad Mitchell Trio in the '60s."
-1C2-E-TEST-0009-138.39/001	born	DEP=1C2-E-TEST-0009-138.39002
-1C2-E-TEST-0009-138.39/002	henry deutschendorf	DEP=1C2-E-TEST-0009-138.39003
-1C2-E-TEST-0009-138.39/003	roswell	DEP=1C2-E-TEST-0009-138.39004
-1C2-E-TEST-0009-138.39/004	new mexico
-1C2-E-TEST-0009-138.39/005	dropped out school	DEP=1C2-E-TEST-0009-138.39006
-1C2-E-TEST-0009-138.39/006	pursue career folk music	DEP=1C2-E-TEST-0009-138.39007
-1C2-E-TEST-0009-138.39/007	los angeles
-1C2-E-TEST-0009-138.39/008	sang	DEP=1C2-E-TEST-0009-138.39009
-1C2-E-TEST-0009-138.39/009	chad mitchell trio	DEP=1C2-E-TEST-0009-138.39010
-1C2-E-TEST-0009-138.39/010	60s
+1C2-E-TEST-0009-138.39/001	born John Henry Deutschendorfer
+1C2-E-TEST-0009-138.39/002	"born in Roswell, New Mexico"
+1C2-E-TEST-0009-138.39/003	dropped out of school to pursue a career in folk music
+1C2-E-TEST-0009-138.39/004	in Los Angeles	DEP=1C2-E-TEST-0009-138.39003
+1C2-E-TEST-0009-138.39/005	sang with the Chad Mitchell Trio in the '60s.
 1C2-E-TEST-0009-147.183	"Denver's early solo success is often attributed to the recording of his "" Leaving on a Jet Plane "", which was recorded by Peter, Paul and Mary. """
-1C2-E-TEST-0009-147.183/001	early solo success	DEP=1C2-E-TEST-0009-147.183002
-1C2-E-TEST-0009-147.183/002	attributed	DEP=1C2-E-TEST-0009-147.183003
-1C2-E-TEST-0009-147.183/003	recording	DEP=1C2-E-TEST-0009-147.183004
-1C2-E-TEST-0009-147.183/004	leaving jet plane
-1C2-E-TEST-0009-147.183/005	recorded
-1C2-E-TEST-0009-147.183/006	peter paul mary	DEP=1C2-E-TEST-0009-147.183005
+1C2-E-TEST-0009-147.183/001	"early solo success is often attributed to ""Leaving on a Jet Plane"""
+1C2-E-TEST-0009-147.183/002	"recorded by Peter, Paul and Mary"	DEP=1C2-E-TEST-0009-147.183001
 1C2-E-TEST-0009-147.32	"Annie's Song "" is a song recorded and written by Singer-songwriter John Denver."
-1C2-E-TEST-0009-147.32/001	annie song
-1C2-E-TEST-0009-147.32/002	song recorded written	DEP=1C2-E-TEST-0009-147.32002
-1C2-E-TEST-0009-147.32/003	singer-songwriter	DEP=1C2-E-TEST-0009-147.32003
+1C2-E-TEST-0009-147.32/001	annie song recorded and written by Singer-songwriter John Denver
 1C2-E-TEST-0009-159.183	"As the wreck badly disfigured Denver's body, dental records were needed to confirm the pilot of the Long-EZ was indeed the fallen singer. Upon announcement of his death, Governor Roy Romer of Colorado ordered all Colorado flags to be lowered to half-staff to honor Denver."
-1C2-E-TEST-0009-159.183/001	wreck badly disfigured	DEP=1C2-E-TEST-0009-159.183002
-1C2-E-TEST-0009-159.183/002	dental records needed
-1C2-E-TEST-0009-159.183/003	confirm	DEP=1C2-E-TEST-0009-159.183002
-1C2-E-TEST-0009-159.183/004	pilot	DEP=1C2-E-TEST-0009-159.183005
-1C2-E-TEST-0009-159.183/005	long-ez	DEP=1C2-E-TEST-0009-159.183006
-1C2-E-TEST-0009-159.183/006	indeed	DEP=1C2-E-TEST-0009-159.183007
-1C2-E-TEST-0009-159.183/007	fallen singer
-1C2-E-TEST-0009-159.183/008	announcement death	DEP=1C2-E-TEST-0009-159.183009
-1C2-E-TEST-0009-159.183/009	governor roy romer	DEP=1C2-E-TEST-0009-159.183011
-1C2-E-TEST-0009-159.183/010	colorado	DEP=1C2-E-TEST-0009-159.183009
-1C2-E-TEST-0009-159.183/011	ordered	DEP=1C2-E-TEST-0009-159.183012
-1C2-E-TEST-0009-159.183/012	colorado flags	DEP=1C2-E-TEST-0009-159.183013
-1C2-E-TEST-0009-159.183/013	lowered
-1C2-E-TEST-0009-159.183/014	half-staff	DEP=1C2-E-TEST-0009-159.183012
-1C2-E-TEST-0009-159.183/015	honor
+1C2-E-TEST-0009-159.183/001	wreck badly disfigured Denver's body
+1C2-E-TEST-0009-159.183/002	dental records were needed to confirm the pilot of the Long-EZ 
+1C2-E-TEST-0009-159.183/003	Governor Roy Romer of Colorado ordered all Colorado flags to be lowered to half-staff 
+1C2-E-TEST-0009-159.183/004	to honor Denver.	DEP=1C2-E-TEST-0009-159.183003
+1C2-E-TEST-0009-159.183/005	Upon announcement of his death	DEP=1C2-E-TEST-0009-159.183003
 1C2-E-TEST-0009-159.185	"Denver's life was celebrated at funeral services at Faith Presbyterian Church in Aurora, Colorado on October 17, 1997."
-1C2-E-TEST-0009-159.185/001	life	DEP=1C2-E-TEST-0009-159.185002
-1C2-E-TEST-0009-159.185/002	celebrated	DEP=1C2-E-TEST-0009-159.185003
-1C2-E-TEST-0009-159.185/003	funeral services
-1C2-E-TEST-0009-159.185/004	faith presbyterian church	DEP=1C2-E-TEST-0009-159.185003
-1C2-E-TEST-0009-159.185/005	aurora colorado	DEP=1C2-E-TEST-0009-159.185004
-1C2-E-TEST-0009-159.185/006	october 17 1997	DEP=1C2-E-TEST-0009-159.185003
+1C2-E-TEST-0009-159.185/001	Denver's life was celebrated at funeral services
+1C2-E-TEST-0009-159.185/002	Faith Presbyterian Church in Aurora Colorado	DEP=1C2-E-TEST-0009-159.185001
+1C2-E-TEST-0009-159.185/003	"on October 17, 1997."	DEP=1C2-E-TEST-0009-159.185001
 1C2-E-TEST-0009-159.191	"John Denver sings ""Rocky Mountain High"" and ""Sunshine On My Shoulders""."
-1C2-E-TEST-0009-159.191/001	sings
-1C2-E-TEST-0009-159.191/002	rocky mountain high	DEP=1C2-E-TEST-0009-159.191002
-1C2-E-TEST-0009-159.191/003	sunshine shoulder	DEP=1C2-E-TEST-0009-159.191002
+1C2-E-TEST-0009-159.191/001	"sings ""Rocky Mountain High"" "
+1C2-E-TEST-0009-159.191/002	"sings ""Sunshine On My Shoulders"""
 1C2-E-TEST-0009-163.168	"After his divorce from Annie in 1982, he later married Australian actress and On October 12, 1997, Denver was killed when the Long-EZ aircraft he was piloting crashed just off the coast of California at Pacific Grove, shortly after taking off from the Monterey Peninsula Airport."
-1C2-E-TEST-0009-163.168/001	divorce	DEP=1C2-E-TEST-0009-163.168002
-1C2-E-TEST-0009-163.168/002	annie	DEP=1C2-E-TEST-0009-163.168003
-1C2-E-TEST-0009-163.168/003	1982
-1C2-E-TEST-0009-163.168/004	later married	DEP=1C2-E-TEST-0009-163.168005
-1C2-E-TEST-0009-163.168/005	austrailian actress
-1C2-E-TEST-0009-163.168/006	october 12 1997	DEP=1C2-E-TEST-0009-163.168007
-1C2-E-TEST-0009-163.168/007	killed
-1C2-E-TEST-0009-163.168/008	long-ez aircraft	DEP=1C2-E-TEST-0009-163.168010
-1C2-E-TEST-0009-163.168/009	piloting	DEP=1C2-E-TEST-0009-163.168008
-1C2-E-TEST-0009-163.168/010	crashed	DEP=1C2-E-TEST-0009-163.168012
-1C2-E-TEST-0009-163.168/011	coast california
-1C2-E-TEST-0009-163.168/012	pacific grove	DEP=1C2-E-TEST-0009-163.168011
-1C2-E-TEST-0009-163.168/013	taking off	DEP=1C2-E-TEST-0009-163.168014
-1C2-E-TEST-0009-163.168/014	monterey peninsula airport
+1C2-E-TEST-0009-163.168/001	married Australian actress
+1C2-E-TEST-0009-163.168/002	After his divorce from Annie in 1982	DEP=1C2-E-TEST-0009-163.168001
+1C2-E-TEST-0009-163.168/003	 Denver was killed when the Long-EZ aircraft he was piloting crashed
+1C2-E-TEST-0009-163.168/004	"On October 12, 1997"	DEP=1C2-E-TEST-0009-163.168003
+1C2-E-TEST-0009-163.168/005	crashed just off the coast of California at Pacific Grove	DEP=1C2-E-TEST-0009-163.168003
+1C2-E-TEST-0009-163.168/006	after taking off from the Monterey Peninsula Airport.	DEP=1C2-E-TEST-0009-163.168003
 1C2-E-TEST-0009-163.184	"Upon announcement of DenverÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s death, Colorado governor Roy Romer ordered all state flags to be lowered to half staff in his honor."
-1C2-E-TEST-0009-163.184/001	announcement death	DEP=1C2-E-TEST-0009-163.184002
-1C2-E-TEST-0009-163.184/002	governor roy romer	DEP=1C2-E-TEST-0009-163.184004
-1C2-E-TEST-0009-163.184/003	colorado	DEP=1C2-E-TEST-0009-163.184002
-1C2-E-TEST-0009-163.184/004	ordered	DEP=1C2-E-TEST-0009-163.184005
-1C2-E-TEST-0009-163.184/005	colorado flags	DEP=1C2-E-TEST-0009-163.184006
-1C2-E-TEST-0009-163.184/006	lowered
-1C2-E-TEST-0009-163.184/007	half-staff	DEP=1C2-E-TEST-0009-163.184005
-1C2-E-TEST-0009-163.184/008	honor
+1C2-E-TEST-0009-163.184/001	 Colorado governor Roy Romer ordered all state flags to be lowered to half staff
+1C2-E-TEST-0009-163.184/002	 in Denvers honor.	DEP=1C2-E-TEST-0009-163.184001
+1C2-E-TEST-0009-163.184/003	Upon announcement of Denvers death	DEP=1C2-E-TEST-0009-163.184001
 1C2-E-TEST-0009-163.213	"Eventually over 100 friends and family attended the dedication of the plaque, which features a bas-relief of the singerÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s face and lines from his song ""Windsong"": ""So welcome the wind and the wisdom she offers."
-1C2-E-TEST-0009-163.213/001	100 fiends family	DEP=1C2-E-TEST-0009-163.213002
-1C2-E-TEST-0009-163.213/002	attended dedication plaque	DEP=1C2-E-TEST-0009-163.213003
-1C2-E-TEST-0009-163.213/003	featuers bas-relief
-1C2-E-TEST-0009-163.213/004	singer face	DEP=1C2-E-TEST-0009-163.213003
-1C2-E-TEST-0009-163.213/005	lines song	DEP=1C2-E-TEST-0009-163.213003
-1C2-E-TEST-0009-163.213/006	widnsong	DEP=1C2-E-TEST-0009-163.213005
-1C2-E-TEST-0009-163.213/007	so welcome the wind and wisdom she offers	DEP=1C2-E-TEST-0009-163.213006
+1C2-E-TEST-0009-163.213/001	 over 100 friends and family attended the dedication of the plaque
+1C2-E-TEST-0009-163.213/002	plaque features a bas-relief of the singer	DEP=1C2-E-TEST-0009-163.213001
+1C2-E-TEST-0009-163.213/003	featuers bas-relief of face and lines from song Windsong	DEP=1C2-E-TEST-0009-163.213002
+1C2-E-TEST-0009-163.213/004	So welcome the wind and the wisdom she offers.	DEP=1C2-E-TEST-0009-163.213003
 1C2-E-TEST-0009-163.63	"Top Ten album with Rocky Mountain High, with its title track reaching the Top Ten in 1973."
-1C2-E-TEST-0009-163.63/001	top ten album	DEP=1C2-E-TEST-0009-163.63002
-1C2-E-TEST-0009-163.63/002	rocky mountain high
-1C2-E-TEST-0009-163.63/003	title track	DEP=1C2-E-TEST-0009-163.63004
-1C2-E-TEST-0009-163.63/004	reaching top ten	DEP=1C2-E-TEST-0009-163.63005
-1C2-E-TEST-0009-163.63/005	1973
+1C2-E-TEST-0009-163.63/001	Top Ten album with Rocky Mountain High
+1C2-E-TEST-0009-163.63/002	title track reaching the Top Ten in 1973.	DEP=1C2-E-TEST-0009-163.63001
 1C2-E-TEST-0009-163.76	"He also tried his hand at acting, starring in the 1977 film Oh, God! opposite George Burns."
-1C2-E-TEST-0009-163.76/001	tried acting
-1C2-E-TEST-0009-163.76/002	1977	DEP=1C2-E-TEST-0009-163.76003
-1C2-E-TEST-0009-163.76/003	film	DEP=1C2-E-TEST-0009-163.76004
-1C2-E-TEST-0009-163.76/004	oh god
-1C2-E-TEST-0009-163.76/005	opposite	DEP=1C2-E-TEST-0009-163.76006
-1C2-E-TEST-0009-163.76/006	george burns
+1C2-E-TEST-0009-163.76/001	tried his hand at acting
+1C2-E-TEST-0009-163.76/002	"starring in the 1977 film Oh, God!"
+1C2-E-TEST-0009-163.76/003	opposite George Burns.	DEP=1C2-E-TEST-0009-163.76002
 1C2-E-TEST-0009-163.78	"In 1975, Denver was awarded the Country Music AssociationÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Entertainer of the Year award."
-1C2-E-TEST-0009-163.78/001	1975	DEP=1C2-E-TEST-0009-163.78002
-1C2-E-TEST-0009-163.78/002	awarded	DEP=1C2-E-TEST-0009-163.78003
-1C2-E-TEST-0009-163.78/003	country music association	DEP=1C2-E-TEST-0009-163.78004
-1C2-E-TEST-0009-163.78/004	entertainer year award
+1C2-E-TEST-0009-163.78/001	Denver was awarded the Country Music Association Entertainer of the Year award.
+1C2-E-TEST-0009-163.78/002	1975	DEP=1C2-E-TEST-0009-163.78001
 1C2-E-TEST-0009-19.132	"Witnesses stated that the plane made a sudden pitch-down plunge into the water, leading to speculation that, in reaching around to the rear, Denver bumped or kicked the side-stick control."
-1C2-E-TEST-0009-19.132/001	witnesses stated	DEP=1C2-E-TEST-0009-19.132002
-1C2-E-TEST-0009-19.132/002	plane made	DEP=1C2-E-TEST-0009-19.132003
-1C2-E-TEST-0009-19.132/003	sudden pitch-down plunge	DEP=1C2-E-TEST-0009-19.132004
-1C2-E-TEST-0009-19.132/004	water
-1C2-E-TEST-0009-19.132/005	leading speculation
-1C2-E-TEST-0009-19.132/006	reaching around rear	DEP=1C2-E-TEST-0009-19.132007
-1C2-E-TEST-0009-19.132/007	bumped kicked	DEP=1C2-E-TEST-0009-19.132008
-1C2-E-TEST-0009-19.132/008	side-stick
+1C2-E-TEST-0009-19.132/001	 plane made a sudden pitch-down plunge into the water
+1C2-E-TEST-0009-19.132/002	speculation Denver bumped or kicked the side-stick control.
 1C2-E-TEST-0009-19.144	"Denver was cremated with the 1910 Gibson guitar, given to him by his grandmother, that had inspired much of his career."
-1C2-E-TEST-0009-19.144/001	cremated	DEP=1C2-E-TEST-0009-19.144002
-1C2-E-TEST-0009-19.144/002	1910 gibson guitar
-1C2-E-TEST-0009-19.144/003	given	DEP=1C2-E-TEST-0009-19.144002
-1C2-E-TEST-0009-19.144/004	grandmother	DEP=1C2-E-TEST-0009-19.144003
-1C2-E-TEST-0009-19.144/005	inspired	DEP=1C2-E-TEST-0009-19.144002
-1C2-E-TEST-0009-19.144/006	career	DEP=1C2-E-TEST-0009-19.144005
+1C2-E-TEST-0009-19.144/001	Denver was cremated with the 1910 Gibson guitar
+1C2-E-TEST-0009-19.144/002	given to him by his grandmother	DEP=1C2-E-TEST-0009-19.144001
+1C2-E-TEST-0009-19.144/003	inspired much of his career.	DEP=1C2-E-TEST-0009-19.144001
 1C2-E-TEST-0009-19.160	"An anthology musical featuring John Denver's music, Back Home Again: A John Denver Holiday, premiered at the Rubicon Theatre Company in November 2006."
-1C2-E-TEST-0009-19.160/001	anthology musical	DEP=1C2-E-TEST-0009-19.160002
-1C2-E-TEST-0009-19.160/002	featuring	DEP=1C2-E-TEST-0009-19.160003
-1C2-E-TEST-0009-19.160/003	back home again	DEP=1C2-E-TEST-0009-19.160004
-1C2-E-TEST-0009-19.160/004	holiday
-1C2-E-TEST-0009-19.160/005	premiered	DEP=1C2-E-TEST-0009-19.160006
-1C2-E-TEST-0009-19.160/006	rubicon theater company	DEP=1C2-E-TEST-0009-19.160007
-1C2-E-TEST-0009-19.160/007	november 2006
+1C2-E-TEST-0009-19.160/001	anthology musical featuring John Denver's music	DEP=1C2-E-TEST-0009-19.160003
+1C2-E-TEST-0009-19.160/002	November 2006.	DEP=1C2-E-TEST-0009-19.160003
+1C2-E-TEST-0009-19.160/003	Back Home Again: A John Denver Holiday	DEP=1C2-E-TEST-0009-19.160001
+1C2-E-TEST-0009-19.160/004	premiered at the Rubicon Theatre Company	DEP=1C2-E-TEST-0009-19.160003
 1C2-E-TEST-0009-19.188	The band's albums were released on Denver's Windsong Records (later known as Windstar Records) label.
-1C2-E-TEST-0009-19.188/001	band album	DEP=1C2-E-TEST-0009-19.188002
-1C2-E-TEST-0009-19.188/002	released	DEP=1C2-E-TEST-0009-19.188003
-1C2-E-TEST-0009-19.188/003	windsong records label
-1C2-E-TEST-0009-19.188/004	windstar records	DEP=1C2-E-TEST-0009-19.188005
-1C2-E-TEST-0009-19.188/005	later known	DEP=1C2-E-TEST-0009-19.188003
+1C2-E-TEST-0009-19.188/001	band's albums were released on Denver's Windsong Records label
+1C2-E-TEST-0009-19.188/002	later known as Windstar Records
 1C2-E-TEST-0009-19.189	"Denver's solo recording contract resulted in part from the recording by Peter, Paul and Mary of his song ""Leaving on a Jet Plane"", which became the sole number 1 hit single for the group."
-1C2-E-TEST-0009-19.189/001	solo recording contract	DEP=1C2-E-TEST-0009-19.189002
-1C2-E-TEST-0009-19.189/002	resulted	DEP=1C2-E-TEST-0009-19.189003
-1C2-E-TEST-0009-19.189/003	recording	DEP=1C2-E-TEST-0009-19.189004
-1C2-E-TEST-0009-19.189/004	peter paul mary	DEP=1C2-E-TEST-0009-19.189005
-1C2-E-TEST-0009-19.189/005	song	DEP=1C2-E-TEST-0009-19.189006
-1C2-E-TEST-0009-19.189/006	leaving jet plane
-1C2-E-TEST-0009-19.189/007	solo number 1 hit single	DEP=1C2-E-TEST-0009-19.189006
+1C2-E-TEST-0009-19.189/001	"Denver's solo recording contract resulted from the recording of ""Leaving on a Jet Plane"""
+1C2-E-TEST-0009-19.189/002	"recording by Peter, Paul and Mary "	DEP=1C2-E-TEST-0009-19.189001
+1C2-E-TEST-0009-19.189/003	became the sole number 1 hit single for the group.	DEP=1C2-E-TEST-0009-19.189001
 1C2-E-TEST-0009-19.49	"In 1972, Denver scored his first Top Ten album with Rocky Mountain High, with its title track reaching the Top Ten in 1973."
-1C2-E-TEST-0009-19.49/001	1972
-1C2-E-TEST-0009-19.49/002	scored	DEP=1C2-E-TEST-0009-19.49003
-1C2-E-TEST-0009-19.49/003	first top ten album	DEP=1C2-E-TEST-0009-19.49004
-1C2-E-TEST-0009-19.49/004	rocky mountain high	DEP=1C2-E-TEST-0009-19.49001
-1C2-E-TEST-0009-19.49/005	title track	DEP=1C2-E-TEST-0009-19.49006
-1C2-E-TEST-0009-19.49/006	reaching	DEP=1C2-E-TEST-0009-19.49007
-1C2-E-TEST-0009-19.49/007	top ten 1973
+1C2-E-TEST-0009-19.49/001	Denver scored his first Top Ten album with Rocky Mountain High
+1C2-E-TEST-0009-19.49/002	 title track reaching the Top Ten in 1973.	DEP=1C2-E-TEST-0009-19.49001
+1C2-E-TEST-0009-19.49/003	1972	DEP=1C2-E-TEST-0009-19.49001
 1C2-E-TEST-0009-19.9	"Denver was born in Roswell, New Mexico as Henry John Deutschendorf, Jr. to Erma Louise Swope and Henry John Deutschendorf, Sr., an Air Force officer and flight instructor of German ancestry."
-1C2-E-TEST-0009-19.9/001	born	DEP=1C2-E-TEST-0009-19.9002
-1C2-E-TEST-0009-19.9/002	roswell	DEP=1C2-E-TEST-0009-19.9003
-1C2-E-TEST-0009-19.9/003	new mexico
-1C2-E-TEST-0009-19.9/004	henry deutschendorf jr.	DEP=1C2-E-TEST-0009-19.9001
-1C2-E-TEST-0009-19.9/005	erma louise swope
-1C2-E-TEST-0009-19.9/006	henry deutschendorf sr.
-1C2-E-TEST-0009-19.9/007	air force officer	DEP=1C2-E-TEST-0009-19.9006
-1C2-E-TEST-0009-19.9/008	flight instructor	DEP=1C2-E-TEST-0009-19.9007
-1C2-E-TEST-0009-19.9/009	german ancestory	DEP=1C2-E-TEST-0009-19.9006
+1C2-E-TEST-0009-19.9/001	"Denver was born in Roswell, New Mexico"
+1C2-E-TEST-0009-19.9/002	"born as Henry John Deutschendorf, Jr."
+1C2-E-TEST-0009-19.9/003	"born to  Erma Louise Swope and Henry John Deutschendorf, Sr"
+1C2-E-TEST-0009-19.9/004	Henry John Deutschendorf Air Force officer and flight instructor of German ancestry.
 1C2-E-TEST-0009-233.31	Denver -- born Henry John Deutschendorf Jr. -- took his stage name from the city of Denver.
-1C2-E-TEST-0009-233.31/001	born
-1C2-E-TEST-0009-233.31/002	henry deutschendorf jr.	DEP=1C2-E-TEST-0009-233.31001
-1C2-E-TEST-0009-233.31/003	stage name	DEP=1C2-E-TEST-0009-233.31003
-1C2-E-TEST-0009-233.31/004	city
+1C2-E-TEST-0009-233.31/001	born Henry John Deutschendorf Jr
+1C2-E-TEST-0009-233.31/002	took his stage name from the city of Denver.
 1C2-E-TEST-0009-233.33	"Among his best-loved songs were ""Rocky Mountain High"" and ""Take Me Home, Country Roads."""
-1C2-E-TEST-0009-233.33/001	best-loved songs
-1C2-E-TEST-0009-233.33/002	rocky mountain high	DEP=1C2-E-TEST-0009-233.33001
+1C2-E-TEST-0009-233.33/001	"best-loved songs ""Rocky Mountain High"" "
+1C2-E-TEST-0009-233.33/002	"best-loved songs Take Me Home, Country Roads."	DEP=1C2-E-TEST-0009-233.33001
 1C2-E-TEST-0009-233.33/003	take me home country roads	DEP=1C2-E-TEST-0009-233.33001
 1C2-E-TEST-0009-4.12	"He gained recognition when his song ÃÂ¢Ã¢ÂÂ¬ÃÂLeaving On A Jet PlaneÃÂ¢Ã¢ÂÂ¬ÃÂ was recorded by Peter, Paul and Mary, becoming their first and only number one hit."
-1C2-E-TEST-0009-4.12/001	gained recognition	DEP=1C2-E-TEST-0009-4.12002
-1C2-E-TEST-0009-4.12/002	leaving jet plane	DEP=1C2-E-TEST-0009-4.12003
-1C2-E-TEST-0009-4.12/003	recorded	DEP=1C2-E-TEST-0009-4.12004
-1C2-E-TEST-0009-4.12/004	peter paul mary
-1C2-E-TEST-0009-4.12/005	first only number one hit	DEP=1C2-E-TEST-0009-4.12002
+1C2-E-TEST-0009-4.12/001	gained recognition when Leaving On A Jet Plane was recorded
+1C2-E-TEST-0009-4.12/002	"recorded by Peter, Paul and Mary"	DEP=1C2-E-TEST-0009-4.12001
+1C2-E-TEST-0009-4.12/003	their first and only number one hit.	DEP=1C2-E-TEST-0009-4.12002
 1C2-E-TEST-0009-44.10	"Finally, with 1971's ""Poems, Prayers and Promises"", he achieved superstardom, thanks to the million-selling hits ""Rocky Mountain High"", ""Take Me Home, Country Roads"" and ""Sunshine On My Shoulders."""
 1C2-E-TEST-0009-44.10/001	1971	DEP=1C2-E-TEST-0009-44.10002
-1C2-E-TEST-0009-44.10/002	poems prayers promises
-1C2-E-TEST-0009-44.10/003	achieved stardom	DEP=1C2-E-TEST-0009-44.10008
-1C2-E-TEST-0009-44.10/004	million-selling hits
-1C2-E-TEST-0009-44.10/005	rocky mountain high	DEP=1C2-E-TEST-0009-44.10004
-1C2-E-TEST-0009-44.10/006	take me home country roads	DEP=1C2-E-TEST-0009-44.10004
-1C2-E-TEST-0009-44.10/007	sunshine shoulders	DEP=1C2-E-TEST-0009-44.10004
-1C2-E-TEST-0009-44.10/008	thanks	DEP=1C2-E-TEST-0009-44.10004
+1C2-E-TEST-0009-44.10/002	"with ""poems prayers promises"" achieved stardom"
+1C2-E-TEST-0009-44.10/003	thanks to million-selling hits	DEP=1C2-E-TEST-0009-44.10002
+1C2-E-TEST-0009-44.10/004	rocky mountain high	DEP=1C2-E-TEST-0009-44.10003
+1C2-E-TEST-0009-44.10/005	take me home country roads	DEP=1C2-E-TEST-0009-44.10003
+1C2-E-TEST-0009-44.10/006	sunshine on my shoulders	DEP=1C2-E-TEST-0009-44.10003
 1C2-E-TEST-0009-44.42	"After it was shown, Denver's brother, Ron Deutschendorf, voiced the feelings of many when he wrote a letter to The Los Angeles Times criticizing the inaccuracies of the film, which included chronological errors and exaggerated relationship difficulties ."
-1C2-E-TEST-0009-44.42/001	shown
-1C2-E-TEST-0009-44.42/002	brother	DEP=1C2-E-TEST-0009-44.42003
-1C2-E-TEST-0009-44.42/003	ron deutschendorf	DEP=1C2-E-TEST-0009-44.42004
-1C2-E-TEST-0009-44.42/004	voiced feeling
-1C2-E-TEST-0009-44.42/005	wrote letter	DEP=1C2-E-TEST-0009-44.42006
-1C2-E-TEST-0009-44.42/006	los angeles times
-1C2-E-TEST-0009-44.42/007	criticizing inaccuracies film	DEP=1C2-E-TEST-0009-44.42005
-1C2-E-TEST-0009-44.42/008	chronological erros	DEP=1C2-E-TEST-0009-44.42007
-1C2-E-TEST-0009-44.42/009	exaggerated relationship difficulties	DEP=1C2-E-TEST-0009-44.42007
+1C2-E-TEST-0009-44.42/001	"Ron Deutschendorf, voiced the feelings of many "
+1C2-E-TEST-0009-44.42/002	wrote a letter to The Los Angeles Times criticizing the inaccuracies of the film	DEP=1C2-E-TEST-0009-44.42001
+1C2-E-TEST-0009-44.42/003	chronological errors	DEP=1C2-E-TEST-0009-44.42002
+1C2-E-TEST-0009-44.42/004	exaggerated relationship difficulties .	DEP=1C2-E-TEST-0009-44.42002
 1C2-E-TEST-0009-87.9	"John Denver was born - John Henry Deutschendorf, Jr. - in Roswell, New Mexico, on December 31, 1943."
-1C2-E-TEST-0009-87.9/001	born
-1C2-E-TEST-0009-87.9/002	henry deutschendorf jr.	DEP=1C2-E-TEST-0009-87.9001
-1C2-E-TEST-0009-87.9/003	roswell	DEP=1C2-E-TEST-0009-87.9001
-1C2-E-TEST-0009-87.9/004	new mexico	DEP=1C2-E-TEST-0009-87.9003
-1C2-E-TEST-0009-87.9/005	december 31 1943	DEP=1C2-E-TEST-0009-87.9001
+1C2-E-TEST-0009-87.9/001	" born - John Henry Deutschendorf, Jr"
+1C2-E-TEST-0009-87.9/002	"born in Roswell, New Mexico"
+1C2-E-TEST-0009-87.9/003	born on december 31 1943

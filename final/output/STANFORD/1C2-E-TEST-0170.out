@@ -1,260 +1,133 @@
 1C2-E-TEST-0170-115.125	"However, having a collections account on your credit report hurts your credit and can stop any financing deals."
-1C2-E-TEST-0170-115.125/001	collection account
-1C2-E-TEST-0170-115.125/002	report	DEP=1C2-E-TEST-0170-115.125001
-1C2-E-TEST-0170-115.125/003	hurts	DEP=1C2-E-TEST-0170-115.125002
-1C2-E-TEST-0170-115.125/004	stops financing deals	DEP=1C2-E-TEST-0170-115.125001
+1C2-E-TEST-0170-115.125/001	having a collections account on your credit report hurts your credit
+1C2-E-TEST-0170-115.125/002	having a collections account on your credit  can stop any financing deals.
 1C2-E-TEST-0170-115.145	The information provided in the credit report also will allow businesses to verify that the identifying information provided in the credit application is truthful.
-1C2-E-TEST-0170-115.145/001	information provided
-1C2-E-TEST-0170-115.145/002	business verify	DEP=1C2-E-TEST-0170-115.145003
-1C2-E-TEST-0170-115.145/003	identifying information
-1C2-E-TEST-0170-115.145/004	application truthful	DEP=1C2-E-TEST-0170-115.145001
+1C2-E-TEST-0170-115.145/001	allow business to verify identifying information is truthful
 1C2-E-TEST-0170-115.147	"You sometimes can get a mortgage at a discounted rate if you obtain a private mortgage, but this arrangement rarely improves your credit score."
-1C2-E-TEST-0170-115.147/001	discounted rate mortgage
-1C2-E-TEST-0170-115.147/002	private mortgage	DEP=1C2-E-TEST-0170-115.147001
-1C2-E-TEST-0170-115.147/003	arrrangement rarely improves
+1C2-E-TEST-0170-115.147/001	can get a mortgage at a discounted rate
+1C2-E-TEST-0170-115.147/002	obtain a private mortgage	DEP=1C2-E-TEST-0170-115.147001
+1C2-E-TEST-0170-115.147/003	arrangement rarely improves your credit score	DEP=1C2-E-TEST-0170-115.147001
 1C2-E-TEST-0170-115.175	"A higher score can qualify you for better rates on loans, credit cards and other credit-based products."
-1C2-E-TEST-0170-115.175/001	higher	DEP=1C2-E-TEST-0170-115.175002
-1C2-E-TEST-0170-115.175/002	qualify 
-1C2-E-TEST-0170-115.175/003	better rates	DEP=1C2-E-TEST-0170-115.175002
-1C2-E-TEST-0170-115.175/004	loans cards 	DEP=1C2-E-TEST-0170-115.175002
-1C2-E-TEST-0170-115.175/005	credit-based products	DEP=1C2-E-TEST-0170-115.175002
+1C2-E-TEST-0170-115.175/001	higher score can qualify you for better rates on loans
+1C2-E-TEST-0170-115.175/002	higher score can qualify you for better rates on cerdit cards 
+1C2-E-TEST-0170-115.175/003	higher score can qualify you for better rates on credit-based products
 1C2-E-TEST-0170-115.67	Your credit score is based upon the information contained within your credit report.
-1C2-E-TEST-0170-115.67/001	based
-1C2-E-TEST-0170-115.67/002	information contained	DEP=1C2-E-TEST-0170-115.67001
-1C2-E-TEST-0170-115.67/003	report	DEP=1C2-E-TEST-0170-115.67002
+1C2-E-TEST-0170-115.67/001	score is based upon the information contained within your credit report
 1C2-E-TEST-0170-115.69	"Generally, the less debt you owe, the higher your score will be, so paying off accounts may improve your credit."
-1C2-E-TEST-0170-115.69/001	less debt
-1C2-E-TEST-0170-115.69/002	owe 	DEP=1C2-E-TEST-0170-115.69001
-1C2-E-TEST-0170-115.69/003	higher	DEP=1C2-E-TEST-0170-115.69001
-1C2-E-TEST-0170-115.69/004	paying off accounts
-1C2-E-TEST-0170-115.69/005	improve	DEP=1C2-E-TEST-0170-115.69004
+1C2-E-TEST-0170-115.69/001	"less debt you owe, the higher your score will be"
+1C2-E-TEST-0170-115.69/002	paying off accounts may improve your credit.
 1C2-E-TEST-0170-115.86	"The information in your report determines your FICO credit score, which runs from 300 to 850."
-1C2-E-TEST-0170-115.86/001	information
-1C2-E-TEST-0170-115.86/002	determines fico 	DEP=1C2-E-TEST-0170-115.86001
-1C2-E-TEST-0170-115.86/003	300 to 850	DEP=1C2-E-TEST-0170-115.86002
+1C2-E-TEST-0170-115.86/001	information in your report determines your FICO credit score
+1C2-E-TEST-0170-115.86/002	credit score runs from 300 to 850.
 1C2-E-TEST-0170-149.115	"Having credit accounts and owing money on them does not mean the consumer is a high-risk borrower and gets a low score. However, owing a great deal of money on many accounts can indicate that a person is overextended, and is more likely to make some payments late or not at all."
-1C2-E-TEST-0170-149.115/001	accounts
-1C2-E-TEST-0170-149.115/002	owing money	DEP=1C2-E-TEST-0170-149.115001
-1C2-E-TEST-0170-149.115/003	consumer
-1C2-E-TEST-0170-149.115/004	high-risk borrower	DEP=1C2-E-TEST-0170-149.115002
-1C2-E-TEST-0170-149.115/005	low	DEP=1C2-E-TEST-0170-149.115003
-1C2-E-TEST-0170-149.115/006	owing great deal
-1C2-E-TEST-0170-149.115/007	money	DEP=1C2-E-TEST-0170-149.115006
-1C2-E-TEST-0170-149.115/008	many accounts
-1C2-E-TEST-0170-149.115/009	indicate	DEP=1C2-E-TEST-0170-149.115008
-1C2-E-TEST-0170-149.115/010	person overextended	DEP=1C2-E-TEST-0170-149.115008
-1C2-E-TEST-0170-149.115/011	more likely
-1C2-E-TEST-0170-149.115/012	payments late	DEP=1C2-E-TEST-0170-149.115011
-1C2-E-TEST-0170-149.115/013	not at all	DEP=1C2-E-TEST-0170-149.115012
+1C2-E-TEST-0170-149.115/001	Having credit accounts does not mean the consumer is a high-risk borrower
+1C2-E-TEST-0170-149.115/002	owing money  does not mean the consumer is a high-risk borrower
+1C2-E-TEST-0170-149.115/003	owing a great deal of money on many accounts can indicate that a person is overextended
+1C2-E-TEST-0170-149.115/004	more likely to make some payments late or not at all.	DEP=1C2-E-TEST-0170-149.115003
 1C2-E-TEST-0170-149.122	"In addition to the overall amount the consumer owes, the score considers the amount he/she may owe on specific types of accounts, such as credit cards and installment loans."
-1C2-E-TEST-0170-149.122/001	addition
-1C2-E-TEST-0170-149.122/002	overall amount	DEP=1C2-E-TEST-0170-149.122001
-1C2-E-TEST-0170-149.122/003	consumer owes	DEP=1C2-E-TEST-0170-149.122002
-1C2-E-TEST-0170-149.122/004	amount owed 
-1C2-E-TEST-0170-149.122/005	specific type 	DEP=1C2-E-TEST-0170-149.122004
-1C2-E-TEST-0170-149.122/006	accounts	DEP=1C2-E-TEST-0170-149.122005
-1C2-E-TEST-0170-149.122/007	cards 	DEP=1C2-E-TEST-0170-149.122005
-1C2-E-TEST-0170-149.122/008	installment loans	DEP=1C2-E-TEST-0170-149.122005
+1C2-E-TEST-0170-149.122/001	score considers the amount he/she may owe on specific types of accounts
+1C2-E-TEST-0170-149.122/002	score considers overall amount the consumer owes
+1C2-E-TEST-0170-149.122/003	credit cards and installment loans	DEP=1C2-E-TEST-0170-149.122001
 1C2-E-TEST-0170-149.141	Sometimes financial planners recommend consolidating higher interest debt into a new lower interest account.
-1C2-E-TEST-0170-149.141/001	financial planners
-1C2-E-TEST-0170-149.141/002	recommend consolidating 	DEP=1C2-E-TEST-0170-149.141001
-1C2-E-TEST-0170-149.141/003	higher debt interest	DEP=1C2-E-TEST-0170-149.141002
-1C2-E-TEST-0170-149.141/004	new lower interest account	DEP=1C2-E-TEST-0170-149.141003
+1C2-E-TEST-0170-149.141/001	financial planners recommend consolidating higher interest debt into a new lower interest account
 1C2-E-TEST-0170-149.157	Length of credit history accounts for approximately 15% of the weight of the score.
-1C2-E-TEST-0170-149.157/001	length
-1C2-E-TEST-0170-149.157/002	history accounts	DEP=1C2-E-TEST-0170-149.157001
-1C2-E-TEST-0170-149.157/003	approximately 15%	DEP=1C2-E-TEST-0170-149.157002
-1C2-E-TEST-0170-149.157/004	weight	DEP=1C2-E-TEST-0170-149.157003
+1C2-E-TEST-0170-149.157/001	Length of credit history accounts for 15% of the weight of the score
 1C2-E-TEST-0170-149.176	New credit inquiries account for approximately 10% of the weight of the score.
-1C2-E-TEST-0170-149.176/001	new inquiries
-1C2-E-TEST-0170-149.176/002	approximately 10%	DEP=1C2-E-TEST-0170-149.176001
-1C2-E-TEST-0170-149.176/003	weight	DEP=1C2-E-TEST-0170-149.176002
+1C2-E-TEST-0170-149.176/001	New credit inquiries account for approximately 10% of the weight of the score.
 1C2-E-TEST-0170-149.200	Opening new accounts responsibly and paying them off on time will raise the score in the long term.
-1C2-E-TEST-0170-149.200/001	opening new accounts
-1C2-E-TEST-0170-149.200/002	responsibily	DEP=1C2-E-TEST-0170-149.200001
-1C2-E-TEST-0170-149.200/003	paying off accounts
-1C2-E-TEST-0170-149.200/004	on time	DEP=1C2-E-TEST-0170-149.200003
-1C2-E-TEST-0170-149.200/005	raise
-1C2-E-TEST-0170-149.200/006	long term	DEP=1C2-E-TEST-0170-149.200005
+1C2-E-TEST-0170-149.200/001	Opening new accounts responsibly will raise the score in the long term.
+1C2-E-TEST-0170-149.200/002	paying off accounts on time will raise the score in the long term.
 1C2-E-TEST-0170-149.213	"It is not necessary to have one of each, though Advantage Credit has found that a credit card account, a store or other revolving account and an installment loan (i.e. home or auto loan) provide good results over time."
-1C2-E-TEST-0170-149.213/001	not necessary
-1C2-E-TEST-0170-149.213/002	advantage	DEP=1C2-E-TEST-0170-149.213001
-1C2-E-TEST-0170-149.213/003	card account	DEP=1C2-E-TEST-0170-149.213007
-1C2-E-TEST-0170-149.213/004	store	DEP=1C2-E-TEST-0170-149.213007
-1C2-E-TEST-0170-149.213/005	other revolving account	DEP=1C2-E-TEST-0170-149.213007
-1C2-E-TEST-0170-149.213/006	installment loan home auto	DEP=1C2-E-TEST-0170-149.213007
-1C2-E-TEST-0170-149.213/007	provide good results
-1C2-E-TEST-0170-149.213/008	over time	DEP=1C2-E-TEST-0170-149.213007
+1C2-E-TEST-0170-149.213/001	"credit card account, a store or other revolving account and an installment loan provide good results over time"
+1C2-E-TEST-0170-149.213/002	Advantage Credit found	DEP=1C2-E-TEST-0170-149.213001
+1C2-E-TEST-0170-149.213/003	not necessary to have one of each	DEP=1C2-E-TEST-0170-149.213001
 1C2-E-TEST-0170-149.53	"Late payments will lower the score, but establishing or re-establishing a good track record of making payments on time will raise the score."
-1C2-E-TEST-0170-149.53/001	late payments
-1C2-E-TEST-0170-149.53/002	lower	DEP=1C2-E-TEST-0170-149.53001
-1C2-E-TEST-0170-149.53/003	establishing	DEP=1C2-E-TEST-0170-149.53005
-1C2-E-TEST-0170-149.53/004	re-restablishing good track record	DEP=1C2-E-TEST-0170-149.53005
-1C2-E-TEST-0170-149.53/005	making payments on time
-1C2-E-TEST-0170-149.53/006	raise 	DEP=1C2-E-TEST-0170-149.53005
+1C2-E-TEST-0170-149.53/001	Late payments will lower the score
+1C2-E-TEST-0170-149.53/002	establishing or re-establishing a good track record of making payments
+1C2-E-TEST-0170-149.53/003	raise the score	DEP=1C2-E-TEST-0170-149.53002
 1C2-E-TEST-0170-149.64	"An overall good credit picture can outweigh one or two instances of late credit card payments, for example."
-1C2-E-TEST-0170-149.64/001	overall good picture
-1C2-E-TEST-0170-149.64/002	outweigh 	DEP=1C2-E-TEST-0170-149.64001
-1C2-E-TEST-0170-149.64/003	instances 	DEP=1C2-E-TEST-0170-149.64002
-1C2-E-TEST-0170-149.64/004	late card payments	DEP=1C2-E-TEST-0170-149.64003
+1C2-E-TEST-0170-149.64/001	overall good credit picture can outweigh one or two instances of late credit card payments
 1C2-E-TEST-0170-149.89	Late payments reported recently are more detrimental to the score than are late payments that were reported in the past.
-1C2-E-TEST-0170-149.89/001	late payments reported recently
-1C2-E-TEST-0170-149.89/002	more detrimental	DEP=1C2-E-TEST-0170-149.89001
-1C2-E-TEST-0170-149.89/003	late payments reported  	DEP=1C2-E-TEST-0170-149.89004
-1C2-E-TEST-0170-149.89/004	past
+1C2-E-TEST-0170-149.89/001	Late payments reported recently are more detrimental to score
 1C2-E-TEST-0170-16.13	"A lousy credit score means you may not be approved for the loans and credit needed for such items, or if you are approved, you'll likely pay more money in interest to obtain that credit."
-1C2-E-TEST-0170-16.13/001	lousy score	DEP=1C2-E-TEST-0170-16.13003
-1C2-E-TEST-0170-16.13/002	not approved 	DEP=1C2-E-TEST-0170-16.13003
-1C2-E-TEST-0170-16.13/003	loans  
-1C2-E-TEST-0170-16.13/004	approved
-1C2-E-TEST-0170-16.13/005	pay higher interest	DEP=1C2-E-TEST-0170-16.13004
-1C2-E-TEST-0170-16.13/006	obtain 	DEP=1C2-E-TEST-0170-16.13005
+1C2-E-TEST-0170-16.13/001	lousy credit score means you may not be approved for the loans and credit needed for such items
+1C2-E-TEST-0170-16.13/002	lousy credit score means you'll likely pay more money in interest to obtain that credit.
 1C2-E-TEST-0170-16.17	"Payment History: Accounts for roughly 35% of your score. This one is pretty self-explanatory, paying your bills on time will help keep your scores high, while late payments, charge-offs, and collections will hurt."
-1C2-E-TEST-0170-16.17/001	payment history
-1C2-E-TEST-0170-16.17/002	accounts roughly 35%	DEP=1C2-E-TEST-0170-16.17001
-1C2-E-TEST-0170-16.17/003	paying bills on time
-1C2-E-TEST-0170-16.17/004	scores high	DEP=1C2-E-TEST-0170-16.17003
-1C2-E-TEST-0170-16.17/005	late payments	DEP=1C2-E-TEST-0170-16.17008
-1C2-E-TEST-0170-16.17/006	charge-offs	DEP=1C2-E-TEST-0170-16.17008
-1C2-E-TEST-0170-16.17/007	collections	DEP=1C2-E-TEST-0170-16.17008
-1C2-E-TEST-0170-16.17/008	hurt
+1C2-E-TEST-0170-16.17/001	Payment History accounts for roughly 35% of your score
+1C2-E-TEST-0170-16.17/002	paying your bills on time will help keep your scores high
+1C2-E-TEST-0170-16.17/003	"late payments, charge-offs, and collections will hurt."
 1C2-E-TEST-0170-16.20	"Amounts Currently Owed: 30% of your score is based on the amount of debt you're currently carrying ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂor more specifically, the amount of money you currently owe your creditors. While this category looks at the total amount that you owe ( credit cards , home loans, car loans, etc.), it's the credit cards ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂor revolving accounts ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ that have the most impact on your credit score. In order to maximize your scores in this section, you should keep your balances in relation to your credit limits as low as possible."
-1C2-E-TEST-0170-16.20/001	amounts currently owed
-1C2-E-TEST-0170-16.20/002	30% based	DEP=1C2-E-TEST-0170-16.20001
-1C2-E-TEST-0170-16.20/003	debt amount currently carrying	DEP=1C2-E-TEST-0170-16.20005
-1C2-E-TEST-0170-16.20/004	amount  owed currently 	DEP=1C2-E-TEST-0170-16.20005
-1C2-E-TEST-0170-16.20/005	creditors
-1C2-E-TEST-0170-16.20/006	category 
-1C2-E-TEST-0170-16.20/007	total amount owed
-1C2-E-TEST-0170-16.20/008	credit cards home loans car loans
-1C2-E-TEST-0170-16.20/009	credit cards  	DEP=1C2-E-TEST-0170-16.20011
-1C2-E-TEST-0170-16.20/010	revolving accounts	DEP=1C2-E-TEST-0170-16.20011
-1C2-E-TEST-0170-16.20/011	most impact
-1C2-E-TEST-0170-16.20/012	scores  	DEP=1C2-E-TEST-0170-16.20012
-1C2-E-TEST-0170-16.20/013	maximise scores
-1C2-E-TEST-0170-16.20/014	credit limit balances low	DEP=1C2-E-TEST-0170-16.20013
+1C2-E-TEST-0170-16.20/001	30% of your score is based on the amount of debt you're currently carrying 
+1C2-E-TEST-0170-16.20/002	money you currently owe your creditors	DEP=1C2-E-TEST-0170-16.20001
+1C2-E-TEST-0170-16.20/003	"credit cards, revolving accounts have the most impact on your credit score"
+1C2-E-TEST-0170-16.20/004	keep your balances in relation to your credit limits as low as possible.
+1C2-E-TEST-0170-16.20/005	maximize your scores in this section	DEP=1C2-E-TEST-0170-16.20004
 1C2-E-TEST-0170-2.10	"Since its introduction 20 years ago, the FICOÃÂÃÂ® Score has become a global standard for measuring credit risk in the banking, mortgage, credit card, auto and retail industries."
-1C2-E-TEST-0170-2.10/001	introduction 20 years 
-1C2-E-TEST-0170-2.10/002	fico score	DEP=1C2-E-TEST-0170-2.10001
-1C2-E-TEST-0170-2.10/003	global standard	DEP=1C2-E-TEST-0170-2.10002
-1C2-E-TEST-0170-2.10/004	measuring risk banking mortgage cardsauto retail industries	DEP=1C2-E-TEST-0170-2.10002
+1C2-E-TEST-0170-2.10/001	FICO Score has become a global standard 
+1C2-E-TEST-0170-2.10/002	"measuring credit risk in the banking, mortgage, credit card, auto and retail industries."	DEP=1C2-E-TEST-0170-2.10001
 1C2-E-TEST-0170-279.24	Your credit report is a history of how you pay your bills.
-1C2-E-TEST-0170-279.24/001	history  
-1C2-E-TEST-0170-279.24/002	pay bills
+1C2-E-TEST-0170-279.24/001	credit report is a history of how you pay your bills.
 1C2-E-TEST-0170-279.25	"It includes your credit accounts--mortgages, student loans, credit cards, and auto loans--and shows if you've been late or on time with your payments, the balances on these accounts, and who else has been looking at your credit report."
-1C2-E-TEST-0170-279.25/001	accounts
-1C2-E-TEST-0170-279.25/002	mortagages	DEP=1C2-E-TEST-0170-279.25001
-1C2-E-TEST-0170-279.25/003	student loans	DEP=1C2-E-TEST-0170-279.25001
-1C2-E-TEST-0170-279.25/004	cards 	DEP=1C2-E-TEST-0170-279.25001
-1C2-E-TEST-0170-279.25/005	auto loans	DEP=1C2-E-TEST-0170-279.25001
-1C2-E-TEST-0170-279.25/006	late
-1C2-E-TEST-0170-279.25/007	on time payments	DEP=1C2-E-TEST-0170-279.25006
-1C2-E-TEST-0170-279.25/008	balances	DEP=1C2-E-TEST-0170-279.25001
-1C2-E-TEST-0170-279.25/009	looking 	DEP=1C2-E-TEST-0170-279.25010
-1C2-E-TEST-0170-279.25/010	report
+1C2-E-TEST-0170-279.25/001	includes your credit accounts
+1C2-E-TEST-0170-279.25/002	"mortgages, student loans, credit cards, and auto loans"	DEP=1C2-E-TEST-0170-279.25001
+1C2-E-TEST-0170-279.25/003	shows if you've been late or on time with your payments
+1C2-E-TEST-0170-279.25/004	shows balances on these accounts
+1C2-E-TEST-0170-279.25/005	shows who else has been looking at your credit report
 1C2-E-TEST-0170-279.26	Your credit score is calculated from a formula based on the components of your credit report.
-1C2-E-TEST-0170-279.26/001	score
-1C2-E-TEST-0170-279.26/002	calculated 	DEP=1C2-E-TEST-0170-279.26001
-1C2-E-TEST-0170-279.26/003	formula based 	DEP=1C2-E-TEST-0170-279.26002
-1C2-E-TEST-0170-279.26/004	components report	DEP=1C2-E-TEST-0170-279.26003
+1C2-E-TEST-0170-279.26/001	credit score is calculated from a formula based on the components of your credit report
 1C2-E-TEST-0170-279.40	"Even if you don't use a certain credit card anymore, if you have a history of paying that bill on time, keep it open."
-1C2-E-TEST-0170-279.40/001	don�t use certain card
-1C2-E-TEST-0170-279.40/002	history 	DEP=1C2-E-TEST-0170-279.40001
-1C2-E-TEST-0170-279.40/003	paying bill on time	DEP=1C2-E-TEST-0170-279.40001
-1C2-E-TEST-0170-279.40/004	keep open	DEP=1C2-E-TEST-0170-279.40001
+1C2-E-TEST-0170-279.40/001	if you have history of paying that bill on time	DEP=1C2-E-TEST-0170-279.40002
+1C2-E-TEST-0170-279.40/002	Even if you don't use a certain credit card anymore keep it open
 1C2-E-TEST-0170-33.1049	Repairing those dings on your credit report before you need a new loan can help you avoid financial problems later.
-1C2-E-TEST-0170-33.1049/001	dings
-1C2-E-TEST-0170-33.1049/002	report	DEP=1C2-E-TEST-0170-33.1049001
-1C2-E-TEST-0170-33.1049/003	before new loan	DEP=1C2-E-TEST-0170-33.1049002
-1C2-E-TEST-0170-33.1049/004	avoid financial problems
-1C2-E-TEST-0170-33.1049/005	later	DEP=1C2-E-TEST-0170-33.1049004
+1C2-E-TEST-0170-33.1049/001	Repairing those dings on your credit report  can help you avoid financial problems later.
+1C2-E-TEST-0170-33.1049/002	before you need a new loan 	DEP=1C2-E-TEST-0170-33.1049001
 1C2-E-TEST-0170-33.1305	"Having a low credit score will affect your ability to obtain credit cards, car loans and home mortgages."
-1C2-E-TEST-0170-33.1305/001	low score
-1C2-E-TEST-0170-33.1305/002	affect ability 	DEP=1C2-E-TEST-0170-33.1305001
-1C2-E-TEST-0170-33.1305/003	obtain cards car loans home mortgages	DEP=1C2-E-TEST-0170-33.1305002
+1C2-E-TEST-0170-33.1305/001	Having a low credit score will affect your ability to obtain credit cards
+1C2-E-TEST-0170-33.1305/002	Having a low credit score will affect your ability to obtain car loans
+1C2-E-TEST-0170-33.1305/003	Having a low credit score will affect your ability to obtain home mortgages
 1C2-E-TEST-0170-33.339	"Your credit score is calculated based on your payment history for loans, credit cards and mortgages."
-1C2-E-TEST-0170-33.339/001	score
-1C2-E-TEST-0170-33.339/002	calculated based payment history	DEP=1C2-E-TEST-0170-33.339001
-1C2-E-TEST-0170-33.339/003	loans cards mortgages	DEP=1C2-E-TEST-0170-33.339002
+1C2-E-TEST-0170-33.339/001	credit score is calculated based on your payment history for loans
+1C2-E-TEST-0170-33.339/002	credit score is calculated based on your payment history for credit cards
+1C2-E-TEST-0170-33.339/003	credit score is calculated based on your payment history for loans mortgages
 1C2-E-TEST-0170-33.341	"Collection accounts, bankruptcies and public records have the greatest negative impact on your score."
-1C2-E-TEST-0170-33.341/001	collection accounts	DEP=1C2-E-TEST-0170-33.341004
-1C2-E-TEST-0170-33.341/002	bankruptcies	DEP=1C2-E-TEST-0170-33.341004
-1C2-E-TEST-0170-33.341/003	public records	DEP=1C2-E-TEST-0170-33.341004
-1C2-E-TEST-0170-33.341/004	greatest negative impact score
+1C2-E-TEST-0170-33.341/001	collection accounts have greatest negative impact on score
+1C2-E-TEST-0170-33.341/002	bankruptcies have greatest negative impact on score
+1C2-E-TEST-0170-33.341/003	public records have greatest negative impact on score
 1C2-E-TEST-0170-33.38	"Refinancing occurs when you take out a larger loan over an extended period of time to pay off a smaller loan, and this may have an impact on your credit score."
-1C2-E-TEST-0170-33.38/001	refinancing
-1C2-E-TEST-0170-33.38/002	larger loan 	DEP=1C2-E-TEST-0170-33.38001
-1C2-E-TEST-0170-33.38/003	extended period 	DEP=1C2-E-TEST-0170-33.38002
-1C2-E-TEST-0170-33.38/004	time	DEP=1C2-E-TEST-0170-33.38003
-1C2-E-TEST-0170-33.38/005	pay off smaller loan
-1C2-E-TEST-0170-33.38/006	impact
-1C2-E-TEST-0170-33.38/007	score	DEP=1C2-E-TEST-0170-33.38006
+1C2-E-TEST-0170-33.38/001	Refinancing occurs when you take out a larger loan over an extended period of time to pay off a smaller loan
+1C2-E-TEST-0170-33.38/002	may have an impact on your credit score	DEP=1C2-E-TEST-0170-33.38001
 1C2-E-TEST-0170-33.54	Your credit score determines the interest rate you pay for loans and mortgages.
-1C2-E-TEST-0170-33.54/001	score
-1C2-E-TEST-0170-33.54/002	determines interest rate	DEP=1C2-E-TEST-0170-33.54001
-1C2-E-TEST-0170-33.54/003	loans mortgages	DEP=1C2-E-TEST-0170-33.54002
+1C2-E-TEST-0170-33.54/001	credit score determines the interest rate you pay for loans and mortgages.
 1C2-E-TEST-0170-33.59	"When your credit score is low, lenders might ask you to get a creditworthy co-signer for your loan."
-1C2-E-TEST-0170-33.59/001	score low
-1C2-E-TEST-0170-33.59/002	lenders ask	DEP=1C2-E-TEST-0170-33.59001
-1C2-E-TEST-0170-33.59/003	creditworthy co-signer	DEP=1C2-E-TEST-0170-33.59002
-1C2-E-TEST-0170-33.59/004	loan
+1C2-E-TEST-0170-33.59/001	 lenders might ask you to get a creditworthy co-signer for your loan.
+1C2-E-TEST-0170-33.59/002	 credit score is low	DEP=1C2-E-TEST-0170-33.59001
 1C2-E-TEST-0170-33.627	"As long as you use a new account responsibly, it will likely have a positive effect on your score eventually."
-1C2-E-TEST-0170-33.627/001	new account responsibily
-1C2-E-TEST-0170-33.627/002	positive effect	DEP=1C2-E-TEST-0170-33.627001
-1C2-E-TEST-0170-33.627/003	score eventually	DEP=1C2-E-TEST-0170-33.627002
+1C2-E-TEST-0170-33.627/001	use a new account responsibly
+1C2-E-TEST-0170-33.627/002	positive effect on your score eventually.	DEP=1C2-E-TEST-0170-33.627001
 1C2-E-TEST-0170-33.666	Poor credit can limit the amount of money you can borrow and determine the interest rate and terms of your loans.
-1C2-E-TEST-0170-33.666/001	poor 
-1C2-E-TEST-0170-33.666/002	limit amount	DEP=1C2-E-TEST-0170-33.666001
-1C2-E-TEST-0170-33.666/003	money	DEP=1C2-E-TEST-0170-33.666001
-1C2-E-TEST-0170-33.666/004	borrow	DEP=1C2-E-TEST-0170-33.666001
-1C2-E-TEST-0170-33.666/005	determine interest rate	DEP=1C2-E-TEST-0170-33.666001
-1C2-E-TEST-0170-33.666/006	terms 	DEP=1C2-E-TEST-0170-33.666006
-1C2-E-TEST-0170-33.666/007	loan
+1C2-E-TEST-0170-33.666/001	Poor credit can limit the amount of money you can borrow
+1C2-E-TEST-0170-33.666/002	Poor credit determine interest rate
+1C2-E-TEST-0170-33.666/003	Poor credit determine terms of your loans.
 1C2-E-TEST-0170-33.792	"Ironically, to build credit, you must apply for credit. Find a credit card that extends credit to borrowers with low or no credit score."
-1C2-E-TEST-0170-33.792/001	ironically
-1C2-E-TEST-0170-33.792/002	build	DEP=1C2-E-TEST-0170-33.792001
-1C2-E-TEST-0170-33.792/003	apply 	DEP=1C2-E-TEST-0170-33.792002
-1C2-E-TEST-0170-33.792/004	card extends	DEP=1C2-E-TEST-0170-33.792003
-1C2-E-TEST-0170-33.792/005	borrowers 	DEP=1C2-E-TEST-0170-33.792004
-1C2-E-TEST-0170-33.792/006	low  	DEP=1C2-E-TEST-0170-33.792005
-1C2-E-TEST-0170-33.792/007	no score
+1C2-E-TEST-0170-33.792/001	"to build credit, you must apply for credit"
+1C2-E-TEST-0170-33.792/002	Find a credit card that extends credit to borrowers with low or no credit score to build credit
 1C2-E-TEST-0170-33.900	"The score also reflects the risk a financial institution may take if it extends additional credit in the form of a loan, a line of credit or a revolving credit account."
-1C2-E-TEST-0170-33.900/001	relect risk
-1C2-E-TEST-0170-33.900/002	financial instutution	DEP=1C2-E-TEST-0170-33.900001
-1C2-E-TEST-0170-33.900/003	extens additional
-1C2-E-TEST-0170-33.900/004	form  	DEP=1C2-E-TEST-0170-33.900003
-1C2-E-TEST-0170-33.900/005	loan	DEP=1C2-E-TEST-0170-33.900003
-1C2-E-TEST-0170-33.900/006	line 	DEP=1C2-E-TEST-0170-33.900003
-1C2-E-TEST-0170-33.900/007	revolving  account	DEP=1C2-E-TEST-0170-33.900003
+1C2-E-TEST-0170-33.900/001	score also reflects the risk a financial institution may take
+1C2-E-TEST-0170-33.900/002	"risk if it extends additional credit in the form of a loan, a line of credit or a revolving credit account."	DEP=1C2-E-TEST-0170-33.900001
 1C2-E-TEST-0170-33.950	Lenders and credit issuers check your credit before approving you for a loan or other credit products.
-1C2-E-TEST-0170-33.950/001	lenders 
-1C2-E-TEST-0170-33.950/002	issuers	DEP=1C2-E-TEST-0170-33.950001
-1C2-E-TEST-0170-33.950/003	check	DEP=1C2-E-TEST-0170-33.950002
-1C2-E-TEST-0170-33.950/004	approving loan	DEP=1C2-E-TEST-0170-33.950001
-1C2-E-TEST-0170-33.950/005	products	DEP=1C2-E-TEST-0170-33.950001
+1C2-E-TEST-0170-33.950/001	Lenders and credit issuers check your credit before approving you
+1C2-E-TEST-0170-33.950/002	before approving you for a loan or other credit products.	DEP=1C2-E-TEST-0170-33.950001
 1C2-E-TEST-0170-4.10	"In addition, each report must contain at least one account that has been updated in the past six months."
-1C2-E-TEST-0170-4.10/001	report
-1C2-E-TEST-0170-4.10/002	contain one account	DEP=1C2-E-TEST-0170-4.10001
-1C2-E-TEST-0170-4.10/003	updated	DEP=1C2-E-TEST-0170-4.10002
-1C2-E-TEST-0170-4.10/004	past six months	DEP=1C2-E-TEST-0170-4.10003
+1C2-E-TEST-0170-4.10/001	before approving you for a loan or other credit products.
 1C2-E-TEST-0170-7.13	"Credit scores are three-digit ""scores"" that show how responsible you've been in paying off credit cards, mortgages, car loans, and other lines of credit. The three credit bureaus ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ TransUnion, Equifax, and Experian ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ use the information in your credit report to calculate your credit scores."
-1C2-E-TEST-0170-7.13/001	score
-1C2-E-TEST-0170-7.13/002	three-digit scores
-1C2-E-TEST-0170-7.13/003	paying cards mortgages car loans other lines	DEP=1C2-E-TEST-0170-7.13002
-1C2-E-TEST-0170-7.13/004	three bureaus
-1C2-E-TEST-0170-7.13/005	transunion equifax experian	DEP=1C2-E-TEST-0170-7.13004
-1C2-E-TEST-0170-7.13/006	use information	DEP=1C2-E-TEST-0170-7.13005
-1C2-E-TEST-0170-7.13/007	report	DEP=1C2-E-TEST-0170-7.13006
-1C2-E-TEST-0170-7.13/008	calculate	DEP=1C2-E-TEST-0170-7.13007
-1C2-E-TEST-0170-7.13/009	score
+1C2-E-TEST-0170-7.13/001	"Credit scores are three-digit ""scores"""
+1C2-E-TEST-0170-7.13/002	show how responsible you've been in paying off credit cards
+1C2-E-TEST-0170-7.13/003	show how responsible you've been in paying off mortgages
+1C2-E-TEST-0170-7.13/004	show how responsible you've been in paying off car loans
+1C2-E-TEST-0170-7.13/005	show how responsible you've been in paying off other lines of credit
+1C2-E-TEST-0170-7.13/006	"three credit bureaus TransUnion, Equifax, and Experian "	DEP=1C2-E-TEST-0170-7.13007
+1C2-E-TEST-0170-7.13/007	use the information in your credit report to calculate your credit scores.
 1C2-E-TEST-0170-7.30	"Your credit history ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ mortgages, auto loans, student loans, credit cards, and other lines of credit opened in your name, along with your history of payments (on-time, late, or missed)"
-1C2-E-TEST-0170-7.30/001	history
-1C2-E-TEST-0170-7.30/002	mortages	DEP=1C2-E-TEST-0170-7.30001
-1C2-E-TEST-0170-7.30/003	auto loans	DEP=1C2-E-TEST-0170-7.30001
-1C2-E-TEST-0170-7.30/004	student loans	DEP=1C2-E-TEST-0170-7.30001
-1C2-E-TEST-0170-7.30/005	cards 	DEP=1C2-E-TEST-0170-7.30001
-1C2-E-TEST-0170-7.30/006	lines 	DEP=1C2-E-TEST-0170-7.30001
-1C2-E-TEST-0170-7.30/007	payment history
-1C2-E-TEST-0170-7.30/008	on time	DEP=1C2-E-TEST-0170-7.30007
-1C2-E-TEST-0170-7.30/009	late	DEP=1C2-E-TEST-0170-7.30007
-1C2-E-TEST-0170-7.30/010	missed	DEP=1C2-E-TEST-0170-7.30007
+1C2-E-TEST-0170-7.30/001	"credit history mortgages, auto loans, student loans, credit cards, and other lines of credit opened in your name"
+1C2-E-TEST-0170-7.30/002	credit history your history of payments
+1C2-E-TEST-0170-7.30/003	"on-time, late, or missed"	DEP=1C2-E-TEST-0170-7.30002

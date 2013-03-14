@@ -1,253 +1,120 @@
-1C2-E-TEST-0094-108.31	"Located in Broadway, this 12-floor Midtown Manhattan hotel provides a fitness facility, event space, multilingual staff and business services."
-1C2-E-TEST-0094-108.31/001	located broadway
-1C2-E-TEST-0094-108.31/002	12-floor midtown	DEP=1C2-E-TEST-0094-108.31001
-1C2-E-TEST-0094-108.31/003	fitness facility	DEP=1C2-E-TEST-0094-108.31002
-1C2-E-TEST-0094-108.31/004	event space	DEP=1C2-E-TEST-0094-108.31002
-1C2-E-TEST-0094-108.31/005	multilingual staff	DEP=1C2-E-TEST-0094-108.31002
-1C2-E-TEST-0094-108.31/006	business services	DEP=1C2-E-TEST-0094-108.31002
+1C2-E-TEST-0094-108.31	"Located in Broadway, this 12-floor Midtown Manhattan hotel provides a fitness facility, event space, multilingual staff and business services."		 
+1C2-E-TEST-0094-108.31/001	 this 12-floor Midtown Manhattan hotel	DEP=1C2-E-TEST-0094-108.31002
+1C2-E-TEST-0094-108.31/002	Located in Broadway
+1C2-E-TEST-0094-108.31/003	" provides a fitness facility, event space, multilingual staff and business services"	DEP=1C2-E-TEST-0094-108.31002
 1C2-E-TEST-0094-108.5	"This 4-star smoke free Midtown Manhattan hotel features a health club, meeting rooms and audio-visual equipment."
-1C2-E-TEST-0094-108.5/001	4-star smoke free
-1C2-E-TEST-0094-108.5/002	health club	DEP=1C2-E-TEST-0094-108.5001
-1C2-E-TEST-0094-108.5/003	meeting rooms	DEP=1C2-E-TEST-0094-108.5001
-1C2-E-TEST-0094-108.5/004	audio-visual equipment	DEP=1C2-E-TEST-0094-108.5003
+1C2-E-TEST-0094-108.5/001	 4-star smoke free Midtown Manhattan hotel
+1C2-E-TEST-0094-108.5/002	"features a health club, meeting rooms and audio-visual equipment"	DEP=1C2-E-TEST-0094-108.5001
 1C2-E-TEST-0094-127.3	"New York is the city that never sleeps, but you DO need to sleep, so, let us help you to find the perfect place to stay in New York such New York apartments, New York Vacation Rentals, long term and short term rentals."
-1C2-E-TEST-0094-127.3/001	new york city 
-1C2-E-TEST-0094-127.3/002	never sleeps	DEP=1C2-E-TEST-0094-127.3001
-1C2-E-TEST-0094-127.3/003	perfect place	DEP=1C2-E-TEST-0094-127.3001
-1C2-E-TEST-0094-127.3/004	new york apartments	DEP=1C2-E-TEST-0094-127.3003
-1C2-E-TEST-0094-127.3/005	new york vacation rentals	DEP=1C2-E-TEST-0094-127.3003
-1C2-E-TEST-0094-127.3/006	long term	DEP=1C2-E-TEST-0094-127.3005
-1C2-E-TEST-0094-127.3/007	short term rentals	DEP=1C2-E-TEST-0094-127.3005
+1C2-E-TEST-0094-127.3/001	New York apartments long term and short term rentals
+1C2-E-TEST-0094-127.3/002	New York Vacation Rentals long term and short term rentals
 1C2-E-TEST-0094-127.4	"Whether you are searching for the height of luxury in uptown Manhattan or a bargain in newly trendy Brooklyn, no other website offers as varied a range of accommodation types as New York Stay . ÃÂÃÂ New York Apartment Rentals, Self-catering apartments, five star hotels, friendly Bed & Breakfasts and fun hostels, we have brought together the very best New York accommodation including, exclusive to this website, our famous selection of New York vacation rental apartments ."
-1C2-E-TEST-0094-127.4/001	height luxury
-1C2-E-TEST-0094-127.4/002	uptown	DEP=1C2-E-TEST-0094-127.4001
-1C2-E-TEST-0094-127.4/003	bargain
-1C2-E-TEST-0094-127.4/004	newly trendy brooklyn	DEP=1C2-E-TEST-0094-127.4003
-1C2-E-TEST-0094-127.4/005	website offers
-1C2-E-TEST-0094-127.4/006	varied	DEP=1C2-E-TEST-0094-127.4005
-1C2-E-TEST-0094-127.4/007	accomodation range	DEP=1C2-E-TEST-0094-127.4006
-1C2-E-TEST-0094-127.4/008	new york stay	DEP=1C2-E-TEST-0094-127.4007
-1C2-E-TEST-0094-127.4/009	apartment rentals	DEP=1C2-E-TEST-0094-127.4008
-1C2-E-TEST-0094-127.4/010	self-catering apartments	DEP=1C2-E-TEST-0094-127.4008
-1C2-E-TEST-0094-127.4/011	five star hotels	DEP=1C2-E-TEST-0094-127.4008
-1C2-E-TEST-0094-127.4/012	friendly bed & breakfasts	DEP=1C2-E-TEST-0094-127.4008
-1C2-E-TEST-0094-127.4/013	very best	DEP=1C2-E-TEST-0094-127.4015
-1C2-E-TEST-0094-127.4/014	new york accomodation	DEP=1C2-E-TEST-0094-127.4015
-1C2-E-TEST-0094-127.4/015	exclusive
-1C2-E-TEST-0094-127.4/016	website  
-1C2-E-TEST-0094-127.4/017	famous selection	DEP=1C2-E-TEST-0094-127.4016
-1C2-E-TEST-0094-127.4/018	new york vacation rental apartments	DEP=1C2-E-TEST-0094-127.4017
+1C2-E-TEST-0094-127.4/001	 height of luxury in uptown Manhattan or a bargain in newly trendy Brooklyn	DEP=1C2-E-TEST-0094-127.4002
+1C2-E-TEST-0094-127.4/002	New York Stay website offers as varied a range of accommodation types 
+1C2-E-TEST-0094-127.4/003	New York Apartment Rentals	DEP=1C2-E-TEST-0094-127.4002
+1C2-E-TEST-0094-127.4/004	Self-catering apartments	DEP=1C2-E-TEST-0094-127.4002
+1C2-E-TEST-0094-127.4/005	five star hotels	DEP=1C2-E-TEST-0094-127.4002
+1C2-E-TEST-0094-127.4/006	 friendly Bed & Breakfasts and fun hostels	DEP=1C2-E-TEST-0094-127.4002
+1C2-E-TEST-0094-127.4/007	famous selection of New York vacation rental apartments	DEP=1C2-E-TEST-0094-127.4002
 1C2-E-TEST-0094-157.105	"Set in the south end of Midtown Manhattan, Hampton Inn Manhattan-Madison Square Garden Area is a block from the Garden, seven blocks from Times Square, ..."
-1C2-E-TEST-0094-157.105/001	south end
-1C2-E-TEST-0094-157.105/002	midtown
-1C2-E-TEST-0094-157.105/003	hampton inn manhattan-madison square garden area
-1C2-E-TEST-0094-157.105/004	block	DEP=1C2-E-TEST-0094-157.105003
-1C2-E-TEST-0094-157.105/005	garden	DEP=1C2-E-TEST-0094-157.105003
-1C2-E-TEST-0094-157.105/006	seven blocks	DEP=1C2-E-TEST-0094-157.105003
-1C2-E-TEST-0094-157.105/007	times square	DEP=1C2-E-TEST-0094-157.105003
+1C2-E-TEST-0094-157.105/001	Hampton Inn Manhattan-Madison Square Garden Area set in the south end of manhattan
+1C2-E-TEST-0094-157.105/002	seven blocks from Times Square	DEP=1C2-E-TEST-0094-157.105001
+1C2-E-TEST-0094-157.105/003	block from the garden	DEP=1C2-E-TEST-0094-157.105001
 1C2-E-TEST-0094-157.114	"Hampton Inn Manhattan-Times Square North is located in the Theater District, a block from Broadway, three blocks from Times Square, and approximately ..."
-1C2-E-TEST-0094-157.114/001	hampton inn manhattan-times square north
-1C2-E-TEST-0094-157.114/002	theater district	DEP=1C2-E-TEST-0094-157.114001
-1C2-E-TEST-0094-157.114/003	block
-1C2-E-TEST-0094-157.114/004	broadway	DEP=1C2-E-TEST-0094-157.114003
-1C2-E-TEST-0094-157.114/005	three blocks
-1C2-E-TEST-0094-157.114/006	times square	DEP=1C2-E-TEST-0094-157.114005
+1C2-E-TEST-0094-157.114/001	Hampton Inn Manhattan-Times Square North is located in the Theater District
+1C2-E-TEST-0094-157.114/002	it is a block from Broadway	DEP=1C2-E-TEST-0094-157.114001
+1C2-E-TEST-0094-157.114/003	it is three blocks from Times Square	DEP=1C2-E-TEST-0094-157.114001
 1C2-E-TEST-0094-157.128	"Visit a cheap hotel supplier to find out more about the Hilton Garden Inn Times Square in New York, USA"
-1C2-E-TEST-0094-157.128/001	visit
-1C2-E-TEST-0094-157.128/002	cheap supplier	DEP=1C2-E-TEST-0094-157.128001
-1C2-E-TEST-0094-157.128/003	hilton garden inn times square
-1C2-E-TEST-0094-157.128/004	new york usa	DEP=1C2-E-TEST-0094-157.128003
+1C2-E-TEST-0094-157.128/001	"Hilton Garden Inn Times Square in New York, USA"
 1C2-E-TEST-0094-157.137	"Holiday Inn Express Manhattan is located one mile from Midtown, nine miles from LaGuardia International Airport, 16 miles from Newark International Airport, ..."
-1C2-E-TEST-0094-157.137/001	holiday inn express
-1C2-E-TEST-0094-157.137/002	one mile	DEP=1C2-E-TEST-0094-157.137001
-1C2-E-TEST-0094-157.137/003	midtown	DEP=1C2-E-TEST-0094-157.137002
-1C2-E-TEST-0094-157.137/004	nine miles	DEP=1C2-E-TEST-0094-157.137001
-1C2-E-TEST-0094-157.137/005	laguardia international airport	DEP=1C2-E-TEST-0094-157.137004
-1C2-E-TEST-0094-157.137/006	16 miles	DEP=1C2-E-TEST-0094-157.137001
-1C2-E-TEST-0094-157.137/007	newark international airport	DEP=1C2-E-TEST-0094-157.137006
+1C2-E-TEST-0094-157.137/001	Holiday Inn Express Manhattan is located one mile from Midtown
+1C2-E-TEST-0094-157.137/002	Holiday Inn Express Manhattan is located nine miles from LaGuardia International Airport
+1C2-E-TEST-0094-157.137/003	Holiday Inn Express Manhattan is located  16 miles from Newark International Airport
 1C2-E-TEST-0094-157.139	"Located in the middle of Manhattan, the Holiday Inn Express New York Times Square offers comfortable accommodations near New York''s biggest attractions. ..."
-1C2-E-TEST-0094-157.139/001	middle
-1C2-E-TEST-0094-157.139/002	holiday inn express new york times square
-1C2-E-TEST-0094-157.139/003	comfortable accommodations	DEP=1C2-E-TEST-0094-157.139002
-1C2-E-TEST-0094-157.139/004	near new york
-1C2-E-TEST-0094-157.139/005	biggest attraction	DEP=1C2-E-TEST-0094-157.139005
+1C2-E-TEST-0094-157.139/001	the Holiday Inn Express is located in the middle of Manhattan
+1C2-E-TEST-0094-157.139/002	the Holiday Inn Express New York Times Square offers comfortable accommodations near New York biggest attractions
 1C2-E-TEST-0094-157.247	"Located on Manhattan''s Upper East Side, this hotel is walking distance from Central Park and the Guggenheim Museum, approximately eight miles from LaGuardia, ..."
-1C2-E-TEST-0094-157.247/001	upper east side
-1C2-E-TEST-0094-157.247/002	walking distance	DEP=1C2-E-TEST-0094-157.247003
-1C2-E-TEST-0094-157.247/003	central park	DEP=1C2-E-TEST-0094-157.247002
-1C2-E-TEST-0094-157.247/004	guggenheim museum	DEP=1C2-E-TEST-0094-157.247001
-1C2-E-TEST-0094-157.247/005	eights miles
-1C2-E-TEST-0094-157.247/006	laguardia	DEP=1C2-E-TEST-0094-157.247005
+1C2-E-TEST-0094-157.247/001	it is Located on Manhattan''s Upper East Side	DEP=1C2-E-TEST-0094-157.247002
+1C2-E-TEST-0094-157.247/002	hotel is walking distance from Central Park and the Guggenheim Museum
+1C2-E-TEST-0094-157.247/003	it is approximately eight miles from LaGuardia	DEP=1C2-E-TEST-0094-157.247002
 1C2-E-TEST-0094-157.284	"Visit a cheap hotel supplier to find out more about the Wingate by Wyndham Manhattan Midtown in New York, USA"
-1C2-E-TEST-0094-157.284/001	visit
-1C2-E-TEST-0094-157.284/002	cheap supplier
-1C2-E-TEST-0094-157.284/003	wingate	DEP=1C2-E-TEST-0094-157.284002
-1C2-E-TEST-0094-157.284/004	wyndham midtown	DEP=1C2-E-TEST-0094-157.284003
-1C2-E-TEST-0094-157.284/005	new york usa
+1C2-E-TEST-0094-157.284/001	Wingate by Wyndham Manhattan Midtown in New York
 1C2-E-TEST-0094-157.61	"Welcome to the Clarion Hotel Park Avenue, located in the Murray Hill section of Manhattan and within walking distance to the Empire State Building, 5th Avenue boutiques and Macy's."
-1C2-E-TEST-0094-157.61/001	clarion park avenue
-1C2-E-TEST-0094-157.61/002	murray hill section	DEP=1C2-E-TEST-0094-157.61001
-1C2-E-TEST-0094-157.61/003	walking distance	DEP=1C2-E-TEST-0094-157.61004
-1C2-E-TEST-0094-157.61/004	empire state building	DEP=1C2-E-TEST-0094-157.61001
-1C2-E-TEST-0094-157.61/005	5th avenue boutiques	DEP=1C2-E-TEST-0094-157.61001
-1C2-E-TEST-0094-157.61/006	macy	DEP=1C2-E-TEST-0094-157.61001
+1C2-E-TEST-0094-157.61/001	Clarion Hotel Park Avenue
+1C2-E-TEST-0094-157.61/002	located in the Murray Hill section of Manhattan 	DEP=1C2-E-TEST-0094-157.61001
+1C2-E-TEST-0094-157.61/003	"within walking distance to the Empire State Building,"	DEP=1C2-E-TEST-0094-157.61001
+1C2-E-TEST-0094-157.61/004	within walking distance to 5th Avenue boutiques	DEP=1C2-E-TEST-0094-157.61001
+1C2-E-TEST-0094-157.61/005	within walking distance to Macy's	DEP=1C2-E-TEST-0094-157.61001
 1C2-E-TEST-0094-157.70	"Centrally located in New York, the Comfort Inn Manhattan Bridge is near Eldridge Street Synagogue, Brooklyn Bridge, and Museum of Chinese in Americas. ..."
-1C2-E-TEST-0094-157.70/001	central new york
-1C2-E-TEST-0094-157.70/002	comfort inn bridge	DEP=1C2-E-TEST-0094-157.70001
-1C2-E-TEST-0094-157.70/003	eldridge street synagogue	DEP=1C2-E-TEST-0094-157.70002
-1C2-E-TEST-0094-157.70/004	brooklyn bridge	DEP=1C2-E-TEST-0094-157.70002
-1C2-E-TEST-0094-157.70/005	museum 	DEP=1C2-E-TEST-0094-157.70001
-1C2-E-TEST-0094-157.70/006	chinese	DEP=1C2-E-TEST-0094-157.70005
-1C2-E-TEST-0094-157.70/007	america	DEP=1C2-E-TEST-0094-157.70005
+1C2-E-TEST-0094-157.70/001	the Comfort Inn Manhattan is Centrally located in New York
+1C2-E-TEST-0094-157.70/002	the Comfort Inn Manhattan Bridge is near Eldridge Street Synagogue
+1C2-E-TEST-0094-157.70/003	the Comfort Inn Manhattan Bridge is near Brooklyn Bridge 
+1C2-E-TEST-0094-157.70/004	the Comfort Inn Manhattan Bridge is near Museum of Chinese in Americas
 1C2-E-TEST-0094-157.74	The Courtyard New York Manhattan/Midtown East offers moderately priced accommodations within walking distance to the midtown business district.
-1C2-E-TEST-0094-157.74/001	courtyard new york manhattan\/midtown east
-1C2-E-TEST-0094-157.74/002	moderately priced accomodations	DEP=1C2-E-TEST-0094-157.74001
-1C2-E-TEST-0094-157.74/003	walking distance	DEP=1C2-E-TEST-0094-157.74004
-1C2-E-TEST-0094-157.74/004	midtown business district	DEP=1C2-E-TEST-0094-157.74001
+1C2-E-TEST-0094-157.74/001	The Courtyard New York Manhattan/Midtown East offers moderately priced accommodations
+1C2-E-TEST-0094-157.74/002	Courtyard New York Manhattan within walking distance to the midtown business district	DEP=1C2-E-TEST-0094-157.74001
 1C2-E-TEST-0094-157.91	"Doubletree Times Square is located in the most exciting part of New York City, within waling distance to popular New York attractions such as Radio City, Madison Square Garden, and world class shoppin..."
-1C2-E-TEST-0094-157.91/001	doubletree times square
-1C2-E-TEST-0094-157.91/002	exciting part	DEP=1C2-E-TEST-0094-157.91001
-1C2-E-TEST-0094-157.91/003	new york	DEP=1C2-E-TEST-0094-157.91002
-1C2-E-TEST-0094-157.91/004	walking distance	DEP=1C2-E-TEST-0094-157.91005
-1C2-E-TEST-0094-157.91/005	popular new york attractions	DEP=1C2-E-TEST-0094-157.91001
-1C2-E-TEST-0094-157.91/006	radio city	DEP=1C2-E-TEST-0094-157.91001
-1C2-E-TEST-0094-157.91/007	madison square garden	DEP=1C2-E-TEST-0094-157.91001
-1C2-E-TEST-0094-157.91/008	world class shopping	DEP=1C2-E-TEST-0094-157.91001
+1C2-E-TEST-0094-157.91/001	Doubletree Times Square is located in the most exciting part of New York City
+1C2-E-TEST-0094-157.91/002	within walking distance to popular New York attractions	DEP=1C2-E-TEST-0094-157.91001
+1C2-E-TEST-0094-157.91/003	"attractions such as Radio City, Madison Square Garden, and world class shoppin"	DEP=1C2-E-TEST-0094-157.91002
 1C2-E-TEST-0094-217.13	"The Belnord is a small hotel very close to Central Park and only a block from the subway, so the location is great. ... ÃÂÃÂ  -- guest review May 13, 2010"
-1C2-E-TEST-0094-217.13/001	belnord
-1C2-E-TEST-0094-217.13/002	small 	DEP=1C2-E-TEST-0094-217.13001
-1C2-E-TEST-0094-217.13/003	close	DEP=1C2-E-TEST-0094-217.13004
-1C2-E-TEST-0094-217.13/004	central park	DEP=1C2-E-TEST-0094-217.13001
-1C2-E-TEST-0094-217.13/005	block	DEP=1C2-E-TEST-0094-217.13006
-1C2-E-TEST-0094-217.13/006	subway	DEP=1C2-E-TEST-0094-217.13001
-1C2-E-TEST-0094-217.13/007	great location	DEP=1C2-E-TEST-0094-217.13001
-1C2-E-TEST-0094-217.13/008	guest review may 13 2010	DEP=1C2-E-TEST-0094-217.13001
+1C2-E-TEST-0094-217.13/001	The Belnord is a small hotel very close to Central Park 
+1C2-E-TEST-0094-217.13/002	the belnord is only a block from the subway	DEP=1C2-E-TEST-0094-217.13001
 1C2-E-TEST-0094-217.16	"Located in central New York, Residence Inn by Marriott New York Manhattan/Times Square is within walking distance of Bryant Park, Times Square, and Empire State Building. ..."
-1C2-E-TEST-0094-217.16/001	central new york	DEP=1C2-E-TEST-0094-217.16002
-1C2-E-TEST-0094-217.16/002	residence inn
-1C2-E-TEST-0094-217.16/003	marriott new york manhattan\/times square	DEP=1C2-E-TEST-0094-217.16002
-1C2-E-TEST-0094-217.16/004	walking distance	DEP=1C2-E-TEST-0094-217.16005
-1C2-E-TEST-0094-217.16/005	bryant park	DEP=1C2-E-TEST-0094-217.16002
-1C2-E-TEST-0094-217.16/006	times square	DEP=1C2-E-TEST-0094-217.16002
-1C2-E-TEST-0094-217.16/007	empire state building	DEP=1C2-E-TEST-0094-217.16002
+1C2-E-TEST-0094-217.16/001	 Residence Inn by Marriott New York is Located in central New York
+1C2-E-TEST-0094-217.16/002	" Residence Inn by Marriott New York Manhattan/Times Square is within walking distance of Bryant Park, Times Square, and Empire State Building"
 1C2-E-TEST-0094-217.25	"Located in central New York, The Plaza is within walking distance of Tiffany & Co. and Museum of Modern Art."
-1C2-E-TEST-0094-217.25/001	located	DEP=1C2-E-TEST-0094-217.25002
-1C2-E-TEST-0094-217.25/002	central new york	DEP=1C2-E-TEST-0094-217.25003
-1C2-E-TEST-0094-217.25/003	plaza
-1C2-E-TEST-0094-217.25/004	walking distance	DEP=1C2-E-TEST-0094-217.25005
-1C2-E-TEST-0094-217.25/005	tiffany & co.	DEP=1C2-E-TEST-0094-217.25002
-1C2-E-TEST-0094-217.25/006	museum 	DEP=1C2-E-TEST-0094-217.25002
-1C2-E-TEST-0094-217.25/007	modern art	DEP=1C2-E-TEST-0094-217.25006
+1C2-E-TEST-0094-217.25/001	The Plaza is located in central New York
+1C2-E-TEST-0094-217.25/002	The Plaza is within walking distance of Tiffany & Co. and Museum of Modern Art
 1C2-E-TEST-0094-217.33	"Four Points by Sheraton Manhattan Chelsea is located in New York's Chelsea neighborhood, close to Fashion Institute of Technology, Empire State Building, and Madison Square Garden. ..."
-1C2-E-TEST-0094-217.33/001	four points
-1C2-E-TEST-0094-217.33/002	sheraton chelsea	DEP=1C2-E-TEST-0094-217.33001
-1C2-E-TEST-0094-217.33/003	new york
-1C2-E-TEST-0094-217.33/004	chelsea neighbourhood	DEP=1C2-E-TEST-0094-217.33001
-1C2-E-TEST-0094-217.33/005	fashion institute	DEP=1C2-E-TEST-0094-217.33001
-1C2-E-TEST-0094-217.33/006	technology	DEP=1C2-E-TEST-0094-217.33001
-1C2-E-TEST-0094-217.33/007	empire state building	DEP=1C2-E-TEST-0094-217.33001
-1C2-E-TEST-0094-217.33/008	madison square garden	DEP=1C2-E-TEST-0094-217.33001
+1C2-E-TEST-0094-217.33/001	Four Points by Sheraton Manhattan Chelsea is located in New York's Chelsea neighborhood
+1C2-E-TEST-0094-217.33/002	"close to Fashion Institute of Technology,"	DEP=1C2-E-TEST-0094-217.33001
+1C2-E-TEST-0094-217.33/003	close to  Empire State Building	DEP=1C2-E-TEST-0094-217.33001
+1C2-E-TEST-0094-217.33/004	close to Madison Square Garden	DEP=1C2-E-TEST-0094-217.33001
 1C2-E-TEST-0094-217.36	"The Jane Hotel is located in New York's Chelsea neighborhood, close to Ground Zero Museum Workshop, Empire State Building, and Times Square. ..."
-1C2-E-TEST-0094-217.36/001	jane
-1C2-E-TEST-0094-217.36/002	chelsea neighbourhood	DEP=1C2-E-TEST-0094-217.36001
-1C2-E-TEST-0094-217.36/003	ground zero museum workshop	DEP=1C2-E-TEST-0094-217.36001
-1C2-E-TEST-0094-217.36/004	empire state building	DEP=1C2-E-TEST-0094-217.36001
-1C2-E-TEST-0094-217.36/005	times square	DEP=1C2-E-TEST-0094-217.36001
+1C2-E-TEST-0094-217.36/001	The Jane Hotel is located in New York's Chelsea neighborhood
+1C2-E-TEST-0094-217.36/002	"close to Ground Zero Museum Workshop, Empire State Building, and Times Square"	DEP=1C2-E-TEST-0094-217.36001
 1C2-E-TEST-0094-217.39	"Located in central New York, Hotel Carter is near the airport and within walking distance of Madame Tussauds Wax Museum, Times Square, and Broadway. ..."
-1C2-E-TEST-0094-217.39/001	central new york
-1C2-E-TEST-0094-217.39/002	carter	DEP=1C2-E-TEST-0094-217.39001
-1C2-E-TEST-0094-217.39/003	near airport	DEP=1C2-E-TEST-0094-217.39002
-1C2-E-TEST-0094-217.39/004	walking distance	DEP=1C2-E-TEST-0094-217.39001
-1C2-E-TEST-0094-217.39/005	madame tussauds wax museum	DEP=1C2-E-TEST-0094-217.39004
-1C2-E-TEST-0094-217.39/006	times square	DEP=1C2-E-TEST-0094-217.39001
-1C2-E-TEST-0094-217.39/007	broadway	DEP=1C2-E-TEST-0094-217.39001
+1C2-E-TEST-0094-217.39/001	Hotel Carter is Located in central New York
+1C2-E-TEST-0094-217.39/002	Hotel Carter is near the airport 
+1C2-E-TEST-0094-217.39/003	" Hotel Carter is within walking distance of Madame Tussauds Wax Museum, Times Square, and Broadway"
 1C2-E-TEST-0094-217.42	"The Gershwin Hotel is located in New York's Union Square neighborhood, close to Madison Square Park, Empire State Building, and Madison Square Garden. ..."
-1C2-E-TEST-0094-217.42/001	gershwin
-1C2-E-TEST-0094-217.42/002	new york
-1C2-E-TEST-0094-217.42/003	union square nighbourhood	DEP=1C2-E-TEST-0094-217.42001
-1C2-E-TEST-0094-217.42/004	madison square park	DEP=1C2-E-TEST-0094-217.42001
-1C2-E-TEST-0094-217.42/005	empire state building	DEP=1C2-E-TEST-0094-217.42001
+1C2-E-TEST-0094-217.42/001	The Gershwin Hotel is located in New York's Union Square neighborhood
+1C2-E-TEST-0094-217.42/002	"close to Madison Square Park, Empire State Building, and Madison Square Garden"	DEP=1C2-E-TEST-0094-217.42001
 1C2-E-TEST-0094-217.9	"Located in central New York, DoubleTree by Hilton New York City Chelsea is within walking distance of Madison Square Garden and Macy's. ..."
-1C2-E-TEST-0094-217.9/001	central new york	DEP=1C2-E-TEST-0094-217.9002
-1C2-E-TEST-0094-217.9/002	doubletree
-1C2-E-TEST-0094-217.9/003	hilton new york city chelsea	DEP=1C2-E-TEST-0094-217.9002
-1C2-E-TEST-0094-217.9/004	walking distance	DEP=1C2-E-TEST-0094-217.9002
-1C2-E-TEST-0094-217.9/005	madison square garden	DEP=1C2-E-TEST-0094-217.9004
-1C2-E-TEST-0094-217.9/006	macy	DEP=1C2-E-TEST-0094-217.9002
+1C2-E-TEST-0094-217.9/001	" DoubleTree by Hilton New York City is Located in central New York,"
+1C2-E-TEST-0094-217.9/002	 DoubleTree by Hilton New York City Chelsea is within walking distance of Madison Square Garden and Macy's
 1C2-E-TEST-0094-29.15	"Despite its faÃÂÃÂ§ade of being expensive, New York offers a variety of cheap hotel rooms that would definitely fit the budget."
-1C2-E-TEST-0094-29.15/001	new york
-1C2-E-TEST-0094-29.15/002	offers
-1C2-E-TEST-0094-29.15/003	cheap  
-1C2-E-TEST-0094-29.15/004	definitely fit budget
+1C2-E-TEST-0094-29.15/001	 New York offers a variety of cheap hotel rooms 
+1C2-E-TEST-0094-29.15/002	hotel rooms would fit the budget	DEP=1C2-E-TEST-0094-29.15001
+1C2-E-TEST-0094-29.15/003	Despite new york being expensive	DEP=1C2-E-TEST-0094-29.15001
 1C2-E-TEST-0094-29.17	There are also other accommodations that are considered bed and breakfast New York that would fit the requirements of other travelers.
-1C2-E-TEST-0094-29.17/001	other accomodations
-1C2-E-TEST-0094-29.17/002	considered
-1C2-E-TEST-0094-29.17/003	bed 
-1C2-E-TEST-0094-29.17/004	breakfast new york	DEP=1C2-E-TEST-0094-29.17003
-1C2-E-TEST-0094-29.17/005	fit requirements
-1C2-E-TEST-0094-29.17/006	other travelers
+1C2-E-TEST-0094-29.17/001	other accommodations that are considered bed and breakfast New York 
+1C2-E-TEST-0094-29.17/002	fit the requirements of other travelers	DEP=1C2-E-TEST-0094-29.17001
 1C2-E-TEST-0094-29.39	The traveler should be careful in weighing the pros and cons when considering cheap hotels in Manhattan New York.
-1C2-E-TEST-0094-29.39/001	careful
-1C2-E-TEST-0094-29.39/002	weighing
-1C2-E-TEST-0094-29.39/003	pros cons
-1C2-E-TEST-0094-29.39/004	considering 
-1C2-E-TEST-0094-29.39/005	new york
+1C2-E-TEST-0094-29.39/001	traveler should be careful in weighing the pros and cons cheap hotels in manhattan
 1C2-E-TEST-0094-31.19	"Get late booking deals at discount New York hotels USA and luxury Manhattan hotels close to the top NYC shopping and sightseeing attractions such as Fifth Avenue, Broadway, Central Park, Times Square, Statue of Liberty (via ferry) and Manhattan."
-1C2-E-TEST-0094-31.19/001	late booking deals
-1C2-E-TEST-0094-31.19/002	discount	DEP=1C2-E-TEST-0094-31.19001
-1C2-E-TEST-0094-31.19/003	new york hotels usa
-1C2-E-TEST-0094-31.19/004	top nyc shopping 	DEP=1C2-E-TEST-0094-31.19003
-1C2-E-TEST-0094-31.19/005	sightseeing attractions	DEP=1C2-E-TEST-0094-31.19003
-1C2-E-TEST-0094-31.19/006	fifth avenue	DEP=1C2-E-TEST-0094-31.19004
-1C2-E-TEST-0094-31.19/007	broadway	DEP=1C2-E-TEST-0094-31.19004
-1C2-E-TEST-0094-31.19/008	central park	DEP=1C2-E-TEST-0094-31.19004
-1C2-E-TEST-0094-31.19/009	times square	DEP=1C2-E-TEST-0094-31.19004
-1C2-E-TEST-0094-31.19/010	statue	DEP=1C2-E-TEST-0094-31.19004
-1C2-E-TEST-0094-31.19/011	liberty	DEP=1C2-E-TEST-0094-31.19010
+1C2-E-TEST-0094-31.19/001	Get late booking deals at discount New York hotels USA and luxury Manhattan hotels
+1C2-E-TEST-0094-31.19/002	"such as Fifth Avenue, Broadway, Central Park, Times Square, Statue of Liberty (via ferry) and Manhattan"	DEP=1C2-E-TEST-0094-31.19003
+1C2-E-TEST-0094-31.19/003	close to the top NYC shopping and sightseeing attractions 	DEP=1C2-E-TEST-0094-31.19001
 1C2-E-TEST-0094-31.26	"Complete the Lastminute.com form above for very cheap NYC hotels and accommodation, including hotel deals at 4-star and 5-star luxury Manhattan hotels in prime downtown locations."
-1C2-E-TEST-0094-31.26/001	lastminute.com form
-1C2-E-TEST-0094-31.26/002	nyc hotels	DEP=1C2-E-TEST-0094-31.26001
-1C2-E-TEST-0094-31.26/003	accomodation  
-1C2-E-TEST-0094-31.26/004	deals	DEP=1C2-E-TEST-0094-31.26003
-1C2-E-TEST-0094-31.26/005	4-star 5-star	DEP=1C2-E-TEST-0094-31.26003
-1C2-E-TEST-0094-31.26/006	prime downtown locations	DEP=1C2-E-TEST-0094-31.26002
+1C2-E-TEST-0094-31.26/001	Complete the Lastminute.com form above for very cheap NYC hotels and accommodation
+1C2-E-TEST-0094-31.26/002	hotel deals at 4-star and 5-star luxury Manhattan hotels in prime downtown locations	DEP=1C2-E-TEST-0094-31.26001
 1C2-E-TEST-0094-31.28	Find a late deal at cheap New York accommodation with Ebookers.
-1C2-E-TEST-0094-31.28/001	late deal	DEP=1C2-E-TEST-0094-31.28002
-1C2-E-TEST-0094-31.28/002	new york accommodation	DEP=1C2-E-TEST-0094-31.28003
-1C2-E-TEST-0094-31.28/003	ebookers
+1C2-E-TEST-0094-31.28/001	Find a late deal at cheap New York accommodation with Ebookers
 1C2-E-TEST-0094-31.37	"Locate family friendly hotels close to Fifth Avenue shopping and other tourist attractions, like Broadway, Manhattan, Times Square and Central Park. Make a late booking for a short New York break and compare cheap deals on last minute hotels and accommodation."
-1C2-E-TEST-0094-31.37/001	locate family friendly
-1C2-E-TEST-0094-31.37/002	fifth avenue shopping	DEP=1C2-E-TEST-0094-31.37001
-1C2-E-TEST-0094-31.37/003	tourist attractions	DEP=1C2-E-TEST-0094-31.37001
-1C2-E-TEST-0094-31.37/004	broadway times square	DEP=1C2-E-TEST-0094-31.37003
-1C2-E-TEST-0094-31.37/005	central park	DEP=1C2-E-TEST-0094-31.37003
-1C2-E-TEST-0094-31.37/006	late booking deals
-1C2-E-TEST-0094-31.37/007	short new york break	DEP=1C2-E-TEST-0094-31.37006
-1C2-E-TEST-0094-31.37/008	compare deals
-1C2-E-TEST-0094-31.37/009	last minute
-1C2-E-TEST-0094-31.37/010	accomodation
+1C2-E-TEST-0094-31.37/001	Locate family friendly hotels close to tourist attractions
+1C2-E-TEST-0094-31.37/002	"tourist attractions like Fifth Avenue shopping  Broadway, Manhattan, Times Square and Central Park. "	DEP=1C2-E-TEST-0094-31.37001
+1C2-E-TEST-0094-31.37/003	Make a late booking for a short New York break
+1C2-E-TEST-0094-31.37/004	compare cheap deals on last minute hotels and accommodation	DEP=1C2-E-TEST-0094-31.37003
 1C2-E-TEST-0094-31.42	All bookings for package New York City breaks or hotels made from this page are handled directly by top UK hotel companies using their own secure online reservation and booking system.
-1C2-E-TEST-0094-31.42/001	bookings
-1C2-E-TEST-0094-31.42/002	package new york city breaks	DEP=1C2-E-TEST-0094-31.42001
-1C2-E-TEST-0094-31.42/003	handled directly	DEP=1C2-E-TEST-0094-31.42004
-1C2-E-TEST-0094-31.42/004	top uk 
-1C2-E-TEST-0094-31.42/005	companies	DEP=1C2-E-TEST-0094-31.42004
-1C2-E-TEST-0094-31.42/006	secure online reservation	DEP=1C2-E-TEST-0094-31.42005
-1C2-E-TEST-0094-31.42/007	booking system	DEP=1C2-E-TEST-0094-31.42005
+1C2-E-TEST-0094-31.42/001	All bookings for package New York City breaks or hotels made from this page are handled by top UK hotel companies 
+1C2-E-TEST-0094-31.42/002	handled using their own secure online reservation and booking system	DEP=1C2-E-TEST-0094-31.42001
 1C2-E-TEST-0094-31.5	Lastminute.com feature very cheap deals to New York with special offers at Manhattan hotels and accommodation which are well appointed and centrally located for NYC sightseeing and shopping.
-1C2-E-TEST-0094-31.5/001	lastminute.com
-1C2-E-TEST-0094-31.5/002	new york
-1C2-E-TEST-0094-31.5/003	special offers	DEP=1C2-E-TEST-0094-31.5001
-1C2-E-TEST-0094-31.5/004	hotels accommodation
-1C2-E-TEST-0094-31.5/005	well appointed	DEP=1C2-E-TEST-0094-31.5004
-1C2-E-TEST-0094-31.5/006	centrally located 	DEP=1C2-E-TEST-0094-31.5004
-1C2-E-TEST-0094-31.5/007	nyc sightseeing	DEP=1C2-E-TEST-0094-31.5006
-1C2-E-TEST-0094-31.5/008	shopping	DEP=1C2-E-TEST-0094-31.5006
+1C2-E-TEST-0094-31.5/001	Lastminute.com feature very cheap deals to New York
+1C2-E-TEST-0094-31.5/002	 with special offers at Manhattan hotels and accommodation	DEP=1C2-E-TEST-0094-31.5001
+1C2-E-TEST-0094-31.5/003	well appointed and centrally located for NYC sightseeing and shopping	DEP=1C2-E-TEST-0094-31.5001
 1C2-E-TEST-0094-97.30	"Regardless of the type of accommodation you might be seeking whether it is comfortable lodgings or a room in a well known hotel, or budget accommodations you will find all genres in abundance in the city."
-1C2-E-TEST-0094-97.30/001	type
-1C2-E-TEST-0094-97.30/002	accomodation
-1C2-E-TEST-0094-97.30/003	comfortable lodgings	DEP=1C2-E-TEST-0094-97.30001
-1C2-E-TEST-0094-97.30/004	well known	DEP=1C2-E-TEST-0094-97.30001
-1C2-E-TEST-0094-97.30/005	budget accomodations	DEP=1C2-E-TEST-0094-97.30001
-1C2-E-TEST-0094-97.30/006	find all genres
-1C2-E-TEST-0094-97.30/007	abundance	DEP=1C2-E-TEST-0094-97.30006
+1C2-E-TEST-0094-97.30/001	you will find all genres in abundance in the city
+1C2-E-TEST-0094-97.30/002	Regardless of the type of accommodation you might be seeking	DEP=1C2-E-TEST-0094-97.30001
+1C2-E-TEST-0094-97.30/003	"type of accomodation like comfortable lodgings or a room in a well known hotel, or budget accommodations "	DEP=1C2-E-TEST-0094-97.30002

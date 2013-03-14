@@ -14,118 +14,81 @@
 1C2-E-TEST-0137-11.004/003	culinary arts	DEP=1C2-E-TEST-0137-11.004001
 1C2-E-TEST-0137-18.001	"Located in Hartford, the Hartt School is the performing arts conservatory within the University of Hartford."
 1C2-E-TEST-0137-18.001/001	located hartford	DEP=1C2-E-TEST-0137-18.001002
-1C2-E-TEST-0137-18.001/002	hartt school	DEP=1C2-E-TEST-0137-18.001003
-1C2-E-TEST-0137-18.001/003	performing arts conservatory	DEP=1C2-E-TEST-0137-18.001004
-1C2-E-TEST-0137-18.001/004	university hartford
+1C2-E-TEST-0137-18.001/002	hartt school university hartford
+1C2-E-TEST-0137-18.001/003	performing arts conservatory	DEP=1C2-E-TEST-0137-18.001002
 1C2-E-TEST-0137-18.002	"University of Hartford: Hartt School 200 Bloomfield Ave.  West Hartford, CT 06117 860-768-4100"
-1C2-E-TEST-0137-18.002/001	university hartford	DEP=1C2-E-TEST-0137-18.002002
-1C2-E-TEST-0137-18.002/002	hartt school	DEP=1C2-E-TEST-0137-18.002003
-1C2-E-TEST-0137-18.002/003	200 bloomfield ave.	DEP=1C2-E-TEST-0137-18.002004
-1C2-E-TEST-0137-18.002/004	west hartford	DEP=1C2-E-TEST-0137-18.002005
-1C2-E-TEST-0137-18.002/005	ct 06117
-1C2-E-TEST-0137-18.002/006	860-768-4100	DEP=1C2-E-TEST-0137-18.002001
+1C2-E-TEST-0137-18.002/001	university hartford
+1C2-E-TEST-0137-18.002/002	hartt school	DEP=1C2-E-TEST-0137-18.002001
+1C2-E-TEST-0137-18.002/003	200 bloomfield ave.	DEP=1C2-E-TEST-0137-18.002002
+1C2-E-TEST-0137-18.002/004	west hartford	DEP=1C2-E-TEST-0137-18.002002
+1C2-E-TEST-0137-18.002/005	ct 06117	DEP=1C2-E-TEST-0137-18.002002
+1C2-E-TEST-0137-18.002/006	860-768-4100	DEP=1C2-E-TEST-0137-18.002002
 1C2-E-TEST-0137-18.003	Connecticut College: Department of Music
 1C2-E-TEST-0137-18.003/001	connecticut college
 1C2-E-TEST-0137-18.003/002	department music	DEP=1C2-E-TEST-0137-18.003001
 1C2-E-TEST-0137-18.004	"Connecticut College's Department of Music offers students a conservatory style approach with a liberal arts based education, where students receive practical and personalized training."
-1C2-E-TEST-0137-18.004/001	connecticut college	DEP=1C2-E-TEST-0137-18.004002
-1C2-E-TEST-0137-18.004/002	department music
-1C2-E-TEST-0137-18.004/003	offers student	DEP=1C2-E-TEST-0137-18.004004
-1C2-E-TEST-0137-18.004/004	conservatory style approach	DEP=1C2-E-TEST-0137-18.004005
-1C2-E-TEST-0137-18.004/005	liberal arts based education
-1C2-E-TEST-0137-18.004/006	students receive practical personalized training	DEP=1C2-E-TEST-0137-18.004001
+1C2-E-TEST-0137-18.004/001	connecticut college department music
+1C2-E-TEST-0137-18.004/002	offers conservatory style approach	DEP=1C2-E-TEST-0137-18.004001
+1C2-E-TEST-0137-18.004/003	liberal arts based education	DEP=1C2-E-TEST-0137-18.004001
+1C2-E-TEST-0137-18.004/004	students receive practical personalized training	DEP=1C2-E-TEST-0137-18.004001
 1C2-E-TEST-0137-18.005	"Connecticut College 270 Mohegan Ave.  New London, CT 06320 860-447-1911 conncoll.edu"
-1C2-E-TEST-0137-18.005/001	connecticut college	DEP=1C2-E-TEST-0137-18.005002
-1C2-E-TEST-0137-18.005/002	270 mohegan ave	DEP=1C2-E-TEST-0137-18.005003
-1C2-E-TEST-0137-18.005/003	new london	DEP=1C2-E-TEST-0137-18.005004
-1C2-E-TEST-0137-18.005/004	ct 06320	DEP=1C2-E-TEST-0137-18.005005
+1C2-E-TEST-0137-18.005/001	connecticut college
+1C2-E-TEST-0137-18.005/002	270 mohegan ave	DEP=1C2-E-TEST-0137-18.005001
+1C2-E-TEST-0137-18.005/003	new london	DEP=1C2-E-TEST-0137-18.005001
+1C2-E-TEST-0137-18.005/004	ct 06320	DEP=1C2-E-TEST-0137-18.005001
 1C2-E-TEST-0137-18.005/005	860-447-1911	DEP=1C2-E-TEST-0137-18.005001
 1C2-E-TEST-0137-18.005/006	conncoll.edu	DEP=1C2-E-TEST-0137-18.005001
 1C2-E-TEST-0137-18.006	Yale College: Department of Music
 1C2-E-TEST-0137-18.006/001	yale college
 1C2-E-TEST-0137-18.006/002	department music	DEP=1C2-E-TEST-0137-18.006001
 1C2-E-TEST-0137-18.007	"One of the most prestigious academic institutions in the United States, Yale College offers music students first-rate facilities and training."
-1C2-E-TEST-0137-18.007/001	prestigious academic institutions	DEP=1C2-E-TEST-0137-18.007003
-1C2-E-TEST-0137-18.007/002	united states
-1C2-E-TEST-0137-18.007/003	yale college
-1C2-E-TEST-0137-18.007/004	offers music students	DEP=1C2-E-TEST-0137-18.007005
-1C2-E-TEST-0137-18.007/005	first-rate facilities training
+1C2-E-TEST-0137-18.007/001	prestigious academic institutions united states	DEP=1C2-E-TEST-0137-18.007002
+1C2-E-TEST-0137-18.007/002	yale college
+1C2-E-TEST-0137-18.007/003	offers music students first-rate facilities training	DEP=1C2-E-TEST-0137-18.007002
 1C2-E-TEST-0137-18.008	"Yale College 38 Hillhouse Ave.  New Haven, CT 06511 203-432-9300 yale.edu"
-1C2-E-TEST-0137-18.008/001	yale college	DEP=1C2-E-TEST-0137-18.008002
-1C2-E-TEST-0137-18.008/002	38 hillhouse ave.	DEP=1C2-E-TEST-0137-18.008003
-1C2-E-TEST-0137-18.008/003	new haven	DEP=1C2-E-TEST-0137-18.008004
-1C2-E-TEST-0137-18.008/004	ct 06511
+1C2-E-TEST-0137-18.008/001	yale college
+1C2-E-TEST-0137-18.008/002	38 hillhouse ave.	DEP=1C2-E-TEST-0137-18.008001
+1C2-E-TEST-0137-18.008/003	new haven	DEP=1C2-E-TEST-0137-18.008001
+1C2-E-TEST-0137-18.008/004	ct 06511	DEP=1C2-E-TEST-0137-18.008001
 1C2-E-TEST-0137-18.008/005	203-432-9300	DEP=1C2-E-TEST-0137-18.008001
 1C2-E-TEST-0137-18.008/006	yale.edu	DEP=1C2-E-TEST-0137-18.008001
 1C2-E-TEST-0137-74.001	The School of Visual and Performing Arts at Western Connecticut State University offers a Bachelor of Arts in Art program with a photography option.
-1C2-E-TEST-0137-74.001/001	school visual performing arts	DEP=1C2-E-TEST-0137-74.001002
-1C2-E-TEST-0137-74.001/002	western connecticut state university
-1C2-E-TEST-0137-74.001/003	bachelor arts program	DEP=1C2-E-TEST-0137-74.001004
-1C2-E-TEST-0137-74.001/004	photography option
+1C2-E-TEST-0137-74.001/001	school visual and performing arts at western connecticut state university
+1C2-E-TEST-0137-74.001/002	bachelor arts program with photography option	DEP=1C2-E-TEST-0137-74.001001
 1C2-E-TEST-0137-74.10	The Hartford Art School's Photography Department offers undergraduate and graduate programs in photography.
-1C2-E-TEST-0137-74.10/001	hartford school
-1C2-E-TEST-0137-74.10/002	photography department	DEP=1C2-E-TEST-0137-74.10003
-1C2-E-TEST-0137-74.10/003	offers graduate undergraduate programs	DEP=1C2-E-TEST-0137-74.10004
-1C2-E-TEST-0137-74.10/004	photography
+1C2-E-TEST-0137-74.10/001	Hartford Art School's Photography Department
+1C2-E-TEST-0137-74.10/002	offers graduate undergraduate programs in photography	DEP=1C2-E-TEST-0137-74.10001
 1C2-E-TEST-0137-74.4	"If so, you can find photography classes at the University of Hartford in West Hartford and Western Connecticut State University in Danbury."
-1C2-E-TEST-0137-74.4/001	find
-1C2-E-TEST-0137-74.4/002	photography classes
-1C2-E-TEST-0137-74.4/003	university hartford	DEP=1C2-E-TEST-0137-74.4002
-1C2-E-TEST-0137-74.4/004	west hartford	DEP=1C2-E-TEST-0137-74.4003
-1C2-E-TEST-0137-74.4/005	western connecticut state university	DEP=1C2-E-TEST-0137-74.4002
-1C2-E-TEST-0137-74.4/006	danbury	DEP=1C2-E-TEST-0137-74.4005
+1C2-E-TEST-0137-74.4/001	photography classes at the University of Hartford 
+1C2-E-TEST-0137-74.4/002	west hartford	DEP=1C2-E-TEST-0137-74.4001
+1C2-E-TEST-0137-74.4/003	western connecticut state university	DEP=1C2-E-TEST-0137-74.4001
+1C2-E-TEST-0137-74.4/004	danbury	DEP=1C2-E-TEST-0137-74.4001
 1C2-E-TEST-0137-79.001	Central Connecticut State University New Britain CT
-1C2-E-TEST-0137-79.001/001	central connecticut state university	DEP=1C2-E-TEST-0137-79.001002
-1C2-E-TEST-0137-79.001/002	new britian	DEP=1C2-E-TEST-0137-79.001003
-1C2-E-TEST-0137-79.001/003	ct
+1C2-E-TEST-0137-79.001/001	central connecticut state university
+1C2-E-TEST-0137-79.001/002	new britian ct	DEP=1C2-E-TEST-0137-79.001001
 1C2-E-TEST-0137-79.002	University of New Haven West Haven CT 06516
 1C2-E-TEST-0137-79.002/001	university new haven
-1C2-E-TEST-0137-79.002/002	west haven
-1C2-E-TEST-0137-79.002/003	ct 06516
+1C2-E-TEST-0137-79.002/002	west haven	DEP=1C2-E-TEST-0137-79.002001
+1C2-E-TEST-0137-79.002/003	ct 06516	DEP=1C2-E-TEST-0137-79.002001
 1C2-E-TEST-0137-79.13	"The Yale School of Music is a graduate school offering post-baccalaureate degrees in classical performance, conducting, and composition."
 1C2-E-TEST-0137-79.13/001	yale school music
-1C2-E-TEST-0137-79.13/002	graduate school	DEP=1C2-E-TEST-0137-79.13001
-1C2-E-TEST-0137-79.13/003	offering post-baccalaureate degrees	DEP=1C2-E-TEST-0137-79.13001
-1C2-E-TEST-0137-79.13/004	classical performance	DEP=1C2-E-TEST-0137-79.13003
-1C2-E-TEST-0137-79.13/005	composition	DEP=1C2-E-TEST-0137-79.13003
-1C2-E-TEST-0137-79.13/006	conducting	DEP=1C2-E-TEST-0137-79.13003
+1C2-E-TEST-0137-79.13/002	graduate school offering post-baccalaureate degrees	DEP=1C2-E-TEST-0137-79.13001
+1C2-E-TEST-0137-79.13/003	degrees in classical performance	DEP=1C2-E-TEST-0137-79.13002
+1C2-E-TEST-0137-79.13/004	degrees in composition	DEP=1C2-E-TEST-0137-79.13002
+1C2-E-TEST-0137-79.13/005	degrees in conducting	DEP=1C2-E-TEST-0137-79.13002
 1C2-E-TEST-0137-79.17	"The Department of Music at Western Connecticut State University (WestConn) is a friendly, vibrant, student-oriented unit in an institution of higher learning that serves as an accessible, responsive aÃÂÃÂ  more..."
 1C2-E-TEST-0137-79.17/001	department music	DEP=1C2-E-TEST-0137-79.17002
 1C2-E-TEST-0137-79.17/002	western connecticut state university
-1C2-E-TEST-0137-79.17/003	westconn	DEP=1C2-E-TEST-0137-79.17002
-1C2-E-TEST-0137-79.17/004	friendly	DEP=1C2-E-TEST-0137-79.17001
-1C2-E-TEST-0137-79.17/005	vibrant	DEP=1C2-E-TEST-0137-79.17001
-1C2-E-TEST-0137-79.17/006	student-oriented unit	DEP=1C2-E-TEST-0137-79.17001
-1C2-E-TEST-0137-79.17/007	institution	DEP=1C2-E-TEST-0137-79.17008
-1C2-E-TEST-0137-79.17/008	higher learning
+1C2-E-TEST-0137-79.17/003	"friendly, vibrant, student-oriented unit"	DEP=1C2-E-TEST-0137-79.17001
+1C2-E-TEST-0137-79.17/004	institution of higher learning 	DEP=1C2-E-TEST-0137-79.17002
 1C2-E-TEST-0137-79.3	"The Hartt School is the renowned, comprehensive performing arts conservatory of the University of Hartford that offers dynamic degree programs in music, dance and theatre. Hartt is a vibrant communitÃÂÃÂ  more..."
-1C2-E-TEST-0137-79.3/001	hartt school	DEP=1C2-E-TEST-0137-79.3002
-1C2-E-TEST-0137-79.3/002	renowned comprehensive performing arts conservatory	DEP=1C2-E-TEST-0137-79.3003
-1C2-E-TEST-0137-79.3/003	university hartford
-1C2-E-TEST-0137-79.3/004	offers	DEP=1C2-E-TEST-0137-79.3005
-1C2-E-TEST-0137-79.3/005	dynamic degreee programs
-1C2-E-TEST-0137-79.3/006	music	DEP=1C2-E-TEST-0137-79.3005
-1C2-E-TEST-0137-79.3/007	dance	DEP=1C2-E-TEST-0137-79.3005
-1C2-E-TEST-0137-79.3/008	theater	DEP=1C2-E-TEST-0137-79.3005
+1C2-E-TEST-0137-79.3/001	hartt school is performing arts conservatory	DEP=1C2-E-TEST-0137-79.3002
+1C2-E-TEST-0137-79.3/002	university hartford
+1C2-E-TEST-0137-79.3/003	"offers dynamic degree programs in music, dance and theatre"	DEP=1C2-E-TEST-0137-79.3001
 1C2-E-TEST-0137-79.6	"As a center for artistic excellence in musical performance, teaching, and scholarship, the UConn Department of Music offers comprehensive and challenging programs that provide superb training for studÃÂÃÂ  more..."
-1C2-E-TEST-0137-79.6/001	center	DEP=1C2-E-TEST-0137-79.6002
-1C2-E-TEST-0137-79.6/002	atristic excellence	DEP=1C2-E-TEST-0137-79.6006
-1C2-E-TEST-0137-79.6/003	musical performance	DEP=1C2-E-TEST-0137-79.6002
-1C2-E-TEST-0137-79.6/004	teaching	DEP=1C2-E-TEST-0137-79.6002
-1C2-E-TEST-0137-79.6/005	scholarship	DEP=1C2-E-TEST-0137-79.6002
-1C2-E-TEST-0137-79.6/006	uconn department music
-1C2-E-TEST-0137-79.6/007	offers programs
-1C2-E-TEST-0137-79.6/008	comprehensive	DEP=1C2-E-TEST-0137-79.6007
-1C2-E-TEST-0137-79.6/009	challenging	DEP=1C2-E-TEST-0137-79.6007
-1C2-E-TEST-0137-79.6/010	superb training	DEP=1C2-E-TEST-0137-79.6007
-1C2-E-TEST-0137-79.6/011	student	DEP=1C2-E-TEST-0137-79.6010
+1C2-E-TEST-0137-79.6/001	UConn Department of Music offers comprehensive and challenging programs
+1C2-E-TEST-0137-79.6/002	provide superb training	DEP=1C2-E-TEST-0137-79.6001
+1C2-E-TEST-0137-79.6/003	"center for artistic excellence in musical performance, teaching, and scholarship"	DEP=1C2-E-TEST-0137-79.6001
 1C2-E-TEST-0137-79.9	The Hartt School Community Division is a comprehensive community arts school providing instruction in music and dance for individuals of all ages and experience levels.
-1C2-E-TEST-0137-79.9/001	hartt school	DEP=1C2-E-TEST-0137-79.9002
-1C2-E-TEST-0137-79.9/002	community division
-1C2-E-TEST-0137-79.9/003	comprehensive community arts school	DEP=1C2-E-TEST-0137-79.9001
-1C2-E-TEST-0137-79.9/004	providing instruction
-1C2-E-TEST-0137-79.9/005	music	DEP=1C2-E-TEST-0137-79.9004
-1C2-E-TEST-0137-79.9/006	dance	DEP=1C2-E-TEST-0137-79.9004
-1C2-E-TEST-0137-79.9/007	individuals	DEP=1C2-E-TEST-0137-79.9004
-1C2-E-TEST-0137-79.9/008	all ages	DEP=1C2-E-TEST-0137-79.9007
-1C2-E-TEST-0137-79.9/009	experience levels	DEP=1C2-E-TEST-0137-79.9007
+1C2-E-TEST-0137-79.9/001	Hartt School Community Division is a comprehensive community arts school 
+1C2-E-TEST-0137-79.9/002	instruction in music and dance for individuals of all ages and experience levels.	DEP=1C2-E-TEST-0137-79.9001
