@@ -24,4 +24,67 @@
 1C2-E-TEST-0130-1.009/001	razzmatazz club
 1C2-E-TEST-0130-1.009/002	 five distinct spaces	DEP=1C2-E-TEST-0130-1.009001
 1C2-E-TEST-0130-1.009/003	night-time playground of seemingly all young Barcelona.	DEP=1C2-E-TEST-0130-1.009001
-1C2-E-TEST-0130-1.010	Razzmatazz C/AlmogÃ vers 122
+1C2-E-TEST-0130-1.010	Razzmatazz C/Almog vers 122
+1C2-E-TEST-0130-1.010/001	Razzmatazz C\/Almoga vers 122
+1C2-E-TEST-0130-1.010/002	vers 122	DEP=1C2-E-TEST-0130-1.010001
+1C2-E-TEST-0130-1.011	"Sala Apolo, one of Barcelona's most popular clubs, is a 1940s dancehall, with all that implies for atmosphere (good) and acoustics (bad)."
+1C2-E-TEST-0130-1.011/001	"Sala Apolo, one of Barcelona's most popular clubs"
+1C2-E-TEST-0130-1.011/002	1940s dancehall	DEP=1C2-E-TEST-0130-1.011001
+1C2-E-TEST-0130-1.011/003	atmosphere (good) and acoustics (bad)	DEP=1C2-E-TEST-0130-1.011001
+1C2-E-TEST-0130-1.012	Sala Apolo C/Nou de la Rambla 111-113
+1C2-E-TEST-0130-1.012/001	Sala Apolo C\/Nou de la Rambla 111-113
+1C2-E-TEST-0130-1.013	Jamboree
+1C2-E-TEST-0130-1.013/001	jamboree
+1C2-E-TEST-0130-1.014	"Jamboree Plaza Reial 17, Barri Gtic"
+1C2-E-TEST-0130-1.014/001	jamboree plaza reial 17 barri
+1C2-E-TEST-0130-1.015	Jamboree Metro Liceu
+1C2-E-TEST-0130-1.015/001	jamboree metro liceu
+1C2-E-TEST-0130-1.016	Jamboree Tel (+34) 93 319 17 89
+1C2-E-TEST-0130-1.016/001	jamboree
+1C2-E-TEST-0130-1.016/002	(+34) 93 319 17 89	DEP=1C2-E-TEST-0130-1.016001
+1C2-E-TEST-0130-1.017	"Once the quality live jazz shuts down at midnight, Jamboree turns into a club for funk, hip hop and R&B."
+1C2-E-TEST-0130-1.017/001	"Jamboree turns into a club for funk, hip hop and R&B"
+1C2-E-TEST-0130-1.017/002	Once the quality live jazz shuts down at midnight	DEP=1C2-E-TEST-0130-1.017001
+1C2-E-TEST-0130-1.018	Bikini
+1C2-E-TEST-0130-1.018/001	Bikini
+1C2-E-TEST-0130-1.019	"Bikini c/ Deu i Mata 105 (off Av. Diagonal), Les Corts"
+1C2-E-TEST-0130-1.019/001	bikini
+1C2-E-TEST-0130-1.019/002	c Deu i Mata 105	DEP=1C2-E-TEST-0130-1.019001
+1C2-E-TEST-0130-1.019/003	off Av. Diagonal	DEP=1C2-E-TEST-0130-1.019002
+1C2-E-TEST-0130-1.019/004	les corts	DEP=1C2-E-TEST-0130-1.019001
+1C2-E-TEST-0130-1.020	Bikini Metro Les Corts or Maria Cristina
+1C2-E-TEST-0130-1.020/001	bikini metro
+1C2-E-TEST-0130-1.020/002	les corts	DEP=1C2-E-TEST-0130-1.020001
+1C2-E-TEST-0130-1.020/003	maria cristina
+1C2-E-TEST-0130-1.021	Bikini Tel (+34) 93 322 08 00
+1C2-E-TEST-0130-1.021/001	bikini
+1C2-E-TEST-0130-1.021/002	(+34) 93 322 08 00
+1C2-E-TEST-0130-1.022	"Part live music venue, part club, Bikini's 3 separate rooms allow for 3 different DJs to spin at once."
+1C2-E-TEST-0130-1.022/001	part live music venue	DEP=1C2-E-TEST-0130-1.022003
+1C2-E-TEST-0130-1.022/002	part club	DEP=1C2-E-TEST-0130-1.022003
+1C2-E-TEST-0130-1.022/003	bikini club
+1C2-E-TEST-0130-1.022/004	3 separate rooms allow for 3 different DJs to spin at once.	DEP=1C2-E-TEST-0130-1.022003
+1C2-E-TEST-0130-1.023	Bikini It's one of the best Barcelona night clubs for hip hop and funk music.
+1C2-E-TEST-0130-1.023/001	bikini one of best barcelona night clubs
+1C2-E-TEST-0130-1.023/002	hip hop	DEP=1C2-E-TEST-0130-1.023001
+1C2-E-TEST-0130-1.023/003	funk music	DEP=1C2-E-TEST-0130-1.023001
+1C2-E-TEST-0130-10.001	"Mirabe (on Mount Tibidabo) = has a hip hop / RnB room, and downstairs it has a house room"
+1C2-E-TEST-0130-10.001/001	mirabe
+1C2-E-TEST-0130-10.001/002	on mount tibidabo	DEP=1C2-E-TEST-0130-10.001001
+1C2-E-TEST-0130-10.001/003	has hip hop rnb room	DEP=1C2-E-TEST-0130-10.001001
+1C2-E-TEST-0130-10.001/004	downstairs has a house room	DEP=1C2-E-TEST-0130-10.001001
+1C2-E-TEST-0130-10.002	"Up n down, Otto Zutz = more on the RnB/hip hop side. Otto Zutz has 3 different rooms, and definately has some RnB hip hop."
+1C2-E-TEST-0130-10.002/001	up down otto zutz
+1C2-E-TEST-0130-10.002/002	more on rnb/hip hop side	DEP=1C2-E-TEST-0130-10.002001
+1C2-E-TEST-0130-10.002/003	Otto Zutz has 3 different rooms	DEP=1C2-E-TEST-0130-10.002002
+1C2-E-TEST-0130-10.002/004	definitely has some RnB hip hop.
+1C2-E-TEST-0130-10.003	Catwalk = some RnB/hip hop
+1C2-E-TEST-0130-10.003/001	catwalk
+1C2-E-TEST-0130-10.003/002	rnb\/hip hop	DEP=1C2-E-TEST-0130-10.003001
+1C2-E-TEST-0130-103.13	En The Sutton Club el Sado 4 de Julio. Barcelona
+1C2-E-TEST-0130-103.13/001	en sutton club 
+1C2-E-TEST-0130-103.13/002	4 de Julio barcelona	DEP=1C2-E-TEST-0130-103.13001
+1C2-E-TEST-0130-105.7	"David Guetta @ Sporting Club, Vi del Mar, Chile, Viernes 13 de Enero 2012 - Parte 1"
+1C2-E-TEST-0130-105.7/001	david guetta sporting club
+1C2-E-TEST-0130-105.7/002	del mar chile	DEP=1C2-E-TEST-0130-105.7001
+1C2-E-TEST-0130-105.7/003	Viernes 13 de Enero 2012 - Parte 1	DEP=1C2-E-TEST-0130-105.7001

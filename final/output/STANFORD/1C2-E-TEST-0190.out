@@ -1,4 +1,16 @@
 1C2-E-TEST-0190-1.10	"Since the moon rotates around the Earth and the Earth rotates around its own axis, the oceans are constantly in flux between high and low tide, which occur in intervals of about six hours and twelve minutes."
+1C2-E-TEST-0190-1.10/001	moon rotates around the Earth 
+1C2-E-TEST-0190-1.10/002	Earth rotates around its own axis 
+1C2-E-TEST-0190-1.10/003	the oceans are constantly in flux between high and low tide 	DEP=1C2-E-TEST-0190-1.1001
+1C2-E-TEST-0190-1.10/004	which occur in intervals about six hours and twelve minutes.	DEP=1C2-E-TEST-0190-1.1003
 1C2-E-TEST-0190-1.13	"This is especially notable when the Earth, moon and sun line up together, which occurs twice each month -- during the full and new moons."
+1C2-E-TEST-0190-1.13/001	" especially notable when the Earth, moon and sun line up together"
+1C2-E-TEST-0190-1.13/002	 occurs twice each month 	DEP=1C2-E-TEST-0190-1.13001
+1C2-E-TEST-0190-1.13/003	during the full and new moons 	DEP=1C2-E-TEST-0190-1.13002
 1C2-E-TEST-0190-1.9	High tides occur at each of these gravitationally induced bulges with low tides occurring in between.
+1C2-E-TEST-0190-1.9/001	High tides occur at each of these gravitationally induced bulges 
+1C2-E-TEST-0190-1.9/002	low tides occurring in between  gravitationally induced bulges.
 1C2-E-TEST-0190-116.2	"The tide-generating force is produced by the combination of (1) the gravitational attraction between Earth and the moon and sun, and (2) the rotation of the Earth-moon and Earth-sun systems."
+1C2-E-TEST-0190-116.2/001	tide-generating force produced by the combination of gravitational attraction and rotation systems
+1C2-E-TEST-0190-116.2/002	"the gravitational attraction between Earth and the moon and sun, "	DEP=1C2-E-TEST-0190-116.2001
+1C2-E-TEST-0190-116.2/003	the rotation of the Earth-moon and Earth-sun systems. 	DEP=1C2-E-TEST-0190-116.2001

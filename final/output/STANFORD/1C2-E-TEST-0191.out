@@ -1,12 +1,42 @@
 1C2-E-TEST-0191-1.10	The nuclei of these heavy elements split releasing energy and more neutrons to continue the process of splitting other nuclei.
+1C2-E-TEST-0191-1.10/001	nuclei of heavy elements split
+1C2-E-TEST-0191-1.10/002	releasing energy 	DEP=1C2-E-TEST-0191-1.10001
+1C2-E-TEST-0191-1.10/003	releasing more neutrons 	DEP=1C2-E-TEST-0191-1.10001
+1C2-E-TEST-0191-1.10/004	continue the process of splitting other nuclei. 	DEP=1C2-E-TEST-0191-1.10001
 1C2-E-TEST-0191-112.6	The most frequently used elements to produce nuclear fission are uranium and plutonium .
+1C2-E-TEST-0191-112.6/001	most frequently used elements uranium plutonium 
+1C2-E-TEST-0191-112.6/002	produce nuclear fission 	DEP=1C2-E-TEST-0191-112.6001
 1C2-E-TEST-0191-168.203	"No chain reaction was produced, but the fusion neutrons had sufficient energy to cause fission of the uranium nuclei and thus added to the explosive yield and also to the radioactivity of the bomb residues."
+1C2-E-TEST-0191-168.203/001	No chain reaction was produced
+1C2-E-TEST-0191-168.203/002	the fusion neutrons had sufficient energy 	DEP=1C2-E-TEST-0191-168.203001
+1C2-E-TEST-0191-168.203/003	 caused fission of the uranium nuclei 	DEP=1C2-E-TEST-0191-168.203002
+1C2-E-TEST-0191-168.203/004	thus added to the explosive yield 	DEP=1C2-E-TEST-0191-168.203003
+1C2-E-TEST-0191-168.203/005	also to the radioactivity of the bomb residues 	DEP=1C2-E-TEST-0191-168.203004
 1C2-E-TEST-0191-168.27	"In other words, energy can be released by the nuclear fission , or splitting, of a single massive nucleus into two smaller fragments."
+1C2-E-TEST-0191-168.27/001	energy can be released by the nuclear fission 
+1C2-E-TEST-0191-168.27/002	splitting of a single massive nucleus 	DEP=1C2-E-TEST-0191-168.27001
+1C2-E-TEST-0191-168.27/003	into two smaller fragments 	DEP=1C2-E-TEST-0191-168.27002
 1C2-E-TEST-0191-168.66	Nuclear energy is also released when the fission of a heavy nucleus such as
+1C2-E-TEST-0191-168.66/001	nuclear energy released when fission of a heavy nucleus 
 1C2-E-TEST-0191-168.69	A nuclear fission reaction releases 10 million times as much energy as is released in a typical chemical reaction.
+1C2-E-TEST-0191-168.69/001	nuclear fission reaction releases 10 million times as much energy 
+1C2-E-TEST-0191-168.69/002	realeased typical chemical reaction	DEP= 1C2-E-TEST-0191-168.69001
 1C2-E-TEST-0191-168.71	"The fission process initiated by the absorption of one neutron in uranium-235 releases about 2.5 neutrons, on the average, from the split nuclei."
+1C2-E-TEST-0191-168.71/001	fission process initiated by the absorption of one neutron in uranium-235
+1C2-E-TEST-0191-168.71/002	"releases about 2.5 neutrons, , "	DEP=1C2-E-TEST-0191-168.71001
+1C2-E-TEST-0191-168.71/003	from the split nuclei	DEP=1C2-E-TEST-0191-168.71001
 1C2-E-TEST-0191-171.133	Pure fission weapons were the first nuclear weapons built and the only type ever used in warfare.
+1C2-E-TEST-0191-171.133/001	Pure fission weapons were the first nuclear weapons built 
+1C2-E-TEST-0191-171.133/002	the only type ever used in warfare.	DEP=1C2-E-TEST-0191-171.133001
 1C2-E-TEST-0191-171.173	Nuclear reactions Nuclear fission splits the heaviest of atoms to form lighter atoms.
+1C2-E-TEST-0191-171.173/001	Nuclear reactions Nuclear fission 
+1C2-E-TEST-0191-171.173/002	heaviest of atoms to form lighter atoms 	DEP=1C2-E-TEST-0191-171.173001
 1C2-E-TEST-0191-171.179	Fission can be self-sustaining because fission produces more neutrons of the speed required to cause new fissions.
+1C2-E-TEST-0191-171.179/001	Fission can be self-sustaining 
+1C2-E-TEST-0191-171.179/002	fission produces more neutrons of the speed required to cause new fissions.	DEP=1C2-E-TEST-0191-171.179001
 1C2-E-TEST-0191-171.212	"Fission is thus necessary to start fusion, to sustain fusion, and to optimize the extraction of useful energy from fusion (by making more fission)."
+1C2-E-TEST-0191-171.212/001	Fission is necessary to start fusion
+1C2-E-TEST-0191-171.212/002	Fission is necessary to sustain fusion 	DEP=1C2-E-TEST-0191-171.212001
+1C2-E-TEST-0191-171.212/003	Fission is necessary to optimize the extraction of useful energy from fusion (by making more fission). 	DEP=1C2-E-TEST-0191-171.212001
 1C2-E-TEST-0191-171.44	The first are weapons which produce their explosive energy through nuclear fission reactions alone.
+1C2-E-TEST-0191-171.44/001	weapons produce their explosive energy through nuclear fission reactions
