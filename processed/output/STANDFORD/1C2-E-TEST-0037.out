@@ -13,7 +13,7 @@
 1C2-E-TEST-0037-132.12/012	reads	DEP=1C2-E-TEST-0037-132.12004		
 1C2-E-TEST-0037-132.12/013		DEP=1C2-E-TEST-0037-132.12015		
 1C2-E-TEST-0037-132.12/014		DEP=1C2-E-TEST-0037-132.12015		
-1C2-E-TEST-0037-132.12/015	†	DEP=1C2-E-TEST-0037-132.12012		
+1C2-E-TEST-0037-132.12/015		DEP=1C2-E-TEST-0037-132.12012		
 1C2-E-TEST-0037-132.12/016	s	DEP=1C2-E-TEST-0037-132.12009		
 1C2-E-TEST-0037-132.12/017	completely	DEP=1C2-E-TEST-0037-132.12018		
 1C2-E-TEST-0037-132.12/018	FALSE	DEP=1C2-E-TEST-0037-132.12009		
@@ -25,7 +25,7 @@
 1C2-E-TEST-0037-132.14/004	 cents	DEP=1C2-E-TEST-0037-132.14003		
 1C2-E-TEST-0037-132.14/005	los angeles business manager	DEP=1C2-E-TEST-0037-132.14003		
 1C2-E-TEST-0037-132.14/006	? cents	DEP=1C2-E-TEST-0037-132.14005		
-1C2-E-TEST-0037-132.14/007	 †			
+1C2-E-TEST-0037-132.14/007	 			
 1C2-E-TEST-0037-132.14/008	client			
 1C2-E-TEST-0037-132.14/009	validity			
 1C2-E-TEST-0037-132.14/010	there? cents			
@@ -163,7 +163,7 @@
 1C2-E-TEST-0037-140.34/011	stayed	DEP=1C2-E-TEST-0037-140.34010		
 1C2-E-TEST-0037-140.34/012	played	DEP=1C2-E-TEST-0037-140.34011		
 1C2-E-TEST-0037-140.34/013	upbringing			
-1C2-E-TEST-0037-140.48	Sala said she has a picture of Reeves when he was a teenager ????????œ though she was unable to produce it yesterday ????????œ and that she is hoping to get a photo from a friend of the two of them together more than 20 years ago.			
+1C2-E-TEST-0037-140.48	Sala said she has a picture of Reeves when he was a teenager ???????? though she was unable to produce it yesterday ???????? and that she is hoping to get a photo from a friend of the two of them together more than 20 years ago.			
 1C2-E-TEST-0037-140.48/001	sala		Sala said she has a picture of Reeves when he was a teenager 	
 1C2-E-TEST-0037-140.48/002	picture		 though she was unable to produce it yesterday 	1
 1C2-E-TEST-0037-140.48/003	teenager	DEP=1C2-E-TEST-0037-140.48002	 and that she is hoping to get a photo from a friend of the two of them together more than 20 years ago	1
