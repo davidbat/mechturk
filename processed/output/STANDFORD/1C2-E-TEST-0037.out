@@ -1,4 +1,4 @@
-1C2-E-TEST-0037-132.12	"Cheryl Maisel, a spokesperson for Reeves, has issued a statement denying the allegations that reads, ??????…?Karen Sala????????s allegations are completely false and absurd."			
+1C2-E-TEST-0037-132.12	"Cheryl Maisel, a spokesperson for Reeves, has issued a statement denying the allegations that reads, ???????Karen Sala????????s allegations are completely false and absurd."			
 1C2-E-TEST-0037-132.12/001	cheryl maisel	DEP=1C2-E-TEST-0037-132.12010	cheryl maisel	2
 1C2-E-TEST-0037-132.12/002	spokesperson	DEP=1C2-E-TEST-0037-132.12001	spokesman	
 1C2-E-TEST-0037-132.12/003	statement	DEP=1C2-E-TEST-0037-132.12010	issued statement 	4
@@ -18,7 +18,7 @@
 1C2-E-TEST-0037-132.12/017	completely	DEP=1C2-E-TEST-0037-132.12018		
 1C2-E-TEST-0037-132.12/018	FALSE	DEP=1C2-E-TEST-0037-132.12009		
 1C2-E-TEST-0037-132.12/019	absurd	DEP=1C2-E-TEST-0037-132.12018		
-1C2-E-TEST-0037-132.14	"Adds Paul Knell, Reeves???????? Los Angeles business manager, ??????…?Before you disparage my client and lend validity to this, there????????s clearly something wrong with someone who claims child support after all the kids have grown."			
+1C2-E-TEST-0037-132.14	"Adds Paul Knell, Reeves???????? Los Angeles business manager, ???????Before you disparage my client and lend validity to this, there????????s clearly something wrong with someone who claims child support after all the kids have grown."			
 1C2-E-TEST-0037-132.14/001	paul knell	DEP=1C2-E-TEST-0037-132.14015	adds paul knell	
 1C2-E-TEST-0037-132.14/002	reeves? cents		los angeles business manager	1
 1C2-E-TEST-0037-132.14/003			disparage client	4
