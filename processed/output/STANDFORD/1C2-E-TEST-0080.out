@@ -10,15 +10,15 @@
 1C2-E-TEST-0080-123.37/009	fined	DEP=1C2-E-TEST-0080-123.37008		
 1C2-E-TEST-0080-123.37/010	speeding			
 1C2-E-TEST-0080-123.37/011	night	DEP=1C2-E-TEST-0080-123.37010		
-1C2-E-TEST-0080-123.38	"Manchester City striker Mario Balotelli was at his generous best when he gave a ÃÂÃÂ£1000 to a tramp outside a casino after winning ÃÂÃÂ£25,000."			
-1C2-E-TEST-0080-123.38/001	manchester city striker	manchester city striker	Mario Balotelli was gave �1000 to a tramp outside a casino 	
+1C2-E-TEST-0080-123.38	"Manchester City striker Mario Balotelli was at his generous best when he gave a 1000 to a tramp outside a casino after winning 25,000."			
+1C2-E-TEST-0080-123.38/001	manchester city striker	manchester city striker	Mario Balotelli was gave 1000 to a tramp outside a casino 	
 1C2-E-TEST-0080-123.38/002	generous		at his generous best	1
 1C2-E-TEST-0080-123.38/003	best		Manchester City striker Mario Balotelli 	2
-1C2-E-TEST-0080-123.38/004	ã â	DEP=1C2-E-TEST-0080-123.38010	" after winning �25,000"	3
+1C2-E-TEST-0080-123.38/004	 	DEP=1C2-E-TEST-0080-123.38010	" after winning 25,000"	3
 1C2-E-TEST-0080-123.38/005	1000	DEP=1C2-E-TEST-0080-123.38010		
 1C2-E-TEST-0080-123.38/006	tramp			
 1C2-E-TEST-0080-123.38/007	casino			
-1C2-E-TEST-0080-123.38/008	winning ã â			
+1C2-E-TEST-0080-123.38/008	winning  			
 1C2-E-TEST-0080-123.38/009	"25,000"	DEP=1C2-E-TEST-0080-123.38008		
 1C2-E-TEST-0080-123.38/010	gave	DEP=1C2-E-TEST-0080-123.38003		
 1C2-E-TEST-0080-123.40	Manchester City manager Roberto Mancini has warned his striker Mario Balotelli that he is in the last-chance saloon after another explosive bust-up at the club.			
@@ -83,20 +83,20 @@
 1C2-E-TEST-0080-6.8/019	stepping	DEP=1C2-E-TEST-0080-6.8018		
 1C2-E-TEST-0080-6.8/020	head	DEP=1C2-E-TEST-0080-6.8018		
 1C2-E-TEST-0080-6.8/021	fell	DEP=1C2-E-TEST-0080-6.8017		
-1C2-E-TEST-0080-61.2	Michel Platini has warned Mario Balotelli that if he were to walk off the pitch for being racially abused ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ as he suggested he would last week ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ during a match at Euro 2012 then he would be booked.			
+1C2-E-TEST-0080-61.2	Michel Platini has warned Mario Balotelli that if he were to walk off the pitch for being racially abused � as he suggested he would last week � during a match at Euro 2012 then he would be booked.			
 1C2-E-TEST-0080-61.2/001	michel platini	DEP=1C2-E-TEST-0080-61.2007	if he were to walk off the pitch for being racially abused he would be booked	
 1C2-E-TEST-0080-61.2/002	pitch	DEP=1C2-E-TEST-0080-61.2008	Michel Platini has warned Mario Balotelli	1
-1C2-E-TEST-0080-61.2/003	ã cents		during a match at Euro 2012	1
-1C2-E-TEST-0080-61.2/004	¬ â			
-1C2-E-TEST-0080-61.2/005	ã cents			
+1C2-E-TEST-0080-61.2/003	 cents		during a match at Euro 2012	1
+1C2-E-TEST-0080-61.2/004	 			
+1C2-E-TEST-0080-61.2/005	 cents			
 1C2-E-TEST-0080-61.2/006	euro 2012			
 1C2-E-TEST-0080-61.2/007	warned			
 1C2-E-TEST-0080-61.2/008	walk			
 1C2-E-TEST-0080-61.2/009	racially	DEP=1C2-E-TEST-0080-61.2010		
 1C2-E-TEST-0080-61.2/010	abused			
 1C2-E-TEST-0080-61.2/011	suggested			
-1C2-E-TEST-0080-61.2/012	¬	DEP=1C2-E-TEST-0080-61.2013		
-1C2-E-TEST-0080-61.2/013	â			
+1C2-E-TEST-0080-61.2/012		DEP=1C2-E-TEST-0080-61.2013		
+1C2-E-TEST-0080-61.2/013				
 1C2-E-TEST-0080-61.2/014	match			
 1C2-E-TEST-0080-61.2/015	booked	DEP=1C2-E-TEST-0080-61.2007		
 1C2-E-TEST-0080-61.5	"Balotelli said last week that he would leave the field of play if he was targeted, but Platini warned the Italy forward, and every other player, to do nothing rash."			
@@ -205,9 +205,9 @@
 1C2-E-TEST-0080-64.4/006	grow	DEP=1C2-E-TEST-0080-64.4005		
 1C2-E-TEST-0080-64.4/007	know			
 1C2-E-TEST-0080-64.4/008	react	DEP=1C2-E-TEST-0080-64.4007		
-1C2-E-TEST-0080-64.42	The Roma midfielder was a protÃÂÃÂ©gÃÂÃÂ© of the former England manager who promoted him during his time in charge of the club and set him on his way to his international career.			
+1C2-E-TEST-0080-64.42	The Roma midfielder was a protg of the former England manager who promoted him during his time in charge of the club and set him on his way to his international career.			
 1C2-E-TEST-0080-64.42/001	roma midfielder	DEP=1C2-E-TEST-0080-64.42002	England manager promoted Roma midfielder during his time in charge of the club 	
-1C2-E-TEST-0080-64.42/002	protã â © gã â ©		 set him on his way to his international career.	1
+1C2-E-TEST-0080-64.42/002	prot   g  		 set him on his way to his international career.	1
 1C2-E-TEST-0080-64.42/003	former england manager			
 1C2-E-TEST-0080-64.42/004	time			
 1C2-E-TEST-0080-64.42/005	charge			
@@ -258,7 +258,7 @@
 1C2-E-TEST-0080-64.8/018	game	DEP=1C2-E-TEST-0080-64.8017		
 1C2-E-TEST-0080-64.8/019	having	DEP=1C2-E-TEST-0080-64.8009		
 1C2-E-TEST-0080-64.8/020	scored	DEP=1C2-E-TEST-0080-64.8009		
-1C2-E-TEST-0080-87.10	Italy coach Cesare Prandelli left Balotelli out of the squad for a friendly against the United States in February after he received a four-match suspension a month earlier for his stamp on TottenhamÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Scott Parker.			
+1C2-E-TEST-0080-87.10	Italy coach Cesare Prandelli left Balotelli out of the squad for a friendly against the United States in February after he received a four-match suspension a month earlier for his stamp on Tottenhams Scott Parker.			
 1C2-E-TEST-0080-87.10/001	italy coach cesare prandelli	DEP=1C2-E-TEST-0080-87.10012	Italy coach Cesare Prandelli left Balotelli out of the squad 	
 1C2-E-TEST-0080-87.10/002	squad		friendly against the United States	1
 1C2-E-TEST-0080-87.10/003	friendly		in February 	1
@@ -266,19 +266,19 @@
 1C2-E-TEST-0080-87.10/005	february		suspension for stamp on Tottenham scott parker	4
 1C2-E-TEST-0080-87.10/006	four-match suspension			
 1C2-E-TEST-0080-87.10/007	stamp			
-1C2-E-TEST-0080-87.10/008	tottenhamã cents			
-1C2-E-TEST-0080-87.10/009	¬	DEP=1C2-E-TEST-0080-87.10011		
-1C2-E-TEST-0080-87.10/010	â cents	DEP=1C2-E-TEST-0080-87.10009		
+1C2-E-TEST-0080-87.10/008	tottenham cents			
+1C2-E-TEST-0080-87.10/009		DEP=1C2-E-TEST-0080-87.10011		
+1C2-E-TEST-0080-87.10/010	 cents	DEP=1C2-E-TEST-0080-87.10009		
 1C2-E-TEST-0080-87.10/011	scott parker			
 1C2-E-TEST-0080-87.10/012	left			
 1C2-E-TEST-0080-87.10/013	received	DEP=1C2-E-TEST-0080-87.10012		
 1C2-E-TEST-0080-87.10/014	month	DEP=1C2-E-TEST-0080-87.10006		
 1C2-E-TEST-0080-87.10/015	earlier	DEP=1C2-E-TEST-0080-87.10014		
 1C2-E-TEST-0080-87.10/016	s	DEP=1C2-E-TEST-0080-87.10011		
-1C2-E-TEST-0080-87.11	"With PrandelliÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s urging, Balotelli issued a public apology in April for another act of indiscipline with City, having picked up his fourth red card in two seasons, for lunging at Arsenal defender Bacary SagnaÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s knee."			
-1C2-E-TEST-0080-87.11/001	prandelliã cents		 Balotelli issued a public apology in April 	
-1C2-E-TEST-0080-87.11/002	¬	DEP=1C2-E-TEST-0080-87.11017	for act of indiscipline with City	1
-1C2-E-TEST-0080-87.11/003	â cents	DEP=1C2-E-TEST-0080-87.11002	Prandelli urging	1
+1C2-E-TEST-0080-87.11	"With Prandellis urging, Balotelli issued a public apology in April for another act of indiscipline with City, having picked up his fourth red card in two seasons, for lunging at Arsenal defender Bacary Sagnas knee."			
+1C2-E-TEST-0080-87.11/001	prandelli cents		 Balotelli issued a public apology in April 	
+1C2-E-TEST-0080-87.11/002		DEP=1C2-E-TEST-0080-87.11017	for act of indiscipline with City	1
+1C2-E-TEST-0080-87.11/003	 cents	DEP=1C2-E-TEST-0080-87.11002	Prandelli urging	1
 1C2-E-TEST-0080-87.11/004	public apology	DEP=1C2-E-TEST-0080-87.11018	picked fourth red card in two seasons	1
 1C2-E-TEST-0080-87.11/005	april		 lunging at Arsenal defender Bacary Sagna	4
 1C2-E-TEST-0080-87.11/006	act			
@@ -286,10 +286,10 @@
 1C2-E-TEST-0080-87.11/008	city			
 1C2-E-TEST-0080-87.11/009	fourth red card	DEP=1C2-E-TEST-0080-87.11020		
 1C2-E-TEST-0080-87.11/010	two seasons			
-1C2-E-TEST-0080-87.11/011	arsenal defender bacary sagnaã			
+1C2-E-TEST-0080-87.11/011	arsenal defender bacary sagna			
 1C2-E-TEST-0080-87.11/012	cents			
-1C2-E-TEST-0080-87.11/013	¬	DEP=1C2-E-TEST-0080-87.11015		
-1C2-E-TEST-0080-87.11/014	â cents	DEP=1C2-E-TEST-0080-87.11013		
+1C2-E-TEST-0080-87.11/013		DEP=1C2-E-TEST-0080-87.11015		
+1C2-E-TEST-0080-87.11/014	 cents	DEP=1C2-E-TEST-0080-87.11013		
 1C2-E-TEST-0080-87.11/015	knee			
 1C2-E-TEST-0080-87.11/016	s	DEP=1C2-E-TEST-0080-87.11017		
 1C2-E-TEST-0080-87.11/017	urging			
@@ -309,11 +309,11 @@
 1C2-E-TEST-0080-87.12/008	season			
 1C2-E-TEST-0080-87.12/009	come			
 1C2-E-TEST-0080-87.12/010	broke	DEP=1C2-E-TEST-0080-87.12009		
-1C2-E-TEST-0080-87.7	"No other player in ItalyÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s team has the combination of talent and physical prowess that the 21-year-old Balotelli possesses, and that could be just what the Azzurri need in their European Championship opener against Spain in Gdansk this evening."			
+1C2-E-TEST-0080-87.7	"No other player in Italys team has the combination of talent and physical prowess that the 21-year-old Balotelli possesses, and that could be just what the Azzurri need in their European Championship opener against Spain in Gdansk this evening."			
 1C2-E-TEST-0080-87.7/001	player		possesses combination of talent and physical prowess	
-1C2-E-TEST-0080-87.7/002	italyã cents		no other player in italy team has the combination	1
-1C2-E-TEST-0080-87.7/003	¬		Azzurri need 21-year-old Balotelli talent and physical prowess  	
-1C2-E-TEST-0080-87.7/004	â cents	DEP=1C2-E-TEST-0080-87.7005	in their European Championship opener	4
+1C2-E-TEST-0080-87.7/002	italy cents		no other player in italy team has the combination	1
+1C2-E-TEST-0080-87.7/003			Azzurri need 21-year-old Balotelli talent and physical prowess  	
+1C2-E-TEST-0080-87.7/004	 cents	DEP=1C2-E-TEST-0080-87.7005	in their European Championship opener	4
 1C2-E-TEST-0080-87.7/005	team	DEP=1C2-E-TEST-0080-87.7003	against Spain in Gdansk this evening.	5
 1C2-E-TEST-0080-87.7/006	combination			
 1C2-E-TEST-0080-87.7/007	talent physical	DEP=1C2-E-TEST-0080-87.7014		

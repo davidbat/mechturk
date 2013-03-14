@@ -26,13 +26,13 @@
 1C2-E-TEST-0156-12.196/003	intellectual preparation			
 1C2-E-TEST-0156-12.196/004	bourgeois revolution			
 1C2-E-TEST-0156-12.196/005	described			
-1C2-E-TEST-0156-12.236	Enlightenment ideas strongly influenced literature and art (the ÃÂ¢Ã¢ÂÂ¬ÃÂnatural schoolÃÂ¢Ã¢ÂÂ¬ÃÂ and M. E. Saltykov-Shchedrin).			
+1C2-E-TEST-0156-12.236	Enlightenment ideas strongly influenced literature and art (the natural school� and M. E. Saltykov-Shchedrin).			
 1C2-E-TEST-0156-12.236/001	ideas	DEP=1C2-E-TEST-0156-12.236009	Enlightenment ideas strongly influenced literature and art	
 1C2-E-TEST-0156-12.236/002	literature art	DEP=1C2-E-TEST-0156-12.236009	m. e. saltykov-shchedrin	1
-1C2-E-TEST-0156-12.236/003	ã cents			
-1C2-E-TEST-0156-12.236/004	¬ å			
-1C2-E-TEST-0156-12.236/005	natural schoolã cents			
-1C2-E-TEST-0156-12.236/006	¬ â			
+1C2-E-TEST-0156-12.236/003	 cents			
+1C2-E-TEST-0156-12.236/004	 �			
+1C2-E-TEST-0156-12.236/005	natural school cents			
+1C2-E-TEST-0156-12.236/006	 			
 1C2-E-TEST-0156-12.236/007	m. e. saltykov-shchedrin	DEP=1C2-E-TEST-0156-12.236006		
 1C2-E-TEST-0156-12.236/008	strongly	DEP=1C2-E-TEST-0156-12.236009		
 1C2-E-TEST-0156-12.236/009	influenced			
@@ -46,50 +46,50 @@
 1C2-E-TEST-0156-12.314/007	western european			
 1C2-E-TEST-0156-12.314/008	russian			
 1C2-E-TEST-0156-12.314/009	developed			
-1C2-E-TEST-0156-121.5	"ÃÂÃÂ ÃÂÃÂ ÃÂÃÂ ÃÂÃÂ  Like the scientific revolution, the Enlightenment involved an application of the natural, humanistic attitudes typical of theRenaissance."			
-1C2-E-TEST-0156-121.5/001	ã â ã	DEP=1C2-E-TEST-0156-121.5007	"Enlightenment involved an application of the natural, humanistic attitudes"	
-1C2-E-TEST-0156-121.5/002	â ã â ã â	DEP=1C2-E-TEST-0156-121.5001	Like the scientific revolution	1
+1C2-E-TEST-0156-121.5	"���� Like the scientific revolution, the Enlightenment involved an application of the natural, humanistic attitudes typical of theRenaissance."			
+1C2-E-TEST-0156-121.5/001	  	DEP=1C2-E-TEST-0156-121.5007	"Enlightenment involved an application of the natural, humanistic attitudes"	
+1C2-E-TEST-0156-121.5/002	    	DEP=1C2-E-TEST-0156-121.5001	Like the scientific revolution	1
 1C2-E-TEST-0156-121.5/003	scientific revolution		 attitudes typical of the Renaissance.	1
 1C2-E-TEST-0156-121.5/004	application	DEP=1C2-E-TEST-0156-121.5007		
 1C2-E-TEST-0156-121.5/005	natural humanistic attitudes			
 1C2-E-TEST-0156-121.5/006	therenaissance			
 1C2-E-TEST-0156-121.5/007	involved			
 1C2-E-TEST-0156-121.5/008	typical	DEP=1C2-E-TEST-0156-121.5005		
-1C2-E-TEST-0156-13.182	"It was Kant himself who answered the question, ""Do we now live in an enlightened age?"" by saying: ""No, but we live in an age of enlightenment""ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂa judgment that perhaps remains as true today as when it was first rendered."			
+1C2-E-TEST-0156-13.182	"It was Kant himself who answered the question, ""Do we now live in an enlightened age?"" by saying: ""No, but we live in an age of enlightenment""�a judgment that perhaps remains as true today as when it was first rendered."			
 1C2-E-TEST-0156-13.182/001	kant		we live in an age of enlightenment	
 1C2-E-TEST-0156-13.182/002	question	DEP=1C2-E-TEST-0156-13.182007	Kant himself who answered the question Do we now live in an enlightened age?	1
 1C2-E-TEST-0156-13.182/003	age		judgment that remains as true today as when it was first rendered	1
-1C2-E-TEST-0156-13.182/004	ã cents			
-1C2-E-TEST-0156-13.182/005	¬	DEP=1C2-E-TEST-0156-13.182011		
+1C2-E-TEST-0156-13.182/004	 cents			
+1C2-E-TEST-0156-13.182/005		DEP=1C2-E-TEST-0156-13.182011		
 1C2-E-TEST-0156-13.182/006	true today			
 1C2-E-TEST-0156-13.182/007	answered	DEP=1C2-E-TEST-0156-13.182001		
 1C2-E-TEST-0156-13.182/008	enlightened	DEP=1C2-E-TEST-0156-13.182009		
 1C2-E-TEST-0156-13.182/009	age			
 1C2-E-TEST-0156-13.182/010	saying			
-1C2-E-TEST-0156-13.182/011	â			
+1C2-E-TEST-0156-13.182/011				
 1C2-E-TEST-0156-13.182/012	judgment			
 1C2-E-TEST-0156-13.182/013	remains			
 1C2-E-TEST-0156-13.182/014	rendered			
-1C2-E-TEST-0156-13.80	"By the mid-eighteenth century, the basic conceptual vocabulary of the natural rights traditionÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ""natural rights,"" ""state of nature,"" ""civil society,"" ""social contract""ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂhad entered the mainstream of Enlightenment political thought, which embraced, nearly unanimously, the belief that the only legitimate basis of political authority was consent."			
+1C2-E-TEST-0156-13.80	"By the mid-eighteenth century, the basic conceptual vocabulary of the natural rights tradition�""natural rights,"" ""state of nature,"" ""civil society,"" ""social contract""�had entered the mainstream of Enlightenment political thought, which embraced, nearly unanimously, the belief that the only legitimate basis of political authority was consent."			
 1C2-E-TEST-0156-13.80/001	mid-eighteenth century		mid-eighteenth century	2
 1C2-E-TEST-0156-13.80/002	basic conceptual vocabulary	DEP=1C2-E-TEST-0156-13.80020	basic conceptual vocabulary of the natural rights tradition had entered the mainstream of Enlightenment political thought	
 1C2-E-TEST-0156-13.80/003	natural rights		"�""natural rights,"" ""state of nature,"" ""civil society,"" ""social contract"""	2
-1C2-E-TEST-0156-13.80/004	traditionã cents		embraced only legitimate basis of political authority was consent.	2
+1C2-E-TEST-0156-13.80/004	tradition cents		embraced only legitimate basis of political authority was consent.	2
 1C2-E-TEST-0156-13.80/005	natural rights			
 1C2-E-TEST-0156-13.80/006	state	DEP=1C2-E-TEST-0156-13.80005		
 1C2-E-TEST-0156-13.80/007	nature			
 1C2-E-TEST-0156-13.80/008	civil society	DEP=1C2-E-TEST-0156-13.80003		
 1C2-E-TEST-0156-13.80/009	social contract	DEP=1C2-E-TEST-0156-13.80003		
-1C2-E-TEST-0156-13.80/010	ã cents	DEP=1C2-E-TEST-0156-13.80003		
-1C2-E-TEST-0156-13.80/011	¬ â			
+1C2-E-TEST-0156-13.80/010	 cents	DEP=1C2-E-TEST-0156-13.80003		
+1C2-E-TEST-0156-13.80/011	 			
 1C2-E-TEST-0156-13.80/012	mainstream	DEP=1C2-E-TEST-0156-13.80020		
 1C2-E-TEST-0156-13.80/013	political thought			
 1C2-E-TEST-0156-13.80/014	belief	DEP=1C2-E-TEST-0156-13.80017		
 1C2-E-TEST-0156-13.80/015	legitimate basis	DEP=1C2-E-TEST-0156-13.80017		
 1C2-E-TEST-0156-13.80/016	political authority			
 1C2-E-TEST-0156-13.80/017	consent	DEP=1C2-E-TEST-0156-13.80021		
-1C2-E-TEST-0156-13.80/018	¬	DEP=1C2-E-TEST-0156-13.80019		
-1C2-E-TEST-0156-13.80/019	â	DEP=1C2-E-TEST-0156-13.80003		
+1C2-E-TEST-0156-13.80/018		DEP=1C2-E-TEST-0156-13.80019		
+1C2-E-TEST-0156-13.80/019		DEP=1C2-E-TEST-0156-13.80003		
 1C2-E-TEST-0156-13.80/020	entered			
 1C2-E-TEST-0156-13.80/021	embraced	DEP=1C2-E-TEST-0156-13.80013		
 1C2-E-TEST-0156-13.80/022	nearly	DEP=1C2-E-TEST-0156-13.80023		

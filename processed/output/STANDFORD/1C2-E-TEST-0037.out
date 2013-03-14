@@ -1,36 +1,36 @@
-1C2-E-TEST-0037-132.12	"Cheryl Maisel, a spokesperson for Reeves, has issued a statement denying the allegations that reads, ?ƒ?›?›?‚?ª?…?“Karen Sala?ƒ?›?›?‚?ª?›?„?›s allegations are completely false and absurd."			
+1C2-E-TEST-0037-132.12	"Cheryl Maisel, a spokesperson for Reeves, has issued a statement denying the allegations that reads, ???????Karen Sala????????s allegations are completely false and absurd."			
 1C2-E-TEST-0037-132.12/001	cheryl maisel	DEP=1C2-E-TEST-0037-132.12010	"Cheryl Maisel is a spokesperson for Reeves,"	
 1C2-E-TEST-0037-132.12/002	spokesperson	DEP=1C2-E-TEST-0037-132.12001	 has issued a statement denying the allegations 	1
-1C2-E-TEST-0037-132.12/003	statement	DEP=1C2-E-TEST-0037-132.12010	"reads, “Karen Salas allegations are completely false and absurd"	2
+1C2-E-TEST-0037-132.12/003	statement	DEP=1C2-E-TEST-0037-132.12010	"reads, Karen Salas allegations are completely false and absurd"	2
 1C2-E-TEST-0037-132.12/004	allegations	DEP=1C2-E-TEST-0037-132.12011		
 1C2-E-TEST-0037-132.12/005	? cents	DEP=1C2-E-TEST-0037-132.12013		
 1C2-E-TEST-0037-132.12/006	karen sala? cents			
-1C2-E-TEST-0037-132.12/007	ª	DEP=1C2-E-TEST-0037-132.12009		
-1C2-E-TEST-0037-132.12/008	ƒ cents	DEP=1C2-E-TEST-0037-132.12007		
+1C2-E-TEST-0037-132.12/007		DEP=1C2-E-TEST-0037-132.12009		
+1C2-E-TEST-0037-132.12/008	 cents	DEP=1C2-E-TEST-0037-132.12007		
 1C2-E-TEST-0037-132.12/009	allegations			
 1C2-E-TEST-0037-132.12/010	issued			
 1C2-E-TEST-0037-132.12/011	denying	DEP=1C2-E-TEST-0037-132.12003		
 1C2-E-TEST-0037-132.12/012	reads	DEP=1C2-E-TEST-0037-132.12004		
-1C2-E-TEST-0037-132.12/013	ƒ	DEP=1C2-E-TEST-0037-132.12015		
-1C2-E-TEST-0037-132.12/014	ª	DEP=1C2-E-TEST-0037-132.12015		
+1C2-E-TEST-0037-132.12/013		DEP=1C2-E-TEST-0037-132.12015		
+1C2-E-TEST-0037-132.12/014		DEP=1C2-E-TEST-0037-132.12015		
 1C2-E-TEST-0037-132.12/015	†	DEP=1C2-E-TEST-0037-132.12012		
 1C2-E-TEST-0037-132.12/016	s	DEP=1C2-E-TEST-0037-132.12009		
 1C2-E-TEST-0037-132.12/017	completely	DEP=1C2-E-TEST-0037-132.12018		
 1C2-E-TEST-0037-132.12/018	FALSE	DEP=1C2-E-TEST-0037-132.12009		
 1C2-E-TEST-0037-132.12/019	absurd	DEP=1C2-E-TEST-0037-132.12018		
-1C2-E-TEST-0037-132.14	"Adds Paul Knell, Reeves?ƒ?›?›?‚?ª?›?„?› Los Angeles business manager, ?ƒ?›?›?‚?ª?…?“Before you disparage my client and lend validity to this, there?ƒ?›?›?‚?ª?›?„?›s clearly something wrong with someone who claims child support after all the kids have grown."			
-1C2-E-TEST-0037-132.14/001	paul knell	DEP=1C2-E-TEST-0037-132.14015	"“Before you disparage my client and lend validity to this, theres clearly something wrong with someone who claims child support after all the kids have grown""."	
+1C2-E-TEST-0037-132.14	"Adds Paul Knell, Reeves???????? Los Angeles business manager, ???????Before you disparage my client and lend validity to this, there????????s clearly something wrong with someone who claims child support after all the kids have grown."			
+1C2-E-TEST-0037-132.14/001	paul knell	DEP=1C2-E-TEST-0037-132.14015	"Before you disparage my client and lend validity to this, theres clearly something wrong with someone who claims child support after all the kids have grown""."	
 1C2-E-TEST-0037-132.14/002	reeves? cents		"Adds Paul Knell, Reeves Los Angeles business manager"	1
-1C2-E-TEST-0037-132.14/003	ª			
-1C2-E-TEST-0037-132.14/004	ƒ cents	DEP=1C2-E-TEST-0037-132.14003		
+1C2-E-TEST-0037-132.14/003				
+1C2-E-TEST-0037-132.14/004	 cents	DEP=1C2-E-TEST-0037-132.14003		
 1C2-E-TEST-0037-132.14/005	los angeles business manager	DEP=1C2-E-TEST-0037-132.14003		
 1C2-E-TEST-0037-132.14/006	? cents	DEP=1C2-E-TEST-0037-132.14005		
-1C2-E-TEST-0037-132.14/007	ª †			
+1C2-E-TEST-0037-132.14/007	 †			
 1C2-E-TEST-0037-132.14/008	client			
 1C2-E-TEST-0037-132.14/009	validity			
 1C2-E-TEST-0037-132.14/010	there? cents			
-1C2-E-TEST-0037-132.14/011	ª			
-1C2-E-TEST-0037-132.14/012	ƒ cents	DEP=1C2-E-TEST-0037-132.14011		
+1C2-E-TEST-0037-132.14/011				
+1C2-E-TEST-0037-132.14/012	 cents	DEP=1C2-E-TEST-0037-132.14011		
 1C2-E-TEST-0037-132.14/013	child support	DEP=1C2-E-TEST-0037-132.14019		
 1C2-E-TEST-0037-132.14/014	kids	DEP=1C2-E-TEST-0037-132.14020		
 1C2-E-TEST-0037-132.14/015	adds			
@@ -163,7 +163,7 @@
 1C2-E-TEST-0037-140.34/011	stayed	DEP=1C2-E-TEST-0037-140.34010		
 1C2-E-TEST-0037-140.34/012	played	DEP=1C2-E-TEST-0037-140.34011		
 1C2-E-TEST-0037-140.34/013	upbringing			
-1C2-E-TEST-0037-140.48	Sala said she has a picture of Reeves when he was a teenager ?ƒ?›?›?‚?ª?›?€?œ though she was unable to produce it yesterday ?ƒ?›?›?‚?ª?›?€?œ and that she is hoping to get a photo from a friend of the two of them together more than 20 years ago.			
+1C2-E-TEST-0037-140.48	Sala said she has a picture of Reeves when he was a teenager ????????œ though she was unable to produce it yesterday ????????œ and that she is hoping to get a photo from a friend of the two of them together more than 20 years ago.			
 1C2-E-TEST-0037-140.48/001	sala		Sala said she has a picture of Reeves when he was a teenager 	
 1C2-E-TEST-0037-140.48/002	picture		 though she was unable to produce it yesterday 	1
 1C2-E-TEST-0037-140.48/003	teenager	DEP=1C2-E-TEST-0037-140.48002	 and that she is hoping to get a photo from a friend of the two of them together more than 20 years ago	1
@@ -172,14 +172,14 @@
 1C2-E-TEST-0037-140.48/006	photo			
 1C2-E-TEST-0037-140.48/007	friend			
 1C2-E-TEST-0037-140.48/008	two			
-1C2-E-TEST-0037-140.48/009	ƒ	DEP=1C2-E-TEST-0037-140.48010		
-1C2-E-TEST-0037-140.48/010	ª	DEP=1C2-E-TEST-0037-140.48004		
-1C2-E-TEST-0037-140.48/011	ƒ	DEP=1C2-E-TEST-0037-140.48003		
+1C2-E-TEST-0037-140.48/009		DEP=1C2-E-TEST-0037-140.48010		
+1C2-E-TEST-0037-140.48/010		DEP=1C2-E-TEST-0037-140.48004		
+1C2-E-TEST-0037-140.48/011		DEP=1C2-E-TEST-0037-140.48003		
 1C2-E-TEST-0037-140.48/012	produce			
 1C2-E-TEST-0037-140.48/013	yesterday	DEP=1C2-E-TEST-0037-140.48012		
-1C2-E-TEST-0037-140.48/014	ƒ	DEP=1C2-E-TEST-0037-140.48015		
-1C2-E-TEST-0037-140.48/015	ª	DEP=1C2-E-TEST-0037-140.48005		
-1C2-E-TEST-0037-140.48/016	ƒ	DEP=1C2-E-TEST-0037-140.48012		
+1C2-E-TEST-0037-140.48/014		DEP=1C2-E-TEST-0037-140.48015		
+1C2-E-TEST-0037-140.48/015		DEP=1C2-E-TEST-0037-140.48005		
+1C2-E-TEST-0037-140.48/016		DEP=1C2-E-TEST-0037-140.48012		
 1C2-E-TEST-0037-140.48/017	hoping			
 1C2-E-TEST-0037-140.48/018	20	DEP=1C2-E-TEST-0037-140.48019		
 1C2-E-TEST-0037-140.48/019	years	DEP=1C2-E-TEST-0037-140.48020		
@@ -370,11 +370,11 @@
 1C2-E-TEST-0037-66.19/002	easter gifts	DEP=1C2-E-TEST-0037-66.19004		
 1C2-E-TEST-0037-66.19/003	stuff	DEP=1C2-E-TEST-0037-66.19002		
 1C2-E-TEST-0037-66.19/004	bought			
-1C2-E-TEST-0037-66.4	"According to 46-year old Karen Sala from Canada, he?ƒ?›?›?‚?ª?›?„?›s the father of her four children!"			
+1C2-E-TEST-0037-66.4	"According to 46-year old Karen Sala from Canada, he????????s the father of her four children!"			
 1C2-E-TEST-0037-66.4/001	canada		 hes the father of her four children	
 1C2-E-TEST-0037-66.4/002	he? cents		According to 46-year old Karen Sala from Canada	1
-1C2-E-TEST-0037-66.4/003	ª			
-1C2-E-TEST-0037-66.4/004	ƒ cents	DEP=1C2-E-TEST-0037-66.4005		
+1C2-E-TEST-0037-66.4/003				
+1C2-E-TEST-0037-66.4/004	 cents	DEP=1C2-E-TEST-0037-66.4005		
 1C2-E-TEST-0037-66.4/005	father	DEP=1C2-E-TEST-0037-66.4003		
 1C2-E-TEST-0037-66.4/006	four children			
 1C2-E-TEST-0037-66.4/007	46-year	DEP=1C2-E-TEST-0037-66.4008		
@@ -382,13 +382,13 @@
 1C2-E-TEST-0037-66.4/009	karen	DEP=1C2-E-TEST-0037-66.4010		
 1C2-E-TEST-0037-66.4/010	sala			
 1C2-E-TEST-0037-66.4/011	s	DEP=1C2-E-TEST-0037-66.4005		
-1C2-E-TEST-0037-66.5	"According to the Toronto Star Sala is seeking child support from Keanu for herself and her four children, whom she claims are the actor?ƒ?›?›?‚?ª?›?„?›s."			
+1C2-E-TEST-0037-66.5	"According to the Toronto Star Sala is seeking child support from Keanu for herself and her four children, whom she claims are the actor????????s."			
 1C2-E-TEST-0037-66.5/001	toronto star sala		"Sala is seeking child support from Keanu for herself and her four children, whom she claims are the actors"	
 1C2-E-TEST-0037-66.5/002	child support	DEP=1C2-E-TEST-0037-66.5008	According to the Toronto Star 	1
 1C2-E-TEST-0037-66.5/003	four children			
 1C2-E-TEST-0037-66.5/004	actor?	DEP=1C2-E-TEST-0037-66.5009		
 1C2-E-TEST-0037-66.5/005	cents			
-1C2-E-TEST-0037-66.5/006	ª			
-1C2-E-TEST-0037-66.5/007	ƒ cents	DEP=1C2-E-TEST-0037-66.5008		
+1C2-E-TEST-0037-66.5/006				
+1C2-E-TEST-0037-66.5/007	 cents	DEP=1C2-E-TEST-0037-66.5008		
 1C2-E-TEST-0037-66.5/008	seeking			
 1C2-E-TEST-0037-66.5/009	claims	DEP=1C2-E-TEST-0037-66.5003		
