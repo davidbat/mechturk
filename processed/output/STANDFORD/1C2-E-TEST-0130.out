@@ -80,12 +80,9 @@
 1C2-E-TEST-0130-1.012/006	la	DEP=1C2-E-TEST-0130-1.012003		
 1C2-E-TEST-0130-1.013	Jamboree			
 1C2-E-TEST-0130-1.013/001	jamboree		jamboree	
-1C2-E-TEST-0130-1.014	"Jamboree Pla§a Reial 17, Barri G²tic"			
+1C2-E-TEST-0130-1.014	"Jamboree Pla§a Reial 17, Barri Gtic"			
 1C2-E-TEST-0130-1.014/001	jamboree pla	DEP=1C2-E-TEST-0130-1.014005	jamboree plaza reial 17 barri	
 1C2-E-TEST-0130-1.014/002	reial 17	DEP=1C2-E-TEST-0130-1.014005		
-1C2-E-TEST-0130-1.014/003	barri g ²	DEP=1C2-E-TEST-0130-1.014002		
-1C2-E-TEST-0130-1.014/004	tic	DEP=1C2-E-TEST-0130-1.014003		
-1C2-E-TEST-0130-1.014/005	§			
 1C2-E-TEST-0130-1.015	Jamboree Metro Liceu			
 1C2-E-TEST-0130-1.015/001	jamboree metro liceu		jamboree metro liceu	
 1C2-E-TEST-0130-1.016	Jamboree Tel (+34) 93 319 17 89			
@@ -118,8 +115,8 @@
 1C2-E-TEST-0130-1.021	Bikini Tel (+34) 93 322 08 00			
 1C2-E-TEST-0130-1.021/001	bikini tel		bikini	
 1C2-E-TEST-0130-1.021/002	34	DEP=1C2-E-TEST-0130-1.021001	(+34) 93 322 08 00	
-1C2-E-TEST-0130-1.021/003	08 00	DEP=1C2-E-TEST-0130-1.021005		
-1C2-E-TEST-0130-1.021/004	93	DEP=1C2-E-TEST-0130-1.021005		
+1C2-E-TEST-0130-1.021/003		DEP=1C2-E-TEST-0130-1.021005		
+1C2-E-TEST-0130-1.021/004		DEP=1C2-E-TEST-0130-1.021005		
 1C2-E-TEST-0130-1.021/005	322	DEP=1C2-E-TEST-0130-1.021001		
 1C2-E-TEST-0130-1.022	"Part live music venue, part club, Bikini's 3 separate rooms allow for 3 different DJs to spin at once."			
 1C2-E-TEST-0130-1.022/001	part live music venue		part live music venue	3
@@ -135,7 +132,7 @@
 1C2-E-TEST-0130-1.023/002	best night		hip hop	1
 1C2-E-TEST-0130-1.023/003	hip hop		funk music	1
 1C2-E-TEST-0130-1.023/004	funk music	DEP=1C2-E-TEST-0130-1.023003		
-1C2-E-TEST-0130-1.023/005	s			
+1C2-E-TEST-0130-1.023/005				
 1C2-E-TEST-0130-10.001	"Mirabe (on Mount Tibidabo) = has a hip hop / RnB room, and downstairs it has a house room"			
 1C2-E-TEST-0130-10.001/001	mirabe		mirabe	
 1C2-E-TEST-0130-10.001/002	mount tibidabo		on mount tibidabo	1
@@ -171,4 +168,4 @@
 1C2-E-TEST-0130-105.7/006	viernes 13	DEP=1C2-E-TEST-0130-105.7004		
 1C2-E-TEST-0130-105.7/007	enero 2012			
 1C2-E-TEST-0130-105.7/008	parte 1	DEP=1C2-E-TEST-0130-105.7004		
-1C2-E-TEST-0130-105.7/009	±			
+1C2-E-TEST-0130-105.7/009				
