@@ -7,53 +7,22 @@
 1C2-E-TEST-0181-2.3/006	huge thanksgiving feast			
 1C2-E-TEST-0181-2.3/007	makes			
 1C2-E-TEST-0181-2.3/008	tired	DEP=1C2-E-TEST-0181-2.3007		
-1C2-E-TEST-0181-2.4	"And yes, turkey does contain lots of tryptophan, but to really cause fatigue, tryptophan needs to be taken on a totally empty stomach and without any other amino acids or protein ÃƒÂ¢Ã¢Â‚Â¬Ã…Â¡ not what you get at the Turkey Day feast."			
+1C2-E-TEST-0181-2.4	"And yes, turkey does contain lots of tryptophan, but to really cause fatigue, tryptophan needs to be taken on a totally empty stomach and without any other amino acids or protein not what you get at the Turkey Day feast."			
 1C2-E-TEST-0181-2.4/001	lots	DEP=1C2-E-TEST-0181-2.4011	 turkey does contain lots of tryptophan	
 1C2-E-TEST-0181-2.4/002	tryptophan		"to really cause fatigue, tryptophan needs to be taken on a totally empty stomach"	
 1C2-E-TEST-0181-2.4/003	fatigue	DEP=1C2-E-TEST-0181-2.4012	"to really cause fatigue, tryptophan needs to be taken without any other amino acids or protein"	
 1C2-E-TEST-0181-2.4/004	tryptophan	DEP=1C2-E-TEST-0181-2.4013	not what you get at the Turkey Day feast.	2
-1C2-E-TEST-0181-2.4/005	amino acids			
-1C2-E-TEST-0181-2.4/006	protein ã cents	DEP=1C2-E-TEST-0181-2.4005		
-1C2-E-TEST-0181-2.4/007	¬ å			
-1C2-E-TEST-0181-2.4/008	¡			
-1C2-E-TEST-0181-2.4/009	feast			
-1C2-E-TEST-0181-2.4/010	yes	DEP=1C2-E-TEST-0181-2.4011		
-1C2-E-TEST-0181-2.4/011	contain			
-1C2-E-TEST-0181-2.4/012	cause	DEP=1C2-E-TEST-0181-2.4013		
-1C2-E-TEST-0181-2.4/013	needs	DEP=1C2-E-TEST-0181-2.4011		
-1C2-E-TEST-0181-2.4/014	taken	DEP=1C2-E-TEST-0181-2.4013		
-1C2-E-TEST-0181-2.4/015	totally	DEP=1C2-E-TEST-0181-2.4016		
-1C2-E-TEST-0181-2.4/016	empty	DEP=1C2-E-TEST-0181-2.4017		
-1C2-E-TEST-0181-2.4/017	stomach			
-1C2-E-TEST-0181-2.5	"Chicken, pork and cheese all have around the same or more tryptophan than turkey, but they donÃƒÂ¢Ã¢Â‚Â¬Ã¢Â„Â¢t make you sleepy either."			
+1C2-E-TEST-0181-2.5	"Chicken, pork and cheese all have around the same or more tryptophan than turkey, but they dont make you sleepy either."			
 1C2-E-TEST-0181-2.5/001	chicken pork cheese		"Chicken, pork and cheese all have same or more tryptophan than turkey "	
 1C2-E-TEST-0181-2.5/002	cents		don't make you sleepy	1
-1C2-E-TEST-0181-2.5/003	â ¬ â cents t			
-1C2-E-TEST-0181-2.5/004	tryptophan			
-1C2-E-TEST-0181-2.6	"So if it isnÃƒÂ¢Ã¢Â‚Â¬Ã¢Â„Â¢t the tryptophan, what is it about turkey and the Thanksgiving feast that makes you so sleepy?"			
-1C2-E-TEST-0181-2.6/001	isnã cents		 isn't what makes you sleepy	
-1C2-E-TEST-0181-2.6/002	¬			
-1C2-E-TEST-0181-2.6/003	â cents	DEP=1C2-E-TEST-0181-2.6006		
-1C2-E-TEST-0181-2.6/004	tryptophan	DEP=1C2-E-TEST-0181-2.6006		
-1C2-E-TEST-0181-2.6/005	thanksgiving feast			
+1C2-E-TEST-0181-2.6	"So if it isnt the tryptophan, what is it about turkey and the Thanksgiving feast that makes you so sleepy?"			
+1C2-E-TEST-0181-2.6/001	isnt		 turkey isn't what makes you sleepy	
 1C2-E-TEST-0181-2.6/006	t	DEP=1C2-E-TEST-0181-2.6002		
 1C2-E-TEST-0181-2.6/007	makes	DEP=1C2-E-TEST-0181-2.6005		
-1C2-E-TEST-0181-2.8	Eating so very much food on Thanksgiving (and in general when a whole turkey is cooked ÃƒÂ¢Ã¢Â‚Â¬Ã…Â¡ its very rare that a full turkey doesnÃƒÂ¢Ã¢Â‚Â¬Ã¢Â„Â¢t come with at least mashed potatoes and stuffing) ÃƒÂ¢Ã¢Â‚Â¬Ã…Â¡ is really what causes you to become tired.			
+1C2-E-TEST-0181-2.8	Eating so very much food on Thanksgiving (and in general when a whole turkey is cooked its very rare that a full turkey doesnt come with at least mashed potatoes and stuffing) is really what causes you to become tired.			
 1C2-E-TEST-0181-2.8/001	eating		Eating so very much food on Thanksgiving is really what causes you to become tired.	
 1C2-E-TEST-0181-2.8/002	thanksgiving		general when a whole turkey is cooked	1
 1C2-E-TEST-0181-2.8/003	general	DEP=1C2-E-TEST-0181-2.8001	very rare that a full turkey doesnt come with at least mashed potatoes and stuffing	1
-1C2-E-TEST-0181-2.8/004	ã cents	DEP=1C2-E-TEST-0181-2.8011		
-1C2-E-TEST-0181-2.8/005	â ¬ å	DEP=1C2-E-TEST-0181-2.8012		
-1C2-E-TEST-0181-2.8/006	full doesnã cents			
-1C2-E-TEST-0181-2.8/007	¬			
-1C2-E-TEST-0181-2.8/008	ã cents	DEP=1C2-E-TEST-0181-2.8001		
-1C2-E-TEST-0181-2.8/009	â ¬ å ¡			
-1C2-E-TEST-0181-2.8/010	food			
-1C2-E-TEST-0181-2.8/011	cooked	DEP=1C2-E-TEST-0181-2.8003		
-1C2-E-TEST-0181-2.8/012	¡	DEP=1C2-E-TEST-0181-2.8004		
-1C2-E-TEST-0181-2.8/013	rare	DEP=1C2-E-TEST-0181-2.8016		
-1C2-E-TEST-0181-2.8/014	â	DEP=1C2-E-TEST-0181-2.8015		
-1C2-E-TEST-0181-2.8/015	cents	DEP=1C2-E-TEST-0181-2.8016		
 1C2-E-TEST-0181-2.8/016	t	DEP=1C2-E-TEST-0181-2.8012		
 1C2-E-TEST-0181-2.8/017	come	DEP=1C2-E-TEST-0181-2.8016		
 1C2-E-TEST-0181-2.8/018	least			
@@ -147,10 +116,9 @@
 1C2-E-TEST-0181-5.19/004	scarcest			
 1C2-E-TEST-0181-5.19/005	wurtman	DEP=1C2-E-TEST-0181-5.19006		
 1C2-E-TEST-0181-5.19/006	says			
-1C2-E-TEST-0181-5.26	"Paradoxically, what probably makes people sleepy after Thanksgiving dinner isÃƒÂ¢Ã¢Â‚Â¬Ã‚Â¦dessert, he adds."			
+1C2-E-TEST-0181-5.26	"Paradoxically, what probably makes people sleepy after Thanksgiving dinner is dessert, he adds."			
 1C2-E-TEST-0181-5.26/001	people		 what probably makes people sleepy is dessert	
-1C2-E-TEST-0181-5.26/002	thanksgiving dinner isã cents		after thanksgiving dinner	1
-1C2-E-TEST-0181-5.26/003	¬ â ¦ dessert			
+1C2-E-TEST-0181-5.26/002	thanksgiving dinner		after thanksgiving dinner	1
 1C2-E-TEST-0181-5.26/004	paradoxically	DEP=1C2-E-TEST-0181-5.26006		
 1C2-E-TEST-0181-5.26/005	probably	DEP=1C2-E-TEST-0181-5.26006		
 1C2-E-TEST-0181-5.26/006	makes	DEP=1C2-E-TEST-0181-5.26007		
