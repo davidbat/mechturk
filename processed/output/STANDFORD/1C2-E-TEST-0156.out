@@ -26,11 +26,10 @@
 1C2-E-TEST-0156-12.196/003	intellectual preparation			
 1C2-E-TEST-0156-12.196/004	bourgeois revolution			
 1C2-E-TEST-0156-12.196/005	described			
-1C2-E-TEST-0156-12.236	Enlightenment ideas strongly influenced literature and art (the natural schoolù and M. E. Saltykov-Shchedrin).			
+1C2-E-TEST-0156-12.236	Enlightenment ideas strongly influenced literature and art (the natural school and M. E. Saltykov-Shchedrin).			
 1C2-E-TEST-0156-12.236/001	ideas	DEP=1C2-E-TEST-0156-12.236009	Enlightenment ideas strongly influenced literature and art	
 1C2-E-TEST-0156-12.236/002	literature art	DEP=1C2-E-TEST-0156-12.236009	m. e. saltykov-shchedrin	1
 1C2-E-TEST-0156-12.236/003	 cents			
-1C2-E-TEST-0156-12.236/004	 •			
 1C2-E-TEST-0156-12.236/005	natural school cents			
 1C2-E-TEST-0156-12.236/006	 			
 1C2-E-TEST-0156-12.236/007	m. e. saltykov-shchedrin	DEP=1C2-E-TEST-0156-12.236006		
@@ -55,7 +54,7 @@
 1C2-E-TEST-0156-121.5/006	therenaissance			
 1C2-E-TEST-0156-121.5/007	involved			
 1C2-E-TEST-0156-121.5/008	typical	DEP=1C2-E-TEST-0156-121.5005		
-1C2-E-TEST-0156-13.182	"It was Kant himself who answered the question, ""Do we now live in an enlightened age?"" by saying: ""No, but we live in an age of enlightenment""ùa judgment that perhaps remains as true today as when it was first rendered."			
+1C2-E-TEST-0156-13.182	"It was Kant himself who answered the question, ""Do we now live in an enlightened age?"" by saying: ""No, but we live in an age of enlightenment""a judgment that perhaps remains as true today as when it was first rendered."			
 1C2-E-TEST-0156-13.182/001	kant		we live in an age of enlightenment	
 1C2-E-TEST-0156-13.182/002	question	DEP=1C2-E-TEST-0156-13.182007	Kant himself who answered the question Do we now live in an enlightened age?	1
 1C2-E-TEST-0156-13.182/003	age		judgment that remains as true today as when it was first rendered	1
@@ -70,10 +69,10 @@
 1C2-E-TEST-0156-13.182/012	judgment			
 1C2-E-TEST-0156-13.182/013	remains			
 1C2-E-TEST-0156-13.182/014	rendered			
-1C2-E-TEST-0156-13.80	"By the mid-eighteenth century, the basic conceptual vocabulary of the natural rights traditionù""natural rights,"" ""state of nature,"" ""civil society,"" ""social contract""ùhad entered the mainstream of Enlightenment political thought, which embraced, nearly unanimously, the belief that the only legitimate basis of political authority was consent."			
+1C2-E-TEST-0156-13.80	"By the mid-eighteenth century, the basic conceptual vocabulary of the natural rights tradition""natural rights,"" ""state of nature,"" ""civil society,"" ""social contract""had entered the mainstream of Enlightenment political thought, which embraced, nearly unanimously, the belief that the only legitimate basis of political authority was consent."			
 1C2-E-TEST-0156-13.80/001	mid-eighteenth century		mid-eighteenth century	2
 1C2-E-TEST-0156-13.80/002	basic conceptual vocabulary	DEP=1C2-E-TEST-0156-13.80020	basic conceptual vocabulary of the natural rights tradition had entered the mainstream of Enlightenment political thought	
-1C2-E-TEST-0156-13.80/003	natural rights		"ù""natural rights,"" ""state of nature,"" ""civil society,"" ""social contract"""	2
+1C2-E-TEST-0156-13.80/003	natural rights		""natural rights,"" ""state of nature,"" ""civil society,"" ""social contract"""	2
 1C2-E-TEST-0156-13.80/004	tradition cents		embraced only legitimate basis of political authority was consent.	2
 1C2-E-TEST-0156-13.80/005	natural rights			
 1C2-E-TEST-0156-13.80/006	state	DEP=1C2-E-TEST-0156-13.80005		

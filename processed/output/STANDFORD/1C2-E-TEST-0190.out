@@ -23,7 +23,7 @@
 1C2-E-TEST-0190-116.2/002	"the gravitational attraction between Earth and the moon and sun, "	DEP=1C2-E-TEST-0190-116.2001
 1C2-E-TEST-0190-116.2/003	the rotation of the Earth-moon and Earth-sun systems. 	DEP=1C2-E-TEST-0190-116.2001
 		
-1C2-E-TEST-0190-123.21	"At most shores throughout the world, two high tides and two low tides occur every lunar day, which is the time it takes for the moon to return to a point on the Earth,ùabout 24 hours and 50 minutes."	
+1C2-E-TEST-0190-123.21	"At most shores throughout the world, two high tides and two low tides occur every lunar day, which is the time it takes for the moon to return to a point on the Earth,about 24 hours and 50 minutes."	
 1C2-E-TEST-0190-123.21/001	"most shores throughout the world, two high tides and two low tides occur every lunar day"	
 1C2-E-TEST-0190-123.21/002	time it takes for the moon to return to a point on the Earth	DEP=1C2-E-TEST-0190-123.21001
 1C2-E-TEST-0190-123.21/003	about 24 hours and 50 minutes	DEP=1C2-E-TEST-0190-123.21001
@@ -56,8 +56,8 @@
 1C2-E-TEST-0190-123.31/002	creates a tide with two crests	DEP=1C2-E-TEST-0190-123.310031
 		
 		
-1C2-E-TEST-0190-123.33	"During the periods of new and full moonù when the sun, moon, and Earth are directly in lineù the solar and lunar tides coincide."	
-1C2-E-TEST-0190-123.33/001	"when the sun, moon, and Earth are directly in lineù the solar and lunar tides coincide."	DEP=1C2-E-TEST-0190-123.33002
+1C2-E-TEST-0190-123.33	"During the periods of new and full moon when the sun, moon, and Earth are directly in line the solar and lunar tides coincide."	
+1C2-E-TEST-0190-123.33/001	"when the sun, moon, and Earth are directly in line the solar and lunar tides coincide."	DEP=1C2-E-TEST-0190-123.33002
 1C2-E-TEST-0190-123.33/002	periods of new and full moon	
 		
 		

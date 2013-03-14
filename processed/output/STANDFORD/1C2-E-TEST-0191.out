@@ -61,11 +61,11 @@
 1C2-E-TEST-0191-171.44/001	weapons produce their explosive energy through nuclear fission reactions	
 		
 		
-1C2-E-TEST-0191-171.52	"Historically they have been called hydrogen bombs (or H-bombs), as they rely on fusion reactions between isotopes of hydrogen (deuterium and tritium), though all such weapons derive aùand sometimes aùof their energy from fission reactions (including fission reactions stimulated by fusion reactions)."	
+1C2-E-TEST-0191-171.52	"Historically they have been called hydrogen bombs (or H-bombs), as they rely on fusion reactions between isotopes of hydrogen (deuterium and tritium), though all such weapons derive aand sometimes aof their energy from fission reactions (including fission reactions stimulated by fusion reactions)."	
 1C2-E-TEST-0191-171.52/001	"Historically they have been called hydrogen bombs (or H-bombs), "	
 1C2-E-TEST-0191-171.52/002	they rely on fusion reactions between isotopes of hydrogen 	DEP=1C2-E-TEST-0191-171.52001
 1C2-E-TEST-0191-171.52/003	(deuterium and tritium)	DEP=1C2-E-TEST-0191-171.52002
-1C2-E-TEST-0191-171.52/004	such weapons derive aùand sometimes aùof their energy from fission reactions 	DEP=1C2-E-TEST-0191-171.52003
+1C2-E-TEST-0191-171.52/004	such weapons derive aand sometimes aof their energy from fission reactions 	DEP=1C2-E-TEST-0191-171.52003
 1C2-E-TEST-0191-171.52/005	(including fission reactions stimulated by fusion reactions).	DEP=1C2-E-TEST-0191-171.52004
 		
 1C2-E-TEST-0191-171.65	"For example, a boosted fission weapon is a fission bomb which increases its explosive yield through a small amount of fusion reactions, but it is not a fusion bomb."	
