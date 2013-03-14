@@ -172,10 +172,10 @@ C2-E-TEST-0189-8.23	"At the same time, they made a point of saying they weren't 
 		
 		
 		
-1C2-E-TEST-0189-8.38	"And if Apple not only pulls iOS out, but takes millions of developers with them, Google Maps could suddenly go from behemoth to vulnerable."	
+1C2-E-TEST-0189-8.38	"And if Apple not only pulls iOS out, but takes millions of developers with them, Google Maps could suddenly go from behemoth to vulnerable."	
 1C2-E-TEST-0189-8.38/001	if Apple not only pulls iOS out	DEP=1C2-E-TEST-0189-8.38003
 1C2-E-TEST-0189-8.38/002	takes millions of developers with them 	DEP=1C2-E-TEST-0189-8.38001
-1C2-E-TEST-0189-8.38/003	 Google Maps could suddenly go from behemoth to vulnerable	
+1C2-E-TEST-0189-8.38/003	 Google Maps could suddenly go from behemoth to vulnerable	
 		
 		
 		
