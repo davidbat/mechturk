@@ -1,0 +1,183 @@
+1C2-E-TEST-0026-179.102	"Unfortunately, it was aired by Fox in Party Of Fiveâ\xC2?\xC2?s slot while that show was â\xC2?\xC2?temporarilyâ\xC2? shelved and, in protest, PO5â\xC2?²s fans refused to watch it (or so the producers claimed)."	
+1C2-E-TEST-0026-179.102/001	aired by fox in party of five slot	
+1C2-E-TEST-0026-179.102/002	while show temporarily shelved	DEP=1C2-E-TEST-0026-179.102001
+1C2-E-TEST-0026-179.102/003	fans refused to watch in protest	DEP=1C2-E-TEST-0026-179.102001
+1C2-E-TEST-0026-179.156	"From 2002 to 2004 sheâ\xC2?\xC2?d receive consecutive Emmy and Golden Globe nominations, actually winning a Globe in â\xC2?\xC2?02."	
+1C2-E-TEST-0026-179.156/001	2002 2004	DEP=1C2-E-TEST-0026-179.156002
+1C2-E-TEST-0026-179.156/002	receive consecutive emmy and golden glove nominations	
+1C2-E-TEST-0026-179.156/003	winning glove in 02	DEP=1C2-E-TEST-0026-179.156002
+1C2-E-TEST-0026-179.178	"Garner starred in her first leading role in 13 Going on 30 (2004), a moderate commercial success."	
+1C2-E-TEST-0026-179.178/001	starred in first leading role	
+1C2-E-TEST-0026-179.178/002	13 going 30	DEP=1C2-E-TEST-0026-179.178001
+1C2-E-TEST-0026-179.178/003	2004	DEP=1C2-E-TEST-0026-179.178001
+1C2-E-TEST-0026-179.178/004	Moderate commercial success	DEP=1C2-E-TEST-0026-179.178001
+1C2-E-TEST-0026-179.179	"Reviewers praised her performance as â\xC2?\xC2?radiantâ\xC2? and â\xC2?\xC2?effervescent without ever being cloyingâ\xC2?, and The Christian Science Monitor commented that â\xC2?\xC2?while Garner is no Tom Hanks, sheâ\xC2?\xC2?s consistently appealingâ\xC2?."	
+1C2-E-TEST-0026-179.179/001	reviewers praised performance	
+1C2-E-TEST-0026-179.179/002	radiant effervescent	DEP=1C2-E-TEST-0026-179.179001
+1C2-E-TEST-0026-179.179/003	without ever being cloying	DEP=1C2-E-TEST-0026-179.179001
+1C2-E-TEST-0026-179.179/004	christian science monitor commented	
+1C2-E-TEST-0026-179.179/005	no tom hanks	DEP=1C2-E-TEST-0026-179.179004
+1C2-E-TEST-0026-179.179/006	consistently appealing	DEP=1C2-E-TEST-0026-179.179004
+1C2-E-TEST-0026-179.18	"In 1975, when Jennifer was three, her father, Bill, moved the family to Charleston, West Virginia, where he would work as a chemical engineer for Union Carbide and the childrenâ\xC2?\xC2?s mother Pat would teach English at a local college."	
+1C2-E-TEST-0026-179.18/001	1975	DEP=1C2-E-TEST-0026-179.18003
+1C2-E-TEST-0026-179.18/002	jennifer was three	DEP=1C2-E-TEST-0026-179.18003
+1C2-E-TEST-0026-179.18/003	father Bill moved family to charleston west virginia	
+1C2-E-TEST-0026-179.18/004	work as chemical engineer	DEP=1C2-E-TEST-0026-179.18003
+1C2-E-TEST-0026-179.18/005	union carbide	DEP=1C2-E-TEST-0026-179.18004
+1C2-E-TEST-0026-179.18/006	mother pat	DEP=1C2-E-TEST-0026-179.18007
+1C2-E-TEST-0026-179.18/007	teach English at local college	
+1C2-E-TEST-0026-179.181	"The Boston Globe stated, â\xC2?\xC2?Based on Garnerâ\xC2?\xC2?s humorlessness, lack of vocal inflection, and generally bland disposition, â\xC2?\xC2?the Wayâ\xC2? she has yet to grasp seems to be that of acting,â\xC2? whereas USA Today concluded that â\xC2?\xC2?Jennifer Garner â\xC2?¦ is far more appealing when sheâ\xC2?\xC2?s playing charming and adorable, as she did so winningly in 13 Going on 30."	
+1C2-E-TEST-0026-179.181/001	boston globe stated	DEP=1C2-E-TEST-0026-179.181002
+1C2-E-TEST-0026-179.181/002	humorlessness lack of vocal inflection general bland disposition	DEP=1C2-E-TEST-0026-179.181003
+1C2-E-TEST-0026-179.181/003	yet to grasp acting	
+1C2-E-TEST-0026-179.181/004	usa today concluded	DEP=1C2-E-TEST-0026-179.181005
+1C2-E-TEST-0026-179.181/005	far more appealing when playing charming adorable	
+1C2-E-TEST-0026-179.181/006	did so winningly in 13 going 30	DEP=1C2-E-TEST-0026-179.181005
+1C2-E-TEST-0026-179.183	"Her next few films, Catch and Release (2006) and The Kingdom (2007) alongside Jamie Foxx, Jason Bateman and Ashraf Barhom, were box office as well as critical failures."	
+1C2-E-TEST-0026-179.183/001	next few films were box office as well as critical failures	
+1C2-E-TEST-0026-179.183/002	catch and release 2006	DEP=1C2-E-TEST-0026-179.183001
+1C2-E-TEST-0026-179.183/003	kingdom 2007	DEP=1C2-E-TEST-0026-179.183001
+1C2-E-TEST-0026-179.183/004	alongside jamie foxx jason bateman ashraf barhom	DEP=1C2-E-TEST-0026-179.183001
+1C2-E-TEST-0026-179.185	"After that filmâ\xC2?\xC2?s premiere at the Toronto Film Festival, Entertainment Weekly declared Garnerâ\xC2?\xC2?s work the best female supporting performance of the festival, saying, â\xC2?\xC2?The star of Alias and The Kingdom does no butt-kicking in this sweet comedy."	
+1C2-E-TEST-0026-179.185/001	after film premiere toronto film festival	DEP=1C2-E-TEST-0026-179.185002
+1C2-E-TEST-0026-179.185/002	entertainment weekly declared	DEP=1C2-E-TEST-0026-179.185003
+1C2-E-TEST-0026-179.185/003	garner work best femal supporting performance of festival	
+1C2-E-TEST-0026-179.185/004	star of alias and kingdom	DEP=1C2-E-TEST-0026-179.185005
+1C2-E-TEST-0026-179.185/005	does no butt-kicking in sweet comedy	
+1C2-E-TEST-0026-179.187	"Garner made her Broadway debut on November 1, 2007, playing Roxanne in Cyrano de Bergerac alongside Kevin Kline at the Richard Rodgers Theatre on Broadway."	
+1C2-E-TEST-0026-179.187/001	made broadway debut playing roxanne in Cyrano de bergerac	
+1C2-E-TEST-0026-179.187/002	november 1 2007	DEP=1C2-E-TEST-0026-179.187001
+1C2-E-TEST-0026-179.187/003	alongside kevin kline	DEP=1C2-E-TEST-0026-179.187001
+1C2-E-TEST-0026-179.187/004	at richard rodgers theater on broadway	DEP=1C2-E-TEST-0026-179.187001
+1C2-E-TEST-0026-179.188	"The show was originally set to run until December 23, 2007, but it was extended through January 6, 2008 due to the Broadway stagehand strike in late 2007."	
+1C2-E-TEST-0026-179.188/001	show originally set to run	
+1C2-E-TEST-0026-179.188/002	until december 23 2007	DEP=1C2-E-TEST-0026-179.188001
+1C2-E-TEST-0026-179.188/003	show extended through january 6 2008	
+1C2-E-TEST-0026-179.188/004	due to broadway stagehand strike	DEP=1C2-E-TEST-0026-179.188003
+1C2-E-TEST-0026-179.188/005	late 2007	DEP=1C2-E-TEST-0026-179.188004
+1C2-E-TEST-0026-179.30	"At Charlestonâ\xC2?\xC2?s George Washington High School, Jennifer would also compete from the swim team and take up the saxophone."	
+1C2-E-TEST-0026-179.30/001	charleston george washington high school	
+1C2-E-TEST-0026-179.30/002	compete from swim team	
+1C2-E-TEST-0026-179.30/003	take up saxophone	
+1C2-E-TEST-0026-2.14	"In 1995, Garner started pursuing theater in New York City and earned $150 a week as an understudy in the play A Month in the Country for Roundabout Theatre Company."	
+1C2-E-TEST-0026-2.14/001	1995	DEP=1C2-E-TEST-0026-2.14002
+1C2-E-TEST-0026-2.14/002	Started pursuing theater	
+1C2-E-TEST-0026-2.14/003	New york city	DEP=1C2-E-TEST-0026-2.14001
+1C2-E-TEST-0026-2.14/004	earned 150 a week as understudy	
+1C2-E-TEST-0026-2.14/005	in play a month in country	DEP=1C2-E-TEST-0026-2.14004
+1C2-E-TEST-0026-2.14/006	Roundabout theatre company	DEP=1C2-E-TEST-0026-2.14004
+1C2-E-TEST-0026-2.16	"In the late 1990s, she made brief appearances in individual episodes of Spin City and Law & Order while also securing roles in two short-lived television series, Significant Others and Time of Your Life ."	
+1C2-E-TEST-0026-2.16/001	late 1990s made brief appearances in individual episodes	
+1C2-E-TEST-0026-2.16/002	spin city	DEP=1C2-E-TEST-0026-2.16002
+1C2-E-TEST-0026-2.16/003	law order	DEP=1C2-E-TEST-0026-2.16002
+1C2-E-TEST-0026-2.16/004	late 1990s securing roles two short-lived telivision series	
+1C2-E-TEST-0026-2.16/005	significant others	DEP=1C2-E-TEST-0026-2.16005
+1C2-E-TEST-0026-2.16/006	time of your life	DEP=1C2-E-TEST-0026-2.16005
+1C2-E-TEST-0026-2.18	"In 2001, she appeared as the supporting character of a nurse in the big-budget epic Pearl Harbor , starring her future husband Ben Affleck."	
+1C2-E-TEST-0026-2.18/001	2001	DEP=1C2-E-TEST-0026-2.18002
+1C2-E-TEST-0026-2.18/002	appeared as supporting character of nurse	
+1C2-E-TEST-0026-2.18/003	in big-budget epic pearl harbor	DEP=1C2-E-TEST-0026-2.18002
+1C2-E-TEST-0026-2.18/004	starring future husband ben affleck	DEP=1C2-E-TEST-0026-2.18003
+1C2-E-TEST-0026-2.19	"Later in 2001, J. J. Abrams , the producer of Felicity , in which Garner had played a recurring role since 1998, approached Garner to audition for the role of Sydney Bristow in his new spy drama Alias ."	
+1C2-E-TEST-0026-2.19/001	2001	DEP=1C2-E-TEST-0026-2.19002
+1C2-E-TEST-0026-2.19/002	j.j. abrams producer of felicity	DEP=1C2-E-TEST-0026-2.19004
+1C2-E-TEST-0026-2.19/003	played reccuring role since 1998 in felicity	
+1C2-E-TEST-0026-2.19/004	approached garner to audition for role	
+1C2-E-TEST-0026-2.19/005	sydney bristow in new spy drama alias	DEP=1C2-E-TEST-0026-2.19004
+1C2-E-TEST-0026-2.24	"[13] The first few episodes of season one of Alias, which averaged about 10.2 million weekly viewers, [14] earned Garner the award for ""Best Actress in a Television Series\xC3? â\xC2?\xC2? Drama"" at the 2002 Golden Globe Awards ."	
+1C2-E-TEST-0026-2.24/001	First few episodes season one alias	DEP=1C2-E-TEST-0026-2.24003
+1C2-E-TEST-0026-2.24/002	averaged 10.2 million weekly views	DEP=1C2-E-TEST-0026-2.24001
+1C2-E-TEST-0026-2.24/003	earned garner best actress in telivision series drama award	
+1C2-E-TEST-0026-2.24/004	at 2002 golden globe award	DEP=1C2-E-TEST-0026-2.24003
+1C2-E-TEST-0026-2.27	She won the Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Drama Series in 2005.	
+1C2-E-TEST-0026-2.27/001	won screen actors guild award	
+1C2-E-TEST-0026-2.27/002	for utstanding performance by female actor in drama series	DEP=1C2-E-TEST-0026-2.27001
+1C2-E-TEST-0026-2.27/003	2005	DEP=1C2-E-TEST-0026-2.27001
+1C2-E-TEST-0026-2.28	"That same year, during the fourth season, Garner directed the Alias episode, ""In Dreams"", which aired in May."	
+1C2-E-TEST-0026-2.28/001	directed alias episode	
+1C2-E-TEST-0026-2.28/002	in dreams	DEP=1C2-E-TEST-0026-2.28001
+1C2-E-TEST-0026-2.28/003	aired in may	DEP=1C2-E-TEST-0026-2.28001
+1C2-E-TEST-0026-2.30	"The series concluded in May 2006 after a shorter fifth season that was abbreviated from 22 to 17 episodes due to Garner's pregnancy, which was written into the season's storyline."	
+1C2-E-TEST-0026-2.30/001	series concluded in may 2006	
+1C2-E-TEST-0026-2.30/002	shorter fifth seasion	DEP=1C2-E-TEST-0026-2.30004
+1C2-E-TEST-0026-2.30/003	abbreviated from 22 to 17 episodes	DEP=1C2-E-TEST-0026-2.30002
+1C2-E-TEST-0026-2.30/004	due to pregnancy	
+1C2-E-TEST-0026-2.30/005	written into season storyline	DEP=1C2-E-TEST-0026-2.30004
+1C2-E-TEST-0026-2.32	"After the initial success of Alias, Garner made a big screen cameo in the Steven Spielberg film Catch Me if You Can in 2002."	
+1C2-E-TEST-0026-2.32/001	after initial success alias	DEP=1C2-E-TEST-0026-2.32002
+1C2-E-TEST-0026-2.32/002	made big screen cameo	
+1C2-E-TEST-0026-2.32/003	stephen spielberg film	DEP=1C2-E-TEST-0026-2.32004
+1C2-E-TEST-0026-2.32/004	catch me if you can 2002	DEP=1C2-E-TEST-0026-2.32002
+1C2-E-TEST-0026-2.33	"Her breakout film role came when she played Ben Affleck's love interest as Elektra Natchios in the action movie Daredevil (2003), an adaptation of the comic book ."	
+1C2-E-TEST-0026-2.33/001	Breakout film role	DEP=1C2-E-TEST-0026-2.33002
+1C2-E-TEST-0026-2.33/002	Played ben affleck love interest	
+1C2-E-TEST-0026-2.33/003	as elektra natchios	DEP=1C2-E-TEST-0026-2.33002
+1C2-E-TEST-0026-2.33/004	action movie daredevil 2003	DEP=1C2-E-TEST-0026-2.33002
+1C2-E-TEST-0026-2.33/005	adaptation of comic book	DEP=1C2-E-TEST-0026-2.33004
+1C2-E-TEST-0026-2.40	"[24] Her second lead role saw her reprising the character of Elektra in the 2005 Daredevil spin-off titled Elektra, a box office disaster that was panned by critics."	
+1C2-E-TEST-0026-2.40/001	Second lead role	DEP=1C2-E-TEST-0026-2.40002
+1C2-E-TEST-0026-2.40/002	reprising character elektra	
+1C2-E-TEST-0026-2.40/003	2005 daredevil spin-off titled Elecktra	DEP=1C2-E-TEST-0026-2.40002
+1C2-E-TEST-0026-2.40/004	Box office disaster	DEP=1C2-E-TEST-0026-2.40003
+1C2-E-TEST-0026-2.40/005	panned by critics	DEP=1C2-E-TEST-0026-2.40003
+1C2-E-TEST-0026-2.47	"Instead, as a young wife desperately hoping to adopt, she's funny, a bit tough, and unbelievably touching."" [29]"	
+1C2-E-TEST-0026-2.47/001	as a young wife desperately hoping to adopt	
+1C2-E-TEST-0026-2.47/002	funny tough unbelievable touching	DEP=1C2-E-TEST-0026-2.47001
+1C2-E-TEST-0026-2.51	Garner appeared in the hit ensemble romantic comedy Valentine's Day in 2010 and in the 2011 remake of Arthur .	
+1C2-E-TEST-0026-2.51/001	Appeared in valentine day	
+1C2-E-TEST-0026-2.51/002	2010	DEP=1C2-E-TEST-0026-2.51001
+1C2-E-TEST-0026-2.51/003	ensemble romantic comedy	DEP=1C2-E-TEST-0026-2.51001
+1C2-E-TEST-0026-2.51/004	appeared in remake of arthur	
+1C2-E-TEST-0026-2.51/005	2011	DEP=1C2-E-TEST-0026-2.51004
+1C2-E-TEST-0026-4.12	"Later in 2001, J. J. Abrams (who produced Felicity) approached Garner about starring in a new show he was working on for ABC."	
+1C2-E-TEST-0026-4.12/001	2001	DEP=1C2-E-TEST-0026-4.12002
+1C2-E-TEST-0026-4.12/002	j.j. abrams producer of felicity	DEP=1C2-E-TEST-0026-4.12003
+1C2-E-TEST-0026-4.12/003	approached garner about starring new show	
+1C2-E-TEST-0026-4.12/004	working on for abc	DEP=1C2-E-TEST-0026-4.12003
+1C2-E-TEST-0026-4.13	Garner auditioned for and was cast in the role of Sydney Bristow in the spy drama Alias .	
+1C2-E-TEST-0026-4.13/001	auditioned for and cast in role of sydney bristow	
+1C2-E-TEST-0026-4.13/002	Spy drama alias	DEP=1C2-E-TEST-0026-4.13001
+1C2-E-TEST-0026-4.14	"The series became a success and Garner won the award for ""Best Actress in a Television Series - Drama"" at the January 2002 Golden Globe Awards."	
+1C2-E-TEST-0026-4.14/001	series became a success	
+1C2-E-TEST-0026-4.14/002	won award for best actress television series drama	
+1C2-E-TEST-0026-4.14/003	January 2002 Golden Globe Awards	DEP=1C2-E-TEST-0026-4.14002
+1C2-E-TEST-0026-4.16	"The series was successful, concluding in May 2006 after a fifth, abbreviated season (due to Garner's pregnancy, a development that was written into the storyline of the fifth season)."	
+1C2-E-TEST-0026-4.16/001	series was successful	
+1C2-E-TEST-0026-4.16/002	concluding may 2006	DEP=1C2-E-TEST-0026-4.16003
+1C2-E-TEST-0026-4.16/003	after fifth abbreviated season	DEP=1C2-E-TEST-0026-4.16004
+1C2-E-TEST-0026-4.16/004	due to pregnancy	
+1C2-E-TEST-0026-4.16/005	pregnancy written into storyline	
+1C2-E-TEST-0026-4.17	"Garner's salary for the show began at $45,000 an episode, rising to $150,000 per episode by the series' end."	
+1C2-E-TEST-0026-4.17/001	salary for show began at 45000 an episode	
+1C2-E-TEST-0026-4.17/002	150000 per episode by series end	DEP=1C2-E-TEST-0026-4.17001
+1C2-E-TEST-0026-4.18	"During the show's run, Garner received four consecutive Golden Globe nominations for her lead performance."	
+1C2-E-TEST-0026-4.18/001	received four consecutive golden globe nominations	
+1C2-E-TEST-0026-4.18/002	for lead performance	DEP=1C2-E-TEST-0026-4.18001
+1C2-E-TEST-0026-4.19	"She also received four consecutive Emmy Award nominations for ""Outstanding Lead Actress in a Drama Series."""	
+1C2-E-TEST-0026-4.19/001	received four consecutive emmy award nominations	
+1C2-E-TEST-0026-4.19/002	for outstanding lead actress in drama series	DEP=1C2-E-TEST-0026-4.19001
+1C2-E-TEST-0026-4.21	"In March 2005, Garner directed the fourth-season Alias episode, "" In Dreams "", which aired in May."	
+1C2-E-TEST-0026-4.21/001	march 2005	DEP=1C2-E-TEST-0026-4.21002
+1C2-E-TEST-0026-4.21/002	directed fourth season alias episode	
+1C2-E-TEST-0026-4.21/003	in dreams	DEP=1C2-E-TEST-0026-4.21002
+1C2-E-TEST-0026-4.21/004	aired in may	DEP=1C2-E-TEST-0026-4.21002
+1C2-E-TEST-0026-4.22	Garner received producer credit during the series' final season.	
+1C2-E-TEST-0026-4.22/001	received producer credit	
+1C2-E-TEST-0026-4.22/002	during eries final season	DEP=1C2-E-TEST-0026-4.22001
+1C2-E-TEST-0026-4.23	"After the initial success of Alias, Garner returned to her film career with a small role in the Steven Spielberg film Catch Me if You Can, and starred alongside Ben Affleck as Elektra Natchios in the action movie Daredevil"	
+1C2-E-TEST-0026-4.23/001	after initial success alias	DEP=1C2-E-TEST-0026-4.23002
+1C2-E-TEST-0026-4.23/002	returned to film career	
+1C2-E-TEST-0026-4.23/003	small role in catch me if you can	DEP=1C2-E-TEST-0026-4.23002
+1C2-E-TEST-0026-4.23/004	steven spielberg film	DEP=1C2-E-TEST-0026-4.23003
+1C2-E-TEST-0026-4.23/005	starred alongside ben affleck	DEP=1C2-E-TEST-0026-4.23002
+1C2-E-TEST-0026-4.23/006	as elektra natchios	DEP=1C2-E-TEST-0026-4.23005
+1C2-E-TEST-0026-4.23/007	action movie daredevil	DEP=1C2-E-TEST-0026-4.23005
+1C2-E-TEST-0026-4.4	"In New York City, Garner earned $150 a week as an understudy in a play."	
+1C2-E-TEST-0026-4.4/001	new york city	DEP=1C2-E-TEST-0026-4.4002
+1C2-E-TEST-0026-4.4/002	earned 150 a week as understudy	
+1C2-E-TEST-0026-4.4/003	in a play	DEP=1C2-E-TEST-0026-4.4002
+1C2-E-TEST-0026-4.7	"In 1999, Garner was cast in one of the leading roles in the made-for-television movie, Aftershock: Earthquake in New York."	
+1C2-E-TEST-0026-4.7/001	1999	DEP=1C2-E-TEST-0026-4.7002
+1C2-E-TEST-0026-4.7/002	cast in leading role	
+1C2-E-TEST-0026-4.7/003	made-for-television movie	DEP=1C2-E-TEST-0026-4.7004
+1C2-E-TEST-0026-4.7/004	Aftershock earthquake in new york	DEP=1C2-E-TEST-0026-4.7002

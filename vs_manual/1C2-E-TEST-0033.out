@@ -1,0 +1,188 @@
+1C2-E-TEST-0033-133.119	Sobel even shot video of Charles playing the piano so that Foxx could copy the movements of his hands.	
+1C2-E-TEST-0033-133.119/001	Sobel even shot video	
+1C2-E-TEST-0033-133.119/002	of Charles playing the piano	DEP=1C2-E-TEST-0033-133.119001
+1C2-E-TEST-0033-133.119/003	so that Foxx	DEP=1C2-E-TEST-0033-133.119002
+1C2-E-TEST-0033-133.119/004	could copy the movements	DEP=1C2-E-TEST-0033-133.119003
+1C2-E-TEST-0033-133.119/005	of his hands	DEP=1C2-E-TEST-0033-133.119004
+1C2-E-TEST-0033-133.131	Universal Pictures and Bristol Bay Productions Present An Anvil Films Production, In Association with Baldwin Entertainment: Jamie Foxx in Ray, starring Kerry Washington, Clifton Powell, Harry Lennix, Terrence Dashon Howard, Larenz Tate, Richard Schiff and Regina King.	
+1C2-E-TEST-0033-133.131/001	universal pictures	
+1C2-E-TEST-0033-133.131/002	and bristol bay productions	
+1C2-E-TEST-0033-133.131/003	present	
+1C2-E-TEST-0033-133.131/004	an anvil films production	
+1C2-E-TEST-0033-133.131/005	in association	
+1C2-E-TEST-0033-133.131/006	with baldwin entertainment	
+1C2-E-TEST-0033-133.131/007	jamie foxx in Ray	
+1C2-E-TEST-0033-133.131/008	Starring kerry washington	DEP=1C2-E-TEST-0033-133.131007
+1C2-E-TEST-0033-133.131/009	clifton powell	DEP=1C2-E-TEST-0033-133.131008
+1C2-E-TEST-0033-133.131/010	harry lennix	DEP=1C2-E-TEST-0033-133.131009
+1C2-E-TEST-0033-133.131/011	terrence dashon howard	DEP=1C2-E-TEST-0033-133.131010
+1C2-E-TEST-0033-133.131/012	larenz tate	DEP=1C2-E-TEST-0033-133.131011
+1C2-E-TEST-0033-133.131/013	richard schiff	DEP=1C2-E-TEST-0033-133.131012
+1C2-E-TEST-0033-133.131/014	regina king	DEP=1C2-E-TEST-0033-133.131013
+1C2-E-TEST-0033-133.140	The story is by Taylor Hackford and James L. White, with a screenplay by James L. White.	
+1C2-E-TEST-0033-133.140/001	the story	
+1C2-E-TEST-0033-133.140/002	is by taylor hackford	DEP=1C2-E-TEST-0033-133.140001
+1C2-E-TEST-0033-133.140/003	and james l. white	DEP=1C2-E-TEST-0033-133.140002
+1C2-E-TEST-0033-133.140/004	with a screenplay	DEP=1C2-E-TEST-0033-133.140003
+1C2-E-TEST-0033-133.140/005	by james l. white	DEP=1C2-E-TEST-0033-133.140004
+1C2-E-TEST-0033-133.33	Hackford and his long-time producing partner Stuart Benjamin saw it as a deeply American story.	
+1C2-E-TEST-0033-133.33/001	hackford	
+1C2-E-TEST-0033-133.33/002	and his long-time producing partner	DEP=1C2-E-TEST-0033-133.33001
+1C2-E-TEST-0033-133.33/003	stuart benjamin	DEP=1C2-E-TEST-0033-133.33002
+1C2-E-TEST-0033-133.33/004	saw it as a deeply american story	DEP=1C2-E-TEST-0033-133.33003
+1C2-E-TEST-0033-21.10	"Featuring a remarkable performance from Jamie Foxx in the central role, ""Ray"" follows the inspiring story of a one-of-kind genius."	
+1C2-E-TEST-0033-21.10/001	featuring a remarkable performance	
+1C2-E-TEST-0033-21.10/002	from jamie foxx	DEP=1C2-E-TEST-0033-21.10001
+1C2-E-TEST-0033-21.10/003	in the central role	DEP=1C2-E-TEST-0033-21.10002
+1C2-E-TEST-0033-21.10/004	"ray"	DEP=1C2-E-TEST-0033-21.10003
+1C2-E-TEST-0033-21.10/005	follows the inspiring story	
+DEP=1C2-E-TEST-0033-21.10004		
+1C2-E-TEST-0033-21.10/006	of a one-of-kind genius.	DEP=1C2-E-TEST-0033-21.10005
+1C2-E-TEST-0033-21.9	"Ray"" is the never-before-told musical biographical drama of American legend Ray Charles."	
+1C2-E-TEST-0033-21.9/001	Ray is the never-before-told musical biographical drama	
+1C2-E-TEST-0033-21.9/002	of american legend Ray charles	DEP=1C2-E-TEST-0033-21.9001
+1C2-E-TEST-0033-26.3	Jamie Foxx gives the performance of his career in the lead role of Ray Charles.	
+1C2-E-TEST-0033-26.3/001	jamie foxx	
+1C2-E-TEST-0033-26.3/002	gives performance	DEP=1C2-E-TEST-0033-26.3001
+1C2-E-TEST-0033-26.3/003	of his career	
+1C2-E-TEST-0033-26.3/004	as lead role of Ray Charles	DEP=1C2-E-TEST-0033-26.3001
+1C2-E-TEST-0033-26.9	Jamie Foxx definitely delivered as Ray Charles, and of all his roles, this is his best role to date.	
+1C2-E-TEST-0033-26.9/001	jamie foxx delivered as ray charles	
+1C2-E-TEST-0033-26.9/002	best role	DEP=1C2-E-TEST-0033-26.9001
+1C2-E-TEST-0033-26.9/003	to date	DEP=1C2-E-TEST-0033-26.9002
+1C2-E-TEST-0033-27.29	I wanted to hear at least a few songs at length, but the film limits nearly all of Charles' great music to brief excerpts.	
+1C2-E-TEST-0033-27.29/001	I wanted to hear	DEP=1C2-E-TEST-0033-27.29002
+1C2-E-TEST-0033-27.29/002	least a few songs at length	
+1C2-E-TEST-0033-27.29/003	film limits	DEP=1C2-E-TEST-0033-27.29004
+1C2-E-TEST-0033-27.29/004	nearly all of charles great music	
+1C2-E-TEST-0033-27.29/005	to brief brief excerpts	DEP=1C2-E-TEST-0033-27.29004
+1C2-E-TEST-0033-27.8	Movie shows both positive and negative aspects of Ray Charles' life	
+1C2-E-TEST-0033-27.8/001	Movie shows	
+1C2-E-TEST-0033-27.8/002	both positive and negative aspects	DEP=1C2-E-TEST-0033-27.8001
+1C2-E-TEST-0033-27.8/003	of Ray Charles' life	DEP=1C2-E-TEST-0033-27.8002
+1C2-E-TEST-0033-4.13	The film is a trip down the rabbit hole into the life of a legendary American icon whose career had a tremendous impact on musicians of all ages, races, and musical persuasions. "ray\x94 chronicles Ray Charles' journey from a poor Southern boy raised by a hard-working single mother, to the man who would develop a style imitated but not improved upon to this day.	
+1C2-E-TEST-0033-4.13/001	The film is a trip down the rabbit hole	
+1C2-E-TEST-0033-4.13/002	into the life of a legendary American icon	DEP=1C2-E-TEST-0033-4.13001
+1C2-E-TEST-0033-4.13/003	whose career had a tremendous impact on musicians of all ages, races, and musical persuasions	DEP=1C2-E-TEST-0033-4.13002
+1C2-E-TEST-0033-4.13/004	"ray\x94 chronicles Ray Charles' journey	DEP=1C2-E-TEST-0033-4.13003
+1C2-E-TEST-0033-4.13/005	a poor Southern boy raised by a hard-working single mother	DEP=1C2-E-TEST-0033-4.13004
+1C2-E-TEST-0033-4.13/006	to the man who would develop a style imitated	DEP=1C2-E-TEST-0033-4.13005
+1C2-E-TEST-0033-4.13/007	but not improved upon to this day	
+DEP=1C2-E-TEST-0033-4.13006		
+1C2-E-TEST-0033-4.17	As a teenager, Ray set out on his own shortly after his mother\x92s death and made his way across the United States from Florida to Seattle.	
+1C2-E-TEST-0033-4.17/001	as a teenager	
+1C2-E-TEST-0033-4.17/002	Ray set out on his own	DEP=1C2-E-TEST-0033-4.17001
+1C2-E-TEST-0033-4.17/003	shortly after his mother\x92s death	DEP=1C2-E-TEST-0033-4.17002
+1C2-E-TEST-0033-4.17/004	and made his way across the United States	DEP=1C2-E-TEST-0033-4.17003
+1C2-E-TEST-0033-4.17/005	from Florida to Seattle	DEP=1C2-E-TEST-0033-4.17004
+1C2-E-TEST-0033-4.24	A few of the concert segments and recording sessions seem almost redundant, however they do provide a necessary break from the emotionally wrenching, difficult to watch scenes of Charles shooting up or committing adultery.	
+1C2-E-TEST-0033-4.24/001	A few of the concert segments	
+1C2-E-TEST-0033-4.24/002	and recording sessions	DEP=1C2-E-TEST-0033-4.24001
+1C2-E-TEST-0033-4.24/003	seem almost redundant	DEP=1C2-E-TEST-0033-4.24002
+1C2-E-TEST-0033-4.24/004	however they do provide	DEP=1C2-E-TEST-0033-4.24003
+1C2-E-TEST-0033-4.24/005	a necessary break	DEP=1C2-E-TEST-0033-4.24004
+1C2-E-TEST-0033-4.24/006	from the emotionally wrenching	DEP=1C2-E-TEST-0033-4.24005
+1C2-E-TEST-0033-4.24/007	difficult to watch scenes	DEP=1C2-E-TEST-0033-4.24006
+1C2-E-TEST-0033-4.24/008	of Charles shooting up or committing adultery	DEP=1C2-E-TEST-0033-4.24007
+1C2-E-TEST-0033-4.28	Taylor Hackford can be forgiven for testing our patience at times in order to include as many of Ray Charles\x92 memorable hits as possible.	
+1C2-E-TEST-0033-4.28/001	taylor hackford	
+1C2-E-TEST-0033-4.28/002	can be forgiven	DEP=1C2-E-TEST-0033-4.28001
+1C2-E-TEST-0033-4.28/003	for testing our patience at times	DEP=1C2-E-TEST-0033-4.28002
+1C2-E-TEST-0033-4.28/004	in order to include	DEP=1C2-E-TEST-0033-4.28003
+1C2-E-TEST-0033-4.28/005	as many of Ray Charles\x92 memorable hits as possible.	DEP=1C2-E-TEST-0033-4.28004
+1C2-E-TEST-0033-4.32	In fact, every single actor in \x93Ray, from Kerry Washington as Ray\x92s wife Della to Regina King as Ray\x92s mistress/back-up singer Margie Hendricks to newcomer Sharon Warren as Ray\x92s mother, turn in nearly flawless performances.	
+1C2-E-TEST-0033-4.32/001	every single actor in \x93Ray	
+1C2-E-TEST-0033-4.32/002	from kerry washington	DEP=1C2-E-TEST-0033-4.32001
+1C2-E-TEST-0033-4.32/003	as rays wife della	DEP=1C2-E-TEST-0033-4.32002
+1C2-E-TEST-0033-4.32/004	to regina king	DEP=1C2-E-TEST-0033-4.32003
+1C2-E-TEST-0033-4.32/005	as rays mistress/back-up singer	DEP=1C2-E-TEST-0033-4.32004
+1C2-E-TEST-0033-4.32/006	margie hendricks	DEP=1C2-E-TEST-0033-4.32005
+1C2-E-TEST-0033-4.32/007	to newcomer sharon warren	DEP=1C2-E-TEST-0033-4.32006
+1C2-E-TEST-0033-4.32/008	as rays mother	DEP=1C2-E-TEST-0033-4.32007
+1C2-E-TEST-0033-4.32/009	nturn in nearly flawless performances	DEP=1C2-E-TEST-0033-4.32008
+1C2-E-TEST-0033-4.35	Enough cannot be said about Jamie Foxx's performance and the way he's able to make Ray Charles fans feel, at least for the length of the film, Charles is back here with us.	
+1C2-E-TEST-0033-4.35/001	Enough cannot be said	
+1C2-E-TEST-0033-4.35/002	about Jamie Foxx's performance	DEP=1C2-E-TEST-0033-4.35001
+1C2-E-TEST-0033-4.35/003	and the way he's able to make Ray Charles fans feel	DEP=1C2-E-TEST-0033-4.35002
+1C2-E-TEST-0033-4.35/004	at least for the length of the film, Charles is back here with us.	DEP=1C2-E-TEST-0033-4.35003
+1C2-E-TEST-0033-74.17	MPAA Rating: PG-13 for Depiction of Drug Addiction, Sexuality and Some Thematic Elements	
+1C2-E-TEST-0033-74.17/001	pg-13 mpaa rating	
+1C2-E-TEST-0033-74.17/002	for depicting	DEP=1C2-E-TEST-0033-74.17001
+1C2-E-TEST-0033-74.17/003	drug addiction	DEP=1C2-E-TEST-0033-74.17002
+1C2-E-TEST-0033-74.17/004	sexuality	DEP=1C2-E-TEST-0033-74.17002
+1C2-E-TEST-0033-74.17/005	thematic elements	DEP=1C2-E-TEST-0033-74.17002
+1C2-E-TEST-0033-74.2	"Nominated for six Academy Awards, including Best Picture, and winner for Best Actor (Jamie Foxx), ""Ray,"" the biopic about Ray Charles, has been a hit both with critics and at the box office. Effective February 1, 2005, this biopic about legendary musical entertainer Ray Charles is available on DVD."	
+1C2-E-TEST-0033-74.2/001	nominated	
+1C2-E-TEST-0033-74.2/002	for six academy awards	DEP=1C2-E-TEST-0033-74.2001
+1C2-E-TEST-0033-74.2/003	incuding best actor jamie foxx	DEP=1C2-E-TEST-0033-74.2002
+1C2-E-TEST-0033-74.2/004	the biopic about Ray Charles	DEP=1C2-E-TEST-0033-74.2003
+1C2-E-TEST-0033-74.2/005	has been a hit	DEP=1C2-E-TEST-0033-74.2004
+1C2-E-TEST-0033-74.2/006	both with critics and at the box office	DEP=1C2-E-TEST-0033-74.2005
+1C2-E-TEST-0033-74.2/007	effective february 1 2005	DEP=1C2-E-TEST-0033-74.2006
+1C2-E-TEST-0033-74.2/008	this biopic	
+1C2-E-TEST-0033-74.2/009	about legendary musical entertainer ray charles	DEP=1C2-E-TEST-0033-74.2007
+1C2-E-TEST-0033-74.2/010	is available on dvd	DEP=1C2-E-TEST-0033-74.2008
+1C2-E-TEST-0033-74.5	"Disc 2 contains 14 deleted scenes, as well as uncut versions of two of the film's musical performances, one of which is Ray and the Raelettes doing ""Hit the Road, Jack."""	
+1C2-E-TEST-0033-74.5/001	Disc 2 contains	
+1C2-E-TEST-0033-74.5/002	14 deleted scenes	DEP=1C2-E-TEST-0033-74.5001
+1C2-E-TEST-0033-74.5/003	as well as uncut versions	DEP=1C2-E-TEST-0033-74.5002
+1C2-E-TEST-0033-74.5/004	of two of the films musical performances	DEP=1C2-E-TEST-0033-74.5003
+1C2-E-TEST-0033-74.5/005	one of which is Ray and the Raelettes	DEP=1C2-E-TEST-0033-74.5004
+1C2-E-TEST-0033-74.5/006	doing ""Hit the Road, Jack	DEP=1C2-E-TEST-0033-74.5005
+1C2-E-TEST-0033-92.1	Running Time: 2 hours and 32 minutes	
+1C2-E-TEST-0033-92.1/001	running time	
+1C2-E-TEST-0033-92.1/002	2 hours 32 minutes	DEP=1C2-E-TEST-0033-92.1001
+1C2-E-TEST-0033-92.16	That makes it hard to figure why Hackford, who co-wrote Ray with James L. White, declines to show any songs from start to finish.	
+1C2-E-TEST-0033-92.16/001	That makes it hard to figure	
+1C2-E-TEST-0033-92.16/002	why Hackford, who co-wrote Ray with James L. White	DEP=1C2-E-TEST-0033-92.16001
+1C2-E-TEST-0033-92.16/003	declines show	DEP=1C2-E-TEST-0033-92.16002
+1C2-E-TEST-0033-92.16/004	any songs from start to finish.	DEP=1C2-E-TEST-0033-92.16003
+1C2-E-TEST-0033-92.18	"Ray also eliminates the last 40 years of his life \x94the unaddicted years\x94 though millions know Ray Charles chiefly as that blind, black and born-again Christian singer who showed up at the Republican National Convention every four years to sing ""America the Beautiful."""	
+1C2-E-TEST-0033-92.18/001	Ray also eliminates the last 40 years of his life	
+1C2-E-TEST-0033-92.18/002	the unaddicted years	DEP=1C2-E-TEST-0033-92.18001
+1C2-E-TEST-0033-92.18/003	though millions know Ray Charles chiefly as that blind, black and born-again Christian singer	DEP=1C2-E-TEST-0033-92.18002
+1C2-E-TEST-0033-92.18/004	who showed up at the Republican National Convention	DEP=1C2-E-TEST-0033-92.18003
+1C2-E-TEST-0033-92.18/005	every four years	
+DEP=1C2-E-TEST-0033-92.18004		
+1C2-E-TEST-0033-92.18/006	to sing ""America the Beautiful."""	DEP=1C2-E-TEST-0033-92.18005
+1C2-E-TEST-0033-92.19	Because it does not dramatize his life in essential terms, often replacing heroism with heroin, Ray suggests that the artist \x94any artist\x94 is the product of his environment.	
+1C2-E-TEST-0033-92.19/001	Because it does not dramatize his life in essential terms	
+1C2-E-TEST-0033-92.19/002	often replacing heroism with heroin	DEP=1C2-E-TEST-0033-92.19001
+1C2-E-TEST-0033-92.19/003	life	DEP=1C2-E-TEST-0033-92.19002
+1C2-E-TEST-0033-92.19/004	replacing heroism heroin	DEP=1C2-E-TEST-0033-92.19003
+1C2-E-TEST-0033-92.19/005	Ray suggests that the artist	DEP=1C2-E-TEST-0033-92.19004
+1C2-E-TEST-0033-92.19/006	\x94any artist\x94	DEP=1C2-E-TEST-0033-92.19005
+1C2-E-TEST-0033-92.19/007	is the product of his environment.	DEP=1C2-E-TEST-0033-92.19006
+1C2-E-TEST-0033-92.24	"Highlights include ""Hit the Road, Jack,"" a climactic moment, and the improvisational ""What'd I Say,"" which is depicted as coinciding with his worst drug addiction, born \x94like many great works of art\x94of a suddenly imposed deadline."	
+1C2-E-TEST-0033-92.24/001	highlights include	
+1C2-E-TEST-0033-92.24/002	hit road jack	DEP=1C2-E-TEST-0033-92.24001
+1C2-E-TEST-0033-92.24/003	a climatic moment	DEP=1C2-E-TEST-0033-92.24002
+1C2-E-TEST-0033-92.24/004	and the improvisational	DEP=1C2-E-TEST-0033-92.24003
+1C2-E-TEST-0033-92.24/005	what'd I say	DEP=1C2-E-TEST-0033-92.24001
+1C2-E-TEST-0033-92.24/006	which is depicted coinciding	DEP=1C2-E-TEST-0033-92.24005
+1C2-E-TEST-0033-92.24/007	with his worst drug addiction	DEP=1C2-E-TEST-0033-92.24006
+1C2-E-TEST-0033-92.24/008	born	DEP=1C2-E-TEST-0033-92.24007
+1C2-E-TEST-0033-92.24/009	\x94like many great works of art\x94	DEP=1C2-E-TEST-0033-92.24008
+1C2-E-TEST-0033-92.24/010	of a suddenly imposed deadline."	
+DEP=1C2-E-TEST-0033-92.24009		
+1C2-E-TEST-0033-92.27	Ray Charles' career mirrors an important era in America's history, from the early 20th century through the mid-1960s, and Ray often unfolds like an illuminating docudrama with top production values.	
+1C2-E-TEST-0033-92.27/001	Ray Charles' career	
+1C2-E-TEST-0033-92.27/002	mirrors an important era	DEP=1C2-E-TEST-0033-92.27001
+1C2-E-TEST-0033-92.27/003	in America's history	DEP=1C2-E-TEST-0033-92.27002
+1C2-E-TEST-0033-92.27/004	from the early 20th century	DEP=1C2-E-TEST-0033-92.27003
+1C2-E-TEST-0033-92.27/005	through the mid-1960s	DEP=1C2-E-TEST-0033-92.27004
+1C2-E-TEST-0033-92.27/006	and Ray often unfolds	DEP=1C2-E-TEST-0033-92.27005
+1C2-E-TEST-0033-92.27/007	like an illuminating docudrama	DEP=1C2-E-TEST-0033-92.27006
+1C2-E-TEST-0033-92.27/008	with top production values	DEP=1C2-E-TEST-0033-92.27007
+1C2-E-TEST-0033-92.28	Leaving one informed and, occasionally, moved, Ray is too focused on the artist's flaws as the source of his art \x94without establishing a clear connection.	
+1C2-E-TEST-0033-92.28/001	Leaving one informed	
+1C2-E-TEST-0033-92.28/002	and, occasionally, moved	DEP=1C2-E-TEST-0033-92.28001
+1C2-E-TEST-0033-92.28/003	Ray is too focused on the artist's flaws	DEP=1C2-E-TEST-0033-92.28002
+1C2-E-TEST-0033-92.28/004	as the source of his art	DEP=1C2-E-TEST-0033-92.28003
+1C2-E-TEST-0033-92.28/005	without establishing a clear connection	DEP=1C2-E-TEST-0033-92.28004
+1C2-E-TEST-0033-92.5	Whenever it's on the verge of grand scale entertainment, Taylor Hackford's ambitious Ray cuts from the most compelling moments in the life of recording artist Ray Charles.	
+1C2-E-TEST-0033-92.5/001	Whenever it's on the verge	
+1C2-E-TEST-0033-92.5/002	of grand scale entertainment	DEP=1C2-E-TEST-0033-92.5001
+1C2-E-TEST-0033-92.5/003	Taylor Hackford's ambitious Ray	DEP=1C2-E-TEST-0033-92.5002
+1C2-E-TEST-0033-92.5/004	cuts from the most compelling moments	DEP=1C2-E-TEST-0033-92.5003
+1C2-E-TEST-0033-92.5/005	in the life of recording artist Ray Charles	DEP=1C2-E-TEST-0033-92.5004

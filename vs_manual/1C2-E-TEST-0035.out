@@ -1,0 +1,22 @@
+1C2-E-TEST-0035-10.11	"Dujardin won the Golden Globe for best performance by an actor in a motion picture comedy or musical, as well as best actor at the 2011 Festival de Cannes and the SAG Awards on Jan."	
+1C2-E-TEST-0035-10.11/001	dujardin won golden globe for best performance by actor in motion picture comedy or musical	
+1C2-E-TEST-0035-10.11/002	dujardin won best actor at 2011 festival de cannes	
+1C2-E-TEST-0035-10.11/003	dujardin won SAG awards on jan	
+1C2-E-TEST-0035-10.7	"WME has signed actor Jean Dujardin, who has been nominated for an Oscar for his starring role in The Artist."	
+1C2-E-TEST-0035-10.7/001	wme signed actor jean dujardin	
+1C2-E-TEST-0035-10.7/002	jean dujardin has been nominated for an oscar for starring role in the artis	
+1C2-E-TEST-0035-109.33	"He holds a Masters Degree in Educational Theatre and a Bachelors Degree in Acting, both from New York University."	
+1C2-E-TEST-0035-109.33/001	holds master degree in educational theater from New York University	
+1C2-E-TEST-0035-109.33/002	holds bachelor degree in acting from New York University	
+1C2-E-TEST-0035-13.14	"The Artist, starring Jean Dujardin and Berenice Bejo, is scheduled to open Nov."	
+1C2-E-TEST-0035-13.14/001	the artist starring Jean Dujardin and Berenice Bejo	
+1C2-E-TEST-0035-13.14/002	the artist is scheduled to open Nov	
+1C2-E-TEST-0035-131.355	"In addition to his collegiate performances, he ahs also appeared with professional and regional opera companies and theaters such as The Opera Company of Philadelphia, Opera North, and Metropolitan Lyric Theatre of NJ."	
+1C2-E-TEST-0035-131.355/001	appeared with professional and regional opera companies	
+1C2-E-TEST-0035-131.355/002	also appeared with theaters	
+1C2-E-TEST-0035-131.355/003	"Opera Company of Philadelphia, Opera North, Metropolitan Lyric Theatre of NJ"	DEP=1C2-E-TEST-0035-131.355002
+1C2-E-TEST-0035-131.355/004	in addition to collegiate performances	DEP=1C2-E-TEST-0035-131.355001
+1C2-E-TEST-0035-58.89	"Cromwell: It was difficult to break in as a director, because the people who had built theaters then, they didnt want young directors, so you had to get in as an actor in a company, then direct something on the side to get in."	
+1C2-E-TEST-0035-58.89/001	difficult to break in as director	DEP=1C2-E-TEST-0035-58.89002
+1C2-E-TEST-0035-58.89/002	people who built theaters then didnt want young directors	
+1C2-E-TEST-0035-58.89/003	had to get in as an actor in a company then direct something on the side	

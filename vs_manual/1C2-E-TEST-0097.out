@@ -1,0 +1,163 @@
+1C2-E-TEST-0097-10.11	"At our locations around the world, FedEx Handlers move millions of packages each day."	
+1C2-E-TEST-0097-10.11/001	FedEx Handlers move millions of packages each day	
+1C2-E-TEST-0097-10.11/002	locations around the world	DEP=1C2-E-TEST-0097-10.11001
+1C2-E-TEST-0097-108.113	"Memphis is not only FedExÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢ Super Hub, but is also the location of the headquarters for FedEx"	
+1C2-E-TEST-0097-108.113/001	Memphis is FedEx super hub	
+1C2-E-TEST-0097-108.113/002	memphis is also the location of the headquarters for FedEx	
+1C2-E-TEST-0097-108.125	"service, FedEx and the United States Postal Service (USPS) signed an agreement in 2001 that"	
+1C2-E-TEST-0097-108.125/001	FedEx and the United States Postal Service (USPS) signed an agreement	
+1C2-E-TEST-0097-108.125/002	in 2001	DEP=1C2-E-TEST-0097-108.125001
+1C2-E-TEST-0097-108.20	"offering a cargo area of 61,500 square feet, with 1.5 million square feet of ramp area to provide"	
+1C2-E-TEST-0097-108.20/001	"offering a cargo area of 61,500 square feet"	
+1C2-E-TEST-0097-108.20/002	offering a cargo area with 1.5 million square feet of ramp area	
+1C2-E-TEST-0097-108.212	Figure 19: Scanning of the packages (left) at the start of 300 miles of conveyor belts (right) which move packages	
+1C2-E-TEST-0097-108.212/001	scanning of the packages at the start of 300 miles of conveyor belts	
+1C2-E-TEST-0097-108.212/002	move packages	DEP=1C2-E-TEST-0097-108.212001
+1C2-E-TEST-0097-108.80	thousands of college students in the U.S.ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢ second largest work-study program (after the Reserve	
+1C2-E-TEST-0097-108.80/001	thousands of college students in the U.S	
+1C2-E-TEST-0097-108.80/002	second largest work-study program	DEP=1C2-E-TEST-0097-108.80001
+1C2-E-TEST-0097-124.5	"Some of the 8,200 night employees at the main hub of FedEx in Memphis, Tenn., sort though incoming packages."	
+1C2-E-TEST-0097-124.5/001	"Some of the 8,200 night employees at the main hub of FedEx "	
+1C2-E-TEST-0097-124.5/002	"in Memphis, Tenn."	DEP=1C2-E-TEST-0097-124.5001
+1C2-E-TEST-0097-124.5/003	sort though incoming packages.	DEP=1C2-E-TEST-0097-124.5001
+1C2-E-TEST-0097-124.6	"FedEx Express is the air-cargo division of FedEx Corp., which expected its busiest day of the year Monday - with a record of 9.8 million packages moving through its express and ground networks."	
+1C2-E-TEST-0097-124.6/001	FedEx Express is the air-cargo division of FedEx Corp	
+1C2-E-TEST-0097-124.6/002	expected its busiest day of the year Monday	DEP=1C2-E-TEST-0097-124.6001
+1C2-E-TEST-0097-124.6/003	record of 9.8 million packages moving through its express and ground networks.	DEP=1C2-E-TEST-0097-124.6001
+1C2-E-TEST-0097-124.9	"On average, the company moves about 6 million packages daily."	
+1C2-E-TEST-0097-124.9/001	company moves about 6 million packages daily.	
+1C2-E-TEST-0097-13.18	"Although FedEx's hub system competes directly with the United States Postal Service, it also uses the postal service's extensive network of hubs for certain lower-weight packages that are not time sensitive."	
+1C2-E-TEST-0097-13.18/001	FedEx's hub system competes directly with the United States Postal Service	
+1C2-E-TEST-0097-13.18/002	uses the postal service's extensive network of hubs for certain lower-weight packages	DEP=1C2-E-TEST-0097-13.18001
+1C2-E-TEST-0097-13.18/003	packages that are not time sensitive	DEP=1C2-E-TEST-0097-13.18002
+1C2-E-TEST-0097-213.253	"The city is home to the world's busiest cargo airport, which serves as the primary hub for FedEx shipping."	
+1C2-E-TEST-0097-213.253/001	city is home to the world's busiest cargo airport	
+1C2-E-TEST-0097-213.253/002	serves as the primary hub for FedEx shipping.	DEP=1C2-E-TEST-0097-213.253001
+1C2-E-TEST-0097-213.295	2006 Acquires Watkins Motor Lines which becomes FedEx National LTL within FedEx Freight.	
+1C2-E-TEST-0097-213.295/001	2006 Acquires Watkins Motor Lines	
+1C2-E-TEST-0097-213.295/002	Watkins Motor Lines becomes FedEx National LTL within FedEx Freight.	
+1C2-E-TEST-0097-213.673	"It was the home court for the University of Memphis men's basketball program, and later for the National Basketball Association's Memphis Grizzlies."	
+1C2-E-TEST-0097-213.673/001	home court for the University of Memphis men's basketball program	
+1C2-E-TEST-0097-213.673/002	later home court for the National Basketball Association's Memphis Grizzlies.	
+1C2-E-TEST-0097-213.686	It is the home of the Memphis Grizzlies of the NBA and the National Collegiate Athletic Association men's basketball program of the University of Memphis (the Tigers).	
+1C2-E-TEST-0097-213.686/001	home of the Memphis Grizzlies of the NBA	
+1C2-E-TEST-0097-213.686/002	home of University of Memphis	
+1C2-E-TEST-0097-213.686/003	the tigers	DEP=1C2-E-TEST-0097-213.686002
+1C2-E-TEST-0097-213.686/004	National Collegiate Athletic Association men's basketball program	DEP=1C2-E-TEST-0097-213.686002
+1C2-E-TEST-0097-213.688	"The arena was built at a cost of $250 million and is owned by the City of Memphis; naming rights were purchased by Memphis' most well-known business, FedEx for $92 million."	
+1C2-E-TEST-0097-213.688/001	arena was built at a cost of $250 million	
+1C2-E-TEST-0097-213.688/002	owned by the City of Memphis	
+1C2-E-TEST-0097-213.688/003	naming rights were purchased by FedEx	
+1C2-E-TEST-0097-213.688/004	purchased for $92 million.	DEP=1C2-E-TEST-0097-213.688003
+1C2-E-TEST-0097-213.688/005	FedEx Memphis' most well-known business	
+1C2-E-TEST-0097-213.730	"The RiverKings are a member of the Central Hockey League, playing their first fifteen seasons from the 1992ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ93 season to the 2006ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ07 season as the Memphis RiverKings."	
+1C2-E-TEST-0097-213.730/001	RiverKings are a member of the Central Hockey League	
+1C2-E-TEST-0097-213.730/002	playing their first fifteen seasons as Memphis Riverkings	DEP=1C2-E-TEST-0097-213.730001
+1C2-E-TEST-0097-213.730/003	from the 1992-93 season to 2006 season	DEP=1C2-E-TEST-0097-213.730002
+1C2-E-TEST-0097-27.6	"The ""Hub"" is an amazing city in and of itself, with thousands of people using the latest technology to efficiently move millions of packages from and to locations all over the globe."	
+1C2-E-TEST-0097-27.6/001	Hub is an amazing city in and of itself	
+1C2-E-TEST-0097-27.6/002	thousands of people using the latest technology	DEP=1C2-E-TEST-0097-27.6001
+1C2-E-TEST-0097-27.6/003	efficiently move millions of packages from and to locations all over the globe.	DEP=1C2-E-TEST-0097-27.6002
+1C2-E-TEST-0097-3.4	"Employing over 4,000 employees during the day shift and over 8,000 during the busier night shift, the Memphis Hub handles about 3.3 million packages per day."	
+1C2-E-TEST-0097-3.4/001	"Employing over 4,000 employees during the day shift"	DEP=1C2-E-TEST-0097-3.4003
+1C2-E-TEST-0097-3.4/002	"employing over 8,000 during the busier night shift"	DEP=1C2-E-TEST-0097-3.4003
+1C2-E-TEST-0097-3.4/003	Memphis Hub handles about 3.3 million packages per day.	
+1C2-E-TEST-0097-3.5	The majority of FedEx Express' air cargo fleet will pass through Memphis at one point during any given 24hr period.	
+1C2-E-TEST-0097-3.5/001	majority of FedEx Express' air cargo fleet will pass through Memphis	
+1C2-E-TEST-0097-3.5/002	during any given 24hr period.	DEP=1C2-E-TEST-0097-3.5001
+1C2-E-TEST-0097-3.6	FedEx Express began operations at Memphis in 1973 with a single Dassault Falcon 20 Jet and is now the world's largest air cargo carrier and the largest of the FedEx subsidiary companies.	
+1C2-E-TEST-0097-3.6/001	FedEx Express began operations at Memphis in 1973	
+1C2-E-TEST-0097-3.6/002	began operations with a single Dassault Falcon 20 Jet	DEP=1C2-E-TEST-0097-3.6001
+1C2-E-TEST-0097-3.6/003	world's largest air cargo carrier	
+1C2-E-TEST-0097-3.6/004	largest of the FedEx subsidiary companies.	
+1C2-E-TEST-0097-44.11	The Memphis Tigers are one of the most popular and successful NCAA basketball programs in the nation.	
+1C2-E-TEST-0097-44.11/001	Memphis Tigers are one of the most popular and successful NCAA basketball programs	
+1C2-E-TEST-0097-44.11/002	in the nation	DEP=1C2-E-TEST-0097-44.11001
+1C2-E-TEST-0097-44.4	"The Memphis Grizzlies and the University of Memphis Tigers both call the FedEx Forum their home arena, so tickets to see these teams play here can be difficult to secure at times."	
+1C2-E-TEST-0097-44.4/001	Memphis Grizzlies and the University of Memphis Tigers both call the FedEx Forum their home arena	
+1C2-E-TEST-0097-44.4/002	tickets to see these teams play here can be difficult to secure at times.	DEP=1C2-E-TEST-0097-44.4001
+1C2-E-TEST-0097-44.7	"One of the most famous businesses originating from the city of Memphis, Tennessee is FedEx, which bought the naming rights to the arena when it opened in 2004."	
+1C2-E-TEST-0097-44.7/001	FedEx one of the famous businesses	
+1C2-E-TEST-0097-44.7/002	originating memphis tennessee	DEP=1C2-E-TEST-0097-44.7001
+1C2-E-TEST-0097-44.7/003	bought the naming rights to the arena	DEP=1C2-E-TEST-0097-44.7001
+1C2-E-TEST-0097-44.7/004	arena opened in 2004.	DEP=1C2-E-TEST-0097-44.7003
+1C2-E-TEST-0097-50.1	FedEx Express Memphis Hub Wins Global Cargo Hub Award	
+1C2-E-TEST-0097-50.1/001	FedEx Express Memphis Hub Wins Global Cargo Hub Award	
+1C2-E-TEST-0097-50.11	The Memphis World Hub connects customers to more than 220 countries and territories on six continents.	
+1C2-E-TEST-0097-50.11/001	Memphis World Hub connects customers to more than 220 countries and territories	
+1C2-E-TEST-0097-50.11/002	on six continents	DEP=1C2-E-TEST-0097-50.11001
+1C2-E-TEST-0097-50.14	The hub's sorting system contains more than 300 miles of conveyor belts capable of processing approximately a half million packages per hour.	
+1C2-E-TEST-0097-50.14/001	ub's sorting system contains more than 300 miles of conveyor belt	
+1C2-E-TEST-0097-50.14/002	capable of processing approximately half million packages per hour	DEP=1C2-E-TEST-0097-50.14001
+1C2-E-TEST-0097-50.15	"The small-package sort system processes up to 325,000 per hour, while the box sorting ""matrix"" system processes 160,000 per hour."	
+1C2-E-TEST-0097-50.15/001	"small-package sort system processes up to 325,000 per hour"	
+1C2-E-TEST-0097-50.15/002	"box sorting ""matrix"" system processes 160,000 per hour."	
+1C2-E-TEST-0097-50.16	"Overall, more than two million packages move through the Memphis hub each business day."	
+1C2-E-TEST-0097-50.16/001	more than two million packages move through the Memphis hub	
+1C2-E-TEST-0097-50.16/002	each business day	DEP=1C2-E-TEST-0097-50.16001
+1C2-E-TEST-0097-50.17	The Memphis World Hub is the oldest and largest facility in the FedEx Express network.	
+1C2-E-TEST-0097-50.17/001	Memphis World Hub is the oldest and largest facility	
+1C2-E-TEST-0097-50.17/002	in the FedEx Express network.	DEP=1C2-E-TEST-0097-50.17001
+1C2-E-TEST-0097-50.18	"It is strategically located near the heart of the continental U.S., providing overnight service to the entire nation and serving 95 percent of the global economy on a 24- to 48-hour basis."	
+1C2-E-TEST-0097-50.18/001	strategically located near the heart of the continental U.S.	
+1C2-E-TEST-0097-50.18/002	providing overnight service to the entire nation	DEP=1C2-E-TEST-0097-50.18001
+1C2-E-TEST-0097-50.18/003	serving 95 percent of the global economy	DEP=1C2-E-TEST-0097-50.18001
+1C2-E-TEST-0097-50.18/004	24- to 48-hour basis.	DEP=1C2-E-TEST-0097-50.18003
+1C2-E-TEST-0097-50.19	"Due largely to the presence of the FedEx hub, Memphis International Airport was again named the world's largest cargo airport in 2009."	
+1C2-E-TEST-0097-50.19/001	Due largely to the presence of the FedEx hub	DEP=1C2-E-TEST-0097-50.19002
+1C2-E-TEST-0097-50.19/002	Memphis International Airport was again named the world's largest cargo airport	
+1C2-E-TEST-0097-50.19/003	in 2009.	DEP=1C2-E-TEST-0097-50.19002
+1C2-E-TEST-0097-50.2	UK's Institute of Transport Management Awards FedEx Express Memphis Facility as 'Best Global Cargo Hub'	
+1C2-E-TEST-0097-50.2/001	UK's Institute of Transport Management Awards FedEx Express	
+1C2-E-TEST-0097-50.2/002	fedex Memphis Facility	DEP=1C2-E-TEST-0097-50.2001
+1C2-E-TEST-0097-50.2/003	awards as 'Best Global Cargo Hub'	DEP=1C2-E-TEST-0097-50.2001
+1C2-E-TEST-0097-50.21	"A critical crossroads in the U.S. highway system, Memphis serves more markets overnight by truck than any other central U.S. city."	
+1C2-E-TEST-0097-50.21/001	critical crossroads in the U.S. highway system	DEP=1C2-E-TEST-0097-50.21002
+1C2-E-TEST-0097-50.21/002	Memphis serves more markets overnight by truck than any other central u.s. city	
+1C2-E-TEST-0097-50.22	"More than 220 freight trains go through Memphis daily, and its six rail yards have a total container capacity of 780,000+ annual lifts."	
+1C2-E-TEST-0097-50.22/001	More than 220 freight trains go through Memphis daily	
+1C2-E-TEST-0097-50.22/002	six rail yards	DEP=1C2-E-TEST-0097-50.22001
+1C2-E-TEST-0097-50.22/003	"have a total container capacity of 780,000+ annual lifts."	DEP=1C2-E-TEST-0097-50.22001
+1C2-E-TEST-0097-50.23	Memphis is the fourth-largest inland port in the country and the Mississippi River allows access to major deepwater seaports.	
+1C2-E-TEST-0097-50.23/001	Memphis is the fourth-largest inland port in the country	
+1C2-E-TEST-0097-50.23/002	Mississippi River allows access to major deepwater seaports.	DEP=1C2-E-TEST-0097-50.23001
+1C2-E-TEST-0097-50.24	"Critically, Memphis has the fastest, most agile and arguably the most connected airport on the globe."	
+1C2-E-TEST-0097-50.24/001	"Memphis has the fastest, most agile airport on the globe"	
+1C2-E-TEST-0097-50.24/002	arguably the most connected airport	DEP=1C2-E-TEST-0097-50.24001
+1C2-E-TEST-0097-50.3	"FedEx Express, the world's largest express transportation company and a subsidiary of FedEx Corp."	
+1C2-E-TEST-0097-50.3/001	"edEx Express, the world's largest express transportation company"	
+1C2-E-TEST-0097-50.3/002	subsidiary of FedEx Corp.	DEP=1C2-E-TEST-0097-50.3001
+1C2-E-TEST-0097-50.5	"The Memphis hub, the centerpiece of the FedEx global distribution system, was given the award for standing as a shining example of delivery and distribution professionalism."	
+1C2-E-TEST-0097-50.5/001	" Memphis hub, the centerpiece of the FedEx global distribution system"	
+1C2-E-TEST-0097-50.5/002	given the award for standing as a shining example of delivery and distribution professionalism.	DEP=1C2-E-TEST-0097-50.5001
+1C2-E-TEST-0097-50.7	"The FedEx World Hub in Memphis is the centerpiece of our global distribution and delivery operations, said John Dunavant, vice president, Memphis World Hub."	
+1C2-E-TEST-0097-50.7/001	FedEx World Hub centerpiece of our global distribution and delivery operations	
+1C2-E-TEST-0097-50.7/002	" said John Dunavant, vice president, Memphis World Hub."	DEP=1C2-E-TEST-0097-50.7001
+1C2-E-TEST-0097-50.7/003	in Memphis	DEP=1C2-E-TEST-0097-50.7001
+1C2-E-TEST-0097-50.8	It's also one of the only places in the world where FedEx packages dropped off as late as midnight can still be delivered around the world as soon as the next business day.	
+1C2-E-TEST-0097-50.8/001	FedEx packages dropped off as late as midnight can still be delivered around the world	
+1C2-E-TEST-0097-50.8/002	soon as the next business day.	DEP=1C2-E-TEST-0097-50.8001
+1C2-E-TEST-0097-50.9	" The Memphis World Hub offers direct connectivity between North America and Asia via the Boeing 777F, as well as access to the other economic centers through our FedEx Aerotropolis"" hubs in Paris and Guanghzou, and to points beyond."	
+1C2-E-TEST-0097-50.9/001	Memphis World Hub offers direct connectivity between North America and As	
+1C2-E-TEST-0097-50.9/002	connects via the Boeing 777F	DEP=1C2-E-TEST-0097-50.9001
+1C2-E-TEST-0097-50.9/003	memphis world hub access to the other economic centers	
+1C2-E-TEST-0097-50.9/004	through our FedEx Aerotropolis	DEP=1C2-E-TEST-0097-50.9003
+1C2-E-TEST-0097-50.9/005	"hubs in Paris and Guanghzou, and to points beyond"	DEP=1C2-E-TEST-0097-50.9004
+1C2-E-TEST-0097-78.13	"Selecting Memphis for the hub made sense for several reasons, said Dan McDonald, head of DHL network planning."	
+1C2-E-TEST-0097-78.13/001	Selecting Memphis for the hub made sense for several reasons	
+1C2-E-TEST-0097-78.13/002	"Dan McDonald, head of DHL network planning."	
+1C2-E-TEST-0097-78.21	"Strategically located in the heart of the continental US, the FedEx Express Hub in Memphis allows for convenient overnight service to the entire nation and many key international world markets."	
+1C2-E-TEST-0097-78.21/001	Strategically located in the heart of the continental US	
+1C2-E-TEST-0097-78.21/002	FedEx Express Hub in Memphis allows for convenient overnight service to the entire nation	DEP=1C2-E-TEST-0097-78.21001
+1C2-E-TEST-0097-78.21/003	FedEx Express Hub in Memphis allows for convenient overnight service to many key international world markets.	DEP=1C2-E-TEST-0097-78.21002
+1C2-E-TEST-0097-78.22	"Locating or expanding near the Memphis metropolitan area provides your business with fast, convenientÃÂ¢Ã¢ÂÂ¬ÃÂ¦"	
+1C2-E-TEST-0097-78.22/001	Locating or expanding near the Memphis metropolitan area	
+1C2-E-TEST-0097-78.22/002	"provides your business with fast, convenient"	DEP=1C2-E-TEST-0097-78.22001
+1C2-E-TEST-0097-78.29	FedEx Corp. of Memphis will rename its Kinko's unit to FedEx Office in an effort to gain more large business customers.	
+1C2-E-TEST-0097-78.29/001	FedEx Corp. of Memphis will rename its Kinko's unit to FedEx Office	
+1C2-E-TEST-0097-78.29/002	effort to gain more large business customers.	DEP=1C2-E-TEST-0097-78.29001
+1C2-E-TEST-0097-78.38	"FedEx Corp. of Memphis has launched a new long-haul less-than-truckload (LTL) service, FedEx National LTL, and also formally launched FedEx Freight Canada, which will handle LTL shipments moving into and out of Canada and intra-Canada shipments."	
+1C2-E-TEST-0097-78.38/001	FedEx Corp. of Memphis has launched a new long-haul less-than-truckload (LTL) service	
+1C2-E-TEST-0097-78.38/002	FedEx National LTL	DEP=1C2-E-TEST-0097-78.38001
+1C2-E-TEST-0097-78.38/003	formally launched FedEx Freight Canada	
+1C2-E-TEST-0097-78.38/004	handle LTL shipments moving into and out of Canada and intra-Canada shipments	DEP=1C2-E-TEST-0097-78.38003

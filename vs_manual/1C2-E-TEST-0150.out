@@ -1,0 +1,37 @@
+1C2-E-TEST-0150-1.5	A cubic yard is an Imperial / U.S. customary (non- SI non- metric ) unit of volume , used in the United States , Canada, and the UK.	
+1C2-E-TEST-0150-1.5/001	u.s.r	DEP=1C2-E-TEST-0150-1.5/006
+1C2-E-TEST-0150-1.5/002	non- SI	DEP=1C2-E-TEST-0150-1.5/006
+1C2-E-TEST-0150-1.5/004	non- metric	DEP=1C2-E-TEST-0150-1.5/006
+1C2-E-TEST-0150-1.5/005	Imperial	DEP=1C2-E-TEST-0150-1.5/006
+1C2-E-TEST-0150-1.5/006	unit volume	
+1C2-E-TEST-0150-1.5/007	used canada	
+1C2-E-TEST-0150-1.5/008	used uk	
+1C2-E-TEST-0150-1.5/009	used united states	
+1C2-E-TEST-0150-122.34	If you have concrete delivered it is sold by the yard (which is a cubic yard = 27 cubic feet).	
+1C2-E-TEST-0150-122.34/001	= 27 cubic feet	
+1C2-E-TEST-0150-122.34/002	concrete sold by yard	
+1C2-E-TEST-0150-131.7	This measurement conversion is based on a simple rule: 1 cu yd = 0.76455 m3	
+1C2-E-TEST-0150-131.7/001	measurement conversion	DEP=1C2-E-TEST-0150-131.7004
+1C2-E-TEST-0150-131.7/002	simple rule	DEP=1C2-E-TEST-0150-131.7004
+1C2-E-TEST-0150-131.7/003	1 cu yd	DEP=1C2-E-TEST-0150-131.7004
+1C2-E-TEST-0150-131.7/004	= 0.76455 m3	
+1C2-E-TEST-0150-131.9	It is defined as the volume of a cube with sides of 1 yard (3 feet, 36 inches, 0.9144 metres) in length.	
+1C2-E-TEST-0150-131.9/001	volume cube sides 1 yard	
+1C2-E-TEST-0150-131.9/002	3 feet	DEP=1C2-E-TEST-0150-131.9001
+1C2-E-TEST-0150-131.9/003	36 inches	DEP=1C2-E-TEST-0150-131.9001
+1C2-E-TEST-0150-131.9/004	0.9144 metres	DEP=1C2-E-TEST-0150-131.9001
+1C2-E-TEST-0150-166.22	1 cubic yard is equal to 27 cubic feet and 1 cubic feet is equal to 1/27 cubic yard.	
+1C2-E-TEST-0150-166.22/001	1 cubic yard equal	DEP=1C2-E-TEST-0150-166.22002
+1C2-E-TEST-0150-166.22/002	27 cubic feet	
+1C2-E-TEST-0150-166.22/003	1 cubic feet equal 1\/27 cubic yard	
+1C2-E-TEST-0150-166.24	For instant 2 cubic yards equals 54 cubic feet and 10 cubic yards equals 270 cubic feet.	
+1C2-E-TEST-0150-166.24/001	2 cubic yards equals 54 cubic feet	
+1C2-E-TEST-0150-166.24/002	10 cubic yards equals 270 cubic feet	
+1C2-E-TEST-0150-24.11	Cubic yard is a volumetric measurement unit, and the concrete required for construction is measured in cubic yards.	
+1C2-E-TEST-0150-24.11/001	volumetric measurement unit	
+1C2-E-TEST-0150-24.11/002	concrete measured cubic yards	
+1C2-E-TEST-0150-24.11/003	required for construction	DEP=1C2-E-TEST-0150-24.11002
+1C2-E-TEST-0150-7.9	Several symbols are used as abbreviation for this unit, but mostly "cu yd" and "yd3" are used.	
+1C2-E-TEST-0150-7.9/001	symbols abbreviation	
+1C2-E-TEST-0150-7.9/002	cu yd	DEP=1C2-E-TEST-0150-7.9001
+1C2-E-TEST-0150-7.9/003	yd3	DEP=1C2-E-TEST-0150-7.9001

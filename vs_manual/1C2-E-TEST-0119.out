@@ -1,0 +1,72 @@
+1C2-E-TEST-0119-117.5	The store is Apple's second-largest, after the one on Regent Street in London.	
+1C2-E-TEST-0119-117.5/001	store	
+1C2-E-TEST-0119-117.5/002	Apple's second-largest	DEP=1C2-E-TEST-0119-117.5001
+1C2-E-TEST-0119-117.5/003	after Regent Street in London.	
+DEP=1C2-E-TEST-0119-117.50012		
+1C2-E-TEST-0119-117.7	The Boston store also features a glass spiral staircase from the ground floor to the third.	
+1C2-E-TEST-0119-117.7/001	boston store	
+1C2-E-TEST-0119-117.7/002	features glass spiral staircase	DEP=1C2-E-TEST-0119-117.7001
+1C2-E-TEST-0119-117.7/003	from ground floor to the third	DEP=1C2-E-TEST-0119-117.7002
+1C2-E-TEST-0119-206.60	Apple Inc. is opening its first retail store in the heart of Boston at 815 Boylston Street.	
+1C2-E-TEST-0119-206.60/001	Apple Inc.	
+1C2-E-TEST-0119-206.60/002	opening retail store	DEP=1C2-E-TEST-0119-206.60001
+1C2-E-TEST-0119-206.60/003	in the heart of Boston opening retail store	DEP=1C2-E-TEST-0119-206.60002
+1C2-E-TEST-0119-206.60/004	at 815 Boylston Street opening retail store	DEP=1C2-E-TEST-0119-206.60003
+1C2-E-TEST-0119-206.74	The flagship Apple store was reviewed and approved by the Back Bay Architectural Commission and the Neighborhood Association of Back Bay in August 2006, Yessian said.	
+1C2-E-TEST-0119-206.74/001	flagship store	
+1C2-E-TEST-0119-206.74/002	reviewed and approved	DEP=1C2-E-TEST-0119-206.74001
+1C2-E-TEST-0119-206.74/003	by the Back Bay Architectural Commission	
+1C2-E-TEST-0119-206.74/004	and Neighborhood Association of Back Bay	
+1C2-E-TEST-0119-206.74/005	neighborhood association	
+1C2-E-TEST-0119-206.74/006	back bay	DEP=1C2-E-TEST-0119-206.74005
+1C2-E-TEST-0119-206.74/007	august 2006	DEP=1C2-E-TEST-0119-206.74006
+1C2-E-TEST-0119-206.74/008	yessian	
+1C2-E-TEST-0119-206.75	San Francisco based architect company Bohlin Cywinski Jackson designed the 22,116 square foot structure.	
+1C2-E-TEST-0119-206.75/001	San Francisco based	
+1C2-E-TEST-0119-206.75/002	architect company	DEP=1C2-E-TEST-0119-206.75001
+1C2-E-TEST-0119-206.75/003	Bohlin Cywinski Jackson	DEP=1C2-E-TEST-0119-206.75002
+1C2-E-TEST-0119-206.75/004	designed the 22,116 square foot structure.	DEP=1C2-E-TEST-0119-206.75003
+1C2-E-TEST-0119-3.19	In the course of planning the store, Apple worked closely with the city of Boston and the Boston Redevelopment Authority to make the store fit into the neighborhood.	
+1C2-E-TEST-0119-3.19/001	In the course of planning the store	
+1C2-E-TEST-0119-3.19/002	Apple worked closely	DEP=1C2-E-TEST-0119-3.19001
+1C2-E-TEST-0119-3.19/003	with the city of Boston and the Boston Redevelopment Authority	DEP=1C2-E-TEST-0119-3.19002
+1C2-E-TEST-0119-3.19/004	to make the store fit into the neighborhood.	DEP=1C2-E-TEST-0119-3.19003
+1C2-E-TEST-0119-3.23	For example, the company planted natural grass on the Building's roof in an effort to provide some greenery in the urban environment.	
+1C2-E-TEST-0119-3.23/001	example	
+1C2-E-TEST-0119-3.23/002	planted natural grass on the Building's roof	DEP=1C2-E-TEST-0119-3.23001
+1C2-E-TEST-0119-3.23/003	effort to provide some greenery in the urban environment.	DEP=1C2-E-TEST-0119-3.23002
+1C2-E-TEST-0119-3.26	In addition, the store is set up to collect and filter rainwater in order to help rebuild the Back Bay's water table, an issue that both Johnson and Menino said was important for the city.	
+1C2-E-TEST-0119-3.26/001	the store is set up to collect and filter rainwater	
+1C2-E-TEST-0119-3.26/002	to help rebuild the Back Bay's water table	DEP=1C2-E-TEST-0119-3.26001
+1C2-E-TEST-0119-3.26/003	an issue that both Johnson and Menino said was important for the city.	DEP=1C2-E-TEST-0119-3.26002
+1C2-E-TEST-0119-3.27	And while the large amounts of glass and metal in the store's construction might present an air-conditioning challenge, Johnson also said that Apple worked hard to utilize natural light where possible to reduce heating costs in the winter.	
+1C2-E-TEST-0119-3.27/001	while the large amounts of glass and metal in the store's construction	
+1C2-E-TEST-0119-3.27/002	might present an air-conditioning challenge	DEP=1C2-E-TEST-0119-3.27001
+1C2-E-TEST-0119-3.27/003	Johnson also said	
+1C2-E-TEST-0119-3.27/004	Apple worked hard to utilize natural light where possible to reduce heating costs in the winter.	DEP=1C2-E-TEST-0119-3.27003
+1C2-E-TEST-0119-3.30	Like most Apple stores, the Boylston Street location features copious amounts of glass and stainless steel, though Johnson also pointed out that the stone that makes up the floor is the same used in sidewalks in Florence, Italy.	
+1C2-E-TEST-0119-3.30/001	Like most Apple stores	
+1C2-E-TEST-0119-3.30/002	street location features	
+1C2-E-TEST-0119-3.30/003	copious amounts of glass and stainless steel	DEP=1C2-E-TEST-0119-3.30002
+1C2-E-TEST-0119-3.30/004	glass stainless steel	DEP=1C2-E-TEST-0119-3.30003
+1C2-E-TEST-0119-3.30/005	Johnson also pointed out	
+1C2-E-TEST-0119-3.30/006	stone that makes up the floor is the same used in sidewalks in Florence, Italy	DEP=1C2-E-TEST-0119-3.30005
+1C2-E-TEST-0119-3.42	The store's layout and size aren't the only things that distinguish the Boylston Street location from most of its counterparts.	
+1C2-E-TEST-0119-3.42/001	The store's layout and size	
+1C2-E-TEST-0119-3.42/002	layout size	DEP=1C2-E-TEST-0119-3.42001
+1C2-E-TEST-0119-3.42/003	aren't the only things that distinguish	DEP=1C2-E-TEST-0119-3.42002
+1C2-E-TEST-0119-3.42/004	the Boylston Street location from most of its counterparts.	DEP=1C2-E-TEST-0119-3.42003
+1C2-E-TEST-0119-47.18	With a living green roof for eco-friendly insulation, the new Apple flagship in Boston is one of the most innovatively designed Apple stores in the world.	
+1C2-E-TEST-0119-47.18/001	living green roof	
+1C2-E-TEST-0119-47.18/002	eco-friendly insulation	DEP=1C2-E-TEST-0119-47.18001
+1C2-E-TEST-0119-47.18/003	the new Apple flagship in Boston	DEP=1C2-E-TEST-0119-47.18002
+1C2-E-TEST-0119-47.18/004	is one of the most innovatively	
+designed	Apple stores in the world.	DEP=1C2-E-TEST-0119-47.18003
+1C2-E-TEST-0119-52.5	EDT Where: Apple Store(R) Boylston Street 815 Boylston St. Boston, MA 02116 Accredited journalists may confirm their attendance by calling (408) 974-2046. Grand Opening The Apple Store Boylston Street will open to the public on Thursday, May 15, 2008 at 6:00 p.m.	
+1C2-E-TEST-0119-52.5/001	EDT Where:	
+1C2-E-TEST-0119-52.5/002	Apple Store(R) Boylston Street 815 Boylston St. Boston, MA 02116	DEP=1C2-E-TEST-0119-52.5001
+1C2-E-TEST-0119-52.5/003	Accredited journalists may confirm their attendance	DEP=1C2-E-TEST-0119-52.5002
+1C2-E-TEST-0119-52.5/004	by calling (408) 974-2046	DEP=1C2-E-TEST-0119-52.5003
+1C2-E-TEST-0119-52.5/005	Grand Opening The Apple Store Boylston Street	DEP=1C2-E-TEST-0119-52.5004
+1C2-E-TEST-0119-52.5/006	will open to the public	
+1C2-E-TEST-0119-52.5/007	on Thursday, May 15, 2008 at 6:00 p.m.	DEP=1C2-E-TEST-0119-52.5005

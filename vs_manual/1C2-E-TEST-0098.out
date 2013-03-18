@@ -1,0 +1,150 @@
+1C2-E-TEST-0098-1.3	Some of the most famous landmarks in France are monuments such as the Arc de Triomphe or Eiffel Tower .	
+1C2-E-TEST-0098-1.3/001	Some of the most famous landmarks in France are monuments	
+1C2-E-TEST-0098-1.3/002	such as the Arc de Triomphe or Eiffel Tower	DEP=1C2-E-TEST-0098-1.3001
+1C2-E-TEST-0098-128.11	Arc de Triomphe is designed to honor the French soldiers who died in wars past and includes a tomb of the unknown solider	
+1C2-E-TEST-0098-128.11/001	Arc de Triomphe is designed to honor the French soldiers	
+1C2-E-TEST-0098-128.11/002	who died in wars past and includes a tomb of the unknown solider	DEP=1C2-E-TEST-0098-128.11001
+1C2-E-TEST-0098-128.12	"Champs-Elysees ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ To someone who heard about a shopping street in Paris, this might not seem like it could possibly be such a landmark."	
+1C2-E-TEST-0098-128.12/001	"Champs-Elysees To someone who heard about a shopping street in Paris, this might not seem like it could possibly be such a landmark"	
+1C2-E-TEST-0098-128.17	"Arc de Triomphe ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ One of the things that you will find if you walk far enough along the Champs-Elysees is the Arc de Triomphe , a major Paris attraction in its own right."	
+1C2-E-TEST-0098-128.17/001	Arc de Triomphe One of the things that you will find if you walk far enough along the Champs-Elysees is the Arc de Triomphe	
+1C2-E-TEST-0098-128.17/002	Arc de Triomphe is a major Paris attraction in its own right	
+1C2-E-TEST-0098-128.18	This large arch is designed to honor the French soldiers who died in wars past and includes a tomb of the unknown solider.	
+1C2-E-TEST-0098-128.18/001	This large arch is designed to honor the French soldiers	
+1C2-E-TEST-0098-128.18/002	who died in wars past and includes a tomb of the unknown solider	DEP=1C2-E-TEST-0098-128.18001
+1C2-E-TEST-0098-128.22	"Notre Dame Cathedral ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Other than the Eiffel Tower , the most well-known and oft-visited Paris attraction is probably Notre Dame Cathedral."	
+1C2-E-TEST-0098-128.22/001	"Notre Dame Cathedral Other than the Eiffel Tower , the most well-known and oft-visited Paris attraction is probably Notre Dame Cathedral"	
+1C2-E-TEST-0098-128.26	"Sacre Coeur ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Another famous spiritual building that may be worth checking out, the Sacre Coeur Basilica (or Basilica of the Sacred Heart) gained renewed interest among tourists after being displayed in the movie Amelie."	
+1C2-E-TEST-0098-128.26/001	Sacre Coeur Another famous spiritual building that may be worth checking out	
+1C2-E-TEST-0098-128.26/002	the Sacre Coeur Basilica (or Basilica of the Sacred Heart) gained renewed interest among tourists after being displayed in the movie Amelie	
+1C2-E-TEST-0098-128.36	"While there are many galleries and art museums that you can see while youÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢re in Paris, the real attraction is in the artistic neighborhoods where the working artists have been known to live."	
+1C2-E-TEST-0098-128.36/001	there are many galleries and art museums that you can see while you are in Paris	
+1C2-E-TEST-0098-128.36/002	the real attraction is in the artistic neighborhoods where the working artists have been known to live	
+1C2-E-TEST-0098-128.54	There are sixty five large ones and nine smaller ones located within Paris city limits so you shouldnÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢t have any problem finding them if you know what it is that you are looking for.	
+1C2-E-TEST-0098-128.54/001	There are sixty five large ones and nine smaller ones located within Paris city limits	
+1C2-E-TEST-0098-128.54/002	you shouldnt have any problem finding them if you know what it is that you are looking for	
+1C2-E-TEST-0098-148.19	"Arrondissement 17 Arc de Triomphe, Porte Maillot, Clichy"	
+1C2-E-TEST-0098-148.19/001	Arrondissement 17 Arc de Triomphe	
+1C2-E-TEST-0098-148.19/002	Porte Maillot	
+1C2-E-TEST-0098-148.19/003	Clichy	
+1C2-E-TEST-0098-148.42	The Eiffel Tower (or Tour Eiffel as the French call it) is south of the River Seine and fairly central in arrondissement 7.	
+1C2-E-TEST-0098-148.42/001	The Eiffel Tower is south of the River Seine and fairly central in arrondissement 7.	
+1C2-E-TEST-0098-148.42/002	or Tour Eiffel as the French call it	
+1C2-E-TEST-0098-148.45	"The Arc de Triomphe is also a famous Parisian landmark, which commemorates French soldiers."	
+1C2-E-TEST-0098-148.45/001	The Arc de Triomphe is also a famous Parisian landmark	
+1C2-E-TEST-0098-148.45/002	which commemorates French soldiers	DEP=1C2-E-TEST-0098-148.45001
+1C2-E-TEST-0098-148.49	Guests can visit the tomb of the Unknown Soldier as well as the small museum dedicated to the Arc's long construction and history.	
+1C2-E-TEST-0098-148.49/001	Guests can visit the tomb of the Unknown Soldier	
+1C2-E-TEST-0098-148.49/002	guests can alsovisit the small museum dedicated to the Arc's long construction and history	
+1C2-E-TEST-0098-168.16	The Louvre Museum is a historic monument and a national museum of France.	
+1C2-E-TEST-0098-168.16/001	The Louvre Museum is a historic monument	
+1C2-E-TEST-0098-168.16/002	The Louvre Museum a national museum of France	
+1C2-E-TEST-0098-168.2	"The Eiffel Tower, no need for me to explain any more, I think itÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s one of the most recognizable structures in the world and become a global icon of France."	
+1C2-E-TEST-0098-168.2/001	The Eiffel Tower is one of the most recognizable structures in the world	
+1C2-E-TEST-0098-168.2/002	The Eiffel Towe has become a global icon of France	
+1C2-E-TEST-0098-168.21	Its collection including the famous sculpture Winged Victory of Samothrace in the Aegean Sea and Painting Leonardo da Vinci's Mona Lisa.	
+1C2-E-TEST-0098-168.21/001	Its collection including the famous sculpture Winged Victory of Samothrace in the Aegean Sea	
+1C2-E-TEST-0098-168.21/002	and Painting Leonardo da Vinci's Mona Lisa	
+1C2-E-TEST-0098-168.6	The Arc de Triomphe is a monument in Paris. it was built to celebrate a victory in war.	
+1C2-E-TEST-0098-168.6/001	The Arc de Triomphe is a monument in Paris	
+1C2-E-TEST-0098-168.6/002	it was built to celebrate a victory in war	
+1C2-E-TEST-0098-2.107	"Louvre : Largest museum in the world, including several of the world's most prestigious works of art, such as Leonardo da Vinci's Mona Lisa, The Virgin and Child with St. Anne, Virgin of the Rocks and Alexandros of Antioch's Venus de Milo."	
+1C2-E-TEST-0098-2.107/001	"Louvre : Largest museum in the world, "	
+1C2-E-TEST-0098-2.107/002	it includes several of the world's most prestigious works of art	
+1C2-E-TEST-0098-2.107/003	"Arts such as Leonardo da Vinci's Mona Lisa, The Virgin and Child with St. Anne, Virgin of the Rocks and Alexandros of Antioch's Venus de Milo"	DEP=1C2-E-TEST-0098-2.107002
+1C2-E-TEST-0098-2.111	"Your prioritized guided tour of Paris' Louvre Museum focuses on three world-famous works, the Venus de Milo, the Victory of Samothrace and Leonardo da Vinci's Mona Lisa, painted at the beginning of the 16th century."	
+1C2-E-TEST-0098-2.111/001	Your prioritized guided tour of Paris' Louvre Museum focuses on three world-famous works	
+1C2-E-TEST-0098-2.111/002	"the Venus de Milo, the Victory of Samothrace and Leonardo da Vinci's Mona Lisa"	DEP=1C2-E-TEST-0098-2.111001
+1C2-E-TEST-0098-2.111/003	these were painted at the beginning of the 16th century	DEP=1C2-E-TEST-0098-2.111002
+1C2-E-TEST-0098-2.122	Arc de Triomphe : Monument in Paris commissioned by Napoleon Bonaparte in 1806 after the victory of Austerlitz.	
+1C2-E-TEST-0098-2.122/001	Arc de Triomphe	
+1C2-E-TEST-0098-2.122/002	Monument in Paris commissioned by Napoleon Bonaparte in 1806 after the victory of Austerlitz	DEP=1C2-E-TEST-0098-2.122001
+1C2-E-TEST-0098-2.125	"Centre George Pompidou : Home to the National Museum of Modern Art, a unique cultural and artistic center with daring and strange architecture in the Old Beaubourg area of Paris."	
+1C2-E-TEST-0098-2.125/001	Centre George Pompidou	
+1C2-E-TEST-0098-2.125/002	Home to the National Museum of Modern Art	DEP=1C2-E-TEST-0098-2.125001
+1C2-E-TEST-0098-2.125/003	It is a unique cultural and artistic center with daring and strange architecture in the Old Beaubourg area of Paris	
+1C2-E-TEST-0098-2.133	"Notre Dame : Famous Cathedral in Paris dating to the 13th centurey, and one of the masterpieces of Gothic art in Western Europe."	
+1C2-E-TEST-0098-2.133/001	Notre Dame	
+1C2-E-TEST-0098-2.133/002	Famous Cathedral in Paris dating to the 13th centurey	DEP=1C2-E-TEST-0098-2.133001
+1C2-E-TEST-0098-2.133/003	one of the masterpieces of Gothic art in Western Europe	
+1C2-E-TEST-0098-2.14	"The Moulin Rouge is the number-one show in Paris, if not the whole of Europe. No wonder it sells out quickly."	
+1C2-E-TEST-0098-2.14/001	"The Moulin Rouge is the number-one show in Paris, if not the whole of Europe"	
+1C2-E-TEST-0098-2.14/002	No wonder it sells out quickly.	
+1C2-E-TEST-0098-2.140	Picasso Museum : Museum in the heart of Paris containing several thousand works of art by Pablo Picasso.	
+1C2-E-TEST-0098-2.140/001	Picasso Museum	
+1C2-E-TEST-0098-2.140/002	Museum in the heart of Paris containing several thousand works of art by Pablo Picasso	DEP=1C2-E-TEST-0098-2.140001
+1C2-E-TEST-0098-2.5	"The specially designed, airship-style 58 Tour Eiffel restaurant is on the first floor of the Eiffel Tower."	
+1C2-E-TEST-0098-2.5/001	"The specially designed, airship-style 58 Tour Eiffel restaurant is on the first floor of the Eiffel Tower"	
+1C2-E-TEST-0098-234.180	"Thinking of France, you might imagine the iconic Eiffel Tower, the Arc de Triomphe or the famous smile of Mona Lisa."	
+1C2-E-TEST-0098-234.180/001	"you might imagine the iconic Eiffel Tower, the Arc de Triomphe or the famous smile of Mona Lisa"	
+1C2-E-TEST-0098-234.180/002	Thinking of France	DEP=1C2-E-TEST-0098-234.180001
+1C2-E-TEST-0098-234.238	"The MusÃÂÃÂ©e National d'Art Moderne in Centre Pompidou, still in France's capital, is the largest museum for modern art in Europe."	
+1C2-E-TEST-0098-234.238/001	The Muse National d'Art Moderne in Centre Pompidou is still in France's capital	
+1C2-E-TEST-0098-234.238/002	it is the largest museum for modern art in Europe	
+1C2-E-TEST-0098-234.246	"Disneyland Resort Paris is by far France's most popular park, visited by families from all over Europe."	
+1C2-E-TEST-0098-234.246/001	Disneyland Resort Paris is by far France's most popular park	
+1C2-E-TEST-0098-234.246/002	it is visited by families from all over Europe.	
+1C2-E-TEST-0098-234.248	"Vanoise National Park is the oldest and one of the largest parks, named after the Vanoise massif."	
+1C2-E-TEST-0098-234.248/001	Vanoise National Park is the oldest park	
+1C2-E-TEST-0098-234.248/002	it is one of the largest parks	
+1C2-E-TEST-0098-234.248/003	it is named after the Vanoise massif	
+1C2-E-TEST-0098-24.36	"The triumphal arch honors those who fought for France, particularly during the Napoleonic Wars."	
+1C2-E-TEST-0098-24.36/001	The triumphal arch honors those who fought for France	
+1C2-E-TEST-0098-24.36/002	particularly during the Napoleonic Wars	DEP=1C2-E-TEST-0098-24.36001
+1C2-E-TEST-0098-24.37	Beneath the Arc is the Tomb of the Unknown Soldier from the First World War.	
+1C2-E-TEST-0098-24.37/001	Beneath the Arc is the Tomb of the Unknown Soldier from the First World War	
+1C2-E-TEST-0098-24.47	Notre Dame de Paris is widely considered one of the finest examples of French Gothic architecture.	
+1C2-E-TEST-0098-24.47/001	Notre Dame de Paris is widely considered one of the finest examples of French Gothic architecture	
+1C2-E-TEST-0098-24.48	"Notre Dame de Paris was one of the first Gothic cathedrals, and its construction spanned the Gothic period."	
+1C2-E-TEST-0098-24.48/001	Notre Dame de Paris was one of the first Gothic cathedrals	
+1C2-E-TEST-0098-24.48/002	its construction spanned the Gothic period	
+1C2-E-TEST-0098-24.63	"The basilica is located at the summit of the butte Montmartre (Montmartre butte), the highest point in the city."	
+1C2-E-TEST-0098-24.63/001	The basilica is located at the summit of the butte Montmartre Montmartre butte	
+1C2-E-TEST-0098-24.63/002	Montmartre is the highest point in the city.	DEP=1C2-E-TEST-0098-24.63001
+1C2-E-TEST-0098-4.12	The Arc de Triomphe was constructed between the years 1806 and 1808 by Napoleon I as a tribute to the French army.	
+1C2-E-TEST-0098-4.12/001	The Arc de Triomphe was constructed between the years 1806 and 1808 by Napoleon I	
+1C2-E-TEST-0098-4.12/002	as a tribute to the French army	
+1C2-E-TEST-0098-4.15	"The Arc de Triomphe is 164 feet high, 148 feet long, and 72 feet wide; it is positioned at the end of the Avenue des Champs ÃÂÃ¢ÂÂ°lysÃÂÃÂ©es and in the center of the Place de l'ÃÂÃ¢ÂÂ°toile."	
+1C2-E-TEST-0098-4.15/001	"The Arc de Triomphe is 164 feet high, 148 feet long, and 72 feet wide"	
+1C2-E-TEST-0098-4.15/002	it is positioned at the end of the Avenue des Champs es	
+1C2-E-TEST-0098-4.15/003	it is in the center of the Place de l'toile	
+1C2-E-TEST-0098-4.7	The construction of famous Notre Dame de Paris began in 1163.	
+1C2-E-TEST-0098-4.7/001	The construction of famous Notre Dame de Paris began in 1163	
+1C2-E-TEST-0098-4.8	"This cathedral was one of the first buildings in the world to use arched exterior supports, known as flying buttresses."	
+1C2-E-TEST-0098-4.8/001	This cathedral was one of the first buildings in the world to use arched exterior supports	
+1C2-E-TEST-0098-4.8/002	known as flying buttresses	DEP=1C2-E-TEST-0098-4.8001
+1C2-E-TEST-0098-4.9	"During the French Revolution of the 1790s, much of the cathedral's religious imagery was damaged, but during the 19th century the cathedral was restored to its previous state."	
+1C2-E-TEST-0098-4.9/001	"During the French Revolution of the 1790s, much of the cathedral's religious imagery was damaged"	
+1C2-E-TEST-0098-4.9/002	during the 19th century the cathedral was restored to its previous state	
+1C2-E-TEST-0098-45.18	The tower is the tallest building in Paris and the most-visited paid monument in the world where millions of people ascend it every year.	
+1C2-E-TEST-0098-45.18/001	The tower is the tallest building in Paris	
+1C2-E-TEST-0098-45.18/002	it is the most-visited paid monument in the world where millions of people ascend it every year	
+1C2-E-TEST-0098-45.20	"Built in 1889, it has become both a global icon of France and one of the most noticeable structures in the world."	
+1C2-E-TEST-0098-45.20/001	"Built in 1889, it has become a global icon of France "	
+1C2-E-TEST-0098-45.20/002	it is also one of the most noticeable structures in the world	
+1C2-E-TEST-0098-45.22	"Louvre Museum, situated in Paris, is a historic monument, and a national museum of France."	
+1C2-E-TEST-0098-45.22/001	Louvre Museum is situated in Paris	
+1C2-E-TEST-0098-45.22/002	it is a historic monument	
+1C2-E-TEST-0098-45.22/003	it is a national museum of France	
+1C2-E-TEST-0098-45.25	"The museumÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s most eminent painting is the Mona Lisa, a masterpiece by a famous artist, Leonardo Da Vinci."	
+1C2-E-TEST-0098-45.25/001	The museums most eminent painting is the Mona Lisa	
+1C2-E-TEST-0098-45.25/002	"mona lisa is a masterpiece by a famous artist, Leonardo Da Vinci"	DEP=1C2-E-TEST-0098-45.25001
+1C2-E-TEST-0098-45.38	The famous Queen Marie-Antoinette also left her mark with her HameauÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂthat means tiny village.	
+1C2-E-TEST-0098-45.38/001	The famous Queen Marie-Antoinette also left her mark with her Hameau	
+1C2-E-TEST-0098-45.38/002	Hameau means tiny village	
+1C2-E-TEST-0098-45.8	"The countryÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s cities comprise some of the ultimate treasures in Europe, its countryside is flourishing and well-tended and it boasts tons of major tourist attractions, like Paris, the Atlantic beaches, the French Riviera, the castles of the Loire Valley, the winter sport resorts of the French Alps, Brittany and Normandy."	
+1C2-E-TEST-0098-45.8/001	The countrys cities comprise some of the ultimate treasures in Europe	
+1C2-E-TEST-0098-45.8/002	its countryside is flourishing and well-tended	DEP=1C2-E-TEST-0098-45.8001
+1C2-E-TEST-0098-45.8/003	"it boasts tons of major tourist attractions, like Paris, the Atlantic beaches, the French Riviera, the castles of the Loire Valley, the winter sport resorts of the French Alps, Brittany and Normandy"	DEP=1C2-E-TEST-0098-45.8001
+1C2-E-TEST-0098-54.10	"Listed on the monument is the names of French victories and generals, and beneath the arch is the Tomb of the Unknown Soldier from World War I. From the top of the monument, visitors can admire a panoramic view of the French capital."	
+1C2-E-TEST-0098-54.10/001	Listed on the monument is the names of French victories and generals	
+1C2-E-TEST-0098-54.10/002	beneath the arch is the Tomb of the Unknown Soldier from World War I	
+1C2-E-TEST-0098-54.10/003	"From the top of the monument, visitors can admire a panoramic view of the French capital"	
+1C2-E-TEST-0098-54.8	"Commissioned by Napoleon, the Arc de Triomphe honors French combatants in the French Revolutionary and Napoleonic wars."	
+1C2-E-TEST-0098-54.8/001	"Commissioned by Napoleon, the Arc de Triomphe honors French combatants in the French Revolutionary and Napoleonic wars"	
+1C2-E-TEST-0098-92.13	Basilique du SacrÃÂÃÂ©-Coeur This famous Monometer basilica is dedicated to the sacred heart of Jesus.	
+1C2-E-TEST-0098-92.13/001	Basilique du Sacr Coeur	
+1C2-E-TEST-0098-92.13/002	This famous Monometer basilica is dedicated to the sacred heart of Jesus	
+1C2-E-TEST-0098-92.26	"It holds 3,000 pieces of the world's most famous works of art, such as Leonardo Da Vinci's Mona Lisa, The Virgin and Child with St. Anne, Madonna of the Rocks, Jacques Louis David's Oath of the Horatii, Delacroix's Liberty Leading the People and Alexandros of Antioch's Venus de Milo."	
+1C2-E-TEST-0098-92.26/001	"It holds 3,000 pieces of the world's most famous works of art"	
+1C2-E-TEST-0098-92.26/002	"such as Leonardo Da Vinci's Mona Lisa, The Virgin and Child with St. Anne, Madonna of the Rocks, Jacques Louis David's Oath of the Horatii, Delacroix's Liberty Leading the People and Alexandros of Antioch's Venus de Milo"	DEP=1C2-E-TEST-0098-92.26001

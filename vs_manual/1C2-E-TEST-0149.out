@@ -1,0 +1,63 @@
+1C2-E-TEST-0149-1.9	"With Sonovoid round forms, projects require less concrete, steel and supporting material, without sacrificing structural integrity and strength."	
+1C2-E-TEST-0149-1.9/001	sonovoid forms	
+1C2-E-TEST-0149-1.9/002	projects	
+1C2-E-TEST-0149-1.9/003	concrete steel supporting material	DEP=1C2-E-TEST-0149-1.9002
+1C2-E-TEST-0149-1.9/004	sacrificing	
+1C2-E-TEST-0149-1.9/005	structual integrity strength	DEP=1C2-E-TEST-0149-1.9004
+1C2-E-TEST-0149-138.43	They can be purchased from your local building supplier and may be used to level a gazebo on a moderately steep slope.	
+1C2-E-TEST-0149-138.43/001	local building supplier	
+1C2-E-TEST-0149-138.43/002	level gazebo	
+1C2-E-TEST-0149-138.43/003	purchased	DEP=1C2-E-TEST-0149-138.43001
+1C2-E-TEST-0149-138.43/004	moderately steep slope	DEP=1C2-E-TEST-0149-138.43002
+1C2-E-TEST-0149-138.77	"Sonotube, also known as concrete footings, are used in situations where a gazebo needs to be raised, the ground is very uneven, or a building permit is required (i.e. in some areas a building permit is required if the area of the structure exceeds 110 square feet)."	
+1C2-E-TEST-0149-138.77/001	sonotube	
+1C2-E-TEST-0149-138.77/002	concrete footings	DEP=1C2-E-TEST-0149-138.77001
+1C2-E-TEST-0149-138.77/003	situations	DEP=1C2-E-TEST-0149-138.77001
+1C2-E-TEST-0149-138.77/004	gazebo needs raised	DEP=1C2-E-TEST-0149-138.77003
+1C2-E-TEST-0149-138.77/005	ground uneven	DEP=1C2-E-TEST-0149-138.77003
+1C2-E-TEST-0149-138.77/006	building permit required	DEP=1C2-E-TEST-0149-138.77003
+1C2-E-TEST-0149-138.77/007	structure exceeds 110 square feet	DEP=1C2-E-TEST-0149-138.77006
+1C2-E-TEST-0149-182.24	"The bigfoots are connected to the sono tubes and placed in the holes, so the sono tubes are in line with the string line. Rebar is placed in the bigfoots and the bigfoot is buried to keep it in place."	
+1C2-E-TEST-0149-182.24/001	bigfoots	
+1C2-E-TEST-0149-182.24/002	connected	
+1C2-E-TEST-0149-182.24/003	sono tubes	DEP=1C2-E-TEST-0149-182.24001
+1C2-E-TEST-0149-182.24/004	placed holes	DEP=1C2-E-TEST-0149-182.24001
+1C2-E-TEST-0149-182.24/005	in line string line	DEP=1C2-E-TEST-0149-182.24004
+1C2-E-TEST-0149-182.24/006	rebar placed bigfoots	
+1C2-E-TEST-0149-182.24/007	bigfoot buried keep place	
+1C2-E-TEST-0149-182.28	Then the sonotubes are marked using the laser level to the desired height in relation to the footers. ÃÂÃÂ And now it's just a matter of cutting the tops off to this mark. ÃÂÃÂ And the sonotubes are ready for mud!	
+1C2-E-TEST-0149-182.28/001	sonotubes	
+1C2-E-TEST-0149-182.28/002	marked	DEP=1C2-E-TEST-0149-182.28003
+1C2-E-TEST-0149-182.28/003	laser level	
+1C2-E-TEST-0149-182.28/004	desired height	DEP=1C2-E-TEST-0149-182.28002
+1C2-E-TEST-0149-182.28/005	relation footers	DEP=1C2-E-TEST-0149-182.28004
+1C2-E-TEST-0149-182.28/006	cutting tops	
+1C2-E-TEST-0149-182.28/007	ready mud	
+1C2-E-TEST-0149-2.3	The Sonotube brand of forming tubes have been the industry standard for more than 50 years.	
+1C2-E-TEST-0149-2.3/001	sonotube brand	DEP=1C2-E-TEST-0149-2.3002
+1C2-E-TEST-0149-2.3/002	forming tubes	
+1C2-E-TEST-0149-2.3/003	industry standard	DEP=1C2-E-TEST-0149-2.3004
+1C2-E-TEST-0149-2.3/004	50 years	
+1C2-E-TEST-0149-2.4	"Sonotube concrete forms stand strong as the most economical way to create columns for buildings, entranceways, structural support, light posts and other commercial and residential structures."	
+1C2-E-TEST-0149-2.4/001	sonotube concrete forms	DEP=1C2-E-TEST-0149-2.4003
+1C2-E-TEST-0149-2.4/002	economical way	DEP=1C2-E-TEST-0149-2.4001
+1C2-E-TEST-0149-2.4/003	create columns	
+1C2-E-TEST-0149-2.4/004	buildings entranceways structural support light posts	DEP=1C2-E-TEST-0149-2.4003
+1C2-E-TEST-0149-2.4/005	commercial residential structures	DEP=1C2-E-TEST-0149-2.4003
+1C2-E-TEST-0149-2.5	The superior strength-to-weight properties of Sonotube forms prevent blowouts and may eliminate the need to use a crane during setup.	
+1C2-E-TEST-0149-2.5/001	superior strength-to-weight properties	
+1C2-E-TEST-0149-2.5/002	sonotube forms	DEP=1C2-E-TEST-0149-2.5001
+1C2-E-TEST-0149-2.5/003	prevent blowouts	DEP=1C2-E-TEST-0149-2.5002
+1C2-E-TEST-0149-2.5/004	eliminate crane setup	DEP=1C2-E-TEST-0149-2.5002
+1C2-E-TEST-0149-2.6	Contractors around the world know Sonotube concrete forms stand strong in their superior technology and value.	
+1C2-E-TEST-0149-2.6/001	contractors	
+1C2-E-TEST-0149-2.6/002	sonotube concrete forms	DEP=1C2-E-TEST-0149-2.6005
+1C2-E-TEST-0149-2.6/003	superior technology value	DEP=1C2-E-TEST-0149-2.6002
+1C2-E-TEST-0149-2.6/004	world	
+1C2-E-TEST-0149-2.6/005	strong	
+1C2-E-TEST-0149-20.15	Sono tubes are very popular because they are relatively inexpensive and require little in the way of specialized tools or equipment.	
+1C2-E-TEST-0149-20.15/001	sono tubes	DEP=1C2-E-TEST-0149-20.15004
+1C2-E-TEST-0149-20.15/002	specialized tools	DEP=1C2-E-TEST-0149-20.15003
+1C2-E-TEST-0149-20.15/003	equipment	
+1C2-E-TEST-0149-20.15/004	popular	
+1C2-E-TEST-0149-20.15/005	relatively inexpensive	

@@ -1,0 +1,118 @@
+1C2-E-TEST-0167-163.100	"Prior to construction of the Big Dig, the Central Artery carried not only north-south traffic, but much east-west traffic as well, a major cause of its all-day congestion."	
+1C2-E-TEST-0167-163.100/001	the Central Artery carried not only north-south traffic	
+1C2-E-TEST-0167-163.100/002	the Central Artery carried much of east-west traffic as well	
+1C2-E-TEST-0167-163.100/003	east-west traffic is a major cause of its all-day congestion.	DEP=1C2-E-TEST-0167-163.100002
+1C2-E-TEST-0167-163.11	The project was officially handed over to the Massachusetts Turnpike Authority at the end of 2007.	
+1C2-E-TEST-0167-163.11/001	The project was officially handed over to the Massachusetts Turnpike Authority	
+1C2-E-TEST-0167-163.11/002	end of 2007	DEP=1C2-E-TEST-0167-163.11001
+1C2-E-TEST-0167-163.3	"Big Dig is the unofficial name of the Central Artery/Tunnel Project (CA/T), a megaproject that rerouted the Central Artery (Interstate 93), the chief controlled-access highway through the heart of Boston, Massachusetts, into a 3.5 mile (5.6 km) tunnel under the city."	
+1C2-E-TEST-0167-163.3/001	Big Dig is the unofficial name of the Central Artery/Tunnel Project CA/T	
+1C2-E-TEST-0167-163.3/002	a megaproject that rerouted the Central Artery into a 3.5 mile (5.6 km) tunnel under the city.	DEP=1C2-E-TEST-0167-163.3001
+1C2-E-TEST-0167-163.3/003	"Central Artery/Tunnel Project CA/T chief controlled-access highway through the heart of Boston, Massachusetts"	
+1C2-E-TEST-0167-163.5	"Initially, the plan was also to include a rail connection between BostonÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s two major train terminals."	
+1C2-E-TEST-0167-163.5/001	plan was also to include a rail connection	
+1C2-E-TEST-0167-163.5/002	rail connection between Boston two major train terminals	DEP=1C2-E-TEST-0167-163.5001
+1C2-E-TEST-0167-163.84	"When construction began, the project cost, including the Charles River crossing, was estimated at $5.8 billion."	
+1C2-E-TEST-0167-163.84/001	the project cost was estimated at $5.8 billion	
+1C2-E-TEST-0167-163.84/002	the cost included the Charles River crossing	DEP=1C2-E-TEST-0167-163.84001
+1C2-E-TEST-0167-163.85	"Eventual cost overruns were so high that the chairman of the Massachusetts Turnpike Authority, James Kerasiotes, was fired in 2000."	
+1C2-E-TEST-0167-163.85/001	cost overruns were so high that chairman of Massachusetts Turnpike Authority was fired	
+1C2-E-TEST-0167-163.85/002	James Kerasiotes chairman of the Massachusetts Turnpike Authority	DEP=1C2-E-TEST-0167-163.85001
+1C2-E-TEST-0167-163.85/003	fired in 2000	DEP=1C2-E-TEST-0167-163.85001
+1C2-E-TEST-0167-163.96	"Major construction remained on the surface, including construction of final ramp configurations in the North End and in the South Bay interchange, and reconstruction of the surface streets."	
+1C2-E-TEST-0167-163.96/001	Major construction remained on the surface	
+1C2-E-TEST-0167-163.96/002	construction of final ramp configurations in the North End	DEP=1C2-E-TEST-0167-163.96001
+1C2-E-TEST-0167-163.96/003	construction of final ramp configurations in the South Bay interchange	DEP=1C2-E-TEST-0167-163.96001
+1C2-E-TEST-0167-163.96/004	reconstruction of the surface streets	DEP=1C2-E-TEST-0167-163.96001
+1C2-E-TEST-0167-194.13	The Central Artery/Tunnel Project was managed by the Massachusetts Turnpike Authority with design and construction supervised by a joint venture of Bechtel Corporation and Parsons Brinckerhoff.	
+1C2-E-TEST-0167-194.13/001	The Central Artery/Tunnel Project was managed by the Massachusetts Turnpike Authority	
+1C2-E-TEST-0167-194.13/002	design and construction was supervised by a joint venture	DEP=1C2-E-TEST-0167-194.13001
+1C2-E-TEST-0167-194.13/003	by a joint venture of Bechtel Corporation and Parsons Brinckerhoff	DEP=1C2-E-TEST-0167-194.13002
+1C2-E-TEST-0167-194.38	"A tunnel underneath Leverett Circle connecting eastbound Storrow Drive to I-93 North and the Tobin Bridge opened December 19, 2004, easing congestion at the circle."	
+1C2-E-TEST-0167-194.38/001	A tunnel underneath Leverett Circle opened in December 19 2004	
+1C2-E-TEST-0167-194.38/002	connecting eastbound Storrow Drive to I-93 North and the Tobin Bridge	DEP=1C2-E-TEST-0167-194.38001
+1C2-E-TEST-0167-194.38/003	it eased congestion at the circle	DEP=1C2-E-TEST-0167-194.38001
+1C2-E-TEST-0167-246.5	1995ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Ted Williams Tunnel under Boston Harbor to Logan Airport opens.	
+1C2-E-TEST-0167-246.5/001	Ted Williams Tunnel opens 1995	
+1C2-E-TEST-0167-246.5/002	under Boston Harbor to Logan Airport	DEP=1C2-E-TEST-0167-246.5001
+1C2-E-TEST-0167-246.8	2002ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Leonard P. Zakim Bunker Hill Bridge over the Charles River is completed.	
+1C2-E-TEST-0167-246.8/001	2002 Leonard P. Zakim Bunker Hill Bridge is completed	
+1C2-E-TEST-0167-246.8/002	the bridge was over the Charles River	DEP=1C2-E-TEST-0167-246.8001
+1C2-E-TEST-0167-35.32	"October 7, 1999, Leverett Circle bridge over Charles River opens, connecting to Route 93"	
+1C2-E-TEST-0167-35.32/001	"October 7, 1999, Leverett Circle bridge opens"	
+1C2-E-TEST-0167-35.32/002	over Charles River	DEP=1C2-E-TEST-0167-35.32001
+1C2-E-TEST-0167-35.32/003	connecting to Route 93	DEP=1C2-E-TEST-0167-35.32001
+1C2-E-TEST-0167-35.73	"Turnpike to Logan Airport, by connecting I-90 to the Ted Williams Tunnel. So you can now take I-90 all the way from Boston's Logan Airport, on the ocean, to Seattle Washington."	
+1C2-E-TEST-0167-35.73/001	"Turnpike to Logan Airport, by connecting I-90 to the Ted Williams Tunnel"	
+1C2-E-TEST-0167-35.73/002	take I-90 fom Boston's Logan Airport to Seattle Washington	DEP=1C2-E-TEST-0167-35.73001
+1C2-E-TEST-0167-412.24	"Boston's Central Artery-Tunnel project, as it is officially known, is supposed to bury underground a stretch of elevated highway that runs straight through the heart of the city."	
+1C2-E-TEST-0167-412.24/001	Boston's Central Artery-Tunnel project is supposed to bury underground a stretch of elevated highway	
+1C2-E-TEST-0167-412.24/002	elevated highway runs straight through the heart of the city	DEP=1C2-E-TEST-0167-412.24001
+1C2-E-TEST-0167-80.1	"Big Dig, Central Artery / Tunnel Project, United States of America"	
+1C2-E-TEST-0167-80.1/001	"Big Dig, Central Artery / Tunnel Project"	
+1C2-E-TEST-0167-80.108	"In July 2006 part of the ceiling collapsed in a tunnel segment under South Boston, connecting I-90 to the Ted Williams Tunnel."	
+1C2-E-TEST-0167-80.108/001	July 2006 part of the ceiling collapsed in a tunnel segment under South Boston	
+1C2-E-TEST-0167-80.108/002	tunnel segment connecting I-90 to the Ted Williams Tunnel	DEP=1C2-E-TEST-0167-80.108001
+1C2-E-TEST-0167-80.11	"The Central Artery / Tunnel Project (CA/T), undertaken by the Massachusetts Turnpike Authority, commenced in 1991."	
+1C2-E-TEST-0167-80.11/001	"The Central Artery / Tunnel Project (CA/T), undertaken by the Massachusetts Turnpike Authority"	
+it	tunnel project	DEP=1C2-E-TEST-0167-80.11001 it commenced in 1991 1
+1C2-E-TEST-0167-80.126	The majority of the Big Dig (Central Artery / Tunnel Project) was completed by the middle of 2005 at an estimated cost of $14.625 billion.	
+1C2-E-TEST-0167-80.126/001	majority of the Big Dig was completed by the middle of 2005	
+1C2-E-TEST-0167-80.126/002	it completed at an estimated cost of $14.625 billion	DEP=1C2-E-TEST-0167-80.126001
+1C2-E-TEST-0167-80.14	"Existing Central Artery, an elevated six-lane highway, replaced by an extended subterranean highway, and a 14-lane two bridge crossing of the Charles River at the northern end"	
+1C2-E-TEST-0167-80.14/001	Existing Central Artery is an elevated six-lane highway	
+1C2-E-TEST-0167-80.14/002	"central artery was replaced by an extended subterranean highway, and a 14-lane two bridge crossing of the Charles River at the northern end"	
+1C2-E-TEST-0167-80.15	"Extension of the Massachusetts Turnpike (Interstate 90) from its former end, south of downtown Boston, through a tunnel (Ted Williams Tunnel) under South Boston and Boston Harbor to Logan Airport"	
+1C2-E-TEST-0167-80.15/001	Extension of the Massachusetts Turnpike from former end to logan airport	
+1C2-E-TEST-0167-80.15/002	former end south of downtown boston	DEP=1C2-E-TEST-0167-80.15001
+1C2-E-TEST-0167-80.15/003	Extension through ted williams tunnel under south boston and boston habor	DEP=1C2-E-TEST-0167-80.15001
+1C2-E-TEST-0167-80.23	"The northbound Central Artery tunnel started to carry traffic in March 2003, while the southbound lanes were opened in December 2003, allowing for the completion of the largest of the Charles River bridges."	
+1C2-E-TEST-0167-80.23/001	The northbound Central Artery tunnel started to carry traffic in March 2003	
+1C2-E-TEST-0167-80.23/002	central artery southbound lanes were opened in December 2003	
+1C2-E-TEST-0167-80.23/003	Central Artery tunnel largest of the Charles River bridges	
+1C2-E-TEST-0167-80.31	"Four lanes of I-93 southbound were opened in December 2003, while the remaining two lanes opened in early 2005."	
+1C2-E-TEST-0167-80.31/001	Four lanes of I-93 southbound were opened in December 2003	
+1C2-E-TEST-0167-80.31/002	the remaining two lanes of I-93opened in early 2005.	
+1C2-E-TEST-0167-80.6	"Major project objectives Northbound Central Artery, Southbound Central Artery, Leonard P. Zakim Bunker Hill Bridge, Leverett Circle Connecter Bridge, Ted Williams Tunnel, I-90 Extension and Interchanges"	
+1C2-E-TEST-0167-80.6/001	Major project objectives Northbound Central Artery	
+1C2-E-TEST-0167-80.6/002	Major project objectives Southbound Central Artery	
+1C2-E-TEST-0167-80.6/003	Major project objectives Leonard P. Zakim Bunker Hill Bridge	
+1C2-E-TEST-0167-80.6/004	Major project objectives Leverett Circle Connecter Bridge	
+1C2-E-TEST-0167-80.6/005	"Major project objectives Ted Williams Tunnel, "	
+1C2-E-TEST-0167-80.6/006	Major project objectives I-90 Extension and Interchanges	
+1C2-E-TEST-0167-80.72	The four-lane Ted Williams Tunnel forms part of the I-90 extension link.	
+1C2-E-TEST-0167-80.72/001	The four-lane Ted Williams Tunnel forms part of the I-90 extension link	
+1C2-E-TEST-0167-80.86	"The overall design and construction management for the Big Dig has been provided by a joint venture of Bechtel, Parsons Brinckerhoff, Quade and Douglas."	
+1C2-E-TEST-0167-80.86/001	The overall design and construction management for the Big Dig has been provided by a joint venture	
+1C2-E-TEST-0167-80.86/002	"join venture of Bechtel, Parsons Brinckerhoff,Quade and Douglas"	DEP=1C2-E-TEST-0167-80.86001
+1C2-E-TEST-0167-87.7	"The project also included the construction of the Ted Williams Tunnel (extending Interstate 90 to Logan International Airport), the Leonard P. Zakim Bunker Hill Memorial Bridge over the Charles River, and the Rose Kennedy Greenway in the space vacated by the previous I-93 elevated roadway."	
+1C2-E-TEST-0167-87.7/001	The project also included the construction of the Ted Williams Tunnel	
+1C2-E-TEST-0167-87.7/002	Ted williams tunnel extending Interstate 90 to Logan International Airport	DEP=1C2-E-TEST-0167-87.7001
+1C2-E-TEST-0167-87.7/003	The project included the construction of Leonard P. Zakim Bunker Hill Memorial Bridge over the Charles River	
+1C2-E-TEST-0167-87.7/004	The project included the construction of Rose Kennedy Greenway in the space vacated by the previous I-93 elevated roadway	
+1C2-E-TEST-0167-87.9	"The project concluded on December 31, 2007, when the partnership between the program manager and the Massachusetts Turnpike Authority ended."	
+1C2-E-TEST-0167-87.9/001	"The project concluded on December 31, 2007"	
+1C2-E-TEST-0167-87.9/002	partnership between the program manager and the Massachusetts Turnpike Authority ended	DEP=1C2-E-TEST-0167-87.9001
+1C2-E-TEST-0167-92.34	"The Central Artery/Tunnel Project was managed by the Massachusetts Turnpike Authority with design and construction supervised by a joint venture of Bechtel Corporation and Parsons Brinckerhoff . Due to the enormous size of the projectÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂtoo large for any company to undertake aloneÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂthe design and construction of the Big Dig were broken up into dozens of smaller subprojects with well-defined interfaces between contractors. Major heavy-construction contractors on the project included Jay Cashman , Modern Continental , Obayashi Corporation , Perini Corporation , Peter Kiewit Sons' , J.F. White , and the Slattery division of Skanska USA."	
+1C2-E-TEST-0167-92.34/001	The Central Artery/Tunnel Project was managed by the Massachusetts Turnpike Authority	
+1C2-E-TEST-0167-92.34/002	the design and construction were supervised by a joint venture of Bechtel Corporation and Parsons Brinckerhoff	
+1C2-E-TEST-0167-92.34/003	the design and construction of the Big Dig were broken up into dozens of smaller subprojects	
+1C2-E-TEST-0167-92.34/004	Due to the enormous size of the project too large for any company to undertake alone	
+1C2-E-TEST-0167-92.34/005	"Major heavy-construction contractors on the project included Jay Cashman , Modern Continental , Obayashi Corporation , Perini Corporation , Peter Kiewit Sons' , J.F. White , and the Slattery division of Skanska USA"	
+1C2-E-TEST-0167-92.34/006	smaller subprojects with well-defined interfaces between contractors	DEP=1C2-E-TEST-0167-92.34003
+1C2-E-TEST-0167-92.50	"The next phase, moving the elevated Interstate 93 underground, was completed in two stages: northbound lanes opened in March 2003 and southbound lanes (in a temporary configuration) on December 20 , 2003. A tunnel underneath Leverett Circle connecting eastbound Storrow Drive to I-93 North and the Tobin Bridge opened December 19 , 2004 , easing congestion at the circle. All southbound lanes of I-93 opened to traffic on March 5 , 2005 , including the left lane of the Zakim Bridge, and all of the refurbished Dewey Square Tunnel ."	
+1C2-E-TEST-0167-92.50/001	"The next phase, moving the elevated Interstate 93 underground, was completed in two stages"	
+1C2-E-TEST-0167-92.50/002	northbound lanes opened in March 2003	DEP=1C2-E-TEST-0167-92.50001
+1C2-E-TEST-0167-92.50/003	"southbound lanes opened in a temporary configuration on December 20 , 2003"	DEP=1C2-E-TEST-0167-92.50001
+1C2-E-TEST-0167-92.50/004	"A tunnel underneath Leverett Circle opened December 19 , 2004"	
+1C2-E-TEST-0167-92.50/005	It eased congestion at the circle	DEP=1C2-E-TEST-0167-92.50004
+1C2-E-TEST-0167-92.50/006	"All southbound lanes of I-93 opened to traffic on March 5 , 2005 ."	
+1C2-E-TEST-0167-92.50/007	"southbound lanes including the left lane of the Zakim Bridge, and all of the refurbished Dewey Square Tunnel "	DEP=1C2-E-TEST-0167-92.50006
+1C2-E-TEST-0167-92.50/008	tunnel connecting eastbound Storrow Drive to I-93 North and the Tobin Bridge	DEP=1C2-E-TEST-0167-92.50004
+1C2-E-TEST-0167-95.156	"The 10-lane, $100 million Leonard B. Zakim Bunker Hill Bridge over the Charles River was opened to I-93 traffic at the northern end of the project in 2001."	
+1C2-E-TEST-0167-95.156/001	Leonard B. Zakim Bunker Hill Bridge opened to I-93 traffic at the northern end of the project in 2001	
+1C2-E-TEST-0167-95.156/002	bridge over the Charles River	DEP=1C2-E-TEST-0167-95.156001
+1C2-E-TEST-0167-95.156/003	"10-lane, $100 million brigde"	DEP=1C2-E-TEST-0167-95.156001
+1C2-E-TEST-0167-95.7	"Officially called the Central Artery/Tunnel Project (CA/T), it represents major construction advances."	
+1C2-E-TEST-0167-95.7/001	Officially called the Central Artery/Tunnel Project (CA/T)	
+1C2-E-TEST-0167-95.7/002	it represents major construction advances.	DEP=1C2-E-TEST-0167-95.7001

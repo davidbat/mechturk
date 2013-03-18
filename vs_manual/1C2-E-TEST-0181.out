@@ -1,0 +1,61 @@
+1C2-E-TEST-0181-2.3	"Many people believe that excessive amounts of tryptophan, an amino acid, in both the turkey and other carbohydrates, are what makes you tired after the huge Thanksgiving feast."
+1C2-E-TEST-0181-2.3/001	 people believe that excessive amounts of tryptophan makes you tired after the huge Thanksgiving feast
+1C2-E-TEST-0181-2.3/002	in both the turkey and other carbohydrates	DEP=1C2-E-TEST-0181-2.3001
+1C2-E-TEST-0181-2.3/003	"tryptophan, an amino acid"
+1C2-E-TEST-0181-2.4	"And yes, turkey does contain lots of tryptophan, but to really cause fatigue, tryptophan needs to be taken on a totally empty stomach and without any other amino acids or protein not what you get at the Turkey Day feast."
+1C2-E-TEST-0181-2.4/001	 turkey does contain lots of tryptophan
+1C2-E-TEST-0181-2.4/002	"to really cause fatigue, tryptophan needs to be taken on a totally empty stomach"
+1C2-E-TEST-0181-2.4/003	"to really cause fatigue, tryptophan needs to be taken without any other amino acids or protein"
+1C2-E-TEST-0181-2.4/004	not what you get at the Turkey Day feast.	DEP=1C2-E-TEST-0181-2.4002
+1C2-E-TEST-0181-2.5	"Chicken, pork and cheese all have around the same or more tryptophan than turkey, but they dont make you sleepy either."
+1C2-E-TEST-0181-2.5/001	"Chicken, pork and cheese all have same or more tryptophan than turkey "
+1C2-E-TEST-0181-2.5/002	don't make you sleepy	DEP=1C2-E-TEST-0181-2.5001
+1C2-E-TEST-0181-2.6	"So if it isnt the tryptophan, what is it about turkey and the Thanksgiving feast that makes you so sleepy?"
+1C2-E-TEST-0181-2.6/001	 turkey isn't what makes you sleepy
+1C2-E-TEST-0181-2.8	Eating so very much food on Thanksgiving (and in general when a whole turkey is cooked its very rare that a full turkey doesnt come with at least mashed potatoes and stuffing) is really what causes you to become tired.
+1C2-E-TEST-0181-2.8/001	Eating so very much food on Thanksgiving is really what causes you to become tired.
+1C2-E-TEST-0181-2.8/002	general when a whole turkey is cooked	DEP=1C2-E-TEST-0181-2.8001
+1C2-E-TEST-0181-2.8/003	very rare that a full turkey doesnt come with at least mashed potatoes and stuffing	DEP=1C2-E-TEST-0181-2.8001
+1C2-E-TEST-0181-2.9	"Eating all that food is tiring, and then your body has to go to work on digesting it."
+1C2-E-TEST-0181-2.9/001	Eating all that food is tiring
+1C2-E-TEST-0181-2.9/002	your body has to go to work on digesting it.	DEP=1C2-E-TEST-0181-2.9001
+1C2-E-TEST-0181-21.13	"Another theory revolving around turkey dinner sleepiness is that people tend to consume a lot of carbohydrates along with turkey on Thanksgiving, which can increase insulin levels."
+1C2-E-TEST-0181-21.13/001	carbohydrates along with turkey on Thanksgiving can increase insulin levels
+1C2-E-TEST-0181-21.13/002	 theory revolving around turkey dinner sleepiness 	DEP=1C2-E-TEST-0181-21.13001
+1C2-E-TEST-0181-21.17	"Tryptophan is so effective in inducing sleepiness, that it is sometimes used as a sleep aid to fight insomnia."
+1C2-E-TEST-0181-21.17/001	tryptophan used as a sleep aid to fight insomnia
+1C2-E-TEST-0181-21.17/002	effective in inducing sleepiness	DEP=1C2-E-TEST-0181-21.17001
+1C2-E-TEST-0181-21.6	Many people think eating turkey on Thanksgiving makes them sleepy.
+1C2-E-TEST-0181-21.6/001	 people think eating turkey on Thanksgiving makes them sleepy
+1C2-E-TEST-0181-41.31	"In this trial, and in general use of supplements, tryptophan is taken on an empty stomach to aid absorption."
+1C2-E-TEST-0181-41.31/001	tryptophan is taken on an empty stomach to aid absorption
+1C2-E-TEST-0181-49.11	"Tryptophan is an amino acid that's found in a lot of foods, turkey being one of them."
+1C2-E-TEST-0181-49.11/001	Tryptophan is an amino acid that's found in a lot of foods
+1C2-E-TEST-0181-49.11/002	turkey one of the foods	DEP=1C2-E-TEST-0181-49.11001
+1C2-E-TEST-0181-49.14	"For example, chicken, pork and cheese all have MORE tryptophan than even turkey does."
+1C2-E-TEST-0181-49.14/001	"chicken, pork and cheese all have MORE tryptophan than even turkey"
+1C2-E-TEST-0181-49.16	"Well, in order for the tryptophan in turkey to truly make you feel sleepy, you'd need to eat just that alone on an empty stomach."
+1C2-E-TEST-0181-49.16/001	you'd need to eat just tryptophan alone on an empty stomach.
+1C2-E-TEST-0181-49.16/002	in order for the tryptophan in turkey to make you feel sleepy	DEP=1C2-E-TEST-0181-49.16001
+1C2-E-TEST-0181-49.18	Because tryptophan can't be in competition with any other amino acids in order to have the sleepiness effect.
+1C2-E-TEST-0181-49.18/001	tryptophan can't be in competition with any other amino acids
+1C2-E-TEST-0181-49.18/002	 in order to have the sleepiness effect.	DEP=1C2-E-TEST-0181-49.18001
+1C2-E-TEST-0181-49.30	Another factor that attributes to that sleepy feeling after Thanksgiving dinner is fat intake.
+1C2-E-TEST-0181-49.30/001	fat intake attributes to sleepy feeling
+1C2-E-TEST-0181-49.30/002	after thanksgiving dinner	DEP=1C2-E-TEST-0181-49.30001
+1C2-E-TEST-0181-5.13	"Turkey is a great source of this essential acid, but it is not unique: many meats and other protein products pack comparable amounts."
+1C2-E-TEST-0181-5.13/001	Turkey is a great source of this essential acid
+1C2-E-TEST-0181-5.13/002	 it is not unique	DEP=1C2-E-TEST-0181-5.13001
+1C2-E-TEST-0181-5.13/003	many meats and other protein products pack comparable amounts.	DEP=1C2-E-TEST-0181-5.13001
+1C2-E-TEST-0181-5.19	"Turkey and other protein-rich foods contain many amino acids, and tryptophan is the scarcest among them, Wurtman says."
+1C2-E-TEST-0181-5.19/001	Turkey and other protein-rich foods contain many amino acids
+1C2-E-TEST-0181-5.19/002	tryptophan is the scarcest among them	DEP=1C2-E-TEST-0181-5.19001
+1C2-E-TEST-0181-5.26	"Paradoxically, what probably makes people sleepy after Thanksgiving dinner is dessert, he adds."
+1C2-E-TEST-0181-5.26/001	 what probably makes people sleepy is dessert
+1C2-E-TEST-0181-5.26/002	after thanksgiving dinner	DEP=1C2-E-TEST-0181-5.26001
+1C2-E-TEST-0181-5.27	Eating carbohydrates increases brain serotonin in spite of the fact that there is no tryptophan in carbohydrates.
+1C2-E-TEST-0181-5.27/001	Eating carbohydrates increases brain serotonin
+1C2-E-TEST-0181-5.27/002	no tryptophan in carbohydrates.	DEP=1C2-E-TEST-0181-5.27001
+1C2-E-TEST-0181-5.4	TURKEY DAZE: Gluttony is more to blame for post-Thanksgiving tiredness than anything in the turkey itself.
+1C2-E-TEST-0181-5.4/001	Gluttony is more to blame for post-Thanksgiving tiredness
+1C2-E-TEST-0181-5.4/002	Gluttony is more to blame than the turkey itself	DEP=1C2-E-TEST-0181-5.4001

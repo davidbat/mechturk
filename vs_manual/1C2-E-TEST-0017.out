@@ -1,0 +1,129 @@
+1C2-E-TEST-0017-106.10	"One of his most famous songs is ""Rebelion (No Le Pegue A La Negra)""."	
+1C2-E-TEST-0017-106.10/001	most famous song	
+1C2-E-TEST-0017-106.10/002	rebelion (no le pegue a la negra)	
+DEP=1C2-E-TEST-0017-106.10001		
+1C2-E-TEST-0017-106.16	"After recovering from the coma he wrote the song ""A Mi Dios Todo Le Debo"" (I owe God everything)."	
+1C2-E-TEST-0017-106.16/001	After recovering	
+1C2-E-TEST-0017-106.16/002	from coma	DEP=1C2-E-TEST-0017-106.16001
+1C2-E-TEST-0017-106.16/003	he wrote the song	DEP=1C2-E-TEST-0017-106.16002
+1C2-E-TEST-0017-106.16/004	A Mi Dios Todo Le Debo (I owe God everything)	DEP=1C2-E-TEST-0017-106.16003
+1C2-E-TEST-0017-106.2	Joe Arroyo is a Colombian salsa and tropical music singer and songwriter.	
+1C2-E-TEST-0017-106.2/001	Joe Arroyo	
+1C2-E-TEST-0017-106.2/002	colombian salsaand tropical music singer	DEP=1C2-E-TEST-0017-106.2001
+1C2-E-TEST-0017-106.2/003	songwriter	DEP=1C2-E-TEST-0017-106.2002
+1C2-E-TEST-0017-107.20	"He was soon invited to join a leading Colombian band, Fruko y Sus Tesos, and with them he toured the Americas through the 1970s, often performing on the New York City salsa circuit."	
+1C2-E-TEST-0017-107.20/001	soon invited	
+1C2-E-TEST-0017-107.20/002	to join	DEP=1C2-E-TEST-0017-107.20001
+1C2-E-TEST-0017-107.20/003	leading colombian band	DEP=1C2-E-TEST-0017-107.20002
+1C2-E-TEST-0017-107.20/004	fruko y sus tesos	DEP=1C2-E-TEST-0017-107.20003
+1C2-E-TEST-0017-107.20/005	toured americas	DEP=1C2-E-TEST-0017-107.20004
+1C2-E-TEST-0017-107.20/006	1970	DEP=1C2-E-TEST-0017-107.20005
+1C2-E-TEST-0017-107.20/007	often performing	DEP=1C2-E-TEST-0017-107.20006
+1C2-E-TEST-0017-107.20/008	new york city salsa circui	DEP=1C2-E-TEST-0017-107.20007
+1C2-E-TEST-0017-11.21	"Arroyo was born in a Cartagena slum and very early on decided on a musical career, often singing in buses for money."	
+1C2-E-TEST-0017-11.21/001	born in	
+1C2-E-TEST-0017-11.21/002	cartagena slum	DEP=1C2-E-TEST-0017-11.21001
+1C2-E-TEST-0017-11.21/003	very early on, decided	DEP=1C2-E-TEST-0017-11.21002
+1C2-E-TEST-0017-11.21/004	on a musical career	DEP=1C2-E-TEST-0017-11.21003
+1C2-E-TEST-0017-11.21/005	often singing	DEP=1C2-E-TEST-0017-11.21004
+1C2-E-TEST-0017-11.21/006	in buses	DEP=1C2-E-TEST-0017-11.21005
+1C2-E-TEST-0017-11.21/007	for money	DEP=1C2-E-TEST-0017-11.21006
+1C2-E-TEST-0017-11.26	"At 17, he landed the gig as lead singer with Fruko y Sus Tesos, one of Colombia's most important salsa groups at a time when salsa music was undergoing a renaissance in the country."	
+1C2-E-TEST-0017-11.26/001	at 17	
+1C2-E-TEST-0017-11.26/002	landed gig	DEP=1C2-E-TEST-0017-11.26001
+1C2-E-TEST-0017-11.26/003	as lead singer	DEP=1C2-E-TEST-0017-11.26002
+1C2-E-TEST-0017-11.26/004	with fruko y sus tesos	DEP=1C2-E-TEST-0017-11.26003
+1C2-E-TEST-0017-11.26/005	one of colombia's	DEP=1C2-E-TEST-0017-11.26004
+1C2-E-TEST-0017-11.26/006	most important salsa group	DEP=1C2-E-TEST-0017-11.26005
+1C2-E-TEST-0017-11.26/007	at a time where salsa music	DEP=1C2-E-TEST-0017-11.26006
+1C2-E-TEST-0017-11.26/008	was undergoing a renaissance in the country	DEP=1C2-E-TEST-0017-11.26007
+1C2-E-TEST-0017-115.12	"He was discovered by Ernesto Estrada, the bass player and singer of the band ""Fruko y sus Tesos"" (Fruko and his buddies) and signed up with Colombian record label Discos Fuentes."	
+1C2-E-TEST-0017-115.12/001	discovered	
+1C2-E-TEST-0017-115.12/002	by ernesto estrada	DEP=1C2-E-TEST-0017-115.12001
+1C2-E-TEST-0017-115.12/003	bass player and singer	DEP=1C2-E-TEST-0017-115.12002
+1C2-E-TEST-0017-115.12/004	of band "fruko y sus tesos"	DEP=1C2-E-TEST-0017-115.12003
+1C2-E-TEST-0017-115.12/005	signed up	DEP=1C2-E-TEST-0017-115.12004
+1C2-E-TEST-0017-115.12/006	with Colombian record label	DEP=1C2-E-TEST-0017-115.12005
+1C2-E-TEST-0017-115.12/007	Discos Fuentes	DEP=1C2-E-TEST-0017-115.12006
+1C2-E-TEST-0017-115.14	"With the band he performed for ten years until in 1981 when he began his solo career leading his own band, named ""La Verdad"" (The truth)."	
+1C2-E-TEST-0017-115.14/001	With the band	
+1C2-E-TEST-0017-115.14/002	he performed ten years	DEP=1C2-E-TEST-0017-115.14001
+1C2-E-TEST-0017-115.14/003	in 1981	DEP=1C2-E-TEST-0017-115.14002
+1C2-E-TEST-0017-115.14/004	he began solo career	DEP=1C2-E-TEST-0017-115.14003
+1C2-E-TEST-0017-115.14/005	leading his own band	DEP=1C2-E-TEST-0017-115.14004
+1C2-E-TEST-0017-115.14/006	""La Verdad"" (The truth)	DEP=1C2-E-TEST-0017-115.14005
+1C2-E-TEST-0017-2.28	"Jose Arroyo Gonzalez, singer, born 1 November 1955; died 26 July 2011"	
+1C2-E-TEST-0017-2.28/001	born	
+1C2-E-TEST-0017-2.28/002	1 november 1955	DEP=1C2-E-TEST-0017-2.28001
+1C2-E-TEST-0017-2.28/003	died	
+1C2-E-TEST-0017-2.28/004	26 july 2011	DEP=1C2-E-TEST-0017-2.28003
+1C2-E-TEST-0017-2.6	"By 12 he was singing with a band in a hotel, and in 1971 made his debut with what for many years was Colombia's leading salsa group, Fruko y Sus Tesos (Fruko and His Hardmen)."	
+1C2-E-TEST-0017-2.6/001	by 12	
+1C2-E-TEST-0017-2.6/002	he was singing	DEP=1C2-E-TEST-0017-2.6001
+1C2-E-TEST-0017-2.6/003	with a band	DEP=1C2-E-TEST-0017-2.6002
+1C2-E-TEST-0017-2.6/004	in a hotel	DEP=1C2-E-TEST-0017-2.6003
+1C2-E-TEST-0017-2.6/005	1971	
+1C2-E-TEST-0017-2.6/006	made his debut	DEP=1C2-E-TEST-0017-2.6005
+1C2-E-TEST-0017-2.6/007	with what was colombia's leading salsa group	DEP=1C2-E-TEST-0017-2.6006
+1C2-E-TEST-0017-2.6/008	fruko y sus tesos (Fruko and His Hardmen)	DEP=1C2-E-TEST-0017-2.6007
+1C2-E-TEST-0017-39.30	"The composer of some 200 songs, Arroyo was best known outside Colombia for his song ""Rebellion."""	
+1C2-E-TEST-0017-39.30/001	composer	
+1C2-E-TEST-0017-39.30/002	of 200 songs	DEP=1C2-E-TEST-0017-39.30001
+1C2-E-TEST-0017-39.30/003	best known	DEP=1C2-E-TEST-0017-39.30001
+1C2-E-TEST-0017-39.30/004	outside colombia	DEP=1C2-E-TEST-0017-39.30003
+1C2-E-TEST-0017-39.30/005	for his song	DEP=1C2-E-TEST-0017-39.30004
+1C2-E-TEST-0017-39.30/006	rebellion	DEP=1C2-E-TEST-0017-39.30005
+1C2-E-TEST-0017-39.34	"Beginning his career singing salsa in local brothels at an early age, Arroyo moved on to perform with famous Colombian bands, including Fruko y sus Tesos and the Latin Brothers."	
+1C2-E-TEST-0017-39.34/001	Beginning his career	
+1C2-E-TEST-0017-39.34/002	singing salsa	DEP=1C2-E-TEST-0017-39.34001
+1C2-E-TEST-0017-39.34/003	in local brothels	DEP=1C2-E-TEST-0017-39.34002
+1C2-E-TEST-0017-39.34/004	at an early age	DEP=1C2-E-TEST-0017-39.34003
+1C2-E-TEST-0017-39.34/005	Arroyo moved on	DEP=1C2-E-TEST-0017-39.34004
+1C2-E-TEST-0017-39.34/006	to perform with famous Colombian bands	DEP=1C2-E-TEST-0017-39.34005
+1C2-E-TEST-0017-39.34/007	including Fruko y sus Tesos and the Latin Brothers	DEP=1C2-E-TEST-0017-39.34006
+1C2-E-TEST-0017-6.4	"Famed Colombian singer Joe Arroyo, composer of such salsa classics as La Rebelion and Echao pa'lante and Tania. died Tuesday after a monthlong hospitalization."	
+1C2-E-TEST-0017-6.4/001	fame colombian singer	
+1C2-E-TEST-0017-6.4/002	Joe Arroyo	DEP=1C2-E-TEST-0017-6.4001
+1C2-E-TEST-0017-6.4/003	composer of salsa classics	DEP=1C2-E-TEST-0017-6.4002
+1C2-E-TEST-0017-6.4/004	La Rebelion and Echao pa'lante and Tania	DEP=1C2-E-TEST-0017-6.4003
+1C2-E-TEST-0017-6.4/005	died Tuesday	DEP=1C2-E-TEST-0017-6.4004
+1C2-E-TEST-0017-6.4/006	after a monthlong hospitalization	DEP=1C2-E-TEST-0017-6.4005
+1C2-E-TEST-0017-69.1	"Joe Arroyo, Colombian Salsa Legend, 1955 to 2011"	
+1C2-E-TEST-0017-69.1/001	Joe Arroyo	
+1C2-E-TEST-0017-69.1/002	Colombian Salsa Legend	DEP=1C2-E-TEST-0017-69.1001
+1C2-E-TEST-0017-69.1/003	1955 to 2011	DEP=1C2-E-TEST-0017-69.1002
+1C2-E-TEST-0017-69.11	"This was until 1971, when he was picked as a singer for a group which later went on to become the most famous salsa group of Colombia - ""Fruko y sus tesos"", lead by salsa-magician Julio Ernesto Estrada Rincon (nicknamed Fruko) and thus also became part of the most famous record company in Colombia, Discos Fuentes, which later also were to release a vast number of his solo records."	
+1C2-E-TEST-0017-69.11/001	This was until 1971	
+1C2-E-TEST-0017-69.11/002	he was picked	DEP=1C2-E-TEST-0017-69.11001
+1C2-E-TEST-0017-69.11/003	as a singer	DEP=1C2-E-TEST-0017-69.11002
+1C2-E-TEST-0017-69.11/004	for a group which later went on to become the most famous salsa group of Colombia	DEP=1C2-E-TEST-0017-69.11003
+1C2-E-TEST-0017-69.11/005	Fruko y sus tesos	DEP=1C2-E-TEST-0017-69.11004
+1C2-E-TEST-0017-69.11/006	lead by salsa-magician	DEP=1C2-E-TEST-0017-69.11005
+1C2-E-TEST-0017-69.11/007	Julio Ernesto Estrada Rincon	DEP=1C2-E-TEST-0017-69.11006
+1C2-E-TEST-0017-69.11/008	nicknamed Fruko	DEP=1C2-E-TEST-0017-69.11007
+1C2-E-TEST-0017-69.11/009	also became part of the most famous record company in Colombia	DEP=1C2-E-TEST-0017-69.11008
+1C2-E-TEST-0017-69.11/010	which later also were to release a vast number of his solo records	DEP=1C2-E-TEST-0017-69.11009
+1C2-E-TEST-0017-7.48	"Many of Arroyo\xB4s songs and lyrics can be seen in the light of that incident and he ever since acredit a lot to ""the higher force"" and for example wrote the song ""A mi Dios todo le debo""(To my God I owe everything)."	
+1C2-E-TEST-0017-7.48/001	Many of Arroyo\xB4s songs and lyrics	
+1C2-E-TEST-0017-7.48/002	can be seen	DEP=1C2-E-TEST-0017-7.48001
+1C2-E-TEST-0017-7.48/003	in the light of that incident	DEP=1C2-E-TEST-0017-7.48002
+1C2-E-TEST-0017-7.48/004	he ever since acredit a lot to ""the higher force""	DEP=1C2-E-TEST-0017-7.48003
+1C2-E-TEST-0017-7.48/005	and for example wrote the song	DEP=1C2-E-TEST-0017-7.48004
+1C2-E-TEST-0017-7.48/006	""A mi Dios todo le debo""(To my God I owe everything)."	DEP=1C2-E-TEST-0017-7.48005
+1C2-E-TEST-0017-70.2	"BOGOTA, Colombia (AP) - Colombian salsa singer Joe Arroyo has died at age 55 after a monthlong hospitalization."	
+1C2-E-TEST-0017-70.2/001	BOGOTA, Colombia (AP	
+1C2-E-TEST-0017-70.2/002	Colombian salsa singer	DEP=1C2-E-TEST-0017-70.2001
+1C2-E-TEST-0017-70.2/003	died at age 55 after a monthlong hospitalization	DEP=1C2-E-TEST-0017-70.2002
+1C2-E-TEST-0017-72.5	"He first became a national star in the 1970s with Fruko y sus Tesos, with whom he recorded around 15 albums as lead singer."	
+1C2-E-TEST-0017-72.5/001	first became a national star	
+1C2-E-TEST-0017-72.5/002	in the 1970s	DEP=1C2-E-TEST-0017-72.5001
+1C2-E-TEST-0017-72.5/003	with Fruko y sus Tesosas	DEP=1C2-E-TEST-0017-72.5002
+1C2-E-TEST-0017-72.5/004	with whom he recorded around 15 albums	DEP=1C2-E-TEST-0017-72.5003
+1C2-E-TEST-0017-72.5/005	as lead singer	DEP=1C2-E-TEST-0017-72.5004
+1C2-E-TEST-0017-78.7	"El Joe as he was known, was born in 1955 in the Caribbean city of Cartagena."	
+1C2-E-TEST-0017-78.7/001	El Joe	
+1C2-E-TEST-0017-78.7/002	as he was known	DEP=1C2-E-TEST-0017-78.7001
+1C2-E-TEST-0017-78.7/003	was born	DEP=1C2-E-TEST-0017-78.7002
+1C2-E-TEST-0017-78.7/004	in 1955	DEP=1C2-E-TEST-0017-78.7003
+1C2-E-TEST-0017-78.7/005	in the Caribbean city of Cartagena."	
+DEP=1C2-E-TEST-0017-78.7004		

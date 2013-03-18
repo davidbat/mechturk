@@ -1,0 +1,49 @@
+1C2-E-TEST-0133-106.1	Calle 4 No.5-43 Barrio San Antonio	
+1C2-E-TEST-0133-106.1/001	calle 4	
+1C2-E-TEST-0133-106.1/002	no.5-43	DEP=1C2-E-TEST-0133-106.1001
+1C2-E-TEST-0133-106.1/003	barrio san antonio	DEP=1C2-E-TEST-0133-106.1002
+1C2-E-TEST-0133-106.5	Jovita`s Hostel & School of Salsa is the only hostel in Colombia that offers dance classes and yoga classes at no extra charge!	
+1C2-E-TEST-0133-106.5/001	jovita hostel school	
+1C2-E-TEST-0133-106.5/002	dance classes yoga classes	DEP=1C2-E-TEST-0133-106.5001
+1C2-E-TEST-0133-106.5/003	no extra charge	DEP=1C2-E-TEST-0133-106.5002
+1C2-E-TEST-0133-106.5/004	offers	
+1C2-E-TEST-0133-12.4	"Red neon glows throughout Zaperoco, a popular salsa bar in the city's popular nightlife district, La Sexta."	
+1C2-E-TEST-0133-12.4/001	red neon glows	DEP=1C2-E-TEST-0133-12.4002
+1C2-E-TEST-0133-12.4/002	zaperoco	
+1C2-E-TEST-0133-12.4/003	popular bar	DEP=1C2-E-TEST-0133-12.4002
+1C2-E-TEST-0133-12.4/004	popular nightlife district	
+1C2-E-TEST-0133-12.4/005	la sexta	DEP=1C2-E-TEST-0133-12.4004
+1C2-E-TEST-0133-12.6	The large neon sign of Las Cascadas Discoteca on La Sexta advertises 7 large video screens and 4 dance floors.	
+1C2-E-TEST-0133-12.6/001	large neon sign	DEP=1C2-E-TEST-0133-12.6006
+1C2-E-TEST-0133-12.6/002	las cascadas discoteca	DEP=1C2-E-TEST-0133-12.6003
+1C2-E-TEST-0133-12.6/003	la sexta	
+1C2-E-TEST-0133-12.6/004	7 large video screens	DEP=1C2-E-TEST-0133-12.6001
+1C2-E-TEST-0133-12.6/005	4 dance floors	DEP=1C2-E-TEST-0133-12.6001
+1C2-E-TEST-0133-12.6/006	advertises	
+1C2-E-TEST-0133-12.7	"On the 2nd floor of the Latin Palace, early on a Saturday night, the dance floor is still warming up."	
+1C2-E-TEST-0133-12.7/001	2nd floor latin palace	
+1C2-E-TEST-0133-12.7/002	early saturday night	
+1C2-E-TEST-0133-12.7/003	dance floor warming	
+1C2-E-TEST-0133-3.10	"Salsa Discoteka en la Roosevelt -- popular all weekend, including Sunday nights (around 10 pm). ÃÂÃÂ This was a tip from a taxi driver, and IÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢m having trouble tracking down the address, especially given the name of the club is so generic."	
+1C2-E-TEST-0133-3.10/001	salsa discoteka en la roosevelt	
+1C2-E-TEST-0133-3.10/002	popular weekend	DEP=1C2-E-TEST-0133-3.10001
+1C2-E-TEST-0133-3.10/003	Sunday nights 10 pm	DEP=1C2-E-TEST-0133-3.10001
+1C2-E-TEST-0133-3.10/004	tip taxi driver	
+1C2-E-TEST-0133-3.10/005	trouble tracking address	
+1C2-E-TEST-0133-3.10/006	club name generic	
+1C2-E-TEST-0133-35.105	"Tin Tin Deo ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Calle 5 #38 ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ 71, Barrio San Fernando."	
+1C2-E-TEST-0133-35.105/001	tin tin deo	
+1C2-E-TEST-0133-35.105/002	calle 5 38	
+1C2-E-TEST-0133-35.105/003	barrio san fernando	DEP=1C2-E-TEST-0133-35.105002
+1C2-E-TEST-0133-35.107	"Zaperoco ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Avenida 5N #16 ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ 46, one block off La Sexta."	
+1C2-E-TEST-0133-35.107/001	zaperoco	
+1C2-E-TEST-0133-35.107/002	avenida 5n 16	DEP=1C2-E-TEST-0133-35.107001
+1C2-E-TEST-0133-35.107/003	la sexta	DEP=1C2-E-TEST-0133-35.107002
+1C2-E-TEST-0133-35.48	"Jovitas Hostel ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Calle 4 #5 ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ 43, barrio San Antonio."	
+1C2-E-TEST-0133-35.48/001	jovitas hostel	
+1C2-E-TEST-0133-35.48/002	calle 4 15	DEP=1C2-E-TEST-0133-35.48001
+1C2-E-TEST-0133-35.48/003	barrio san antonio	DEP=1C2-E-TEST-0133-35.48002
+1C2-E-TEST-0133-35.90	"Rosa Mezcal ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ Calle 2 #4 ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ 63B, barrio San Antonio."	
+1C2-E-TEST-0133-35.90/001	rosa mezcal	
+1C2-E-TEST-0133-35.90/002	calle 2 4	DEP=1C2-E-TEST-0133-35.90001
+1C2-E-TEST-0133-35.90/003	barrio san antonio	DEP=1C2-E-TEST-0133-35.90002

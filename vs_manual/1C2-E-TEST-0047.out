@@ -1,0 +1,295 @@
+1C2-E-TEST-0047-110.14	Corbett received his Bachelor's degree at Lebanon Valley College and was employed as a 9th grade teacher for one year.	
+1C2-E-TEST-0047-110.14/001	Received	
+1C2-E-TEST-0047-110.14/002	Bachelors degree	DEP=1C2-E-TEST-0047-110.14001
+1C2-E-TEST-0047-110.14/003	at Lebanon valley college	DEP=1C2-E-TEST-0047-110.14002
+1C2-E-TEST-0047-110.14/004	and was Employed	DEP=1C2-E-TEST-0047-110.14003
+1C2-E-TEST-0047-110.14/005	as a 9th grade teacher	DEP=1C2-E-TEST-0047-110.14004
+1C2-E-TEST-0047-110.14/006	for One year	DEP=1C2-E-TEST-0047-110.14005
+1C2-E-TEST-0047-166.16	Corbett's office launched its investigation in early 2007 on the heels of news reports about millions of dollars legislative leaders awarded to staff members in 2005 and 2006.	
+1C2-E-TEST-0047-166.16/001	Office launched	
+1C2-E-TEST-0047-166.16/002	its Investigation	DEP=1C2-E-TEST-0047-166.16001
+1C2-E-TEST-0047-166.16/003	in Early 2007	DEP=1C2-E-TEST-0047-166.16002
+1C2-E-TEST-0047-166.16/004	on the Heels	DEP=1C2-E-TEST-0047-166.16003
+1C2-E-TEST-0047-166.16/005	of News reports	DEP=1C2-E-TEST-0047-166.16004
+1C2-E-TEST-0047-166.16/006	about Millions	DEP=1C2-E-TEST-0047-166.16005
+1C2-E-TEST-0047-166.16/007	of Dollars	DEP=1C2-E-TEST-0047-166.16006
+1C2-E-TEST-0047-166.16/008	Legislative leaders awarded	DEP=1C2-E-TEST-0047-166.16007
+1C2-E-TEST-0047-166.16/009	to Staff members	DEP=1C2-E-TEST-0047-166.16008
+1C2-E-TEST-0047-166.16/010	in 2005	DEP=1C2-E-TEST-0047-166.16008
+1C2-E-TEST-0047-166.16/011	and 2006	DEP=1C2-E-TEST-0047-166.16008
+1C2-E-TEST-0047-166.31	Corbett's only statewide election campaigns were his two successful bids for attorney general.	
+1C2-E-TEST-0047-166.31/001	only Statewide election campaigns	
+1C2-E-TEST-0047-166.31/002	were Two successful bids	DEP=1C2-E-TEST-0047-166.31001
+1C2-E-TEST-0047-166.31/003for	Attorney general	DEP=1C2-E-TEST-0047-166.31002
+1C2-E-TEST-0047-166.32	He owes his previous tenures in high-ranking offices to appointments: Then-President George H. W. Bush tapped him as U.S. attorney for western Pennsylvania from 1989 to 1993, and then-Gov.	
+1C2-E-TEST-0047-166.32/001	he Owes	
+1C2-E-TEST-0047-166.32/002	his Previous tenures	DEP=1C2-E-TEST-0047-166.32001
+1C2-E-TEST-0047-166.32/003	in High-ranking offices	DEP=1C2-E-TEST-0047-166.32002
+1C2-E-TEST-0047-166.32/004	to Appointments	DEP=1C2-E-TEST-0047-166.32003
+1C2-E-TEST-0047-166.32/005	Then-president george h. w. bush	DEP=1C2-E-TEST-0047-166.32004
+1C2-E-TEST-0047-166.32/006	Tapped him	DEP=1C2-E-TEST-0047-166.32005
+1C2-E-TEST-0047-166.32/007	as u.s attorney	DEP=1C2-E-TEST-0047-166.32006
+1C2-E-TEST-0047-166.32/008	for Western pennsylvania	DEP=1C2-E-TEST-0047-166.32007
+1C2-E-TEST-0047-166.32/009	from 1989	DEP=1C2-E-TEST-0047-166.32008
+1C2-E-TEST-0047-166.32/010	to 1993	DEP=1C2-E-TEST-0047-166.32009
+1C2-E-TEST-0047-166.32/011	and Then-gov	DEP=1C2-E-TEST-0047-166.32010
+1C2-E-TEST-0047-166.6	He earned a bachelor's in political science in 1971 from Lebanon Valley College and a law degree in 1975 from St. Mary's University.	
+1C2-E-TEST-0047-166.6/001	he Earned	
+1C2-E-TEST-0047-166.6/002	anBachelors	DEP=1C2-E-TEST-0047-166.6001
+1C2-E-TEST-0047-166.6/003	in Political science	DEP=1C2-E-TEST-0047-166.6002
+1C2-E-TEST-0047-166.6/004	in 1971	DEP=1C2-E-TEST-0047-166.6003
+1C2-E-TEST-0047-166.6/005	from Lebanon valley college	DEP=1C2-E-TEST-0047-166.6002
+1C2-E-TEST-0047-166.6/006	and a Law degree	DEP=1C2-E-TEST-0047-166.6001
+1C2-E-TEST-0047-166.6/007	in 1975	DEP=1C2-E-TEST-0047-166.6006
+1C2-E-TEST-0047-166.6/008	from St marys university	DEP=1C2-E-TEST-0047-166.6006
+1C2-E-TEST-0047-166.7	He served in the Pennsylvania Army National Guard from 1971 to 1984.	
+1C2-E-TEST-0047-166.7/001	Served	
+1C2-E-TEST-0047-166.7/002	Pennsylvania army national guard	DEP=1C2-E-TEST-0047-166.7001
+1C2-E-TEST-0047-166.7/003	1971-1984 guard	DEP=1C2-E-TEST-0047-166.7002
+1C2-E-TEST-0047-171.12	Mr. Corbett is the current Attorney General of Pennsylvania and the Republican nominee for Governor.	
+1C2-E-TEST-0047-171.12/001	Current attorney general	
+1C2-E-TEST-0047-171.12/002	of Pennsylvania	DEP=1C2-E-TEST-0047-171.12001
+1C2-E-TEST-0047-171.12/003	and theRepublican nominee	DEP=1C2-E-TEST-0047-171.12004
+1C2-E-TEST-0047-171.12/004	Governor	DEP=1C2-E-TEST-0047-171.120013
+1C2-E-TEST-0047-2.11	In 1997, Corbett returned to the private practice of law in Pittsburgh. In 1998 he joined Waste Management as their Assistant General Counsel for Government Affairs. In 2002, Corbett formed his own law firm, Thomas Corbett and Associates, practicing until his election as Pennsylvania Attorney General in November 2004.	
+1C2-E-TEST-0047-2.11/001	in 1997	
+1C2-E-TEST-0047-2.11/002	corbett Returned	DEP=1C2-E-TEST-0047-2.11001
+1C2-E-TEST-0047-2.11/003	to the Private practice	DEP=1C2-E-TEST-0047-2.11002
+1C2-E-TEST-0047-2.11/004	of Law	DEP=1C2-E-TEST-0047-2.11003
+1C2-E-TEST-0047-2.11/005	in Pittsburgh	DEP=1C2-E-TEST-0047-2.11004
+1C2-E-TEST-0047-2.11/006	in 1998	
+1C2-E-TEST-0047-2.11/007	he Joined waste management	DEP=1C2-E-TEST-0047-2.11006
+1C2-E-TEST-0047-2.11/008	as Assistant general counsel	DEP=1C2-E-TEST-0047-2.11007
+1C2-E-TEST-0047-2.11/009	for Government affairs	DEP=1C2-E-TEST-0047-2.11008
+1C2-E-TEST-0047-2.11/010	2002	
+1C2-E-TEST-0047-2.11/011	corbett Formed	DEP=1C2-E-TEST-0047-2.11010
+1C2-E-TEST-0047-2.11/012	his own Law firm	DEP=1C2-E-TEST-0047-2.11011
+1C2-E-TEST-0047-2.11/013	Thomas corbett	DEP=1C2-E-TEST-0047-2.11012
+1C2-E-TEST-0047-2.11/014	and Associates	DEP=1C2-E-TEST-0047-2.11013
+1C2-E-TEST-0047-2.11/015	Practicing until	DEP=1C2-E-TEST-0047-2.11014
+1C2-E-TEST-0047-2.11/016	his Election	DEP=1C2-E-TEST-0047-2.11015
+1C2-E-TEST-0047-2.11/017	as Pennsylvania attorney general	DEP=1C2-E-TEST-0047-2.11016
+1C2-E-TEST-0047-2.11/018	in November 2004	DEP=1C2-E-TEST-0047-2.11017
+1C2-E-TEST-0047-2.17	Corbett served his country as a member of the Pennsylvania National Guard 28th Infantry Division from 1971 until 1984, rising from private to captain.	
+1C2-E-TEST-0047-2.17/001	Served	
+1C2-E-TEST-0047-2.17/002	his Country	DEP=1C2-E-TEST-0047-2.17001
+1C2-E-TEST-0047-2.17/003	as a Member	DEP=1C2-E-TEST-0047-2.17002
+1C2-E-TEST-0047-2.17/004	of the pennsylvania national guard 28th infantry division	DEP=1C2-E-TEST-0047-2.17003
+1C2-E-TEST-0047-2.17/005	1971 1984	DEP=1C2-E-TEST-0047-2.17004
+1C2-E-TEST-0047-2.17/006	Rising	DEP=1C2-E-TEST-0047-2.17005
+1C2-E-TEST-0047-2.17/007	from Private	DEP=1C2-E-TEST-0047-2.17006
+1C2-E-TEST-0047-2.17/008	to Captain	DEP=1C2-E-TEST-0047-2.17006
+1C2-E-TEST-0047-2.18	Corbett received his undergraduate degree from Lebanon Valley College in Annville, Pennsylvania, and taught civics and history in Pine Grove Area High School in Schuylkill County, Pennsylvania.	
+1C2-E-TEST-0047-2.18/001	corbett Received	
+1C2-E-TEST-0047-2.18/002	his Undergraduate degree	DEP=1C2-E-TEST-0047-2.18001
+1C2-E-TEST-0047-2.18/003	from lebanon valley college	DEP=1C2-E-TEST-0047-2.18002
+1C2-E-TEST-0047-2.18/004	in Annville pennsylvania	DEP=1C2-E-TEST-0047-2.18003
+1C2-E-TEST-0047-2.18/005	and Taught civics and history	DEP=1C2-E-TEST-0047-2.18004
+1C2-E-TEST-0047-2.18/006	in Pine grove area high school	DEP=1C2-E-TEST-0047-2.18005
+1C2-E-TEST-0047-2.18/007	in Schuylkill county pennsylvania	DEP=1C2-E-TEST-0047-2.18006
+1C2-E-TEST-0047-2.3	A life-long Pennsylvania resident, Corbett has been a key advisor to U.S. Presidents and Governors.	
+1C2-E-TEST-0047-2.3/001	Life-long pennsylvania resident	
+1C2-E-TEST-0047-2.3/002	corbett has been Key advisor	DEP=1C2-E-TEST-0047-2.3001
+1C2-E-TEST-0047-2.3/003	to Us presidents and governors	DEP=1C2-E-TEST-0047-2.3002
+1C2-E-TEST-0047-2.4	He has a long and distinguished career serving the citizens of the Commonwealth, making a significant impact on the lives of Pennsylvanians through his work on issues of criminal justice, victims' rights and drug and alcohol prevention and rehabilitation.	
+1C2-E-TEST-0047-2.4/001	has a Long distinguished career serving	
+1C2-E-TEST-0047-2.4/002	serving Citizens	DEP=1C2-E-TEST-0047-2.4001
+1C2-E-TEST-0047-2.4/003	of the Commonwealth	DEP=1C2-E-TEST-0047-2.4002
+1C2-E-TEST-0047-2.4/004	Making	DEP=1C2-E-TEST-0047-2.4003
+1C2-E-TEST-0047-2.4/005	a Significant impact	DEP=1C2-E-TEST-0047-2.4004
+1C2-E-TEST-0047-2.4/006	on the Lives	DEP=1C2-E-TEST-0047-2.4005
+1C2-E-TEST-0047-2.4/007	of Pennsylvanians	DEP=1C2-E-TEST-0047-2.4006
+1C2-E-TEST-0047-2.4/008	through his Work	DEP=1C2-E-TEST-0047-2.4007
+1C2-E-TEST-0047-2.4/009	on Issues of	DEP=1C2-E-TEST-0047-2.4008
+1C2-E-TEST-0047-2.4/010	Criminal justice	DEP=1C2-E-TEST-0047-2.4009
+1C2-E-TEST-0047-2.4/011	Victims rights	DEP=1C2-E-TEST-0047-2.4009
+1C2-E-TEST-0047-2.4/012	Drug alcohol	DEP=1C2-E-TEST-0047-2.4009
+1C2-E-TEST-0047-2.4/013	Prevention rehabilitation	DEP=1C2-E-TEST-0047-2.4012
+1C2-E-TEST-0047-2.8	Following several years of private law practice, Corbett was called back to public service in 1989, when President George H. W. Bush appointed him to serve as U.S. Attorney for the Western District of Pennsylvania.	
+1C2-E-TEST-0047-2.8/001	following Several years	
+1C2-E-TEST-0047-2.8/002	of Private law practice	DEP=1C2-E-TEST-0047-2.8001
+1C2-E-TEST-0047-2.8/003	corbett was called back to Public service	DEP=1C2-E-TEST-0047-2.8002
+1C2-E-TEST-0047-2.8/004	in 1989	DEP=1C2-E-TEST-0047-2.8003
+1C2-E-TEST-0047-2.8/005	when President george h.w. Bush	
+1C2-E-TEST-0047-2.8/006	Appointed	DEP=1C2-E-TEST-0047-2.8005
+1C2-E-TEST-0047-2.8/007	him to Serve	DEP=1C2-E-TEST-0047-2.8006
+1C2-E-TEST-0047-2.8/008	as u.s attorney	DEP=1C2-E-TEST-0047-2.8007
+1C2-E-TEST-0047-2.8/009	for Western district	DEP=1C2-E-TEST-0047-2.8008
+1C2-E-TEST-0047-2.8/010	of pennsylvania	DEP=1C2-E-TEST-0047-2.8009
+1C2-E-TEST-0047-2.9	In the 1990's, Corbett provided criminal law and policy expertise to then-Congressman Tom Ridge, later filling several key roles in Governor Ridge's administration. Corbett planned the Governor's successful special session on crime and was appointed to chair the Pennsylvania Commission on Crime and Delinquency, shaping criminal justice policy and working to improve drug and alcohol prevention and rehabilitation programs across the state.\xA0	
+1C2-E-TEST-0047-2.9/001	in the 1990s	
+1C2-E-TEST-0047-2.9/002	corbett Provided criminal law	DEP=1C2-E-TEST-0047-2.9001
+1C2-E-TEST-0047-2.9/003	and Policy expertise	DEP=1C2-E-TEST-0047-2.9002
+1C2-E-TEST-0047-2.9/004	to Then-congressman	DEP=1C2-E-TEST-0047-2.9003
+1C2-E-TEST-0047-2.9/005	tom Ridge	DEP=1C2-E-TEST-0047-2.9004
+1C2-E-TEST-0047-2.9/006	later Filling several key roles	DEP=1C2-E-TEST-0047-2.9005
+1C2-E-TEST-0047-2.9/007	in Governor ridges administration	DEP=1C2-E-TEST-0047-2.9006
+1C2-E-TEST-0047-2.9/008	corbett Planned	DEP=1C2-E-TEST-0047-2.9007
+1C2-E-TEST-0047-2.9/009	Governors	DEP=1C2-E-TEST-0047-2.9008
+1C2-E-TEST-0047-2.9/010	Successful special session	DEP=1C2-E-TEST-0047-2.9009
+1C2-E-TEST-0047-2.9/011	on Crime	DEP=1C2-E-TEST-0047-2.9010
+1C2-E-TEST-0047-2.9/012	and was Appointed	DEP=1C2-E-TEST-0047-2.9011
+1C2-E-TEST-0047-2.9/013	to Chair	DEP=1C2-E-TEST-0047-2.9012
+1C2-E-TEST-0047-2.9/014	the Pennsylvania commision	DEP=1C2-E-TEST-0047-2.9013
+1C2-E-TEST-0047-2.9/015	on Crime and delinquency	DEP=1C2-E-TEST-0047-2.9014
+1C2-E-TEST-0047-2.9/016	Shaping criminal justice policy	DEP=1C2-E-TEST-0047-2.9015
+1C2-E-TEST-0047-2.9/017	and Working	DEP=1C2-E-TEST-0047-2.9016
+1C2-E-TEST-0047-2.9/018	to Improve drug alcohol prevention	DEP=1C2-E-TEST-0047-2.9017
+1C2-E-TEST-0047-2.9/019	and Rehabitlitation program	DEP=1C2-E-TEST-0047-2.9018
+1C2-E-TEST-0047-2.9/020	across the State	DEP=1C2-E-TEST-0047-2.9019
+1C2-E-TEST-0047-38.14	In 1989, President George H. W. Bush appointed Tom Corbett to serve as U.S. Attorney for the Western District of Pennsylvania.	
+1C2-E-TEST-0047-38.14/001	in 1989	
+1C2-E-TEST-0047-38.14/002	President george h.w. Bush	DEP=1C2-E-TEST-0047-38.14001
+1C2-E-TEST-0047-38.14/003	Appointed tom corbett	DEP=1C2-E-TEST-0047-38.14002
+1C2-E-TEST-0047-38.14/004	to Serve	DEP=1C2-E-TEST-0047-38.14003
+1C2-E-TEST-0047-38.14/005	as U.s attorney	DEP=1C2-E-TEST-0047-38.14004
+1C2-E-TEST-0047-38.14/006	for the Western district	DEP=1C2-E-TEST-0047-38.14005
+1C2-E-TEST-0047-38.14/007	of pennsylvania	DEP=1C2-E-TEST-0047-38.14006
+1C2-E-TEST-0047-38.18	Tom Corbett briefly left public service to join the firm of Thorp, Reed and Armstrong as a partner focused on commercial litigation, but in 1994 was asked to provide criminal law and policy expertise to the gubernatorial campaign of then-Congressman Tom Ridge.	
+1C2-E-TEST-0047-38.18/001	tom corbett Briefly left public service	
+1C2-E-TEST-0047-38.18/002	to Join	DEP=1C2-E-TEST-0047-38.18001
+1C2-E-TEST-0047-38.18/003	the Firm	DEP=1C2-E-TEST-0047-38.18002
+1C2-E-TEST-0047-38.18/004	of Thorp reed and armstrong	DEP=1C2-E-TEST-0047-38.18003
+1C2-E-TEST-0047-38.18/005	as a Partner	DEP=1C2-E-TEST-0047-38.18004
+1C2-E-TEST-0047-38.18/006	Focussed on	DEP=1C2-E-TEST-0047-38.18005
+1C2-E-TEST-0047-38.18/007	Commercial litigation	DEP=1C2-E-TEST-0047-38.18006
+1C2-E-TEST-0047-38.18/008	but in 1994	DEP=1C2-E-TEST-0047-38.180107
+1C2-E-TEST-0047-38.18/009	was Asked	DEP=1C2-E-TEST-0047-38.180108
+1C2-E-TEST-0047-38.18/010	to Provide	DEP=1C2-E-TEST-0047-38.18009
+1C2-E-TEST-0047-38.18/011	Criminal law	DEP=1C2-E-TEST-0047-38.18010
+1C2-E-TEST-0047-38.18/012	and Policy expertise	DEP=1C2-E-TEST-0047-38.18010
+1C2-E-TEST-0047-38.18/013	to the Gubernatorial campaign	DEP=1C2-E-TEST-0047-38.18012
+1C2-E-TEST-0047-38.18/014	of Then-congressman Tom Ridge	DEP=1C2-E-TEST-0047-38.18013
+1C2-E-TEST-0047-38.20	Governor Tom Ridge asked Tom Corbett to chair his transition team to review all criminal justice agencies and policies, and he was involved in planning the Governor's successful special session on crime.	
+1C2-E-TEST-0047-38.20/001	Governor ridge asked	
+1C2-E-TEST-0047-38.20/002	corbett to Chair	DEP=1C2-E-TEST-0047-38.20001
+1C2-E-TEST-0047-38.20/003	his Transition team	DEP=1C2-E-TEST-0047-38.20002
+1C2-E-TEST-0047-38.20/004	to Review	DEP=1C2-E-TEST-0047-38.20003
+1C2-E-TEST-0047-38.20/005	all Criminal justice agencies Policies	DEP=1C2-E-TEST-0047-38.20004
+1C2-E-TEST-0047-38.20/006	and he was Involved	DEP=1C2-E-TEST-0047-38.20005
+1C2-E-TEST-0047-38.20/007	in Planning	DEP=1C2-E-TEST-0047-38.20006
+1C2-E-TEST-0047-38.20/008	the Governors successful special session	DEP=1C2-E-TEST-0047-38.20007
+1C2-E-TEST-0047-38.20/009	on Crime	DEP=1C2-E-TEST-0047-38.20008
+1C2-E-TEST-0047-38.23	Tom Corbett was also appointed to chair the Pennsylvania Commission on Crime and Delinquency where he took an ongoing leadership role in shaping criminal justice policy and worked to improve drug and alcohol prevention and rehabilitation programs across the state.	
+1C2-E-TEST-0047-38.23/001	corbett was also Appointed	
+1C2-E-TEST-0047-38.23/002	to Chair	DEP=1C2-E-TEST-0047-38.23001
+1C2-E-TEST-0047-38.23/003	the Pennsylvania commision	DEP=1C2-E-TEST-0047-38.23002
+1C2-E-TEST-0047-38.23/004	on Crime and delinquency	DEP=1C2-E-TEST-0047-38.23003
+1C2-E-TEST-0047-38.23/005	where he took an Ongoing leadership role	DEP=1C2-E-TEST-0047-38.23004
+1C2-E-TEST-0047-38.23/006	Shaping criminal justice policy	DEP=1C2-E-TEST-0047-38.23005
+1C2-E-TEST-0047-38.23/007	and Worked to	DEP=1C2-E-TEST-0047-38.23006
+1C2-E-TEST-0047-38.23/008	Improve drug and alcohol prevention	DEP=1C2-E-TEST-0047-38.23007
+1C2-E-TEST-0047-38.23/009	and Rehabilition programs	DEP=1C2-E-TEST-0047-38.23007
+1C2-E-TEST-0047-38.23/010	across the State	DEP=1C2-E-TEST-0047-38.23009
+1C2-E-TEST-0047-38.32	In 1975, he received his law degree from St. Mary's University Law School in San Antonio, Texas.	
+1C2-E-TEST-0047-38.32/001	in 1975	
+1C2-E-TEST-0047-38.32/002	he Received	DEP=1C2-E-TEST-0047-38.32001
+1C2-E-TEST-0047-38.32/003	his Law degree	DEP=1C2-E-TEST-0047-38.32002
+1C2-E-TEST-0047-38.32/004	fromst marys university law school	DEP=1C2-E-TEST-0047-38.32003
+1C2-E-TEST-0047-38.32/005	in San antonio texas	DEP=1C2-E-TEST-0047-38.32004
+1C2-E-TEST-0047-38.33	Tom Corbett and his wife of 31 years, Susan Manbeck Corbett, are the proud parents of two children, Thomas III and Katherine.	
+1C2-E-TEST-0047-38.33/001	tom and Wife	
+1C2-E-TEST-0047-38.33/002	of 31 years	DEP=1C2-E-TEST-0047-38.33001
+1C2-E-TEST-0047-38.33/003	Susan manbeck	DEP=1C2-E-TEST-0047-38.33001
+1C2-E-TEST-0047-38.33/004	are Proud parents	DEP=1C2-E-TEST-0047-38.33003
+1C2-E-TEST-0047-38.33/005	of Two children	DEP=1C2-E-TEST-0047-38.33004
+1C2-E-TEST-0047-38.33/006	Thomas iii	DEP=1C2-E-TEST-0047-38.33005
+1C2-E-TEST-0047-38.33/007	Katherine	DEP=1C2-E-TEST-0047-38.33005
+1C2-E-TEST-0047-5.13	After returning to Pennsylvania and private practice, he entered the state's political stage for the first time, winning the election for township commissioner in Shaler Township, Pennsylvania.	
+1C2-E-TEST-0047-5.13/001	after Returning	
+1C2-E-TEST-0047-5.13/002	to pennsylvania	DEP=1C2-E-TEST-0047-5.13001
+1C2-E-TEST-0047-5.13/003	and Private practise	DEP=1C2-E-TEST-0047-5.13002
+1C2-E-TEST-0047-5.13/004	her Entered	DEP=1C2-E-TEST-0047-5.13003
+1C2-E-TEST-0047-5.13/005	the States political stage	DEP=1C2-E-TEST-0047-5.13004
+1C2-E-TEST-0047-5.13/006	for the First time	DEP=1C2-E-TEST-0047-5.13005
+1C2-E-TEST-0047-5.13/007	Winning	DEP=1C2-E-TEST-0047-5.13006
+1C2-E-TEST-0047-5.13/008	the Election	DEP=1C2-E-TEST-0047-5.13007
+1C2-E-TEST-0047-5.13/009	forTownship commissioner	DEP=1C2-E-TEST-0047-5.13008
+1C2-E-TEST-0047-5.13/010	in Shaler township	DEP=1C2-E-TEST-0047-5.13009
+1C2-E-TEST-0047-5.13/011	pennsylvania	DEP=1C2-E-TEST-0047-5.13010
+1C2-E-TEST-0047-5.15	Following his resignation, he again returned to private practice in Pennsylvania , while simultaneously serving as an advisor to Tom Ridge's successful 1994 gubernatorial campaign.	
+1C2-E-TEST-0047-5.15/001	following his Resignation	
+1C2-E-TEST-0047-5.15/002	he again Returned campaign	DEP=1C2-E-TEST-0047-5.15001
+1C2-E-TEST-0047-5.15/003	to Private practice	DEP=1C2-E-TEST-0047-5.15002
+1C2-E-TEST-0047-5.15/004	in pennsylvania campaign	DEP=1C2-E-TEST-0047-5.15003
+1C2-E-TEST-0047-5.15/005	while Simultaneously campaign	DEP=1C2-E-TEST-0047-5.15004
+1C2-E-TEST-0047-5.15/006	Serving campaign	DEP=1C2-E-TEST-0047-5.15005
+1C2-E-TEST-0047-5.15/007	as an Advisor	DEP=1C2-E-TEST-0047-5.15006
+1C2-E-TEST-0047-5.15/008	to tom Ridges campaign	DEP=1C2-E-TEST-0047-5.15007
+1C2-E-TEST-0047-5.15/009	Successful campaign	DEP=1C2-E-TEST-0047-5.15008
+1C2-E-TEST-0047-5.15/010	1994 gubernatorial campaign	DEP=1C2-E-TEST-0047-5.15009
+1C2-E-TEST-0047-5.9	Corbett served in the Pennsylvania Army National Guard 28th Infantry Division from 1971 to 1984.	
+1C2-E-TEST-0047-5.9/001	Served	
+1C2-E-TEST-0047-5.9/002	pennsylvania army national guard 28th infantry division	DEP=1C2-E-TEST-0047-5.9001
+1C2-E-TEST-0047-5.9/003	1971 1984	DEP=1C2-E-TEST-0047-5.9002
+1C2-E-TEST-0047-71.10	In 1983, Corbett began a several-year stint in private practice as an attorney at Rose, Schmidt, Hasley and DiSalle.	
+1C2-E-TEST-0047-71.10/001	1983	
+1C2-E-TEST-0047-71.10/002	began a Several-year stint	DEP=1C2-E-TEST-0047-71.10001
+1C2-E-TEST-0047-71.10/003	in Private practice	DEP=1C2-E-TEST-0047-71.10002
+1C2-E-TEST-0047-71.10/004	as an Attorney	DEP=1C2-E-TEST-0047-71.10003
+1C2-E-TEST-0047-71.10/005	at rose schmidt hasley disalle	DEP=1C2-E-TEST-0047-71.10004
+1C2-E-TEST-0047-71.19	As attorney general, Corbett is probably best known for launching a state corruption probe in 2007.	
+1C2-E-TEST-0047-71.19/001	as an Attorney general	
+1C2-E-TEST-0047-71.19/002	corbett is Probably best known =	DEP=1C2-E-TEST-0047-71.19001
+1C2-E-TEST-0047-71.19/003	for Launching =	DEP=1C2-E-TEST-0047-71.19002
+1C2-E-TEST-0047-71.19/004	a State corruption probe	DEP=1C2-E-TEST-0047-71.19003
+1C2-E-TEST-0047-71.19/005	in 2007 =	DEP=1C2-E-TEST-0047-71.19004
+1C2-E-TEST-0047-71.24	In 2009, he announced his intention to run for governer, in a bid to succeed Gov. Ed Rendell (D), who was barred by law from running for a fourth term.	
+1C2-E-TEST-0047-71.24/001	in 2009	
+1C2-E-TEST-0047-71.24/002	he Announced	DEP=1C2-E-TEST-0047-71.24001
+1C2-E-TEST-0047-71.24/003	his Intention	DEP=1C2-E-TEST-0047-71.24002
+1C2-E-TEST-0047-71.24/004	to Run	DEP=1C2-E-TEST-0047-71.24003
+1C2-E-TEST-0047-71.24/005	for Governor	DEP=1C2-E-TEST-0047-71.24004
+1C2-E-TEST-0047-71.24/006	in a Bid	DEP=1C2-E-TEST-0047-71.24005
+1C2-E-TEST-0047-71.24/007	to Succeed	DEP=1C2-E-TEST-0047-71.24006
+1C2-E-TEST-0047-71.24/008	Gov ed rendell	DEP=1C2-E-TEST-0047-71.24007
+1C2-E-TEST-0047-71.24/009	who was Barred	DEP=1C2-E-TEST-0047-71.24008
+1C2-E-TEST-0047-71.24/010	by Law	DEP=1C2-E-TEST-0047-71.24009
+1C2-E-TEST-0047-71.24/011	from Running	DEP=1C2-E-TEST-0047-71.24010
+1C2-E-TEST-0047-71.24/012	for a Fourth term	DEP=1C2-E-TEST-0047-71.24011
+1C2-E-TEST-0047-71.42	In February 2010, Corbett signed a pledge not to increase taxes if elected governor.	
+1C2-E-TEST-0047-71.42/001	February 2010	
+1C2-E-TEST-0047-71.42/002	corbett Signed	DEP=1C2-E-TEST-0047-71.42001
+1C2-E-TEST-0047-71.42/003	a Pledge	DEP=1C2-E-TEST-0047-71.42002
+1C2-E-TEST-0047-71.42/004	not to Increase taxes	DEP=1C2-E-TEST-0047-71.42003
+1C2-E-TEST-0047-71.42/005	if Elected governor	DEP=1C2-E-TEST-0047-71.42004
+1C2-E-TEST-0047-71.54	Corbett also supports natural gas drilling in the state's Marcellus Shale, although he believes the natural gas industry should be regulated.	
+1C2-E-TEST-0047-71.54/001	Supports natural gas drilling	
+1C2-E-TEST-0047-71.54/002	in States marcellus shale	DEP=1C2-E-TEST-0047-71.54001
+1C2-E-TEST-0047-71.54/003	although he Believes	DEP=1C2-E-TEST-0047-71.54002
+1C2-E-TEST-0047-71.54/004	the Natural gas industry	DEP=1C2-E-TEST-0047-71.54003
+1C2-E-TEST-0047-71.54/005	should be Regulated	DEP=1C2-E-TEST-0047-71.54004
+1C2-E-TEST-0047-71.60	Corbett was endorsed in his 2010 Pennsylvania gubernatorial campaign by Ridge, former Pennsylvania Governors Richard Thornburgh and Mark Schweiker and New Jersey Gov. Chris Christie (R).	
+1C2-E-TEST-0047-71.60/001	corbett was Endorsed	
+1C2-E-TEST-0047-71.60/002	in his 2010	DEP=1C2-E-TEST-0047-71.60001
+1C2-E-TEST-0047-71.60/003	Pennsylvania gubernational campaign	DEP=1C2-E-TEST-0047-71.60002
+1C2-E-TEST-0047-71.60/004	by Ridge	DEP=1C2-E-TEST-0047-71.60003
+1C2-E-TEST-0047-71.60/005	Former pennsylvania governors richard thornburgh	DEP=1C2-E-TEST-0047-71.60004
+1C2-E-TEST-0047-71.60/006	and Mark schweiker	DEP=1C2-E-TEST-0047-71.60005
+1C2-E-TEST-0047-71.60/007	and New jersey gov chris christie	DEP=1C2-E-TEST-0047-71.60006
+1C2-E-TEST-0047-73.4	Under Corbett's plan, each of the state's 18 congressional districts which are being gerrymandered so that as many as 12 of them favor Republicans would choose how to allocate a single electoral vote rather than having all of the state's votes go to the winner of the state.	
+1C2-E-TEST-0047-73.4/001	Under	
+1C2-E-TEST-0047-73.4/002	corbetts Plan	DEP=1C2-E-TEST-0047-73.4001
+1C2-E-TEST-0047-73.4/003	each of the States	DEP=1C2-E-TEST-0047-73.4002
+1C2-E-TEST-0047-73.4/004	18 congressional districts	DEP=1C2-E-TEST-0047-73.4003
+1C2-E-TEST-0047-73.4/005	which are being Gerrymandered	DEP=1C2-E-TEST-0047-73.4004
+1C2-E-TEST-0047-73.4/006	so that 12 of them	DEP=1C2-E-TEST-0047-73.4005
+1C2-E-TEST-0047-73.4/007	Favor republicans	DEP=1C2-E-TEST-0047-73.4006
+1C2-E-TEST-0047-73.4/008	would choose how to Allocate	DEP=1C2-E-TEST-0047-73.4007
+1C2-E-TEST-0047-73.4/009	a Single electoral vote	DEP=1C2-E-TEST-0047-73.4008
+1C2-E-TEST-0047-73.4/010	rather than having all of the State	DEP=1C2-E-TEST-0047-73.4009
+1C2-E-TEST-0047-73.4/011	Votes	DEP=1C2-E-TEST-0047-73.4010
+1C2-E-TEST-0047-73.4/012	go to the Winner	DEP=1C2-E-TEST-0047-73.4011
+1C2-E-TEST-0047-73.4/013	of the State	DEP=1C2-E-TEST-0047-73.4012
+1C2-E-TEST-0047-73.6	Nevertheless, Corbett and his chief ally in the legislature, GOP Senate Majority Leader Dominic Pileggi, are not swayed by these congressmen's claim that it is more important to protect their seats than it is to steal the election.	
+1C2-E-TEST-0047-73.6/001	corbett and his Chief ally	
+1C2-E-TEST-0047-73.6/002	in Legislature	DEP=1C2-E-TEST-0047-73.6001
+1C2-E-TEST-0047-73.6/003	gop senate majority leader dominic pileggi	DEP=1C2-E-TEST-0047-73.6002
+1C2-E-TEST-0047-73.6/004	are not Swayed	DEP=1C2-E-TEST-0047-73.6003
+1C2-E-TEST-0047-73.6/005	by these Congressmen's	DEP=1C2-E-TEST-0047-73.6004
+1C2-E-TEST-0047-73.6/006	Claim	DEP=1C2-E-TEST-0047-73.6005
+1C2-E-TEST-0047-73.6/007	that it is more Important	DEP=1C2-E-TEST-0047-73.6006
+1C2-E-TEST-0047-73.6/008	to Protect	DEP=1C2-E-TEST-0047-73.6007
+1C2-E-TEST-0047-73.6/009	their Seats	DEP=1C2-E-TEST-0047-73.6008
+1C2-E-TEST-0047-73.6/010	than it is to Steal	DEP=1C2-E-TEST-0047-73.6009
+1C2-E-TEST-0047-73.6/011	the Election	DEP=1C2-E-TEST-0047-73.6010

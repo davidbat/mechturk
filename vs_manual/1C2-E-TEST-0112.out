@@ -1,0 +1,194 @@
+1C2-E-TEST-0112-123.17	"Aside from the duck tour in Boston tickets themselves, the duck tour website offers discounts to a number of other Boston attractions."	
+1C2-E-TEST-0112-123.17/001	Aside from the duck tour	
+1C2-E-TEST-0112-123.17/002	in Boston	DEP=1C2-E-TEST-0112-123.17001
+1C2-E-TEST-0112-123.17/003	tickets themselves	DEP=1C2-E-TEST-0112-123.17002
+1C2-E-TEST-0112-123.17/004	the duck tour website	DEP=1C2-E-TEST-0112-123.17003
+1C2-E-TEST-0112-123.17/005	offers discounts	DEP=1C2-E-TEST-0112-123.17004
+1C2-E-TEST-0112-123.17/006	to a number of other Boston attractions	DEP=1C2-E-TEST-0112-123.17005
+1C2-E-TEST-0112-123.6	"Because Boston duck tours are aimed mostly at tourists, it can be difficult to find Boston duck tour discount tickets in the summer."	
+1C2-E-TEST-0112-123.6/001	Because Boston duck tours	
+1C2-E-TEST-0112-123.6/002	are aimed mostly at tourists	DEP=1C2-E-TEST-0112-123.6001
+1C2-E-TEST-0112-123.6/003	it can be difficult to find	DEP=1C2-E-TEST-0112-123.6002
+1C2-E-TEST-0112-123.6/004	to find Boston duck tour discount tickets in the summer	DEP=1C2-E-TEST-0112-123.6003
+1C2-E-TEST-0112-15.11	"Outside the Old South Meeting House, in a stretch of downtown thick with sightseers, we came upon a tiny kiosk where a scruffy twenty something was selling tickets for something called Super Duck Tours, an amphibious-tour company new to town, and one that bore more than a passing resemblance to Brown's business."	
+1C2-E-TEST-0112-15.11/001	Outside the Old South Meeting House	
+1C2-E-TEST-0112-15.11/002	in a stretch of downtown thick with sightseers	DEP=1C2-E-TEST-0112-15.11001
+1C2-E-TEST-0112-15.11/003	we came upon a tiny kiosk	DEP=1C2-E-TEST-0112-15.11002
+1C2-E-TEST-0112-15.11/004	where a scruffy twenty something was selling tickets	DEP=1C2-E-TEST-0112-15.11003
+1C2-E-TEST-0112-15.11/005	for something called Super Duck Tours	DEP=1C2-E-TEST-0112-15.11004
+1C2-E-TEST-0112-15.11/006	an amphibious-tour company new to town	DEP=1C2-E-TEST-0112-15.11005
+1C2-E-TEST-0112-15.11/007	and one that bore more than a passing resemblance to Brown's business	DEP=1C2-E-TEST-0112-15.11006
+1C2-E-TEST-0112-15.117	"Boston Duck Tours sued its competitor, Super Duck Tours, claiming trademark infringement."	
+1C2-E-TEST-0112-15.117/001	Boston Duck Tours sued its competitor	
+1C2-E-TEST-0112-15.117/002	Super Duck Tours	DEP=1C2-E-TEST-0112-15.117001
+1C2-E-TEST-0112-15.117/003	claiming trademark infringement	DEP=1C2-E-TEST-0112-15.117002
+1C2-E-TEST-0112-15.120	He said it specifically referred to the World War Two-Era amphibious vehicles Boston Duck Tours uses.	
+1C2-E-TEST-0112-15.120/001	He said it specifically referred	
+1C2-E-TEST-0112-15.120/002	to the World War Two-Era	DEP=1C2-E-TEST-0112-15.120001
+1C2-E-TEST-0112-15.120/003	amphibious vehicles Boston Duck Tours uses	DEP=1C2-E-TEST-0112-15.120002
+1C2-E-TEST-0112-15.131	"Super Duck Tours, which competes with Boston Duck Tours in offering land and water trips on amphibious vehicles, can't use ""duck tour"" in its name, according to the ruling by U.S. District Judge Nathaniel Gorton."	
+1C2-E-TEST-0112-15.131/001	Super Duck Tours	
+1C2-E-TEST-0112-15.131/002	which competes with Boston Duck Tours	DEP=1C2-E-TEST-0112-15.131001
+1C2-E-TEST-0112-15.131/003	in offering land and water trips	DEP=1C2-E-TEST-0112-15.131002
+1C2-E-TEST-0112-15.131/004	on amphibious vehicles	DEP=1C2-E-TEST-0112-15.131003
+1C2-E-TEST-0112-15.131/005	can't use ""duck tour"" in its name	DEP=1C2-E-TEST-0112-15.131004
+1C2-E-TEST-0112-15.131/006	according to the ruling by U.S. District Judge Nathaniel Gorton	DEP=1C2-E-TEST-0112-15.131005
+1C2-E-TEST-0112-15.136	"By Friday afternoon, Super Duck Tours had changed its name to Super Ducks. In a statement, owner Dennis Kraez, praised Gorton for rejecting Boston Duck Tours' claim that his company was interfering with Boston Duck Tours' business by harassing and misleading potential customers."	
+1C2-E-TEST-0112-15.136/001	By Friday afternoon	
+1C2-E-TEST-0112-15.136/002	Super Duck Tours had changed its name to Super Ducks	DEP=1C2-E-TEST-0112-15.136001
+1C2-E-TEST-0112-15.136/003	In a statement, owner Dennis Kraez	DEP=1C2-E-TEST-0112-15.136002
+1C2-E-TEST-0112-15.136/004praised	Gorton for rejecting Boston Duck Tours' claim	DEP=1C2-E-TEST-0112-15.136003
+1C2-E-TEST-0112-15.136/005	that his company was interfering with Boston Duck Tours' business	DEP=1C2-E-TEST-0112-15.136004
+1C2-E-TEST-0112-15.136/006	by harassing and misleading potential customers	DEP=1C2-E-TEST-0112-15.136005
+1C2-E-TEST-0112-15.146	"Brown said the confusion for customers was immediate, with some even showing up at Boston Duck Tours carrying Super Duck Tours tickets they purchased on the Internet, thinking it was the same company."	
+1C2-E-TEST-0112-15.146/001	Brown said	
+1C2-E-TEST-0112-15.146/002	the confusion for customers	DEP=1C2-E-TEST-0112-15.146001
+1C2-E-TEST-0112-15.146/003	was immediate	DEP=1C2-E-TEST-0112-15.146002
+1C2-E-TEST-0112-15.146/004	with some even showing up at Boston Duck Tours	DEP=1C2-E-TEST-0112-15.146003
+1C2-E-TEST-0112-15.146/005	carrying Super Duck Tours tickets	DEP=1C2-E-TEST-0112-15.146004
+1C2-E-TEST-0112-15.146/006	they purchased on the Internet	DEP=1C2-E-TEST-0112-15.146005
+1C2-E-TEST-0112-15.146/007	thinking it was the same company	DEP=1C2-E-TEST-0112-15.146006
+1C2-E-TEST-0112-15.174	"Boston Duck Tours claims in court papers they have been besieged with complaints from customers since Super Duck Tours splashed down on May 21, including one from a woman who thought they were the same company, just featuring special tour route."	
+1C2-E-TEST-0112-15.174/001	Boston Duck Tours claims	
+1C2-E-TEST-0112-15.174/002	in court papers	DEP=1C2-E-TEST-0112-15.174001
+1C2-E-TEST-0112-15.174/003	they have been besieged	DEP=1C2-E-TEST-0112-15.174002
+1C2-E-TEST-0112-15.174/004with	complaints from customers	DEP=1C2-E-TEST-0112-15.174003
+1C2-E-TEST-0112-15.174/005	since Super Duck Tours splashed down on May 21	DEP=1C2-E-TEST-0112-15.174004
+1C2-E-TEST-0112-15.174/006	including one from a woman who thought they were the same company	DEP=1C2-E-TEST-0112-15.174005
+1C2-E-TEST-0112-15.174/007	just featuring special tour route	
+DEP=1C2-E-TEST-0112-15.174006		
+1C2-E-TEST-0112-15.78	Tourists holding Super Duck Tours tickets began showing up to board Boston Duck Tours boats.	
+1C2-E-TEST-0112-15.78/001	Tourists holding Super Duck Tours tickets	
+1C2-E-TEST-0112-15.78/002	began showing up to board	DEP=1C2-E-TEST-0112-15.78001
+1C2-E-TEST-0112-15.78/003	Boston Duck Tours boats	
+DEP=1C2-E-TEST-0112-15.78002		
+1C2-E-TEST-0112-15.81	"When Boston Duck Tours automated phone message still described the company as the city's only amphibious tour, Super Duck Tours demanded it make a new recording."	
+1C2-E-TEST-0112-15.81/001	When Boston Duck Tours automated phone message	
+1C2-E-TEST-0112-15.81/002	still described the company as the city's only amphibious tour	DEP=1C2-E-TEST-0112-15.81001
+1C2-E-TEST-0112-15.81/003	Super Duck Tours demanded it make a new recording	DEP=1C2-E-TEST-0112-15.81002
+1C2-E-TEST-0112-156.12	"The idea of turning World War II amphibious landing vehicles into tour vehicles, like Lolly the Trolley, is a clever one."	
+1C2-E-TEST-0112-156.12/001	The idea of turning World War II	
+1C2-E-TEST-0112-156.12/002	amphibious landing vehicles	DEP=1C2-E-TEST-0112-156.12001
+1C2-E-TEST-0112-156.12/003	like Lolly the Trolley,	DEP=1C2-E-TEST-0112-156.12002
+1C2-E-TEST-0112-156.12/004	is a clever one	DEP=1C2-E-TEST-0112-156.12003
+1C2-E-TEST-0112-191.18	"Since 1994, Boston Duck has offered sightseeing tours of the Boston area and Charles River, largely with genuine renovated DUKWs from World War II."	
+1C2-E-TEST-0112-191.18/001	Since 1994	
+1C2-E-TEST-0112-191.18/002	Boston Duck has offered sightseeing tours	DEP=1C2-E-TEST-0112-191.18001
+1C2-E-TEST-0112-191.18/003	of the Boston area and Charles River	DEP=1C2-E-TEST-0112-191.18002
+1C2-E-TEST-0112-191.18/004	largely with genuine renovated DUKWs from World War II	DEP=1C2-E-TEST-0112-191.18003
+1C2-E-TEST-0112-191.184	"It explained this conclusion by stating that [Super Duck] knowingly and intentionally entered the Boston market offering a service, mark and logo nearly identical to that of Boston Duck Tours, an established and successful enterprise."	
+1C2-E-TEST-0112-191.184/001	It explained this conclusion by stating that [Super Duck]	
+1C2-E-TEST-0112-191.184/002	knowingly and intentionally entered the Boston market	DEP=1C2-E-TEST-0112-191.184001
+1C2-E-TEST-0112-191.184/003	offering a service, mark and logo nearly identical to that of Boston Duck Tours	DEP=1C2-E-TEST-0112-191.184002
+1C2-E-TEST-0112-191.184/004	an established and successful enterprise	DEP=1C2-E-TEST-0112-191.184003
+1C2-E-TEST-0112-191.284	"The tour services offered by Boston Duck and Super Duck are similar, and the district court found them to be virtually identical."	
+1C2-E-TEST-0112-191.284/001	The tour services	
+1C2-E-TEST-0112-191.284/002	by Boston Duck and Super Duck	DEP=1C2-E-TEST-0112-191.284001
+1C2-E-TEST-0112-191.284/003	are similar	DEP=1C2-E-TEST-0112-191.284002
+1C2-E-TEST-0112-191.284/004	and the district court found them to be virtually identical	DEP=1C2-E-TEST-0112-191.284003
+1C2-E-TEST-0112-191.307	"Indeed, Boston Duck acknowledges on its website that it is not the first or the only duck tour. Therefore, although Boston Duck has more longevity than Super Duck, Boston Duck was not the first duck tour nor is it apparently the longest running duck tour in the industry. Boston Duck demonstrates that it is renowned in the Boston area for its sightseeing tours. Its fame is due at least in part, however, to the position it has enjoyed as the only duck tour service in the Boston area. Boston Duck's recognition in tour magazines and the awards it cites are focused on its unique Boston service. As such, the evidence does not show that Boston Duck has unusual renown in the industry as a whole, when compared to amphibious tours offered elsewhere."	
+1C2-E-TEST-0112-191.307/001	Boston Duck acknowledges on its website	
+1C2-E-TEST-0112-191.307/002	Therefore, although Boston Duck has more longevity than Super Duck,	DEP=1C2-E-TEST-0112-191.307001
+1C2-E-TEST-0112-191.307/003	that it is not the first or the only duck tour	DEP=1C2-E-TEST-0112-191.307002
+1C2-E-TEST-0112-191.307/004	Boston Duck was not the first duck tour nor is it apparently the longest running duck tour in the industry	DEP=1C2-E-TEST-0112-191.307003
+1C2-E-TEST-0112-191.307/005	Boston Duck demonstrates	DEP=1C2-E-TEST-0112-191.307004
+1C2-E-TEST-0112-191.307/006	that it is renowned in the Boston area for its sightseeing tours	DEP=1C2-E-TEST-0112-191.307005
+1C2-E-TEST-0112-191.307/007	Its fame is due at least in part	DEP=1C2-E-TEST-0112-191.307006
+1C2-E-TEST-0112-191.307/008	however, to the position it has enjoyed as the only duck tour service in the Boston area	DEP=1C2-E-TEST-0112-191.307007
+1C2-E-TEST-0112-191.307/009	Boston Duck's recognition in tour magazines and the awards it cites	DEP=1C2-E-TEST-0112-191.307008
+1C2-E-TEST-0112-191.307/010	are focused on its unique Boston service	DEP=1C2-E-TEST-0112-191.307009
+1C2-E-TEST-0112-191.307/011	As such, the evidence does not show that Boston Duck has unusual renown in the industry	DEP=1C2-E-TEST-0112-191.307010
+1C2-E-TEST-0112-191.307/012	as a whole, when compared to amphibious tours offered elsewhere	DEP=1C2-E-TEST-0112-191.307011
+1C2-E-TEST-0112-191.309	" Even Boston Duck's means of conveyance, the World War II DUKWs, is not unique. The record also shows that other duck tour companies have applied to register names with the term duck tours, including Super Duck, and that other trademarks which include the term duck tours have been registered with the PTO."	
+1C2-E-TEST-0112-191.309/001	Even Boston Duck's means of conveyance	
+1C2-E-TEST-0112-191.309/002	the World War II DUKWs, is not unique	DEP=1C2-E-TEST-0112-191.309001
+1C2-E-TEST-0112-191.309/003	The record also shows that other duck tour companies	DEP=1C2-E-TEST-0112-191.309002
+1C2-E-TEST-0112-191.309/004	have applied to register names with the term duck tours	DEP=1C2-E-TEST-0112-191.309003
+1C2-E-TEST-0112-191.309/005	including Super Duck	DEP=1C2-E-TEST-0112-191.309004
+1C2-E-TEST-0112-191.309/006	and that other trademarks	DEP=1C2-E-TEST-0112-191.309005
+1C2-E-TEST-0112-191.309/007	which include the term duck tours	DEP=1C2-E-TEST-0112-191.309006
+1C2-E-TEST-0112-191.309/008	have been registered with the PTO	DEP=1C2-E-TEST-0112-191.309006
+1C2-E-TEST-0112-191.72	"We begin with Boston Duck's trademark infringement claim against Super Duck based on the parties' word marks. On appeal, Super Duck challenges the district court's conclusion that Super Duck's use of its mark SUPER DUCK TOURS is likely to cause confusion among the relevant consumer public with Boston Duck's use of its mark BOSTON DUCK TOURS."	
+1C2-E-TEST-0112-191.72/001	We begin with Boston Duck's trademark infringement claim	
+1C2-E-TEST-0112-191.72/002	against Super Duck	DEP=1C2-E-TEST-0112-191.72001
+1C2-E-TEST-0112-191.72/003	based on the parties' word marks	DEP=1C2-E-TEST-0112-191.72002
+1C2-E-TEST-0112-191.72/004	On appeal, Super Duck challenges	DEP=1C2-E-TEST-0112-191.72003
+1C2-E-TEST-0112-191.72/005	the district court's conclusion	DEP=1C2-E-TEST-0112-191.72004
+1C2-E-TEST-0112-191.72/006	that Super Duck's use of its mark SUPER DUCK TOURS	DEP=1C2-E-TEST-0112-191.72005
+1C2-E-TEST-0112-191.72/007	is likely to cause confusion	DEP=1C2-E-TEST-0112-191.72006
+1C2-E-TEST-0112-191.72/008	among the relevant consumer public	DEP=1C2-E-TEST-0112-191.72007
+1C2-E-TEST-0112-191.72/009	with Boston Duck's	DEP=1C2-E-TEST-0112-191.72008
+1C2-E-TEST-0112-191.72/010	use of its mark BOSTON DUCK TOURS	
+DEP=1C2-E-TEST-0112-191.72009		
+1C2-E-TEST-0112-197.9	"Spend 45 minutes touring Boston's waterfront neighborhoods by land, and another FULL 45 minutes at sea viewing the skyline and hearing the history of this, the cradle of liberty!"	
+1C2-E-TEST-0112-197.9/001	Spend 45 minutes	
+1C2-E-TEST-0112-197.9/002	touring Boston's	DEP=1C2-E-TEST-0112-197.9001
+1C2-E-TEST-0112-197.9/003	waterfront neighborhoods by land	DEP=1C2-E-TEST-0112-197.9002
+1C2-E-TEST-0112-197.9/004	and another FULL 45 minutes	DEP=1C2-E-TEST-0112-197.9003
+1C2-E-TEST-0112-197.9/005	at sea viewing the skyline	DEP=1C2-E-TEST-0112-197.9004
+1C2-E-TEST-0112-197.9/006	the cradle of liberty	DEP=1C2-E-TEST-0112-197.9005
+1C2-E-TEST-0112-34.16	Super Duck Tours is the only amphibious tour of Boston to include a ride in Boston Harbor.	
+1C2-E-TEST-0112-34.16/001	Super Duck Tours	
+1C2-E-TEST-0112-34.16/002	is the only amphibious tour	DEP=1C2-E-TEST-0112-34.16001
+1C2-E-TEST-0112-34.16/003	of Boston	DEP=1C2-E-TEST-0112-34.16002
+1C2-E-TEST-0112-34.16/004	to include a ride in Boston Harbor	DEP=1C2-E-TEST-0112-34.16003
+1C2-E-TEST-0112-458.8	"Experience a Boston Harbor Sightseeing Tour, Constitution Cruise, or Sunset Cruise."	
+1C2-E-TEST-0112-458.8/001	Experience	
+1C2-E-TEST-0112-458.8/002	a Boston Harbor Sightseeing Tour	DEP=1C2-E-TEST-0112-458.8001
+1C2-E-TEST-0112-458.8/003	Constitution Cruise	DEP=1C2-E-TEST-0112-458.8001
+1C2-E-TEST-0112-458.8/004	or Sunset Cruise	DEP=1C2-E-TEST-0112-458.8001
+1C2-E-TEST-0112-6.16	Enjoy our unique Boston Harbor duck tour and then ride back downtown absolutely FREE.	
+1C2-E-TEST-0112-6.16/001	Enjoy our unique	
+1C2-E-TEST-0112-6.16/002	Boston Harbor duck tour	DEP=1C2-E-TEST-0112-6.16001
+1C2-E-TEST-0112-6.16/003	and then ride back downtown	DEP=1C2-E-TEST-0112-6.16002
+1C2-E-TEST-0112-6.16/004	absolutely FREE	DEP=1C2-E-TEST-0112-6.16003
+1C2-E-TEST-0112-6.21	Super Duck Tours is David to Boston Duck Tours Goliath.	
+1C2-E-TEST-0112-6.21/001	Super Duck Tours	
+1C2-E-TEST-0112-6.21/002	is David	DEP=1C2-E-TEST-0112-6.21001
+1C2-E-TEST-0112-6.21/003	to Boston Duck Tours	DEP=1C2-E-TEST-0112-6.21002
+1C2-E-TEST-0112-6.21/004	Goliath	DEP=1C2-E-TEST-0112-6.21003
+1C2-E-TEST-0112-6.39	"For all of you water lovers, there's no comparison between Boston Duck Tours 20 minutes on the Charles River and our 45 minutes on the Harbor plus 50 minutes on the Charles River!"	
+1C2-E-TEST-0112-6.39/001	For all of you water lovers	
+1C2-E-TEST-0112-6.39/002	there's no comparison	DEP=1C2-E-TEST-0112-6.39001
+1C2-E-TEST-0112-6.39/003	between Boston Duck Tours	DEP=1C2-E-TEST-0112-6.39002
+1C2-E-TEST-0112-6.39/004	20 minutes on the Charles River	DEP=1C2-E-TEST-0112-6.39003
+1C2-E-TEST-0112-6.39/005	and our 45 minutes on the Harbor	DEP=1C2-E-TEST-0112-6.39004
+1C2-E-TEST-0112-6.39/006	plus 50 minutes on the Charles River!	DEP=1C2-E-TEST-0112-6.39005
+1C2-E-TEST-0112-6.44	We're the ONLY full-service land and sea tour in Boston our Super Duck rides through Boston's historic streets and plunges into Boston Harbor for the best views and photo opportunities in town!	
+1C2-E-TEST-0112-6.44/001	We're the ONLY full-service land and sea tour	
+1C2-E-TEST-0112-6.44/002	in Boston	DEP=1C2-E-TEST-0112-6.44001
+1C2-E-TEST-0112-6.44/003	our Super Duck	DEP=1C2-E-TEST-0112-6.44002
+1C2-E-TEST-0112-6.44/004	rides through Boston's historic streets	DEP=1C2-E-TEST-0112-6.44003
+1C2-E-TEST-0112-6.44/005	and plunges into Boston Harbor	DEP=1C2-E-TEST-0112-6.44004
+1C2-E-TEST-0112-6.44/006	for the best views	DEP=1C2-E-TEST-0112-6.44005
+1C2-E-TEST-0112-6.44/007	and photo opportunities	DEP=1C2-E-TEST-0112-6.44006
+1C2-E-TEST-0112-6.44/008	in town!	DEP=1C2-E-TEST-0112-6.44007
+1C2-E-TEST-0112-6.45	"While other Boston tour companies offer either trolley or duck tours, only Super Tours provides a full-service combination ticket that allows you to ride the streets of Boston to explore 400 years of American history and plunge into Boston Harbor for a duck tour of her waterfront!"	
+1C2-E-TEST-0112-6.45/001	While other Boston tour companies	
+1C2-E-TEST-0112-6.45/002	offer either trolley or duck tours	DEP=1C2-E-TEST-0112-6.45001
+1C2-E-TEST-0112-6.45/003	only Super Tours provides a full-service combination ticket	DEP=1C2-E-TEST-0112-6.45002
+1C2-E-TEST-0112-6.45/004	that allows you to ride the streets of Boston	DEP=1C2-E-TEST-0112-6.45003
+1C2-E-TEST-0112-6.45/005	to explore 400 years of American history	DEP=1C2-E-TEST-0112-6.45004
+1C2-E-TEST-0112-6.45/006	400 years	DEP=1C2-E-TEST-0112-6.45005
+1C2-E-TEST-0112-6.45/007	and plunge into Boston Harbor	DEP=1C2-E-TEST-0112-6.45006
+1C2-E-TEST-0112-6.45/008	for a duck tour of her waterfront	DEP=1C2-E-TEST-0112-6.45007
+1C2-E-TEST-0112-6.54	"Ducks depart all day from our ticket booth at the Charlestown Navy Yard, home of the USS Constitution."	
+1C2-E-TEST-0112-6.54/001	Ducks depart all day	
+1C2-E-TEST-0112-6.54/002	from our ticket booth	DEP=1C2-E-TEST-0112-6.54001
+1C2-E-TEST-0112-6.54/003	at the Charlestown Navy Yard	DEP=1C2-E-TEST-0112-6.54002
+1C2-E-TEST-0112-6.54/004	home of the USS Constitution	DEP=1C2-E-TEST-0112-6.54003
+1C2-E-TEST-0112-6.7	Enjoy our full 90 minute Super Duck tour of Boston's historic waterfront and Harbor or choose a trolley tour and get 2 days of touring PLUS a 45 minute water-only Super Duck Harbor Splash AND 1 of 4 FREE BONUS TOURS for your best value while in Boston!	
+1C2-E-TEST-0112-6.7/001	Enjoy our full 90 minute Super Duck tour	
+1C2-E-TEST-0112-6.7/002	of Boston's historic waterfront and Harbor	DEP=1C2-E-TEST-0112-6.7001
+1C2-E-TEST-0112-6.7/003	or choose a trolley tour	DEP=1C2-E-TEST-0112-6.7002
+1C2-E-TEST-0112-6.7/004	and get 2 days of touring	DEP=1C2-E-TEST-0112-6.7003
+1C2-E-TEST-0112-6.7/005	PLUS a 45 minute water-only	DEP=1C2-E-TEST-0112-6.7004
+1C2-E-TEST-0112-6.7/006	Super Duck Harbor Splash	DEP=1C2-E-TEST-0112-6.7005
+1C2-E-TEST-0112-6.7/007	AND 1 of 4 FREE BONUS TOURS	DEP=1C2-E-TEST-0112-6.7006
+1C2-E-TEST-0112-6.7/008	for your best value while in Boston!	DEP=1C2-E-TEST-0112-6.7007
+1C2-E-TEST-0112-69.8	"At the end of the Boston Harbor duck tour, ride back downtown absolutely free on the return shuttle to State Street."	
+1C2-E-TEST-0112-69.8/001	At the end of the Boston Harbor duck tour	
+1C2-E-TEST-0112-69.8/002	ride back downtown	DEP=1C2-E-TEST-0112-69.8001
+1C2-E-TEST-0112-69.8/003	absolutely free	DEP=1C2-E-TEST-0112-69.8002
+1C2-E-TEST-0112-69.8/004	on the return shuttle	DEP=1C2-E-TEST-0112-69.8003
+1C2-E-TEST-0112-69.8/005	to State Street	DEP=1C2-E-TEST-0112-69.8004

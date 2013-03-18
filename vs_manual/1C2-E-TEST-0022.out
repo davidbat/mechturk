@@ -1,0 +1,272 @@
+1C2-E-TEST-0022-133.28	She had rejected a cast role in High School Musical 3: Senior Year .	
+1C2-E-TEST-0022-133.28/001	She had rejected	
+1C2-E-TEST-0022-133.28/002	a cast role	DEP=1C2-E-TEST-0022-133.28001
+1C2-E-TEST-0022-133.28/003	High School Musical 3: Senior Year	DEP=1C2-E-TEST-0022-133.28002
+1C2-E-TEST-0022-133.3	"Her father, Ricardo Gomez, is Mexican and her mother, Mandy Teefey, is half Italian."	
+1C2-E-TEST-0022-133.3/001	Her father	
+1C2-E-TEST-0022-133.3/002	Ricardo Gomez	DEP=1C2-E-TEST-0022-133.3001
+1C2-E-TEST-0022-133.3/003	is Mexican	DEP=1C2-E-TEST-0022-133.3002
+1C2-E-TEST-0022-133.3/004	her mother	
+1C2-E-TEST-0022-133.3/005	mandy teefey	DEP=1C2-E-TEST-0022-133.3004
+1C2-E-TEST-0022-133.3/006	is half italian	DEP=1C2-E-TEST-0022-133.3005
+1C2-E-TEST-0022-160.17	"In March 2008, she made her first animated movie Horton Hears a Who! (2008) and later starred in Another Cinderella Story (2008) (V) with Disney Channel star Drew Seeley for ABC Family."	
+1C2-E-TEST-0022-160.17/001	In March 2008	
+1C2-E-TEST-0022-160.17/002	she made her first animated movie	DEP=1C2-E-TEST-0022-160.17001
+1C2-E-TEST-0022-160.17/003	Horton Hears a Who	DEP=1C2-E-TEST-0022-160.17002
+1C2-E-TEST-0022-160.17/004	and later starred in Another Cinderella Story	DEP=1C2-E-TEST-0022-160.17003
+1C2-E-TEST-0022-160.17/005	with Disney Channel star Drew Seeley for ABC Family	DEP=1C2-E-TEST-0022-160.17004
+1C2-E-TEST-0022-160.17/006Drew	Seeley	DEP=1C2-E-TEST-0022-160.17005
+1C2-E-TEST-0022-160.17/007	for ABC Family	DEP=1C2-E-TEST-0022-160.17006
+1C2-E-TEST-0022-173.10	Selena Gomez also appeared as herself in Lovato's Disney show Sonny With A Chance for one episode.	
+1C2-E-TEST-0022-173.10/001	Selena Gomez	
+1C2-E-TEST-0022-173.10/002	as herself	DEP=1C2-E-TEST-0022-173.10001
+1C2-E-TEST-0022-173.10/003	Lovato's Disney show	DEP=1C2-E-TEST-0022-173.10002
+1C2-E-TEST-0022-173.10/004	Sonny With A Chance for one episode	DEP=1C2-E-TEST-0022-173.10003
+1C2-E-TEST-0022-173.14	"In that year, Gomez sang over a cover song of \x93 Cruella de Vil"\x9D, and also performed in a music video."	
+1C2-E-TEST-0022-173.14/001	In that year	
+1C2-E-TEST-0022-173.14/002	Gomez sang over a cover song	DEP=1C2-E-TEST-0022-173.14001
+1C2-E-TEST-0022-173.14/003	Cruella de Vil	DEP=1C2-E-TEST-0022-173.14002
+1C2-E-TEST-0022-173.14/004	also performed in a music video	DEP=1C2-E-TEST-0022-173.14003
+1C2-E-TEST-0022-173.19	"In 2009, Selena Gomez formed a band, entitled Selena Gomez & the Scene , consisting of Gomez as vocals, Ethan Roberts playing guitar, and Greg Carman on drums."	
+1C2-E-TEST-0022-173.19/001	2009	
+1C2-E-TEST-0022-173.19/002	formed a band	DEP=1C2-E-TEST-0022-173.19001
+1C2-E-TEST-0022-173.19/003	Selena Gomez & the Scene	DEP=1C2-E-TEST-0022-173.19002
+1C2-E-TEST-0022-173.19/004	consisting	DEP=1C2-E-TEST-0022-173.19003
+1C2-E-TEST-0022-173.19/005	Gomez as vocals	DEP=1C2-E-TEST-0022-173.19004
+1C2-E-TEST-0022-173.19/006	Ethan Roberts playing guitar	DEP=1C2-E-TEST-0022-173.19005
+1C2-E-TEST-0022-173.19/007	Greg Carman on drums	DEP=1C2-E-TEST-0022-173.19006
+1C2-E-TEST-0022-173.33	"In addition, Gomez revealed in an interview with People Magazine that she developed an interest in acting after she watched her mother practice and act in theater in her youth."	
+1C2-E-TEST-0022-173.33/001	Gomez revealed	
+1C2-E-TEST-0022-173.33/002	in an interview with People Magazine	DEP=1C2-E-TEST-0022-173.33001
+1C2-E-TEST-0022-173.33/003	she developed an interest in acting	DEP=1C2-E-TEST-0022-173.33002
+1C2-E-TEST-0022-173.33/004	after she watched her mother practice and act	DEP=1C2-E-TEST-0022-173.33003
+1C2-E-TEST-0022-173.33/005	theater in her youth	DEP=1C2-E-TEST-0022-173.33004
+1C2-E-TEST-0022-173.35	"At the tender age of seven, Selena Gomez began her career as an actress."	
+1C2-E-TEST-0022-173.35/001	age seven	
+1C2-E-TEST-0022-173.35/002	Gomez began her career as an actress	DEP=1C2-E-TEST-0022-173.35001
+1C2-E-TEST-0022-173.9	"In 2009, Disney Channel directed and made a TV movie, Princess Protection Program , starring Selena Gomez and Demi Lovato."	
+1C2-E-TEST-0022-173.9/001	2009	
+1C2-E-TEST-0022-173.9/002	disney channel	DEP=1C2-E-TEST-0022-173.9001
+1C2-E-TEST-0022-173.9/003	directed tv movie	DEP=1C2-E-TEST-0022-173.9002
+1C2-E-TEST-0022-173.9/004	princess protection program	DEP=1C2-E-TEST-0022-173.9003
+1C2-E-TEST-0022-173.9/005	starring selena gomez and demi lovato	
+DEP=1C2-E-TEST-0022-173.9004		
+1C2-E-TEST-0022-189.14	"Selena Marie Gomez was born in Grand Prairie, TX in 1992."	
+1C2-E-TEST-0022-189.14/001	Selena Marie Gomez	
+1C2-E-TEST-0022-189.14/002	born in Grand Prairie, TX	DEP=1C2-E-TEST-0022-189.14001
+1C2-E-TEST-0022-189.14/003	1992	DEP=1C2-E-TEST-0022-189.14002
+1C2-E-TEST-0022-189.27	Selena Gomez has collaborated with the Jonas Brothers and Forever the Sickest Kids.	
+1C2-E-TEST-0022-189.27/001	collaborated with	
+1C2-E-TEST-0022-189.27/002	jonas brother	DEP=1C2-E-TEST-0022-189.27001
+1C2-E-TEST-0022-189.27/003	forever sickest kids	DEP=1C2-E-TEST-0022-189.27001
+1C2-E-TEST-0022-189.33	Selena would also perform with Justin Bieber and Rihanna on the Dick Clark's New Year's Rockin' Eve with Ryan Seacrest special. The band completed their second album A Year Without Rain and released the hit singles Naturally and Round and Round to fans rabid for a Selena Gomez tour and Selena Gomez tickets.	
+1C2-E-TEST-0022-189.33/001	also perform with	
+1C2-E-TEST-0022-189.33/002	justin bieber	DEP=1C2-E-TEST-0022-189.33001
+1C2-E-TEST-0022-189.33/003	rihanna	DEP=1C2-E-TEST-0022-189.33001
+1C2-E-TEST-0022-189.33/004	on dick clark new year rockin eve with Ryan Seacrest special	DEP=1C2-E-TEST-0022-189.33001
+1C2-E-TEST-0022-189.33/005	band completed their second album	
+1C2-E-TEST-0022-189.33/006	A Year Without Rain	DEP=1C2-E-TEST-0022-189.33005
+1C2-E-TEST-0022-189.33/007	released the hit singles	DEP=1C2-E-TEST-0022-189.33006
+1C2-E-TEST-0022-189.33/008	Naturally and Round and Round	DEP=1C2-E-TEST-0022-189.33007
+1C2-E-TEST-0022-189.33/009	to fans	DEP=1C2-E-TEST-0022-189.33008
+1C2-E-TEST-0022-189.33/010	rabid for	DEP=1C2-E-TEST-0022-189.33009
+1C2-E-TEST-0022-189.33/011	a Selena Gomez tour	
+DEP=1C2-E-TEST-0022-189.33010		
+1C2-E-TEST-0022-189.33/012	and Selena Gomez tickets.	DEP=1C2-E-TEST-0022-189.33011
+1C2-E-TEST-0022-19.33	"Sings the theme tune to her Disney Channel show ""Wizards of Waverly Place"" (2007)."	
+1C2-E-TEST-0022-19.33/001	sings	
+1C2-E-TEST-0022-19.33/002	theme tune	DEP=1C2-E-TEST-0022-19.33001
+1C2-E-TEST-0022-19.33/003	for disney channel show	DEP=1C2-E-TEST-0022-19.33002
+1C2-E-TEST-0022-19.33/004	wizards waverly place	DEP=1C2-E-TEST-0022-19.33003
+1C2-E-TEST-0022-19.41	"She was named after Tejano singer Selena Quintanilla-Perez, who died almost three years after Gomez was born."	
+1C2-E-TEST-0022-19.41/001	named after	
+1C2-E-TEST-0022-19.41/002	tejano singer Selena Quintanilla-Perez	DEP=1C2-E-TEST-0022-19.41001
+1C2-E-TEST-0022-19.41/003	died	DEP=1C2-E-TEST-0022-19.41002
+1C2-E-TEST-0022-19.41/004	three years after gomez was born	DEP=1C2-E-TEST-0022-19.41003
+1C2-E-TEST-0022-20.17	She also starred in Wizards of Waverly Place: The Movie later in 2009.	
+1C2-E-TEST-0022-20.17/001	starred in	
+1C2-E-TEST-0022-20.17/002	wizards waverly place movie	DEP=1C2-E-TEST-0022-20.17001
+1C2-E-TEST-0022-20.17/003	later in 2009	DEP=1C2-E-TEST-0022-20.17002
+1C2-E-TEST-0022-20.9	"She also got a part as Emily Grace Garcia in the television show Brain Zapped in 2006, and even recorded a song for the show."	
+1C2-E-TEST-0022-20.9/001	got a part	
+1C2-E-TEST-0022-20.9/002	as emily grace garcia	DEP=1C2-E-TEST-0022-20.9001
+1C2-E-TEST-0022-20.9/003	in television show brain zapped	DEP=1C2-E-TEST-0022-20.9002
+1C2-E-TEST-0022-20.9/004	2006	DEP=1C2-E-TEST-0022-20.9003
+1C2-E-TEST-0022-20.9/005	recorded	DEP=1C2-E-TEST-0022-20.9004
+1C2-E-TEST-0022-20.9/006	a song	DEP=1C2-E-TEST-0022-20.9005
+1C2-E-TEST-0022-20.9/007	for the show	DEP=1C2-E-TEST-0022-20.9006
+1C2-E-TEST-0022-23.3	"SELENA GOMEZ stars as Alex Russo on Disney Channel's Wizards of Waverly Place, which premiered in 2007."	
+1C2-E-TEST-0022-23.3/001	Selena gomez	
+1C2-E-TEST-0022-23.3/002	stars as	DEP=1C2-E-TEST-0022-23.3001
+1C2-E-TEST-0022-23.3/003	alex russo	DEP=1C2-E-TEST-0022-23.3002
+1C2-E-TEST-0022-23.3/004	on Disney Channel's	DEP=1C2-E-TEST-0022-23.3003
+1C2-E-TEST-0022-23.3/005	Wizards of Waverly Place	DEP=1C2-E-TEST-0022-23.3004
+1C2-E-TEST-0022-23.3/006	premiered in 2007	DEP=1C2-E-TEST-0022-23.3005
+1C2-E-TEST-0022-23.7	Her other television credits include guest appearances on Hannah Montana and The Suite Life of Zack & Cody .	
+1C2-E-TEST-0022-23.7/001	Her other television credits	
+1C2-E-TEST-0022-23.7/002	include guest appearances	DEP=1C2-E-TEST-0022-23.7001
+1C2-E-TEST-0022-23.7/003	on Hannah Montana and The Suite Life of Zack & Cody	DEP=1C2-E-TEST-0022-23.7002
+1C2-E-TEST-0022-29.11	[11] She earned a high school diploma through homeschooling in May 2010.	
+1C2-E-TEST-0022-29.11/001	She earned	
+1C2-E-TEST-0022-29.11/002	a high school diploma	DEP=1C2-E-TEST-0022-29.11001
+1C2-E-TEST-0022-29.11/003	through homeschooling	DEP=1C2-E-TEST-0022-29.11002
+1C2-E-TEST-0022-29.11/004	May 2010	DEP=1C2-E-TEST-0022-29.11003
+1C2-E-TEST-0022-29.110	"[62] In October 2008, Gomez participated in St. Jude's Children's Hospital ""Runway For Life"" benefit."	
+1C2-E-TEST-0022-29.110/001	In October 2008	
+1C2-E-TEST-0022-29.110/002	Gomez participated	DEP=1C2-E-TEST-0022-29.110001
+1C2-E-TEST-0022-29.110/003	in St. Jude's Children's Hospital	
+DEP=1C2-E-TEST-0022-29.110002		
+1C2-E-TEST-0022-29.110/004	Runway For Life benefit	DEP=1C2-E-TEST-0022-29.110003
+1C2-E-TEST-0022-29.126	"Gomez was named spokesperson for UNICEF 's 2009 Trick-or-Treat campaign, for the second year in a row."	
+1C2-E-TEST-0022-29.126/001	gomez named	
+1C2-E-TEST-0022-29.126/002	spokesperson	DEP=1C2-E-TEST-0022-29.126001
+1C2-E-TEST-0022-29.126/003	for unicef 2009	DEP=1C2-E-TEST-0022-29.126002
+1C2-E-TEST-0022-29.126/004	trick treat campaign	DEP=1C2-E-TEST-0022-29.126003
+1C2-E-TEST-0022-29.126/005	for the second year in a row	
+DEP=1C2-E-TEST-0022-29.126004		
+1C2-E-TEST-0022-29.33	"In July 2008, before Gomez' sixteenth birthday, she signed a recording deal with Hollywood Records , a music label owned by Disney."	
+1C2-E-TEST-0022-29.33/001	In July 2008	
+1C2-E-TEST-0022-29.33/002	before Gomez' sixteenth birthday	DEP=1C2-E-TEST-0022-29.33001
+1C2-E-TEST-0022-29.33/003	she signed a recording deal	DEP=1C2-E-TEST-0022-29.33002
+1C2-E-TEST-0022-29.33/004	with Hollywood Records	DEP=1C2-E-TEST-0022-29.33003
+1C2-E-TEST-0022-29.33/005	a music label owned by Disney	DEP=1C2-E-TEST-0022-29.33004
+1C2-E-TEST-0022-29.62	"[33] In March 2010, Variety reported that Gomez was set to star as one of the three lead roles in Monte Carlo , alongside Leighton Meester and Katie Cassidy ."	
+1C2-E-TEST-0022-29.62/001	In March 2010	
+1C2-E-TEST-0022-29.62/002	Variety reported	DEP=1C2-E-TEST-0022-29.62001
+1C2-E-TEST-0022-29.62/003	Gomez was set to star	DEP=1C2-E-TEST-0022-29.62002
+1C2-E-TEST-0022-29.62/004	as one of the three lead roles	DEP=1C2-E-TEST-0022-29.62003
+1C2-E-TEST-0022-29.62/005	in Monte Carlo	DEP=1C2-E-TEST-0022-29.62004
+1C2-E-TEST-0022-29.62/006	alongside	DEP=1C2-E-TEST-0022-29.62005
+1C2-E-TEST-0022-29.62/007	Leighton Meester	DEP=1C2-E-TEST-0022-29.62006
+1C2-E-TEST-0022-29.62/008	katie cassidy	DEP=1C2-E-TEST-0022-29.62006
+1C2-E-TEST-0022-29.88	"In January 2012, Gomez announced that she would put her music career on hold in order to focus on her acting career, and that the band would be taking a hiatus: [55] ""my band and I are going our separate ways for a while."	
+1C2-E-TEST-0022-29.88/001	In January 2012	
+1C2-E-TEST-0022-29.88/002	Gomez announced	DEP=1C2-E-TEST-0022-29.88001
+1C2-E-TEST-0022-29.88/003	she would put her music career on hold	DEP=1C2-E-TEST-0022-29.88002
+1C2-E-TEST-0022-29.88/004	to focus on her acting career	DEP=1C2-E-TEST-0022-29.88003
+1C2-E-TEST-0022-29.88/005	the band would be taking a hiatus	DEP=1C2-E-TEST-0022-29.88004
+1C2-E-TEST-0022-29.88/006	my band and I	DEP=1C2-E-TEST-0022-29.88005
+1C2-E-TEST-0022-29.88/007	are going our separate ways	DEP=1C2-E-TEST-0022-29.88006
+1C2-E-TEST-0022-29.88/008	for a while	DEP=1C2-E-TEST-0022-29.88007
+1C2-E-TEST-0022-29.91	"As of March 2012, Gomez has been cast in six upcoming films; in which five of them she has been cast as a lead role."	
+1C2-E-TEST-0022-29.91/001	As of March 2012	
+1C2-E-TEST-0022-29.91/002	Gomez has been cast	DEP=1C2-E-TEST-0022-29.91001
+1C2-E-TEST-0022-29.91/003	in six upcoming films	DEP=1C2-E-TEST-0022-29.91002
+1C2-E-TEST-0022-29.91/004	in which five of them	DEP=1C2-E-TEST-0022-29.91003
+1C2-E-TEST-0022-29.91/005	she has been cast	DEP=1C2-E-TEST-0022-29.91004
+1C2-E-TEST-0022-29.91/006	as a lead role	DEP=1C2-E-TEST-0022-29.91006
+1C2-E-TEST-0022-29.92	"She will first appear in Hotel Transylvania , an animated film, voicing the character of Mavis, alongside Adam Sandler and Steve Buscemi ."	
+1C2-E-TEST-0022-29.92/001	She will first appear	
+1C2-E-TEST-0022-29.92/002	Hotel Transylvania	DEP=1C2-E-TEST-0022-29.92001
+1C2-E-TEST-0022-29.92/003	an animated film	DEP=1C2-E-TEST-0022-29.92002
+1C2-E-TEST-0022-29.92/004	voicing	DEP=1C2-E-TEST-0022-29.92003
+1C2-E-TEST-0022-29.92/005	the character	DEP=1C2-E-TEST-0022-29.92004
+1C2-E-TEST-0022-29.92/006	mavis	DEP=1C2-E-TEST-0022-29.92005
+1C2-E-TEST-0022-29.92/007	alongside	DEP=1C2-E-TEST-0022-29.92006
+1C2-E-TEST-0022-29.92/008	Adam Sandler	DEP=1C2-E-TEST-0022-29.92007
+1C2-E-TEST-0022-29.94/009	"Steve buscemi	DEP=1C2-E-TEST-0022-29.92005008
+1C2-E-TEST-0022-29.97	"Gomez has also been cast as the main role of Hannah Baker in the film adaptation of young-adult fiction novel, 13 Reasons Why which was written by Jay Asher ."	
+1C2-E-TEST-0022-29.97/001	Gomez has also been cast	
+1C2-E-TEST-0022-29.97/002	cast as the main role	DEP=1C2-E-TEST-0022-29.97001
+1C2-E-TEST-0022-29.97/003	Hannah Baker	DEP=1C2-E-TEST-0022-29.97002
+1C2-E-TEST-0022-29.97/004	in the film adaptation	DEP=1C2-E-TEST-0022-29.97003
+1C2-E-TEST-0022-29.97/005	13 reasons why	DEP=1C2-E-TEST-0022-29.97004
+1C2-E-TEST-0022-29.97/006	witten by	DEP=1C2-E-TEST-0022-29.97005
+1C2-E-TEST-0022-29.97/007	Jay asher	DEP=1C2-E-TEST-0022-29.97006
+1C2-E-TEST-0022-29.98	"[59] She will also play the lead role in a film called Hot Mess, a comedy film directed by Dave Meyers ."	
+1C2-E-TEST-0022-29.98/001	she will also play lead role	
+1C2-E-TEST-0022-29.98/002	in a film called hot mess	DEP=1C2-E-TEST-0022-29.98001
+1C2-E-TEST-0022-29.98/003	a comedy film	DEP=1C2-E-TEST-0022-29.98002
+1C2-E-TEST-0022-29.98/004	directed by	DEP=1C2-E-TEST-0022-29.98003
+1C2-E-TEST-0022-29.98/005	dave meyers	DEP=1C2-E-TEST-0022-29.98004
+1C2-E-TEST-0022-29.99	"[59] In addition, Gomez filmed a cameo for Aftershock , an upcoming thriller, in Chile alongside Eli Roth ."	
+1C2-E-TEST-0022-29.99/001	in addition	
+1C2-E-TEST-0022-29.99/002	gomez filmed a cameo	DEP=1C2-E-TEST-0022-29.99001
+1C2-E-TEST-0022-29.99/003	for aftershock	DEP=1C2-E-TEST-0022-29.99002
+1C2-E-TEST-0022-29.99/004	an upcoming thriller	DEP=1C2-E-TEST-0022-29.99003
+1C2-E-TEST-0022-29.99/005	in chile	DEP=1C2-E-TEST-0022-29.99004
+1C2-E-TEST-0022-29.99/006	alongside eli roth	DEP=1C2-E-TEST-0022-29.99005
+1C2-E-TEST-0022-35.12	"She was discovered in a Disney nationwide talent search when she was 10, and starred in several failed Disney Channel pilots before the success of The Wizards of Waverly Place."	
+1C2-E-TEST-0022-35.12/001	she was discovered	
+1C2-E-TEST-0022-35.12/002	in a disney nationwide talent search	DEP=1C2-E-TEST-0022-35.12001
+1C2-E-TEST-0022-35.12/003	when she was 10	DEP=1C2-E-TEST-0022-35.12002
+1C2-E-TEST-0022-35.12/004	starred in several failed Disney Channel pilots	DEP=1C2-E-TEST-0022-35.12003
+1C2-E-TEST-0022-35.12/005	before the success	DEP=1C2-E-TEST-0022-35.12004
+1C2-E-TEST-0022-35.12/006	of wizards waverly place	DEP=1C2-E-TEST-0022-35.12005
+1C2-E-TEST-0022-35.21	She has received death threats from jealous Justin Bieber fans.	
+1C2-E-TEST-0022-35.21/001	she has received	
+1C2-E-TEST-0022-35.21/002	death threats	DEP=1C2-E-TEST-0022-35.21001
+1C2-E-TEST-0022-35.21/003	from jealous justin bieber fans	DEP=1C2-E-TEST-0022-35.21002
+1C2-E-TEST-0022-35.9	"The young star recently is making headlines for dating fellow teen heartthrob, Justin Bieber."	
+1C2-E-TEST-0022-35.9/001	young star	
+1C2-E-TEST-0022-35.9/002	recently making headlines	DEP=1C2-E-TEST-0022-35.9001
+1C2-E-TEST-0022-35.9/003	for dating	DEP=1C2-E-TEST-0022-35.9002
+1C2-E-TEST-0022-35.9/004	fellow teen heartthrob	DEP=1C2-E-TEST-0022-35.9003
+1C2-E-TEST-0022-35.9/005	justin bieber	DEP=1C2-E-TEST-0022-35.9004
+1C2-E-TEST-0022-65.13	"To date, there have been two -- Taylor Lautner and Nick Jonas -- but unfortunately, neither of them were successful in developing a lasting relationship with her."	
+1C2-E-TEST-0022-65.13/001	to date	
+1C2-E-TEST-0022-65.13/002	there have been two	DEP=1C2-E-TEST-0022-65.13001
+1C2-E-TEST-0022-65.13/003	Taylor Lautner	DEP=1C2-E-TEST-0022-65.13002
+1C2-E-TEST-0022-65.13/004	and Nick Jonas	DEP=1C2-E-TEST-0022-65.13003
+1C2-E-TEST-0022-65.13/005	neither were successful	DEP=1C2-E-TEST-0022-65.13004
+1C2-E-TEST-0022-65.13/006	developing	DEP=1C2-E-TEST-0022-65.13005
+1C2-E-TEST-0022-65.13/007	a lasting relationship	DEP=1C2-E-TEST-0022-65.13006
+1C2-E-TEST-0022-65.21	"As long as she doesn't mess things up, there's a good chance that her teen success will be duplicated in adulthood. One of the things that makes Gomez stand out from her rivals is her curious mind and dedication to philanthropy."	
+1C2-E-TEST-0022-65.21/001	as long as she doesnt mess things up	
+1C2-E-TEST-0022-65.21/002	theres a good chance	DEP=1C2-E-TEST-0022-65.21001
+1C2-E-TEST-0022-65.21/003	her teen success	DEP=1C2-E-TEST-0022-65.21002
+1C2-E-TEST-0022-65.21/004	will be duplicated	DEP=1C2-E-TEST-0022-65.21003
+1C2-E-TEST-0022-65.21/005	in adulthood	DEP=1C2-E-TEST-0022-65.21004
+1C2-E-TEST-0022-65.21/006	one of the things thatmakes	DEP=1C2-E-TEST-0022-65.21005
+1C2-E-TEST-0022-65.21/007	gomez stand out	DEP=1C2-E-TEST-0022-65.21006
+1C2-E-TEST-0022-65.21/008	from rivals	DEP=1C2-E-TEST-0022-65.21007
+1C2-E-TEST-0022-65.21/009	is her curious mind	DEP=1C2-E-TEST-0022-65.21008
+1C2-E-TEST-0022-65.21/010	and dedication	DEP=1C2-E-TEST-0022-65.21009
+1C2-E-TEST-0022-65.21/011	to philanthropy	DEP=1C2-E-TEST-0022-65.21010
+1C2-E-TEST-0022-65.45	"In addition to that, she also top-lined her first feature film release, Ramona and Beezus, and released her second album, A Year Without Rain, which sold over 65,000 copies in its first week."	
+1C2-E-TEST-0022-65.45/001	in addition	
+1C2-E-TEST-0022-65.45/002	she also top-lined	DEP=1C2-E-TEST-0022-65.45001
+1C2-E-TEST-0022-65.45/003	her first feature film release	DEP=1C2-E-TEST-0022-65.45002
+1C2-E-TEST-0022-65.45/004	Ramona and Beezus	DEP=1C2-E-TEST-0022-65.45003
+1C2-E-TEST-0022-65.45/005	and released second album	DEP=1C2-E-TEST-0022-65.45004
+1C2-E-TEST-0022-65.45/006	a year without rain	DEP=1C2-E-TEST-0022-65.45005
+1C2-E-TEST-0022-65.45/007	which sold over sold 65,000 copies	DEP=1C2-E-TEST-0022-65.45006
+1C2-E-TEST-0022-72.19	"She then appeared in the movie Spy Kids 3-D: Game Over and a TV movie, Walker, Texas Ranger: Trial by Fire in 2005."	
+1C2-E-TEST-0022-72.19/001	appeared	
+1C2-E-TEST-0022-72.19/002	in the movie spy kids 3-d game over	DEP=1C2-E-TEST-0022-72.19001
+1C2-E-TEST-0022-72.19/003	and tv movie	DEP=1C2-E-TEST-0022-72.19002
+1C2-E-TEST-0022-72.19/004	walker texas ranger trial fire	DEP=1C2-E-TEST-0022-72.19003
+1C2-E-TEST-0022-72.19/005	in 2005	DEP=1C2-E-TEST-0022-72.19004
+1C2-E-TEST-0022-72.21	"Gomez began her career with the Disney Channel in 2005, when she appeared for a few episodes on The Suite Life of Zack and Cody and then on Hannah Montana in 2006."	
+1C2-E-TEST-0022-72.21/001	gomez began her career	DEP=1C2-E-TEST-0022-72.21003
+1C2-E-TEST-0022-72.21/002	with disney channel	DEP=1C2-E-TEST-0022-72.21001
+1C2-E-TEST-0022-72.21/003	in 2005	DEP=1C2-E-TEST-0022-72.21002
+1C2-E-TEST-0022-72.21/004	where she appeared for a few episodes	DEP=1C2-E-TEST-0022-72.21003
+1C2-E-TEST-0022-72.21/005	on suite life zack cody	DEP=1C2-E-TEST-0022-72.21004
+1C2-E-TEST-0022-72.21/006	and then hannah montana	DEP=1C2-E-TEST-0022-72.21005
+1C2-E-TEST-0022-72.21/007	in 2006	DEP=1C2-E-TEST-0022-72.21006
+1C2-E-TEST-0022-72.9	"That month, she traveled to Ghana, Africa to witness the impoverished conditions in which thousands of children live."	
+1C2-E-TEST-0022-72.9/001	that month	
+1C2-E-TEST-0022-72.9/002	she traveled ghana africa	DEP=1C2-E-TEST-0022-72.9001
+1C2-E-TEST-0022-72.9/003	to witness	DEP=1C2-E-TEST-0022-72.9002
+1C2-E-TEST-0022-72.9/004	the impoverished conditions	DEP=1C2-E-TEST-0022-72.9003
+1C2-E-TEST-0022-72.9/005	in which thousands of children live	DEP=1C2-E-TEST-0022-72.9004
+1C2-E-TEST-0022-89.12	"Signed to Hollywood Records in 2009, Gomez has released her debut album, ""Kiss & Tell,"" which was certified Gold."	
+1C2-E-TEST-0022-89.12/001	signed	
+1C2-E-TEST-0022-89.12/002	to hollywood records	DEP=1C2-E-TEST-0022-89.12001
+1C2-E-TEST-0022-89.12/003	in 2009	DEP=1C2-E-TEST-0022-89.12002
+1C2-E-TEST-0022-89.12/004	released	DEP=1C2-E-TEST-0022-89.12003
+1C2-E-TEST-0022-89.12/005	debut album	DEP=1C2-E-TEST-0022-89.12004
+1C2-E-TEST-0022-89.12/006	kiss & tell	DEP=1C2-E-TEST-0022-89.12005
+1C2-E-TEST-0022-89.12/007	certified gold	DEP=1C2-E-TEST-0022-89.12006
+1C2-E-TEST-0022-89.17	"As if TV, movies and music weren't enough, Gomez recently launched a clothing line for Kmart called Dream Out Loud."	
+1C2-E-TEST-0022-89.17/001	Gomez launched	
+1C2-E-TEST-0022-89.17/002	clothing line	
+1C2-E-TEST-0022-89.17/003	in Kmart	
+1C2-E-TEST-0022-89.17/004	called Dream out loud	DEP=1C2-E-TEST-0022-89.17003
+1		
+C2-E-TEST-0022-89.3	"Along with co-star Demi Lovato , Gomez performs the song ""One in the Same"" for the movie."	
+1C2-E-TEST-0022-89.3/001	alongside co-star demi lovato	
+1C2-E-TEST-0022-89.3/002	gomez performs	DEP=1C2-E-TEST-0022-89.3001
+1C2-E-TEST-0022-89.3/003	the song	DEP=1C2-E-TEST-0022-89.3002
+1C2-E-TEST-0022-89.3/004	"one in the same" for the movie	DEP=1C2-E-TEST-0022-89.3003

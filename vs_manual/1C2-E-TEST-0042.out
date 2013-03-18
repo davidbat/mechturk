@@ -1,0 +1,189 @@
+1C2-E-TEST-0042-12.101	"The President turned to us all: ""We are going to have to face the fact that, if we do invade, by the time we get to these sites, after a very bloody fight, they will be pointed at us."	
+1C2-E-TEST-0042-12.101/001	if we do invade	DEP=1C2-E-TEST-0042-12.101003
+1C2-E-TEST-0042-12.101/002	by time we get to sites after bloody fight	DEP=1C2-E-TEST-0042-12.101003
+1C2-E-TEST-0042-12.101/003	pointed at us	
+1C2-E-TEST-0042-12.108	"He supervised everything, from the contents of leaflets to be dropped over Cuba to the assembling of ships for the invasion."	
+1C2-E-TEST-0042-12.108/001	Supervised content leaflets dropped over cuba	
+1C2-E-TEST-0042-12.108/002	supervised assembling ships invasion	
+1C2-E-TEST-0042-12.117	"No more weapons to Cuba and those within Cuba withdrawn or destroyed, and you reciprocate by withdrawing your blockade and also agree not to invade Cuba."	
+1C2-E-TEST-0042-12.117/001	no more weapons	
+1C2-E-TEST-0042-12.117/002	those within cuba withdrawn destroyed	DEP=1C2-E-TEST-0042-12.117001
+1C2-E-TEST-0042-12.117/003	reciprocate withdrawing blockade	
+1C2-E-TEST-0042-12.117/004	agree not to invade	DEP=1C2-E-TEST-0042-12.117003
+1C2-E-TEST-0042-12.141	"Then, immediately, the President would have to decide whether he would use nuclear weapons against the Soviet Union, and all mankind would be threatened."	
+1C2-E-TEST-0042-12.141/001	president decide use nuclear weapons	
+1C2-E-TEST-0042-12.141/002	against soviet union	DEP=1C2-E-TEST-0042-12.141001
+1C2-E-TEST-0042-12.141/003	mankind threatened	DEP=1C2-E-TEST-0042-12.141001
+1C2-E-TEST-0042-12.153	The President ordered the Ex Comm to meet again at 9:00 P.M. in the White House.	
+1C2-E-TEST-0042-12.153/001	President ordered ex comm meet 9:00 p.m.	
+1C2-E-TEST-0042-12.153/002	in White house	DEP=1C2-E-TEST-0042-12.153001
+1C2-E-TEST-0042-12.187	He said he had just received word from the Russians that they had agreed to withdraw the missiles from Cuba.	
+1C2-E-TEST-0042-12.187/001	Received word russians	
+1C2-E-TEST-0042-12.187/002	agreed withdraw missiles	DEP=1C2-E-TEST-0042-12.187001
+1C2-E-TEST-0042-148.1	"At Cuba Conference, Old Foes Exchange Notes on 1962 Missile Crisis"	
+1C2-E-TEST-0042-148.1/001	cuba conference	
+1C2-E-TEST-0042-148.1/002	Old foes exchange notes	
+1C2-E-TEST-0042-148.1/003	1962 missile crisis	DEP=1C2-E-TEST-0042-148.1002
+1C2-E-TEST-0042-148.104	"As for U.S.-Cuba relations, they were as bad as they could get before the missile crisis, and the missile crisis confirmed them as being bad. The effect was to confirm Cuba as the enemy of the United States yet also constrain the U.S. from direct military force against Cuba, LeoGrande said."	
+1C2-E-TEST-0042-148.104/001	u.s cuba relations	
+1C2-E-TEST-0042-148.104/002	Bad before missile crisis	DEP=1C2-E-TEST-0042-148.104001
+1C2-E-TEST-0042-148.104/003	missile crisis confimed bad	DEP=1C2-E-TEST-0042-148.104001
+1C2-E-TEST-0042-148.104/004	effect confirm enemy	DEP=1C2-E-TEST-0042-148.104003
+1C2-E-TEST-0042-148.104/005	constrain u.s. from direct military force	DEP=1C2-E-TEST-0042-148.104003
+1C2-E-TEST-0042-148.107	Military convoys rumbled down South Florida's highways and many Americans around the country were digging bomb shelters even before Kennedy disclosed the U-2's photographs and warned the Soviets that any nuclear missile launched from Cuba would be regarded as an attack on the United States.	
+1C2-E-TEST-0042-148.107/001	military convoys rumbled	DEP=1C2-E-TEST-0042-148.107002
+1C2-E-TEST-0042-148.107/002	South florida highways	
+1C2-E-TEST-0042-148.107/003	americans Digging bomb shelters	DEP=1C2-E-TEST-0042-148.107003
+1C2-E-TEST-0042-148.107/004	Disclosed U-2 photographs	
+1C2-E-TEST-0042-148.107/005	Nuclear missiles launched	
+1C2-E-TEST-0042-148.107/006	regarded attack united states	DEP=1C2-E-TEST-0042-148.107005
+1C2-E-TEST-0042-148.110	"In Washington, Kennedy met with his Executive Committee of top advisers and after seven days of intense debate ordered a naval quarantine around Cuba -- approved on Oct."	
+1C2-E-TEST-0042-148.110/001	Washington met Executive committee top advisers	
+1C2-E-TEST-0042-148.110/002	Seven days intense debate	DEP=1C2-E-TEST-0042-148.110001
+1C2-E-TEST-0042-148.110/003	ordered naval quarantine	DEP=1C2-E-TEST-0042-148.110002
+1C2-E-TEST-0042-148.197	A conference in Havana marking the 40th anniversary of the Cuban missile crisis has ended with a visit by participants to sites related to the dispute that brought the United States and the Soviet Union to the brink of nuclear war.	
+1C2-E-TEST-0042-148.197/001	conference in havana	DEP=1C2-E-TEST-0042-148.197002
+1C2-E-TEST-0042-148.197/002	40th anniversary of cuban missile crisis	
+1C2-E-TEST-0042-148.197/003	visit to sites related to dispute	DEP=1C2-E-TEST-0042-148.197002
+1C2-E-TEST-0042-148.197/004	cuban missile crisis brought united states and soviet union to the brink of nuclear war	
+1C2-E-TEST-0042-148.198	"The delegates - who include politicians, military figures and academics from the US, Russia and Cuba - travelled to an abandoned silo west of Havana where Soviet nuclear missiles had been deployed."	
+1C2-E-TEST-0042-148.198/001	Delegates include politicians Military figures academics	
+1C2-E-TEST-0042-148.198/002	"from us, russia and cuba"	DEP=1C2-E-TEST-0042-148.198001
+1C2-E-TEST-0042-148.198/003	travelled to abandoned silo west of havana	DEP=1C2-E-TEST-0042-148.198001
+1C2-E-TEST-0042-148.198/004	soviet nuclear missiles had been deployed	DEP=1C2-E-TEST-0042-148.198003
+1C2-E-TEST-0042-148.215	"It could have been the end of the world, but here we are 40 years later - Americans, Cubans, Russians, he added."	
+1C2-E-TEST-0042-148.215/001	could have been end of world	
+1C2-E-TEST-0042-148.23	"Fidel Castro, the Cuban president, attended most of the closed-door sessions in Havana and offered long commentaries."	
+1C2-E-TEST-0042-148.23/001	Fidel castro attended most of closed-door sessions	
+1C2-E-TEST-0042-148.23/002	Cuban president	DEP=1C2-E-TEST-0042-148.23001
+1C2-E-TEST-0042-148.23/003	Offered long commentaries	DEP=1C2-E-TEST-0042-148.23001
+1C2-E-TEST-0042-148.99	"Yet this suspenseful episode, perhaps the most dangerous moment in world history, cemented an antagonistic relationship between the United States and Cuba that outlasted the Cold War and stubbornly persists today."	
+1C2-E-TEST-0042-148.99/001	suspenseful episode	
+1C2-E-TEST-0042-148.99/002	Dangerous moment in world history	
+1C2-E-TEST-0042-148.99/003	cemented antagonistic relationship between united states and cuba	
+1C2-E-TEST-0042-148.99/004	outlasted cold war and persists today	DEP=1C2-E-TEST-0042-148.99003
+1C2-E-TEST-0042-2.265	"On 6 June 1968, the Los Angeles office called me at about two o'clock in the morning to tell me that Robert Kennedy had been killed."	
+1C2-E-TEST-0042-2.265/001	6 june 1968	DEP=1C2-E-TEST-0042-2.265003
+1C2-E-TEST-0042-2.265/002	los angeles office called at two in morning	DEP=1C2-E-TEST-0042-2.265003
+1C2-E-TEST-0042-2.265/003	robert kenedy killed	
+1C2-E-TEST-0042-2.302	"He tapped Chief of Homicide Detectives Hugh Brown, with whom he had worked for fifteen years, to head SUS, telling Brown that if there was a ""great conspiracy"" linking the RFK murder with those of JFK and Martin Luther King, Jr., it had better be unveiled because their work would be subject to ""much fine-comb study."""	
+1C2-E-TEST-0042-2.302/001	chief detectives hugh brown	
+1C2-E-TEST-0042-2.302/002	worked with for fifteen years	DEP=1C2-E-TEST-0042-2.302001
+1C2-E-TEST-0042-2.302/003	great conspiracy linking RFK JFK and Martin Luther King Jr. murder	
+1C2-E-TEST-0042-2.302/004	better be unveiled	DEP=1C2-E-TEST-0042-2.302003
+1C2-E-TEST-0042-2.314	Kennedy was hit by four shots including one which lodged in the vertebrae in his neck and another which entered his brain from below his right ear.	
+1C2-E-TEST-0042-2.314/001	kennedy hit by four shots	
+1C2-E-TEST-0042-2.314/002	one lodged in vertebrae in neck	DEP=1C2-E-TEST-0042-2.314001
+1C2-E-TEST-0042-2.314/003	entered brain below right ear	DEP=1C2-E-TEST-0042-2.314002
+1C2-E-TEST-0042-2.323	"The autopsy of Kennedy's body suggested that all four shots that hit him came from behind, and powder marks on his skin showed they must have been from close range."	
+1C2-E-TEST-0042-2.323/001	autopsy of kennedy body	DEP=1C2-E-TEST-0042-2.323002
+1C2-E-TEST-0042-2.323/002	all four shots that hit came from behind	
+1C2-E-TEST-0042-2.323/003	powder marks on skin showed close range	
+1C2-E-TEST-0042-2.326	"There is no doubt in our minds that no fewer than 14 shots were fired in the pantry on that evening and that Sirhan did not in fact kill Senator Kennedy, said Robert Joling, a forensic scientist who has been involved with the Kennedy case for nearly 40 years."	
+1C2-E-TEST-0042-2.326/001	14 shots fired in pantry that evening	
+1C2-E-TEST-0042-2.326/002	sirhan did not kill senator	
+1C2-E-TEST-0042-2.326/003	said robert joling forensic scientist	DEP=1C2-E-TEST-0042-2.326002
+1C2-E-TEST-0042-2.326/004	involved with case 40 years	DEP=1C2-E-TEST-0042-2.326003
+1C2-E-TEST-0042-2.48	"Persons associated with Trafficante and Marcello knew about RFK's Coup Plan, and discussed it in documented conversations before and alter JFK's assassination."	
+1C2-E-TEST-0042-2.48/001	Persons associated with trafficante and marcello knew rfk coup plan	
+1C2-E-TEST-0042-2.48/002	Discussed it in documented conversations	DEP=1C2-E-TEST-0042-2.48001
+1C2-E-TEST-0042-2.48/003	before and after Jfk assassination	DEP=1C2-E-TEST-0042-2.48002
+1C2-E-TEST-0042-2.53	Robert Kennedy controlled the activities at the autopsy for national security reasons.	
+1C2-E-TEST-0042-2.53/001	robert kennedy controlled activities at autopsy	
+1C2-E-TEST-0042-2.53/002	for national security reasons	DEP=1C2-E-TEST-0042-2.53001
+1C2-E-TEST-0042-2.62	"We call RFK's Coup Plan ""Project Freedom"" (the actual names for the operation are still classified), since his goal was freedom and democracy for the Cuban people Additional information from confidential sources close to these events will show how the secrecy surrounding ""Project Freedom"" was used by organized crime to force the government to cover-up even today) the mob's role in the death of JFK."	
+1C2-E-TEST-0042-2.62/001	Rfk coup plan project freedom	
+1C2-E-TEST-0042-2.62/002	goal was freedom democracy for cuban	DEP=1C2-E-TEST-0042-2.62001
+1C2-E-TEST-0042-2.62/003	Secrecy sorrunding project freedom	
+1C2-E-TEST-0042-2.62/004	used by organized crime	DEP=1C2-E-TEST-0042-2.62003
+1C2-E-TEST-0042-2.62/005	force government to cover-up mob role in JFK death	DEP=1C2-E-TEST-0042-2.62004
+1C2-E-TEST-0042-2.65	"Robert Kennedy perceived so much hatred about, so many enemies: the Teamsters; the gangsters; the pro-Castro Cubans; the anti-Castro Cubans; the racists; the right-wing fanatics; the lonely deluded nuts mumbling to themselves in the night."	
+1C2-E-TEST-0042-2.65/001	robert kennedy perceived hatred about so many enemies	
+1C2-E-TEST-0042-2.65/002	the teamsters	DEP=1C2-E-TEST-0042-2.65001
+1C2-E-TEST-0042-2.65/003	the gangsters	DEP=1C2-E-TEST-0042-2.65001
+1C2-E-TEST-0042-2.65/004	the pro-castro cubans	DEP=1C2-E-TEST-0042-2.65001
+1C2-E-TEST-0042-2.65/005	the anti-castro cubans	DEP=1C2-E-TEST-0042-2.65001
+1C2-E-TEST-0042-2.65/006	the racists	DEP=1C2-E-TEST-0042-2.65001
+1C2-E-TEST-0042-2.65/007	the right-wing fanatics	DEP=1C2-E-TEST-0042-2.65001
+1C2-E-TEST-0042-2.65/008	the lonely deluded nuts	DEP=1C2-E-TEST-0042-2.65001
+1C2-E-TEST-0042-2.65/009	mumbling in the night	DEP=1C2-E-TEST-0042-2.65001
+1C2-E-TEST-0042-2.7	"(2) In 1957 Robert Kennedy began his long campaign against Jimmy Hoffa , leader of the Teamsters Union."	
+1C2-E-TEST-0042-2.7/001	1957	DEP=1C2-E-TEST-0042-2.7002
+1C2-E-TEST-0042-2.7/002	robert kennedy began campaign against jimmy hoffa	
+1C2-E-TEST-0042-2.7/003	jimmy hoffa leader of teamsters union	
+1C2-E-TEST-0042-2.73	"Kennedy said to Sheridan something like: ""You know, at the time I asked McCone... if they had killed my brother, and I asked him in a way that he couldn't lie to me, and they hadn't."""""	
+1C2-E-TEST-0042-2.73/001	kenned said to sheridan	DEP=1C2-E-TEST-0042-2.73002
+1C2-E-TEST-0042-2.73/002	asked mccone if they killed brother	
+1C2-E-TEST-0042-2.73/003	asked in way they couldn't lie	DEP=1C2-E-TEST-0042-2.73002
+1C2-E-TEST-0042-2.73/004	mccone hadn't killed brother	
+1C2-E-TEST-0042-2.74	Kennedy asked Frank Mankiewicz of his Senate staff whether he thought Garrison had anything.	
+1C2-E-TEST-0042-2.74/001	asked frank mankiewicz whether garrison had anything	
+1C2-E-TEST-0042-2.74/002	senate staff	DEP=1C2-E-TEST-0042-2.74001
+1C2-E-TEST-0042-2.76	"Kennedy told me later: ""Walter Sheridan is satisfied that Garrison is a fraud."""	
+1C2-E-TEST-0042-2.76/001	walter sheridan satisfied that garrison is a fraud	
+1C2-E-TEST-0042-2.86	"Moreover, it was RFK who suggested that the president ride through the streets of Dallas in a car without using the specially outfitted bulletproof bubble top."	
+1C2-E-TEST-0042-2.86/001	rfk suggested that president ride steets of dallas	
+1C2-E-TEST-0042-2.86/002	in a car	DEP=1C2-E-TEST-0042-2.86001
+1C2-E-TEST-0042-2.86/003	using specially outfitted bulletproof bubble top	DEP=1C2-E-TEST-0042-2.86001
+1C2-E-TEST-0042-2.98	"The CIA's John McCone remembered conversations with the attorney general shortly after Jack's death: ""He wanted to know what we knew about it and whether it had been a Cuban or perhaps Russian hit."	
+1C2-E-TEST-0042-2.98/001	CIA john McCone rememberd conversation with attorney general	DEP=1C2-E-TEST-0042-2.98003
+1C2-E-TEST-0042-2.98/002	after jack death	DEP=1C2-E-TEST-0042-2.98001
+1C2-E-TEST-0042-2.98/003	wanted to know whether it had been cuban or russian hit	
+1C2-E-TEST-0042-3.10	He first gained national recognition as chief counsel (1955-57) of the Senate Permanent Investigations Subcommittee in its investigation of Teamster Union executives David Beck and James Hoffa.	
+1C2-E-TEST-0042-3.10/001	Gained national recognisation as chief counsel in teamster union executives investigation	
+1C2-E-TEST-0042-3.10/002	1955-57	DEP=1C2-E-TEST-0042-3.10001
+1C2-E-TEST-0042-3.10/003	chief counsel of senate permanent investigations subcommittee	
+1C2-E-TEST-0042-3.10/004	Teamster Union executives david beck and james hoffa	
+1C2-E-TEST-0042-3.11	"When his brother ran for president in 1960, Kennedy again went to manage the campaign."	
+1C2-E-TEST-0042-3.11/001	brother ran for president	
+1C2-E-TEST-0042-3.11/002	1960	DEP=1C2-E-TEST-0042-3.11001
+1C2-E-TEST-0042-3.11/003	kennedy again went to manage campaign	DEP=1C2-E-TEST-0042-3.11001
+1C2-E-TEST-0042-3.13	"In addition to serving as Attorney General, Robert was the president's confidante and closest advisor."	
+1C2-E-TEST-0042-3.13/001	robert attorney general	
+1C2-E-TEST-0042-3.13/002	robert president's confidante and closest advisor	
+1C2-E-TEST-0042-3.14	Kennedy resigned his cabinet post in 1964 to run for political office in New York.	
+1C2-E-TEST-0042-3.14/001	resigned cabinet post to run for political office in new york	
+1C2-E-TEST-0042-3.14/002	1964	DEP=1C2-E-TEST-0042-3.14001
+1C2-E-TEST-0042-3.15	"In the spring of 1968 Kennedy, who disagreed with President Lyndon Johnson's policies, campaigned for the Democratic party nomination."	
+1C2-E-TEST-0042-3.15/001	campaigned for democratic party nomination	
+1C2-E-TEST-0042-3.15/002	spring 1968	DEP=1C2-E-TEST-0042-3.15001
+1C2-E-TEST-0042-3.15/003	kennedy disagreed with president lyndon johnson policies	
+1C2-E-TEST-0042-3.20	"Robert also voiced opinions of his own, which greatly helped in the crisis resolution."	
+1C2-E-TEST-0042-3.20/001	robert voiced opinions of his own	
+1C2-E-TEST-0042-3.20/002	greatly helped in crisis resolution	DEP=1C2-E-TEST-0042-3.20001
+1C2-E-TEST-0042-3.21	Perhaps Kennedy's most significant contribution was being adamantly opposed to an air strike from the outset.	
+1C2-E-TEST-0042-3.21/001	adamantly opposed to air strike from outset	
+1C2-E-TEST-0042-3.21/002	most significant contribution	DEP=1C2-E-TEST-0042-3.21001
+1C2-E-TEST-0042-3.24	"You're going to announce the reason that you're doing it is because they're sending this kind of missiles, well, I think it's almost incumbent upon the Russians then to say, 'Well, we're going to send them in again, and if you do it again ... we're going to do the same thing to Turkey or ..."	
+1C2-E-TEST-0042-3.24/001	announce reason that doing it because they sending missiles	
+1C2-E-TEST-0042-3.24/002	incumbent upon russians to say going to send them in again	
+1C2-E-TEST-0042-3.24/003	incumbent upon russians to say we're going to do the same thing to turkey	
+1C2-E-TEST-0042-3.36	"From his energetic approach to contacting Ambassador Dobrynin, Kennedy was an invaluble help to his brother and the world."	
+1C2-E-TEST-0042-3.36/001	energetic approach to contacting ambassador dobrynin	
+1C2-E-TEST-0042-3.36/002	invaluable help to bother and world	
+1C2-E-TEST-0042-62.3	"Rumors of ties between the Kennedys and the Mafia go back to John F. Kennedy's father, Joe Kennedy, who reportedly earned much of the family fortune as bootlegger and had connections to mobsters like Meyer Lansky."	
+1C2-E-TEST-0042-62.3/001	joe kennedy reportedly earned much of family fortuned as bootlegger	
+1C2-E-TEST-0042-62.3/002	joe kennedy reportedly had connections to mobsters like meyer lansky	
+1C2-E-TEST-0042-62.3/003	ties between kennedys and mafia go back to john f kennedy's father	
+1C2-E-TEST-0042-62.7	One theory attributes motive to the Mafia through the Bay of Pigs invasion of Cuba.	
+1C2-E-TEST-0042-62.7/001	one theory attributes motive to mafia	
+1C2-E-TEST-0042-62.7/002	motive through bay of pigs invasion of cuba	DEP=1C2-E-TEST-0042-62.7001
+1C2-E-TEST-0042-8.6	"It is Waldron and Hartmann's (The Edison Gene) contention bolstered by access to many previously unavailable files, and interviews with little-known as well as prominent figures that the CIA knew a great deal about the assassination."	
+1C2-E-TEST-0042-8.6/001	CIA knew about assasination by waldron and hartmanns contention	
+1C2-E-TEST-0042-8.6/002	CIA knew about assasination by access to previously unavailable files	
+1C2-E-TEST-0042-8.6/003	CIA knew about assasination by interviews with little-know as well as prominent figures	
+1C2-E-TEST-0042-8.6/004	the edison gene	DEP=1C2-E-TEST-0042-8.6001
+1C2-E-TEST-0042-8.7	"But the agency couldn't admit what it knew because that could uncover the existence of a U.S. plan for a coup in Cuba, run by JFK's brother, Attorney General Robert Kennedy."	
+1C2-E-TEST-0042-8.7/001	agency couldn't admit what it knew	
+1C2-E-TEST-0042-8.7/002	could uncover u.s. plan for coup in cuba	DEP=1C2-E-TEST-0042-8.7001
+1C2-E-TEST-0042-8.7/003	by jfk's brother attorney general robert kennedy	DEP=1C2-E-TEST-0042-8.7002
+1C2-E-TEST-0042-8.8	"The assassination, say the authors, was carried out by hired gunmen on the orders of three noted Mafia dons whose lives were being made miserable by RFK's ruthless pursuit and these Mafia men knew about the planned invasion because they had worked with the CIA on previous efforts to topple Castro."	
+1C2-E-TEST-0042-8.8/001	assasination carried out by hired gunmen	
+1C2-E-TEST-0042-8.8/002	on order of three noted mafia dons	DEP=1C2-E-TEST-0042-8.8001
+1C2-E-TEST-0042-8.8/003	lives made miserable by rfk's ruthless pursuit	DEP=1C2-E-TEST-0042-8.8002
+1C2-E-TEST-0042-8.8/004	mafia men knew about planned invasion	
+1C2-E-TEST-0042-8.8/005	worked with cia on previous efforts to topple castro	DEP=1C2-E-TEST-0042-8.8004
+1C2-E-TEST-0042-8.9	"Oswald, long a hidden CIA agent, was set up as the patsy, and it had always been Jack Ruby's job to eliminate him if he wasn't killed at the scene of Kennedy's shooting."	
+1C2-E-TEST-0042-8.9/001	oswald set up as patsy	
+1C2-E-TEST-0042-8.9/002	hidden cia agent	DEP=1C2-E-TEST-0042-8.9001
+1C2-E-TEST-0042-8.9/003	jack ruby's job to eliminate oswald if he wasn't killed at scene of kennedy's shooting	

@@ -1,0 +1,107 @@
+1C2-E-TEST-0160-1.157	"In the 2009 miniseries Batman: Battle for the Cowl , Wayne's former protege Dick Grayson becomes the new Batman, and Wayne's son Damian becomes the new Robin."	
+1C2-E-TEST-0160-1.157/001	In the 2009 miniseries Batman	
+1C2-E-TEST-0160-1.157/002	Battle for the Cowl	DEP=1C2-E-TEST-0160-1.157001
+1C2-E-TEST-0160-1.157/003	Wayne's former protege	DEP=1C2-E-TEST-0160-1.157002
+1C2-E-TEST-0160-1.157/004	dick grayson	DEP=1C2-E-TEST-0160-1.157003
+1C2-E-TEST-0160-1.157/005	and Wayne's son	DEP=1C2-E-TEST-0160-1.157004
+1C2-E-TEST-0160-1.157/006	Damian	DEP=1C2-E-TEST-0160-1.157005
+1C2-E-TEST-0160-1.157/007	becomes the new Robin	DEP=1C2-E-TEST-0160-1.157006
+1C2-E-TEST-0160-1.160	"In 2010, the storyline Batman: The Return of Bruce Wayne saw Bruce travel through history, eventually returning to the present day."	
+1C2-E-TEST-0160-1.160/001	in 2010	
+1C2-E-TEST-0160-1.160/002	the storyline	DEP=1C2-E-TEST-0160-1.160001
+1C2-E-TEST-0160-1.160/003	Batman: the return of bruce wayne	DEP=1C2-E-TEST-0160-1.160002
+1C2-E-TEST-0160-1.160/004	bruce wayne	DEP=1C2-E-TEST-0160-1.160003
+1C2-E-TEST-0160-1.160/005	saw Bruce travel through history	DEP=1C2-E-TEST-0160-1.160004
+1C2-E-TEST-0160-1.160/006	eventually returning to the present day	DEP=1C2-E-TEST-0160-1.160005
+1C2-E-TEST-0160-1.212	"In the 1970s and 1980s, Brave and the Bold became a Batman title, in which Batman teams up with a different DC Universe superhero each month."	
+1C2-E-TEST-0160-1.212/001	In the 1970s and 1980s	
+1C2-E-TEST-0160-1.212/002	Brave and the Bold	DEP=1C2-E-TEST-0160-1.212001
+1C2-E-TEST-0160-1.212/003	became a Batman title	DEP=1C2-E-TEST-0160-1.212002
+1C2-E-TEST-0160-1.212/004	in which Batman teams up	DEP=1C2-E-TEST-0160-1.212003
+1C2-E-TEST-0160-1.212/005	with a different DC Universe superhero	DEP=1C2-E-TEST-0160-1.212004
+1C2-E-TEST-0160-1.212/006	each month	DEP=1C2-E-TEST-0160-1.212005
+1C2-E-TEST-0160-1.231	"In 1988's "" Batman: A Death in the Family "" storyline from Batman #426-429 Jason Todd, the second Robin, is killed by the Joker."	
+1C2-E-TEST-0160-1.231/001	in 1988	
+1C2-E-TEST-0160-1.231/002	Batman: A Death in the Family	DEP=1C2-E-TEST-0160-1.231001
+1C2-E-TEST-0160-1.231/003	storyline from Batman	DEP=1C2-E-TEST-0160-1.231002
+1C2-E-TEST-0160-1.231/004	#426-429	DEP=1C2-E-TEST-0160-1.231003
+1C2-E-TEST-0160-1.231/005	Jason Todd	DEP=1C2-E-TEST-0160-1.231004
+1C2-E-TEST-0160-1.231/006	the second Robin	DEP=1C2-E-TEST-0160-1.231005
+1C2-E-TEST-0160-1.231/007	is killed by the	
+joker		DEP=1C2-E-TEST-0160-1.231006
+1C2-E-TEST-0160-1.240	"Wayne hands the Batman mantle to Dick Grayson (then Nightwing) for an interim period, while Wayne trains to return to the role."	
+1C2-E-TEST-0160-1.240/001	Wayne hands the Batman mantle	
+1C2-E-TEST-0160-1.240/002	to Dick Grayson (then Nightwing)	DEP=1C2-E-TEST-0160-1.240001
+1C2-E-TEST-0160-1.240/003	for an interim period	DEP=1C2-E-TEST-0160-1.240002
+1C2-E-TEST-0160-1.240/004	while Wayne trains	DEP=1C2-E-TEST-0160-1.240003
+1C2-E-TEST-0160-1.240/005	to return to the role	
+DEP=1C2-E-TEST-0160-1.240004		
+1C2-E-TEST-0160-1.268	"[81] The follow-up story arc in Batman, Batman & Son , introduces Damian Wayne , who is Batman's son with Talia al Ghul ."	
+1C2-E-TEST-0160-1.268/001	The follow-up story arc in Batman	
+1C2-E-TEST-0160-1.268/002	Batman & Son	DEP=1C2-E-TEST-0160-1.268001
+1C2-E-TEST-0160-1.268/003	introduces Damian Wayne	DEP=1C2-E-TEST-0160-1.268002
+1C2-E-TEST-0160-1.268/004	who is Batman's son with Talia al Ghul	DEP=1C2-E-TEST-0160-1.268003
+1C2-E-TEST-0160-1.269	"Batman, along with Superman and Wonder Woman, reforms the Justice League in the new Justice League of America series, [82] and is leading the newest incarnation of the Outsiders ."	
+1C2-E-TEST-0160-1.269/001	batman	
+1C2-E-TEST-0160-1.269/002	along with	DEP=1C2-E-TEST-0160-1.269001
+1C2-E-TEST-0160-1.269/003	Superman and Wonder Woman	DEP=1C2-E-TEST-0160-1.269002
+1C2-E-TEST-0160-1.269/004	reforms the Justice League	DEP=1C2-E-TEST-0160-1.269003
+1C2-E-TEST-0160-1.269/005	in the new Justice League of America series	DEP=1C2-E-TEST-0160-1.269004
+1C2-E-TEST-0160-1.269/006	and is leading the newest incarnation of the Outsiders	DEP=1C2-E-TEST-0160-1.269005
+1C2-E-TEST-0160-1.289	"[92] Deadman , whose body has also become a Black Lantern, rushes to aid the new Batman and Robin, along with Red Robin against the Gotham villains who have been reanimated as Black Lanterns, as well as their own family members."	
+1C2-E-TEST-0160-1.289/001	deadman	
+1C2-E-TEST-0160-1.289/002	whose body has also become a Black Lantern	DEP=1C2-E-TEST-0160-1.289001
+1C2-E-TEST-0160-1.289/003	rushes to aid the new Batman and Robin	DEP=1C2-E-TEST-0160-1.289002
+1C2-E-TEST-0160-1.289/004	along with Red Robin	DEP=1C2-E-TEST-0160-1.289003
+1C2-E-TEST-0160-1.289/005	against the Gotham villains	DEP=1C2-E-TEST-0160-1.289004
+1C2-E-TEST-0160-1.289/006	who have been reanimated	DEP=1C2-E-TEST-0160-1.289005
+1C2-E-TEST-0160-1.289/007	as Black Lanterns	DEP=1C2-E-TEST-0160-1.289006
+1C2-E-TEST-0160-1.289/008	as well as their own family members	DEP=1C2-E-TEST-0160-1.289007
+1C2-E-TEST-0160-1.306	"Also, Batman is the protagonist in the new title Batman: The Dark Knight , which will be written and drawn by David Finch ."	
+1C2-E-TEST-0160-1.306/001	Also, Batman is the protagonist	
+1C2-E-TEST-0160-1.306/002	in the new title Batman: The Dark Knight	DEP=1C2-E-TEST-0160-1.306001
+1C2-E-TEST-0160-1.306/003	which will be written and drawn	DEP=1C2-E-TEST-0160-1.306002
+1C2-E-TEST-0160-1.306/004	by David Finch	DEP=1C2-E-TEST-0160-1.306003
+1C2-E-TEST-0160-1.327	"In his secret identity, Batman is Bruce Wayne, a wealthy businessman who lives in Gotham City."	
+1C2-E-TEST-0160-1.327/001	In his secret identity	
+1C2-E-TEST-0160-1.327/002	Batman is Bruce Wayne	DEP=1C2-E-TEST-0160-1.327001
+1C2-E-TEST-0160-1.327/003	a wealthy businessman	DEP=1C2-E-TEST-0160-1.327002
+1C2-E-TEST-0160-1.327/004	who lives in Gotham City	DEP=1C2-E-TEST-0160-1.327003
+1C2-E-TEST-0160-1.338	"Finger came up with the name ""Bruce Wayne"" for the superhero's secret identity."	
+1C2-E-TEST-0160-1.338/001	Finger came up with the name	
+1C2-E-TEST-0160-1.338/002	Bruce Wayne	DEP=1C2-E-TEST-0160-1.338001
+1C2-E-TEST-0160-1.338/003	for the superhero's secret identity	DEP=1C2-E-TEST-0160-1.338002
+1C2-E-TEST-0160-1.348	"While Wayne traveled through time to get back to the present, Dick Grayson became the new Batman."	
+1C2-E-TEST-0160-1.348/001	While Wayne traveled through time	
+1C2-E-TEST-0160-1.348/002	to get back to the present	DEP=1C2-E-TEST-0160-1.348001
+1C2-E-TEST-0160-1.348/003	Dick Grayson became the new Batman	DEP=1C2-E-TEST-0160-1.348002
+1C2-E-TEST-0160-12.132	"Years later, Batman finds himself in Arkham Asylum with Joker (and other Batman rogues) running the show, Batman locks himself in the asylum to stop Joker."	
+1C2-E-TEST-0160-12.132/001	years later	
+1C2-E-TEST-0160-12.132/002	Batman finds himself	DEP=1C2-E-TEST-0160-12.132001
+1C2-E-TEST-0160-12.132/003	in Arkham Asylum	DEP=1C2-E-TEST-0160-12.132002
+1C2-E-TEST-0160-12.132/004	with Joker (and other Batman rogues)	DEP=1C2-E-TEST-0160-12.132003
+1C2-E-TEST-0160-12.132/005	Batman locks himself	DEP=1C2-E-TEST-0160-12.132004
+1C2-E-TEST-0160-12.132/006	himself in the asylum	DEP=1C2-E-TEST-0160-12.132005
+1C2-E-TEST-0160-12.132/007	to stop Joker	DEP=1C2-E-TEST-0160-12.132006
+1C2-E-TEST-0160-12.155	"The first part usually involved a villain committing a crime with Batman and Robin attempting to stop the criminal, only to be caught and put in a death trap."	
+1C2-E-TEST-0160-12.155/001	The first part usually involved	
+1C2-E-TEST-0160-12.155/002	a villain committing a crime	DEP=1C2-E-TEST-0160-12.155001
+1C2-E-TEST-0160-12.155/003	with Batman and Robin	DEP=1C2-E-TEST-0160-12.155002
+1C2-E-TEST-0160-12.155/004	attempting to stop the criminal	DEP=1C2-E-TEST-0160-12.155003
+1C2-E-TEST-0160-12.155/005	only to be caught	DEP=1C2-E-TEST-0160-12.155004
+1C2-E-TEST-0160-12.155/006	and put in a death trap	DEP=1C2-E-TEST-0160-12.155005
+1C2-E-TEST-0160-12.175	"Soon after Batman the Animated Series ended, Batman appeared (once again) in a guest spot for Superman: The Animated Series before starring in his own show titled The New Batman Adventures."	
+1C2-E-TEST-0160-12.175/001Soon	after Batman the Animated Series ended	
+1C2-E-TEST-0160-12.175/002	Batman appeared (once again) in a guest spot	DEP=1C2-E-TEST-0160-12.175001
+1C2-E-TEST-0160-12.175/003	for Superman: The Animated Series	DEP=1C2-E-TEST-0160-12.175002
+1C2-E-TEST-0160-12.175/004	before starring in his own show	DEP=1C2-E-TEST-0160-12.175003
+1C2-E-TEST-0160-12.175/005	titled The New Batman Adventures	DEP=1C2-E-TEST-0160-12.175004
+1C2-E-TEST-0160-12.235	"The story follows the Jason Todd Robin's death, and years later a new foe who uses the Joker's old alias wreaks havoc among Gotham City's organized crime, Batman finds him disturbingly familiar."	
+1C2-E-TEST-0160-12.235/001	The story follows	
+1C2-E-TEST-0160-12.235/002	the Jason Todd Robin's death	DEP=1C2-E-TEST-0160-12.235001
+1C2-E-TEST-0160-12.235/003	and years later	DEP=1C2-E-TEST-0160-12.235002
+1C2-E-TEST-0160-12.235/004	a new foe who	DEP=1C2-E-TEST-0160-12.235003
+1C2-E-TEST-0160-12.235/005	uses the Joker's old alias	DEP=1C2-E-TEST-0160-12.235004
+1C2-E-TEST-0160-12.235/006	wreaks havoc	DEP=1C2-E-TEST-0160-12.235005
+1C2-E-TEST-0160-12.235/007	among Gotham City's organized crime	DEP=1C2-E-TEST-0160-12.235006
+1C2-E-TEST-0160-12.235/008	Batman finds him disturbingly familiar	DEP=1C2-E-TEST-0160-12.235007

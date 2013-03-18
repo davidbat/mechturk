@@ -1,0 +1,189 @@
+1C2-E-TEST-0092-10.3	"HawaiÃÂ»i Pacific University, also known as HPU, is a private, nonsectarian, coeducational university located in Honolulu, Hawaii, and Kaneohe, Hawaii."	
+1C2-E-TEST-0092-10.3/001	private nonsectarian coeducational university	
+1C2-E-TEST-0092-10.3/002	located honolulu and kanohe	DEP=1C2-E-TEST-0092-10.3001
+1C2-E-TEST-0092-10.3/003	also know as hpu	
+1C2-E-TEST-0092-10.4	"HPU founded in 1965 as HawaiÃÂ»i Pacific College by Paul C.T. Loo, Eureka Forbes, Elizabeth W. Kellerman, and Reverend Edmond Walker."	
+1C2-E-TEST-0092-10.4/001	founded in 1965	
+1C2-E-TEST-0092-10.4/002	by paul c.t. loo	DEP=1C2-E-TEST-0092-10.4001
+1C2-E-TEST-0092-10.4/003	by eureka forbes	DEP=1C2-E-TEST-0092-10.4001
+1C2-E-TEST-0092-10.4/004	by elizabeth w. kellerman	DEP=1C2-E-TEST-0092-10.4001
+1C2-E-TEST-0092-10.4/005	by reverend edmond walker	DEP=1C2-E-TEST-0092-10.4001
+1C2-E-TEST-0092-10.5	"HawaiÃÂ»i Pacific University is the largest private university in the central Pacific, most noted for its diverse student body of almost 9,000 students, representing over 100 countries."	
+1C2-E-TEST-0092-10.5/001	largest private university In central pacific	
+1C2-E-TEST-0092-10.5/002	noted for diverse student body	
+1C2-E-TEST-0092-10.5/003	9000 students representing 100 countries	DEP=1C2-E-TEST-0092-10.5002
+1C2-E-TEST-0092-10.6	"The school's largest academic programs are in Business Administration, Nursing, and International Relations."	
+1C2-E-TEST-0092-10.6/001	largest academic programs business administration	
+1C2-E-TEST-0092-10.6/002	largest academic programs international relations	
+1C2-E-TEST-0092-10.6/003	largest academic programs nursing	
+1C2-E-TEST-0092-10.7	HawaiÃÂ»i Pacific University has two main campuses in addition to an Oceanic Institute and Military programs.	
+1C2-E-TEST-0092-10.7/001	has two main campuses	
+1C2-E-TEST-0092-10.7/002	has oceanic institute	
+1C2-E-TEST-0092-10.7/003	has military programs	
+1C2-E-TEST-0092-10.8	"HPU's downtown Honolulu campus serves most of the business, liberal arts, and other general programs; while the HawaiÃÂ»i Loa campus on the windward side of the KoÃÂ»olau Range houses the majority of the science programs."	
+1C2-E-TEST-0092-10.8/001	downtown honolulu campus	
+1C2-E-TEST-0092-10.8/002	serves business liberal arts other general programs	DEP=1C2-E-TEST-0092-10.8001
+1C2-E-TEST-0092-10.8/003	loa campus	
+1C2-E-TEST-0092-10.8/004	windward side of koolau range	DEP=1C2-E-TEST-0092-10.8003
+1C2-E-TEST-0092-10.8/005	majority science programs	DEP=1C2-E-TEST-0092-10.8003
+1C2-E-TEST-0092-102.15	"The main campus is located in downtown Honolulu, the business and financial center of the Pacific."	
+1C2-E-TEST-0092-102.15/001	main campus located downtown honolulu	
+1C2-E-TEST-0092-102.15/002	business financial center pacific	DEP=1C2-E-TEST-0092-102.15001
+1C2-E-TEST-0092-113.1	Hawai`i Pacific University is the largest private postsecondary institution in the state of	
+1C2-E-TEST-0092-113.1/001	largest private postsecondary institution in state	
+1C2-E-TEST-0092-113.11	"HawaiÃ¢ÂÂi Pacific combines the excitement of an urban, downtown campus with the serenity of the windward side of the island."	
+1C2-E-TEST-0092-113.11/001	excitement urban downtown campus	DEP=1C2-E-TEST-0092-113.11003
+1C2-E-TEST-0092-113.11/002	serenity windward side island	DEP=1C2-E-TEST-0092-113.11003
+1C2-E-TEST-0092-113.11/003	hawaii pacific combines campus with island	
+1C2-E-TEST-0092-113.26	"Hawai`i Pacific University, an established institution with leading programs in business administration, information systems, and management, offers a comprehensive Master of Business Administration (M.B.A.) degree program."	
+1C2-E-TEST-0092-113.26/001	established institution with leading programs	
+1C2-E-TEST-0092-113.26/002	business administration	DEP=1C2-E-TEST-0092-113.26001
+1C2-E-TEST-0092-113.26/003	information systems	DEP=1C2-E-TEST-0092-113.26001
+1C2-E-TEST-0092-113.26/004	management	DEP=1C2-E-TEST-0092-113.26001
+1C2-E-TEST-0092-113.26/005	offers comprehensive master business administration m.b.a. degree	DEP=1C2-E-TEST-0092-113.26001
+1C2-E-TEST-0092-113.32	"Fifth, as a major partner in the downtown business community, Hawai`i Pacific University coordinates a large internship program that provides part-time and full-time managerial, technical, and professional positions in leading business firms."	
+1C2-E-TEST-0092-113.32/001	major partner in downtown business community	
+1C2-E-TEST-0092-113.32/002	coordinates large internship program	DEP=1C2-E-TEST-0092-113.32001
+1C2-E-TEST-0092-113.32/003	provides part-time and full-time positions in leading business firms	
+1C2-E-TEST-0092-113.32/004	managerial technical professional	DEP=1C2-E-TEST-0092-113.32003
+1C2-E-TEST-0092-113.36	"The curriculum is organized into nine core courses (27 semester hours), four elective courses tailored to the student's individual needs (12 semester hours), and a capstone sequence including a policy and strategy formulation course and professional paper (6 semester hours)."	
+1C2-E-TEST-0092-113.36/001	curriculum organized	
+1C2-E-TEST-0092-113.36/002	nine core courses	DEP=1C2-E-TEST-0092-113.36001
+1C2-E-TEST-0092-113.36/003	27 semester hours	DEP=1C2-E-TEST-0092-113.36002
+1C2-E-TEST-0092-113.36/004	four elective courses	DEP=1C2-E-TEST-0092-113.36001
+1C2-E-TEST-0092-113.36/005	tailored to student's indiividual needs	DEP=1C2-E-TEST-0092-113.36004
+1C2-E-TEST-0092-113.36/006	12 semester hours	DEP=1C2-E-TEST-0092-113.36004
+1C2-E-TEST-0092-113.36/007	capstone sequence	DEP=1C2-E-TEST-0092-113.36001
+1C2-E-TEST-0092-113.36/008	policy and strategy formulation course	DEP=1C2-E-TEST-0092-113.36007
+1C2-E-TEST-0092-113.36/009	professional paper	DEP=1C2-E-TEST-0092-113.36007
+1C2-E-TEST-0092-113.36/010	6 semester hours	DEP=1C2-E-TEST-0092-113.36007
+1C2-E-TEST-0092-113.38	"The University also offers an M.A. in global leadership and sustainable development, which is designed for the exceptional student whose background, education, and worldview have inspired an interest in assuming leadership positions in the global community."	
+1C2-E-TEST-0092-113.38/001	university offers m.a. in global leadership and sustainable development	
+1C2-E-TEST-0092-113.38/002	designed for exceptional students	DEP=1C2-E-TEST-0092-113.38001
+1C2-E-TEST-0092-113.38/003	interest in assuming leadership positions global community	DEP=1C2-E-TEST-0092-113.38002
+1C2-E-TEST-0092-113.38/004	backgound education worldview	DEP=1C2-E-TEST-0092-113.38003
+1C2-E-TEST-0092-113.4	"The University is coeducational, with a faculty of more than 300 members, a student-faculty ratio of 18:1, and an average class size of 24."	
+1C2-E-TEST-0092-113.4/001	university is coeducational	
+1C2-E-TEST-0092-113.4/002	faculty of more than 300 members	
+1C2-E-TEST-0092-113.4/003	student-faculty ratio 18:1	
+1C2-E-TEST-0092-113.4/004	average class size 24	
+1C2-E-TEST-0092-113.47	The University's accessible on-campus computer center houses more than 100 IBM-compatible microcomputers with stand-alone and networked configurations that support the graduate programsÃ¢ÂÂ integrated computer applications approach.	
+1C2-E-TEST-0092-113.47/001	accessible on-campus computer center	DEP=1C2-E-TEST-0092-113.47002
+1C2-E-TEST-0092-113.47/002	houses 100 ibm-compatible microcomputers	
+1C2-E-TEST-0092-113.47/003	stand-alone and networked configuration	DEP=1C2-E-TEST-0092-113.47002
+1C2-E-TEST-0092-113.47/004	support graduate programs integrated computer applications approach	DEP=1C2-E-TEST-0092-113.47002
+1C2-E-TEST-0092-197.11	"HPU campus downtown Honolulu serves the majority of business, liberal arts, and other general programs."	
+1C2-E-TEST-0092-197.11/001	downtown honolulu serves programs	
+1C2-E-TEST-0092-197.11/002	business	DEP=1C2-E-TEST-0092-197.11001
+1C2-E-TEST-0092-197.11/003	general programs	DEP=1C2-E-TEST-0092-197.11001
+1C2-E-TEST-0092-197.11/004	liberal arts	DEP=1C2-E-TEST-0092-197.11001
+1C2-E-TEST-0092-197.13	The Hawaii Loa campus is located near Castle Junction in Kaneohe on the windward side of the Koolau chain.	
+1C2-E-TEST-0092-197.13/001	hawaii loa campus located in Kaneohe	
+1C2-E-TEST-0092-197.13/002	near castle junction	DEP=1C2-E-TEST-0092-197.13001
+1C2-E-TEST-0092-197.13/003	on windward side of Koolau chain	DEP=1C2-E-TEST-0092-197.13001
+1C2-E-TEST-0092-197.14	"The campus was built by Hawaii Loa College, a liberal arts school which merged with Hawaii Pacific University"	
+1C2-E-TEST-0092-197.14/001	campus built by hawaii loa college	
+1C2-E-TEST-0092-197.14/002	liberal arts school	DEP=1C2-E-TEST-0092-197.14001
+1C2-E-TEST-0092-197.14/003	hawaii loa college merged with hawaii pacific university	
+1C2-E-TEST-0092-197.9	"Hawaii Pacific University is the largest private university in the central Pacific, best known for its diverse student body of nearly 9,000 students, representing more than 100 countries. the school 's largest academic program s are business administration, nursing, and international relations."	
+1C2-E-TEST-0092-197.9/001	largest private university In central pacific	
+1C2-E-TEST-0092-197.9/002	known for diverse student body	
+1C2-E-TEST-0092-197.9/003	9000 students representing 100 countries	DEP=1C2-E-TEST-0092-197.9002
+1C2-E-TEST-0092-197.9/004	largest academic programs	
+1C2-E-TEST-0092-197.9/005	business administration	DEP=1C2-E-TEST-0092-197.9004
+1C2-E-TEST-0092-197.9/006	nursing	DEP=1C2-E-TEST-0092-197.9004
+1C2-E-TEST-0092-197.9/007	international relations	DEP=1C2-E-TEST-0092-197.9004
+1C2-E-TEST-0092-35.11	"This campus was originally built by Hawaii Loa College, a liberal arts school that was merged into Hawaii Pacific University in 1992."	
+1C2-E-TEST-0092-35.11/001	campus originally built by hawaii loa college	
+1C2-E-TEST-0092-35.11/002	liberal arts school	DEP=1C2-E-TEST-0092-35.11001
+1C2-E-TEST-0092-35.11/003	hawaii loa college merged with hawaii pacific university	
+1C2-E-TEST-0092-35.11/004	1992	DEP=1C2-E-TEST-0092-35.11003
+1C2-E-TEST-0092-35.13	This campus houses the majority of the science programs and the nursing program.	
+1C2-E-TEST-0092-35.13/001	campus houses majority science programs	
+1C2-E-TEST-0092-35.13/002	campus houses majority nursing program	
+1C2-E-TEST-0092-35.6	Hawaii Pacific University has two main campuses and access to scientific facilities.	
+1C2-E-TEST-0092-35.6/001	two main campuses	
+1C2-E-TEST-0092-35.6/002	access scientific facilities	
+1C2-E-TEST-0092-4.10	"The main campus is in the heart of Honolulu's downtown business and financial district, within the center of the state's capital district."	
+1C2-E-TEST-0092-4.10/001	main campus within center of state capital disctrict	
+1C2-E-TEST-0092-4.10/002	heart of honolulu downtown business financial district	DEP=1C2-E-TEST-0092-4.10001
+1C2-E-TEST-0092-4.13	The Hawai'i Loa campus of Hawai'i Pacific University is located on the windward side of the island of Oahu and offers students an idyllic campus setting with rolling hills and lush greenery.	
+1C2-E-TEST-0092-4.13/001	hawai'i loa campus located on island oahu	
+1C2-E-TEST-0092-4.13/002	windward side of island	DEP=1C2-E-TEST-0092-4.13001
+1C2-E-TEST-0092-4.13/003	offers studens idyllic campus setting	DEP=1C2-E-TEST-0092-4.13001
+1C2-E-TEST-0092-4.13/004	rolling hills lush greenery	DEP=1C2-E-TEST-0092-4.13003
+1C2-E-TEST-0092-4.18	Hawaii Pacific University has a diverse student body that is composed of students from every state in the U.S. as well as more than 100 countries from around the world.	
+1C2-E-TEST-0092-4.18/001	has diverse student body	
+1C2-E-TEST-0092-4.18/002	composed of students every state u.s.	
+1C2-E-TEST-0092-4.18/003	composed of students more than 100 countries around world	
+1C2-E-TEST-0092-4.6	"An independent, coeducational, comprehensive university with a foundation in the liberal arts, Hawaii Pacific University offers degrees in the Bachelor of Arts and the Bachelor of Science as well as the Bachelor of Social Work."	
+1C2-E-TEST-0092-4.6/001	independent coeducational comprehensive university	
+1C2-E-TEST-0092-4.6/002	foundation in liberal arts	
+1C2-E-TEST-0092-4.6/003	offers degrees in bachelor arts	
+1C2-E-TEST-0092-4.6/004	offers degrees in bachelor science	
+1C2-E-TEST-0092-4.6/005	offers degrees in bachelor social work	
+1C2-E-TEST-0092-4.7	"Graduate degrees are offered in the Arts, Business Administration, Secondary Education, the Sciences, and Social Work."	
+1C2-E-TEST-0092-4.7/001	graduate degrees offered in arts	
+1C2-E-TEST-0092-4.7/002	graduate degrees offered business administration	
+1C2-E-TEST-0092-4.7/003	graduate degrees offered secondary education	
+1C2-E-TEST-0092-4.7/004	graduate degrees offered sciences	
+1C2-E-TEST-0092-4.7/005	graduate degrees offered social work	
+1C2-E-TEST-0092-4.9	Hawai'i Pacific University's campuses are located on the island of Oahu.	
+1C2-E-TEST-0092-4.9/001	campus located island oahu	
+1C2-E-TEST-0092-6.7	"The universityÃ¢ÂÂs main campus, the Downtown campus, is located in downtown Honolulu."	
+1C2-E-TEST-0092-6.7/001	main campus located downtown honolulu	
+1C2-E-TEST-0092-6.7/002	downtown campus	DEP=1C2-E-TEST-0092-6.7001
+1C2-E-TEST-0092-6.8	"The universityÃ¢ÂÂs other campus, the Hawaii Loa Campus, is situated eight miles away and is built on 135 acres of land."	
+1C2-E-TEST-0092-6.8/001	hawaii loa campus situated eight miles away	
+1C2-E-TEST-0092-6.8/002	hawaii loa campus built on 135 acres land	
+1C2-E-TEST-0092-74.3	"Hawai'i Pacific University (HPU) is a private, non-profit university in Hawai'i with a total of 8,200 students."	
+1C2-E-TEST-0092-74.3/001	private non-profit university	
+1C2-E-TEST-0092-74.3/002	total 8200 students	
+1C2-E-TEST-0092-74.8	"Hawai'i Pacific University's goal is to provide students the knowledge and resources they need to become distinguished and productive leaders in their field of study, the local community, and throughout the world."	
+1C2-E-TEST-0092-74.8/001	goal is to provide students knowledge and resources	
+1C2-E-TEST-0092-74.8/002	become distinguished productive leaders	DEP=1C2-E-TEST-0092-74.8001
+1C2-E-TEST-0092-74.8/003	field of study and local community and thoughtout world	DEP=1C2-E-TEST-0092-74.8002
+1C2-E-TEST-0092-74.9	Hawai'i Pacific University is accredited by the Accrediting Commission for Senior Colleges and Universities of the Western Association of Schools and Colleges (WASC).	
+1C2-E-TEST-0092-74.9/001	accrediited by accrediting commision for senior colleges	
+1C2-E-TEST-0092-74.9/002	accrediited by western association of schools and colleges	
+1C2-E-TEST-0092-74.9/003	wasc	DEP=1C2-E-TEST-0092-74.9002
+1C2-E-TEST-0092-79.12	"With two campuses linked by shuttle, Hawaii Pacific University combines the excitement of an urban downtown campus with the serenity of a residential campus set in the green foothills of O'ahu's Koolau mountains."	
+1C2-E-TEST-0092-79.12/001	two compuses linked by shuttle	
+1C2-E-TEST-0092-79.12/002	combines downtown campus with resedential campus	
+1C2-E-TEST-0092-79.12/003	excitement urban downtown campus	
+1C2-E-TEST-0092-79.12/004	serenity reisdential campus	
+1C2-E-TEST-0092-79.12/005	set in green foothills oahu koolau mountains	DEP=1C2-E-TEST-0092-79.12004
+1C2-E-TEST-0092-79.8	"Hawaii Pacific University is a private, not-for-profit, coeducational, nonsectarian, career-oriented, postsecondary institution founded in 1965."	
+1C2-E-TEST-0092-79.8/001	private not-for-profit coeducational nonsectarian career-oriented postsecondary institution	
+1C2-E-TEST-0092-79.8/002	founded 1965	
+1C2-E-TEST-0092-9.15	"HPU's curriculum focuses on the past, the present, and the future, and is designed to give students the knowledge, the tools, and the skills that will enable them to ask pertinent questions, solve problems, and make decisions."	
+1C2-E-TEST-0092-9.15/001	curriculum focuses on past present future	
+1C2-E-TEST-0092-9.15/002	designed give students knowledge tools skills	
+1C2-E-TEST-0092-9.15/003	enable them to ask pertinent questions	DEP=1C2-E-TEST-0092-9.15002
+1C2-E-TEST-0092-9.15/004	enable them to solve problems	DEP=1C2-E-TEST-0092-9.15002
+1C2-E-TEST-0092-9.15/005	enable them to make decisions	DEP=1C2-E-TEST-0092-9.15002
+1C2-E-TEST-0092-9.23	"At Hawaii Pacific University, social and cocurricular activities are as diverse as the student population; they are multicultural, outdoor-oriented, and internationally flavored."	
+1C2-E-TEST-0092-9.23/001	social cocurricular activities are as diverse as student population	
+1C2-E-TEST-0092-9.23/002	multicultural outdoor-oriented internationally flavoured	DEP=1C2-E-TEST-0092-9.23001
+1C2-E-TEST-0092-9.3	Hawaii Pacific's annual Intercultural Day celebrates the fact that over 100 countries are represented on campus.	
+1C2-E-TEST-0092-9.3/001	annual intercultural day celebrates countries represented on campu	
+1C2-E-TEST-0092-9.3/002	over 100 countries represented on campus	
+1C2-E-TEST-0092-9.30	"Hawaii Pacific's Meader Library provides a large collection of circulating books, special reference resources, periodicals, and newspapers from around the world."	
+1C2-E-TEST-0092-9.30/001	meader library provides large collection from around world	
+1C2-E-TEST-0092-9.30/002	circulating books special reference resources periodicals newspapers	DEP=1C2-E-TEST-0092-9.30001
+1C2-E-TEST-0092-9.52	"Hawaii Pacific seeks students who are motivated and show academic promise, and recommends students follow a college preparatory sequence that includes four years of English, two years of math and social studies, and at least two years of history and science."	
+1C2-E-TEST-0092-9.52/001	seeks students motivate and show academic promise	
+1C2-E-TEST-0092-9.52/002	recommends students follow college preparatory sequence	
+1C2-E-TEST-0092-9.52/003	four years english	DEP=1C2-E-TEST-0092-9.52002
+1C2-E-TEST-0092-9.52/004	two years math and social studies	DEP=1C2-E-TEST-0092-9.52002
+1C2-E-TEST-0092-9.52/005	at least two years history and science	DEP=1C2-E-TEST-0092-9.52002
+1C2-E-TEST-0092-9.7	"The urban campus, located in downtown Honolulu, is in the hub of the business and financial capital of the Pacific, and it provides a fast paced, exciting environment."	
+1C2-E-TEST-0092-9.7/001	urban campus located downtown honolulu	
+1C2-E-TEST-0092-9.7/002	business hub financial capital of pacific	DEP=1C2-E-TEST-0092-9.7001
+1C2-E-TEST-0092-9.7/003	provides fast paced exciting environment	DEP=1C2-E-TEST-0092-9.7001
+1C2-E-TEST-0092-9.9	"Hawaii Pacific University, founded in 1965, is an independent, coeducational, comprehensive university, with approximately 8,500 undergraduate and graduate students from all 50 U.S. states and over 100 countries."	
+1C2-E-TEST-0092-9.9/001	founded in 1965	DEP=1C2-E-TEST-0092-9.9002
+1C2-E-TEST-0092-9.9/002	independent coeducational comprehensive university	
+1C2-E-TEST-0092-9.9/003	approximately 8500 undergraduate graduate students	
+1C2-E-TEST-0092-9.9/004	all 50 us states	DEP=1C2-E-TEST-0092-9.9003
+1C2-E-TEST-0092-9.9/005	100 countries	DEP=1C2-E-TEST-0092-9.9003

@@ -1,0 +1,233 @@
+1C2-E-TEST-0096-107.23	"Whether you are attending a Boston Bruins game or watching Paul Pierce and the Celtics make a run at another NBA title, the TD Garden in Boston is ready to treat you and your family to a night of fun and excitement."	
+1C2-E-TEST-0096-107.23/001	Whether you are attending a Boston Bruins game	
+1C2-E-TEST-0096-107.23/002	or watching Paul Pierce and the Celtics	DEP=1C2-E-TEST-0096-107.23001
+1C2-E-TEST-0096-107.23/003	make a run at another NBA title	DEP=1C2-E-TEST-0096-107.23002
+1C2-E-TEST-0096-107.23/004	the TD Garden in Boston	DEP=1C2-E-TEST-0096-107.23003
+1C2-E-TEST-0096-107.23/005	is ready to treat you and your family	DEP=1C2-E-TEST-0096-107.23004
+1C2-E-TEST-0096-107.23/006	to a night of fun and excitement	DEP=1C2-E-TEST-0096-107.23005
+1C2-E-TEST-0096-107.3	"Located in Boston's Downtown North section on Causeway Street, the TD Garden stands just minutes from the historic North End and Faneuil Hall."	
+1C2-E-TEST-0096-107.3/001	located	
+1C2-E-TEST-0096-107.3/002	bostons downtown north section	DEP=1C2-E-TEST-0096-107.3001
+1C2-E-TEST-0096-107.3/003	on causeway street	DEP=1C2-E-TEST-0096-107.3002
+1C2-E-TEST-0096-107.3/004	the TD Garden stands just minutes	DEP=1C2-E-TEST-0096-107.3003
+1C2-E-TEST-0096-107.3/005	from the historic North End	DEP=1C2-E-TEST-0096-107.3004
+1C2-E-TEST-0096-107.3/006	and faneuil hall	DEP=1C2-E-TEST-0096-107.3005
+1C2-E-TEST-0096-107.4	"Easily accessible from both I-93 and I-95, this 10-story building hosts not only Boston Celtics' games, it also is the home to the NHL's Boston Bruins and the Boston Blazers Professional Lacrosse Team."	
+1C2-E-TEST-0096-107.4/001	easily accessible	
+1C2-E-TEST-0096-107.4/002	from both i-93 and i-95	DEP=1C2-E-TEST-0096-107.4001
+1C2-E-TEST-0096-107.4/003	this 10-story building	DEP=1C2-E-TEST-0096-107.4002
+1C2-E-TEST-0096-107.4/004	hosts not only boston celtics game	DEP=1C2-E-TEST-0096-107.4003
+1C2-E-TEST-0096-107.4/005	it also is the home	DEP=1C2-E-TEST-0096-107.4004
+1C2-E-TEST-0096-107.4/006	to the NHL's Boston Bruins	DEP=1C2-E-TEST-0096-107.4005
+1C2-E-TEST-0096-107.4/007	and boston blazers professional lacrosse team	DEP=1C2-E-TEST-0096-107.4006
+1C2-E-TEST-0096-126.28	From Eastern New Hampshire And Northeastern Mass.: Take Interstate 95S to Route 1 S. Follow Route 1 across the Tobin Bridge and follow signs for Storrow Drive/Cambridge.	
+1C2-E-TEST-0096-126.28/001	from eastern new hampshire	
+1C2-E-TEST-0096-126.28/002	and northeastern mass.	DEP=1C2-E-TEST-0096-126.28001
+1C2-E-TEST-0096-126.28/003	Take Interstate 95S	DEP=1C2-E-TEST-0096-126.28002
+1C2-E-TEST-0096-126.28/004	to route 1 s	DEP=1C2-E-TEST-0096-126.28003
+1C2-E-TEST-0096-126.28/005	follow route 1 across the Tobin Bridge	DEP=1C2-E-TEST-0096-126.28004
+1C2-E-TEST-0096-126.28/006	and follow signs for Storrow Drive/Cambridge	DEP=1C2-E-TEST-0096-126.28005
+1C2-E-TEST-0096-126.3	The TD Banknorth Garden doesn't own or operate any local parking facilities.	
+1C2-E-TEST-0096-126.3/001	The TD Banknorth Garden	
+1C2-E-TEST-0096-126.3/002	doesn't own or operate	DEP=1C2-E-TEST-0096-126.3001
+1C2-E-TEST-0096-126.3/003	any local parking facilities	DEP=1C2-E-TEST-0096-126.3002
+1C2-E-TEST-0096-126.4	"However, the MBTA Garage, a 1,150 space parking garage, is located directly underneath the TD Banknorth Garden and is accessible via Nashua Street."	
+1C2-E-TEST-0096-126.4/001	mbta garage	
+1C2-E-TEST-0096-126.4/002	1150 space parking garage	DEP=1C2-E-TEST-0096-126.4001
+1C2-E-TEST-0096-126.4/003	located directly underneath	DEP=1C2-E-TEST-0096-126.4002
+1C2-E-TEST-0096-126.4/004	the TD Banknorth Garden	DEP=1C2-E-TEST-0096-126.4003
+1C2-E-TEST-0096-126.4/005	is accessible via Nashua Street	DEP=1C2-E-TEST-0096-126.4004
+1C2-E-TEST-0096-126.47	From The West: Take Mass Pike East to Interstate 93N to Boston.	
+1C2-E-TEST-0096-126.47/001	From The West	
+1C2-E-TEST-0096-126.47/002	Take Mass Pike East	DEP=1C2-E-TEST-0096-126.47001
+1C2-E-TEST-0096-126.47/003	to Interstate 93N	DEP=1C2-E-TEST-0096-126.47002
+1C2-E-TEST-0096-126.47/004	to boston	DEP=1C2-E-TEST-0096-126.47003
+1C2-E-TEST-0096-126.5	Elevators located in the parking garage will bring you directly to the main concourse in North Station.	
+1C2-E-TEST-0096-126.5/001	elevators	
+1C2-E-TEST-0096-126.5/002	located in parking garage	DEP=1C2-E-TEST-0096-126.5001
+1C2-E-TEST-0096-126.5/003	bring you directly	DEP=1C2-E-TEST-0096-126.5002
+1C2-E-TEST-0096-126.5/004	to main concourse	DEP=1C2-E-TEST-0096-126.5003
+1C2-E-TEST-0096-126.5/005	in north station	DEP=1C2-E-TEST-0096-126.5004
+1C2-E-TEST-0096-138.114	"Located off Route 93 (Exit 24A from 93N or 24B from 93S) and just above the Haymarket bus station, you will find 2000 spaces of covered parking in its newly renovated garage."	
+1C2-E-TEST-0096-138.114/001	Located off Route 93	
+1C2-E-TEST-0096-138.114/002	Exit 24A from 93N or 24B from 93S	DEP=1C2-E-TEST-0096-138.114001
+1C2-E-TEST-0096-138.114/003	and just above the Haymarket bus station	DEP=1C2-E-TEST-0096-138.114002
+1C2-E-TEST-0096-138.114/004	you will find 2000 spaces	DEP=1C2-E-TEST-0096-138.114003
+1C2-E-TEST-0096-138.114/005	of covered parking	DEP=1C2-E-TEST-0096-138.114004
+1C2-E-TEST-0096-138.114/006	in its newly renovated garage	DEP=1C2-E-TEST-0096-138.114005
+1C2-E-TEST-0096-138.25	"Only a ten to fifteen minute walk from the TD Garden, historical Faneuil Hall is a great place to check out the shops and do some people watching."	
+1C2-E-TEST-0096-138.25/001	Only a ten to fifteen minute walk	
+1C2-E-TEST-0096-138.25/002	from the TD Garden	DEP=1C2-E-TEST-0096-138.25001
+1C2-E-TEST-0096-138.25/003	historical faneuil hall	DEP=1C2-E-TEST-0096-138.25002
+1C2-E-TEST-0096-138.25/004	is a great place	DEP=1C2-E-TEST-0096-138.25003
+1C2-E-TEST-0096-138.25/005	to check out the shops	DEP=1C2-E-TEST-0096-138.25004
+1C2-E-TEST-0096-138.25/006	and do some people watching	DEP=1C2-E-TEST-0096-138.25005
+1C2-E-TEST-0096-138.27	"Located close to the TD Garden, the North End is famous for authentic Italian food and atmosphere."	
+1C2-E-TEST-0096-138.27/001	Located close to the TD Garden	
+1C2-E-TEST-0096-138.27/002	the north end	DEP=1C2-E-TEST-0096-138.27001
+1C2-E-TEST-0096-138.27/003	is famous for authentic italian food	DEP=1C2-E-TEST-0096-138.27002
+1C2-E-TEST-0096-138.27/004	and atmosphere	DEP=1C2-E-TEST-0096-138.27003
+1C2-E-TEST-0096-138.71	"Here is a quote from the Garden's website ""To purchase alcoholic beverages, a patron must present a valid MA driver's license, MA liquor ID, passport or military ID, which indicates the patron to be a least 21 years of age (MA ID cards, duplicate licenses, expired licenses, damaged licenses and driver's licenses, which do not have photos, will not be accepted)."	
+1C2-E-TEST-0096-138.71/001	website quote	
+1C2-E-TEST-0096-138.71/002	to purchase alcoholic beverages	DEP=1C2-E-TEST-0096-138.71001
+1C2-E-TEST-0096-138.71/003	patron must present	DEP=1C2-E-TEST-0096-138.71002
+1C2-E-TEST-0096-138.71/004	valid MA drivers license	DEP=1C2-E-TEST-0096-138.71003
+1C2-E-TEST-0096-138.71/005	ma liquor id	DEP=1C2-E-TEST-0096-138.71003
+1C2-E-TEST-0096-138.71/006	passport	DEP=1C2-E-TEST-0096-138.71003
+1C2-E-TEST-0096-138.71/007	military id	DEP=1C2-E-TEST-0096-138.71003
+1C2-E-TEST-0096-138.71/008	which indicates	
+1C2-E-TEST-0096-138.71/009	patron to be	DEP=1C2-E-TEST-0096-138.71008
+1C2-E-TEST-0096-138.71/010	at least 21 years of age	DEP=1C2-E-TEST-0096-138.71009
+1C2-E-TEST-0096-138.71/011	ma id cards	DEP=1C2-E-TEST-0096-138.71016
+1C2-E-TEST-0096-138.71/012	duplicate licenses	DEP=1C2-E-TEST-0096-138.71016
+1C2-E-TEST-0096-138.71/013	expired licenses	DEP=1C2-E-TEST-0096-138.71016
+1C2-E-TEST-0096-138.71/014	damaged licenses	DEP=1C2-E-TEST-0096-138.71016
+1C2-E-TEST-0096-138.71/015	without photo licenses	DEP=1C2-E-TEST-0096-138.71016
+1C2-E-TEST-0096-138.71/016	not accepted	
+1C2-E-TEST-0096-138.72	"Out of state licenses are acceptable only if the patron is at least 25 years of age and another form of identification (e.g., credit card) will be required if the patron is between 25 and 30 years of age"". So there you have it, if you want the beer you should be prepared with the proper ID."	
+1C2-E-TEST-0096-138.72/001	Out of state licenses are acceptable	
+1C2-E-TEST-0096-138.72/002	only if the patron is at least 25 years of age	DEP=1C2-E-TEST-0096-138.72001
+1C2-E-TEST-0096-138.72/003	and another form of identification (e.g., credit card)	DEP=1C2-E-TEST-0096-138.72002
+1C2-E-TEST-0096-138.72/004	will be required	DEP=1C2-E-TEST-0096-138.72003
+1C2-E-TEST-0096-138.72/005	if the patron is between 25 and 30 years of age	DEP=1C2-E-TEST-0096-138.72004
+1C2-E-TEST-0096-138.72/006	So there you have it	DEP=1C2-E-TEST-0096-138.72005
+1C2-E-TEST-0096-138.72/007	if you want the beer	DEP=1C2-E-TEST-0096-138.72006
+1C2-E-TEST-0096-138.72/008	you should be prepared	DEP=1C2-E-TEST-0096-138.72007
+1C2-E-TEST-0096-138.72/009	with the proper ID	DEP=1C2-E-TEST-0096-138.72008
+1C2-E-TEST-0096-138.75	"The TD Garden will not allow video cameras, however, Non-flash, still cameras without a detachable lens, may be used to take pictures of sporting events or events where the house lights are on."	
+1C2-E-TEST-0096-138.75/001	The TD Garden	
+1C2-E-TEST-0096-138.75/002	will not allow	DEP=1C2-E-TEST-0096-138.75001
+1C2-E-TEST-0096-138.75/003	video cameras	DEP=1C2-E-TEST-0096-138.75002
+1C2-E-TEST-0096-138.75/004	however, Non-flash, still cameras	DEP=1C2-E-TEST-0096-138.75003
+1C2-E-TEST-0096-138.75/005	without a detachable lens, may be used	DEP=1C2-E-TEST-0096-138.75004
+1C2-E-TEST-0096-138.75/006	to take pictures of sporting events	DEP=1C2-E-TEST-0096-138.75005
+1C2-E-TEST-0096-138.75/007	or events where the house lights are on	DEP=1C2-E-TEST-0096-138.75006
+1C2-E-TEST-0096-138.84	The Boston fans are the best in the country and there is never a dull moment when you attend a game at the TD Garden.	
+1C2-E-TEST-0096-138.84/001	boston fans	
+1C2-E-TEST-0096-138.84/002	are the best	DEP=1C2-E-TEST-0096-138.84001
+1C2-E-TEST-0096-138.84/003	in the country	DEP=1C2-E-TEST-0096-138.84002
+1C2-E-TEST-0096-138.84/004	never a dull moment	DEP=1C2-E-TEST-0096-138.84003
+1C2-E-TEST-0096-138.84/005	when you attend a game	DEP=1C2-E-TEST-0096-138.84004
+1C2-E-TEST-0096-14.25	The box office is located on the west side of the North Station Platform to the right of the Bruins Pro Shop.	
+1C2-E-TEST-0096-14.25/001	box office	
+1C2-E-TEST-0096-14.25/002	located	DEP=1C2-E-TEST-0096-14.25001
+1C2-E-TEST-0096-14.25/003	on west side of north station platform	DEP=1C2-E-TEST-0096-14.25002
+1C2-E-TEST-0096-14.25/004	to the right	DEP=1C2-E-TEST-0096-14.25003
+1C2-E-TEST-0096-14.25/005	of bruins pro shop	DEP=1C2-E-TEST-0096-14.25004
+1C2-E-TEST-0096-14.3	"Opened in 1995, the $160 million TD Garden (then known as the FleetCenter) replaced one of the NBA's classic venues, the old Boston ""Gah-den."""	
+1C2-E-TEST-0096-14.3/001	opened in 1995	
+1C2-E-TEST-0096-14.3/002	the $160 million TD garden	DEP=1C2-E-TEST-0096-14.3001
+1C2-E-TEST-0096-14.3/003	then known as the fleetcenter	DEP=1C2-E-TEST-0096-14.3002
+1C2-E-TEST-0096-14.3/004	replaced	DEP=1C2-E-TEST-0096-14.3003
+1C2-E-TEST-0096-14.3/005	one of the nbas classic venues	DEP=1C2-E-TEST-0096-14.3004
+1C2-E-TEST-0096-14.3/006	old boston gah-den	DEP=1C2-E-TEST-0096-14.3005
+1C2-E-TEST-0096-14.43	"After exiting, stay in the left lane and follow signs for North Station."	
+1C2-E-TEST-0096-14.43/001	after exiting	
+1C2-E-TEST-0096-14.43/002	stay in the left lane	DEP=1C2-E-TEST-0096-14.43001
+1C2-E-TEST-0096-14.43/003	and follow signs	DEP=1C2-E-TEST-0096-14.43002
+1C2-E-TEST-0096-14.43/004	for north station	DEP=1C2-E-TEST-0096-14.43003
+1C2-E-TEST-0096-14.60	Another option is the Government Center Garage (a five-minute walk to the Garden located off Route 93 -- Exit 23 -- from 93N or 24B from 9S) just above Haymarket bus station.	
+1C2-E-TEST-0096-14.60/001	Another option	
+1C2-E-TEST-0096-14.60/002	is government center garage	DEP=1C2-E-TEST-0096-14.60001
+1C2-E-TEST-0096-14.60/003	five-minute walk	DEP=1C2-E-TEST-0096-14.60002
+1C2-E-TEST-0096-14.60/004	to the garden	DEP=1C2-E-TEST-0096-14.60003
+1C2-E-TEST-0096-14.60/005	located off route 93-exit 23- 93n	DEP=1C2-E-TEST-0096-14.60004
+1C2-E-TEST-0096-14.60/006	or 24b	DEP=1C2-E-TEST-0096-14.60005
+1C2-E-TEST-0096-14.60/007	from 9s	DEP=1C2-E-TEST-0096-14.60006
+1C2-E-TEST-0096-14.60/008	just above haymarket bus station	DEP=1C2-E-TEST-0096-14.60007
+1C2-E-TEST-0096-33.15	"The TD Garden box office is located on the main level of North Station on the Nashua Street side, adjacent to the Pro Shop."	
+1C2-E-TEST-0096-33.15/001	td garden box office	
+1C2-E-TEST-0096-33.15/002	located	DEP=1C2-E-TEST-0096-33.15001
+1C2-E-TEST-0096-33.15/003	on main level	DEP=1C2-E-TEST-0096-33.15002
+1C2-E-TEST-0096-33.15/004	of north station	DEP=1C2-E-TEST-0096-33.15003
+1C2-E-TEST-0096-33.15/005	on the nashua street side	DEP=1C2-E-TEST-0096-33.15004
+1C2-E-TEST-0096-33.15/006	adjacent	DEP=1C2-E-TEST-0096-33.15005
+1C2-E-TEST-0096-33.15/007	to pro shop	DEP=1C2-E-TEST-0096-33.15006
+1C2-E-TEST-0096-33.21	"At the discretion of the TD Garden, children ages 2 and under are admitted without a ticket."	
+1C2-E-TEST-0096-33.21/001	at the discretion of the td garden	
+1C2-E-TEST-0096-33.21/002	children ages 2	DEP=1C2-E-TEST-0096-33.21001
+1C2-E-TEST-0096-33.21/003	and under	DEP=1C2-E-TEST-0096-33.21002
+1C2-E-TEST-0096-33.21/004	are admitted	DEP=1C2-E-TEST-0096-33.21003
+1C2-E-TEST-0096-33.21/005	without ticket	DEP=1C2-E-TEST-0096-33.21004
+1C2-E-TEST-0096-33.29	"In the case of any emergency situation or disruptions before, during or after any games at the TD Garden, all patrons are to follow the instructions of security personnel."	
+1C2-E-TEST-0096-33.29/001	In the case of any emergency situation	
+1C2-E-TEST-0096-33.29/002	or disruptions	DEP=1C2-E-TEST-0096-33.29001
+1C2-E-TEST-0096-33.29/003	before	DEP=1C2-E-TEST-0096-33.29002
+1C2-E-TEST-0096-33.29/004	during	DEP=1C2-E-TEST-0096-33.29002
+1C2-E-TEST-0096-33.29/005	or after	DEP=1C2-E-TEST-0096-33.29002
+1C2-E-TEST-0096-33.29/006	any games at the TD Garden	DEP=1C2-E-TEST-0096-33.29005
+1C2-E-TEST-0096-33.29/007	all patrons are to follow the instructions	DEP=1C2-E-TEST-0096-33.29006
+1C2-E-TEST-0096-33.29/008	of security personnel	DEP=1C2-E-TEST-0096-33.29007
+1C2-E-TEST-0096-33.41	The Legends Club is operated exclusively by the TD Garden and not the Boston Celtics organization.	
+1C2-E-TEST-0096-33.41/001	legends club	
+1C2-E-TEST-0096-33.41/002	operated exclusively	DEP=1C2-E-TEST-0096-33.41001
+1C2-E-TEST-0096-33.41/003	by the TD Garden and not the Boston Celtics organization	DEP=1C2-E-TEST-0096-33.41002
+1C2-E-TEST-0096-33.44	"For the safety of children at Celtics games, the Boston Celtics have implemented the Tag-A-Kid Program."	
+1C2-E-TEST-0096-33.44/001	For the safety of children	
+1C2-E-TEST-0096-33.44/002	at Celtics games	DEP=1C2-E-TEST-0096-33.44001
+1C2-E-TEST-0096-33.44/003	the Boston Celtics	DEP=1C2-E-TEST-0096-33.44002
+1C2-E-TEST-0096-33.44/004	implemented	DEP=1C2-E-TEST-0096-33.44003
+1C2-E-TEST-0096-33.44/005	tag-a-kid program	DEP=1C2-E-TEST-0096-33.44004
+1C2-E-TEST-0096-33.57	The Pro Shop is located on the main level of North Station on the Nashua Street side of the TD Garden.	
+1C2-E-TEST-0096-33.57/001	pro shop	
+1C2-E-TEST-0096-33.57/002	located on the main level	DEP=1C2-E-TEST-0096-33.57001
+1C2-E-TEST-0096-33.57/003	of north station	DEP=1C2-E-TEST-0096-33.57002
+1C2-E-TEST-0096-33.57/004	on nashua street side of td garden	DEP=1C2-E-TEST-0096-33.57003
+1C2-E-TEST-0096-4.4	"Ticketed patrons should enter the TD Garden through the North Station terminal, on Nashua Street or on Legends Way."	
+1C2-E-TEST-0096-4.4/001	ticketed patrons	
+1C2-E-TEST-0096-4.4/002	should enter	DEP=1C2-E-TEST-0096-4.4001
+1C2-E-TEST-0096-4.4/003	through north station terminal	DEP=1C2-E-TEST-0096-4.4002
+1C2-E-TEST-0096-4.4/004	on nashua street	DEP=1C2-E-TEST-0096-4.4003
+1C2-E-TEST-0096-4.4/005	or legends way	DEP=1C2-E-TEST-0096-4.4004
+1C2-E-TEST-0096-4.6	"Traffic delays are especially common in the following locations: Leverett Circle, Storrow Drive East, Martha Road, and Causeway Street."	
+1C2-E-TEST-0096-4.6/001	traffic delays	
+1C2-E-TEST-0096-4.6/002	especially common	DEP=1C2-E-TEST-0096-4.6001
+1C2-E-TEST-0096-4.6/003	in following locations	DEP=1C2-E-TEST-0096-4.6002
+1C2-E-TEST-0096-4.6/004	leverett circle	DEP=1C2-E-TEST-0096-4.6001
+1C2-E-TEST-0096-4.6/005	storrow drive east	DEP=1C2-E-TEST-0096-4.6001
+1C2-E-TEST-0096-4.6/006	martha road	DEP=1C2-E-TEST-0096-4.6001
+1C2-E-TEST-0096-4.6/007	causeway street	DEP=1C2-E-TEST-0096-4.6001
+1C2-E-TEST-0096-44.14	"Tickets are purchased directly from the event promoter, ticket holders that cannot attend the event like season ticket holders, and left over tickets that had not yet sold prior to the event."	
+1C2-E-TEST-0096-44.14/001	Tickets are purchased	
+1C2-E-TEST-0096-44.14/002	directly from the event promoter	DEP=1C2-E-TEST-0096-44.14001
+1C2-E-TEST-0096-44.14/003	ticket holders	DEP=1C2-E-TEST-0096-44.14002
+1C2-E-TEST-0096-44.14/004	that cannot attend the event	DEP=1C2-E-TEST-0096-44.14003
+1C2-E-TEST-0096-44.14/005	like season ticket holders	DEP=1C2-E-TEST-0096-44.14004
+1C2-E-TEST-0096-44.14/006	and left over tickets	DEP=1C2-E-TEST-0096-44.14005
+1C2-E-TEST-0096-44.14/007	that had not yet sold prior to the event	DEP=1C2-E-TEST-0096-44.14006
+1C2-E-TEST-0096-60.2	"The FleetCenter was renamed TD Banknorth Garden on Thursday, March 3, 2005 and thus this article shall be redirected to a new namespace."	
+1C2-E-TEST-0096-60.2/001	fleetcenter	
+1C2-E-TEST-0096-60.2/002	renamed TD Banknorth Garden	DEP=1C2-E-TEST-0096-60.2001
+1C2-E-TEST-0096-60.2/003	Thursday march 3 2005	DEP=1C2-E-TEST-0096-60.2002
+1C2-E-TEST-0096-60.2/004	thus this article	DEP=1C2-E-TEST-0096-60.2003
+1C2-E-TEST-0096-60.2/005	shall be redirected	DEP=1C2-E-TEST-0096-60.2004
+1C2-E-TEST-0096-60.2/006	to a new namespace	DEP=1C2-E-TEST-0096-60.2005
+1C2-E-TEST-0096-60.49	"TD's site [4] lists the arena in the Downtown North section, which I don't believe is a formally recognized section. -- 63.215.27.57 18:12, 18 June 2007 (UTC) Steve"	
+1C2-E-TEST-0096-60.49/001	TD's site	
+1C2-E-TEST-0096-60.49/002	arena	DEP=1C2-E-TEST-0096-60.49001
+1C2-E-TEST-0096-60.49/003	lists the arena	DEP=1C2-E-TEST-0096-60.49002
+1C2-E-TEST-0096-60.49/004	in the Downtown North section	DEP=1C2-E-TEST-0096-60.49003
+1C2-E-TEST-0096-60.49/005	which I don't believe is a formally recognized section	DEP=1C2-E-TEST-0096-60.49004
+1C2-E-TEST-0096-60.49/006	63.215.27.57 18:12, 18 June 2007	DEP=1C2-E-TEST-0096-60.49005
+1C2-E-TEST-0096-60.49/007	utc	DEP=1C2-E-TEST-0096-60.49006
+1C2-E-TEST-0096-60.49/008	steve	DEP=1C2-E-TEST-0096-60.49007
+1C2-E-TEST-0096-60.52	"Thanks .... looking back at the edit history, it appears the North End/West End description has been changed a few times (November 15, 2005, May 1, 2006) ...hoping it stays with it's correct neighborhood from here on out. -- 63.215.27.57 19:23, 18 June 2007 (UTC) Steve"	
+1C2-E-TEST-0096-60.52/001	thanks	
+1C2-E-TEST-0096-60.52/002	looking back	DEP=1C2-E-TEST-0096-60.52001
+1C2-E-TEST-0096-60.52/003	at the edit history	DEP=1C2-E-TEST-0096-60.52002
+1C2-E-TEST-0096-60.52/004	it appears the North End/West End description	DEP=1C2-E-TEST-0096-60.52003
+1C2-E-TEST-0096-60.52/005	has been changed a few times (November 15, 2005, May 1, 2006)	DEP=1C2-E-TEST-0096-60.52004
+1C2-E-TEST-0096-60.52/006	hoping it stays with it's correct neighborhood from here on out	DEP=1C2-E-TEST-0096-60.52005
+1C2-E-TEST-0096-60.52/007	correct neighbourhood	DEP=1C2-E-TEST-0096-60.52006
+1C2-E-TEST-0096-60.52/008	63.215.27.57 19:23,	DEP=1C2-E-TEST-0096-60.52007
+1C2-E-TEST-0096-60.52/009	18-Jun-07	DEP=1C2-E-TEST-0096-60.52008
+1C2-E-TEST-0096-60.52/010	utc	DEP=1C2-E-TEST-0096-60.52009
+1C2-E-TEST-0096-60.52/011	steve	DEP=1C2-E-TEST-0096-60.52010
+1C2-E-TEST-0096-60.9	"Nah, looks like this one is permanent - [2] ""Despite Thursday's announcement that TD Banknorth agreed to a 20-year, $150 million naming-rights pact, the Celtics' home arena will be called the FleetCenter until July 1."	
+1C2-E-TEST-0096-60.9/001	looks like this one is permanent	
+1C2-E-TEST-0096-60.9/002	Despite Thursday's announcement	DEP=1C2-E-TEST-0096-60.9001
+1C2-E-TEST-0096-60.9/003	banknorth agreed 20-year $150 million	DEP=1C2-E-TEST-0096-60.9002
+1C2-E-TEST-0096-60.9/004	naming-rights pact	DEP=1C2-E-TEST-0096-60.9003
+1C2-E-TEST-0096-60.9/005	the celtics home arena	DEP=1C2-E-TEST-0096-60.9004
+1C2-E-TEST-0096-60.9/006	will be caled the fleetcenter	DEP=1C2-E-TEST-0096-60.9005
+1C2-E-TEST-0096-60.9/007	until Jul-01	DEP=1C2-E-TEST-0096-60.9006

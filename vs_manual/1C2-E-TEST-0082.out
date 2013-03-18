@@ -1,0 +1,146 @@
+1C2-E-TEST-0082-1.8	"Seven-time champion Michael Schumacher holds the record for the most championships, while his 91 wins, [3] 155 podium finishes and 68 pole positions are also records."	
+1C2-E-TEST-0082-1.8/001	seven-time champion michael schumacher	
+1C2-E-TEST-0082-1.8/002	holds the record for the most championships	DEP=1C2-E-TEST-0082-1.8001
+1C2-E-TEST-0082-1.8/003	91 wins 155 podium finishes and 68 pole positions are also records	DEP=1C2-E-TEST-0082-1.8001
+1C2-E-TEST-0082-107.116	"This has not always been the case, and in the earlier history of Formula One many races took place outside the world championship."	
+1C2-E-TEST-0082-107.116/001	many races took place outside the world championship.	
+1C2-E-TEST-0082-107.116/002	in the earlier history of Formula One	DEP=1C2-E-TEST-0082-107.116001
+1C2-E-TEST-0082-107.14	"The first Formula One World Championship was won by Italian Giuseppe Farina in his Alfa Romeo in 1950 , barely defeating his Argentine teammate Juan Manuel Fangio ."	
+1C2-E-TEST-0082-107.14/001	first Formula One World Championship was won by Italian Giuseppe Farina	
+1C2-E-TEST-0082-107.14/002	won in his Alfa Romeo in 1950	DEP=1C2-E-TEST-0082-107.14001
+1C2-E-TEST-0082-107.14/003	barely defeating his Argentine teammate Juan Manuel Fangio	DEP=1C2-E-TEST-0082-107.14001
+1C2-E-TEST-0082-107.16	"Although the UK's Stirling Moss was able to compete regularly, he was never able to win the World Championship, and is now widely considered to be the greatest driver never to have won the title."	
+1C2-E-TEST-0082-107.16/001	UK's Stirling Moss was able to compete regularly	
+1C2-E-TEST-0082-107.16/002	never able to win the World Championship	DEP=1C2-E-TEST-0082-107.16001
+1C2-E-TEST-0082-107.16/003	greatest driver never to have won the title.	DEP=1C2-E-TEST-0082-107.16001
+1C2-E-TEST-0082-107.17	"[3] [4] Fangio, however, is remembered for dominating Formula One's first decade and has long been considered the ""grand master"" of Formula One."	
+1C2-E-TEST-0082-107.17/001	Fangio remembered for dominating Formula One's first decade	
+1C2-E-TEST-0082-107.17/002	"considered the ""grand master"" of Formula One"	DEP=1C2-E-TEST-0082-107.17001
+1C2-E-TEST-0082-107.192	Michael Schumacher holds the record for having won the most Drivers' Championships (seven) and Ferrari holds the record for having won the most Constructors' Championships (sixteen).	
+1C2-E-TEST-0082-107.192/001	Michael Schumacher holds the record for having won the most Drivers' Championships (seven)	
+1C2-E-TEST-0082-107.192/002	Ferrari holds the record for having won the most Constructors' Championships (sixteen).	
+1C2-E-TEST-0082-107.195	The number of Grands Prix held in a season has varied over the years.	
+1C2-E-TEST-0082-107.195/001	number of Grands Prix held in a season has varied over the years	
+1C2-E-TEST-0082-107.206	"The grands prix, some of which have a history that predates the Formula One World Championship, are not always held on the same circuit every year."	
+1C2-E-TEST-0082-107.206/001	grands prix have a history that predates the Formula One World Championship	
+1C2-E-TEST-0082-107.206/002	not always held on the same circuit every year	DEP=1C2-E-TEST-0082-107.206001
+1C2-E-TEST-0082-107.27	"Australian Jack Brabham , World Champion in 1959 , 1960 and 1966 , soon proved the new design's superiority."	
+1C2-E-TEST-0082-107.27/001	"Australian Jack Brabham , World Champion in 1959 , 1960 and 1966"	
+1C2-E-TEST-0082-107.27/002	proved the new design's superiority.	DEP=1C2-E-TEST-0082-107.27001
+1C2-E-TEST-0082-107.31	"However, when Colin Chapman entered F1 as a chassis designer and later founder of Team Lotus , British racing green came to dominate the field for the next decade."	
+1C2-E-TEST-0082-107.31/001	Colin Chapman entered F1 as a chassis designer	DEP=1C2-E-TEST-0082-107.31003
+1C2-E-TEST-0082-107.31/002	later founder of Team Lotus	DEP=1C2-E-TEST-0082-107.31001
+1C2-E-TEST-0082-107.31/003	British racing green came to dominate the field for the next decade	
+1C2-E-TEST-0082-107.32	"Between Jim Clark , Jackie Stewart , John Surtees , Jack Brabham, Graham Hill , and Denny Hulme , British teams and Commonwealth drivers won twelve world championships between 1962 and 1973."	
+1C2-E-TEST-0082-107.32/001	British teams and Commonwealth drivers won twelve world championships between 1962 and 1973.	
+1C2-E-TEST-0082-107.32/002	" Jim Clark , Jackie Stewart , John Surtees , Jack Brabham, Graham Hill , and Denny Hulme "	DEP=1C2-E-TEST-0082-107.32001
+1C2-E-TEST-0082-107.5	"A number of Grand Prix racing organisations had laid out rules for a World Championship before the war, but due to the suspension of racing during the conflict, the World Drivers' Championship was not formalised until 1947."	
+1C2-E-TEST-0082-107.5/001	number of Grand Prix racing organisations had laid out rules for a World Championship before the war	
+1C2-E-TEST-0082-107.5/002	due to suspension of racing during the conflict	DEP=1C2-E-TEST-0082-107.5003
+1C2-E-TEST-0082-107.5/003	the World Drivers' Championship was not formalised until 1947.	
+1C2-E-TEST-0082-107.69	"On the track, the McLaren and Williams teams dominated the 1980s and 1990s, with Brabham also being competitive in the early part of the 1980s, winning two drivers' championships with Nelson Piquet ."	
+1C2-E-TEST-0082-107.69/001	McLaren and Williams teams dominated the 1980s and 1990s	
+1C2-E-TEST-0082-107.69/002	Brabham also being competitive in the early part of the 1980s	
+1C2-E-TEST-0082-107.69/003	winning two drivers' championships with Nelson Piquet .	DEP=1C2-E-TEST-0082-107.69002
+1C2-E-TEST-0082-107.83	"Drivers from McLaren, Williams, Renault (formerly Benetton) and Ferrari, dubbed the ""Big Four"", have won every World Championship from 1984 to the present day."	
+1C2-E-TEST-0082-107.83/001	"""big four"" have won every World Championship from 1984 to the present day"	
+1C2-E-TEST-0082-107.83/002	" McLaren, Williams, Renault (formerly Benetton) and Ferrari"	DEP=1C2-E-TEST-0082-107.83001
+1C2-E-TEST-0082-107.91	Michael Schumacher and Ferrari won an unprecedented five consecutive driversÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢ championships and six consecutive constructorsÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢ championships between 1999 and 2004.	
+1C2-E-TEST-0082-107.91/001	Michael Schumacher and Ferrari won an five consecutive drivers championships	
+1C2-E-TEST-0082-107.91/002	Michael Schumacher and Ferrari won six consecutive constructors championships	
+1C2-E-TEST-0082-107.91/003	between 1999 and 2004	DEP=1C2-E-TEST-0082-107.91002
+1C2-E-TEST-0082-107.92	"Schumacher set many new records, including those for Grand Prix wins (91), wins in a season (13 of 18), and most drivers' championships (7)."	
+1C2-E-TEST-0082-107.92/001	Schumacher set many new records	
+1C2-E-TEST-0082-107.92/002	record for Grand Prix wins (91)	DEP=1C2-E-TEST-0082-107.92001
+1C2-E-TEST-0082-107.92/003	wins in a season (13 of 18)	DEP=1C2-E-TEST-0082-107.92001
+1C2-E-TEST-0082-107.92/004	most drivers' championships (7)	DEP=1C2-E-TEST-0082-107.92001
+1C2-E-TEST-0082-14.3	"Of course if you look at the numbers, there is little doubt that Michael Schumacher should be voted best Formula 1 driver ever."	
+1C2-E-TEST-0082-14.3/001	Michael Schumacher should be voted best Formula 1 driver ever.	
+1C2-E-TEST-0082-14.3/002	if you look at the numbers	DEP=1C2-E-TEST-0082-14.3001
+1C2-E-TEST-0082-14.5	"And yet, some argue that Schumacher never showed the class of Juan Manuel Fangio, who won five World Championships in the fifties."	
+1C2-E-TEST-0082-14.5/001	Schumacher never showed the class of Juan Manuel Fangio	
+1C2-E-TEST-0082-14.5/002	Juan Manuel Fangio won five World Championships in the fifties.	DEP=1C2-E-TEST-0082-14.5001
+1C2-E-TEST-0082-165.26	"Fangio won the title in 1951 ; Alberto Ascari won the next two championships in Ferrari cars, but Fangio then won four consecutive championships, 1954 through 1957 ."	
+1C2-E-TEST-0082-165.26/001	fangio won title 1951	
+1C2-E-TEST-0082-165.26/002	Alberto Ascari won the next two championships in Ferrari cars	
+1C2-E-TEST-0082-165.26/003	Fangio won four consecutive championships	
+1C2-E-TEST-0082-165.26/004	1954 through 1957	DEP=1C2-E-TEST-0082-165.26003
+1C2-E-TEST-0082-165.27	"Though Stirling Moss was able to compete with him regularly, Fangio is remembered for dominating Formula One's first decade."	
+1C2-E-TEST-0082-165.27/001	Stirling Moss was able to compete with Fangio regularly	
+1C2-E-TEST-0082-165.27/002	Fangio is remembered for dominating Formula One's first decade.	
+1C2-E-TEST-0082-165.29	"The first British World Champion was Mike Hawthorn, who drove a Ferrari to the title in 1958 ; however, when Colin Chapman entered F1 as a chassis designer and later founder of Lotus , British racing green came to dominate the field for the next decade."	
+1C2-E-TEST-0082-165.29/001	first British World Champion was Mike Hawthorn	
+1C2-E-TEST-0082-165.29/002	drove a Ferrari to the title in 1958	DEP=1C2-E-TEST-0082-165.29001
+1C2-E-TEST-0082-165.29/003	British racing green came to dominate the field for the next decade	
+1C2-E-TEST-0082-165.29/004	Colin Chapman entered F1 as a chassis designer	DEP=1C2-E-TEST-0082-165.29003
+1C2-E-TEST-0082-165.29/005	Colin Chapman founder of lotus	DEP=1C2-E-TEST-0082-165.29003
+1C2-E-TEST-0082-165.42	"Williams were the most successful team during the mid 1990s with Nigel Mansell , Alain Prost , Damon Hill and Jacques Villeneuve driving their Renault powered cars to world championships, although Michael Schumacher did win two championships with Benetton during this period."	
+1C2-E-TEST-0082-165.42/001	Williams were the most successful team during the mid 1990s	
+1C2-E-TEST-0082-165.42/002	"Nigel Mansell , Alain Prost , Damon Hill and Jacques Villeneuve driving their Renault powered cars to world championships"	DEP=1C2-E-TEST-0082-165.42001
+1C2-E-TEST-0082-165.42/003	Michael Schumacher did win two championships with Benetton during mid 1990s	
+1C2-E-TEST-0082-165.45	"Since 1984 , three teams have dominated the championships: McLaren , Williams , and Ferrari , who have provided the vehicles for all but two of the World Champions for that period."	
+1C2-E-TEST-0082-165.45/001	Since 1984 three teams have dominated the championships	
+1C2-E-TEST-0082-165.45/002	"McLaren , Williams , and Ferrari"	DEP=1C2-E-TEST-0082-165.45001
+1C2-E-TEST-0082-165.45/003	provided the vehicles for all but two of the World Champions for that period	DEP=1C2-E-TEST-0082-165.45001
+1C2-E-TEST-0082-165.8	"200px Fangio Juan Manuel Fangio ( June 24, 1911 July 17, 1995) was a noted Argentinian racing car driver and winner of the Formula One championship five times, including four in a row from 1954-57."	
+1C2-E-TEST-0082-165.8/001	200px	DEP=1C2-E-TEST-0082-165.8002
+1C2-E-TEST-0082-165.8/002	fangio juan manuel fangio	
+1C2-E-TEST-0082-165.8/003	noted Argentinian racing car driver	DEP=1C2-E-TEST-0082-165.8002
+1C2-E-TEST-0082-165.8/004	"June 24, 1911 July 17, 1995"	DEP=1C2-E-TEST-0082-165.8002
+1C2-E-TEST-0082-165.8/005	winner of the Formula One championship five times	DEP=1C2-E-TEST-0082-165.8002
+1C2-E-TEST-0082-165.8/006	four formula one championship in a row from 1954-57.	DEP=1C2-E-TEST-0082-165.8002
+1C2-E-TEST-0082-2.55	"Ayrton Senna was the great Brazilian driver and in his very short career he has won three championships in 1988, 1990 and 1991."	
+1C2-E-TEST-0082-2.55/001	Ayrton Senna was the great Brazilian driver	
+1C2-E-TEST-0082-2.55/002	"on three championships in 1988, 1990 and 1991."	DEP=1C2-E-TEST-0082-2.55001
+1C2-E-TEST-0082-2.55/003	very short career	DEP=1C2-E-TEST-0082-2.55001
+1C2-E-TEST-0082-22.10	"The sport of grand prix racingÃÂÃÂ began before the first World War and the first race to take the name ""grand prix"" was a race in Pau in 1901."	
+1C2-E-TEST-0082-22.10/001	sport grand prix racing	
+1C2-E-TEST-0082-22.10/002	began before first world war	DEP=1C2-E-TEST-0082-22.10001
+1C2-E-TEST-0082-22.10/003	" first race to take the name ""grand prix"" was a race in Pau 1901."	
+1C2-E-TEST-0082-22.9	"The sport is commonly thought to have been founded in 1950, but that is a myth.ÃÂÃÂ The 1950 season was the beginning of the FIA world championship, but there were many years of competition before that."	
+1C2-E-TEST-0082-22.9/001	sport is commonly thought to have been founded in 1950	
+1C2-E-TEST-0082-22.9/002	that is a myth	DEP=1C2-E-TEST-0082-22.9001
+1C2-E-TEST-0082-22.9/003	1950 season was the beginning of the FIA world championship	
+1C2-E-TEST-0082-22.9/004	many years of competition before that	DEP=1C2-E-TEST-0082-22.9003
+1C2-E-TEST-0082-22.92	Fangio won the world title four times between 1954 and 1957 andÃÂÃÂ was the man to beat.	
+1C2-E-TEST-0082-22.92/001	Fangio won the world title four times between 1954 and 1957	
+1C2-E-TEST-0082-22.92/002	fangio was the man to beat	DEP=1C2-E-TEST-0082-22.92001
+1C2-E-TEST-0082-69.18	"During his short 5 year stint in F1, Farina earned 1 World Championship, 5 Grand Prix wins, 20 podium finishes and 5 pole positions.ÃÂÃÂ Due to the fact that he was the first World Champion and in the times that he raced, this Italian driver earns a deserved spot among the top ten."	
+1C2-E-TEST-0082-69.18/001	Farina earned 1 World Championship	
+1C2-E-TEST-0082-69.18/002	farina earned 5 Grand Prix wins	
+1C2-E-TEST-0082-69.18/003	farina earned 20 podium finishes	
+1C2-E-TEST-0082-69.18/004	farina earned 5 pole positions	
+1C2-E-TEST-0082-69.18/005	farina short 5 year stint in F1	
+1C2-E-TEST-0082-69.18/006	farina first World Champion	
+1C2-E-TEST-0082-69.18/007	Italian driver earns a deserved spot among the top ten.	DEP=1C2-E-TEST-0082-69.18006
+1C2-E-TEST-0082-69.29	"Juan Manuel Fangio also known as 'El Maestro', was an Argentinean F1 driver who dominated the first decade of Formula 1 racing.ÃÂÃÂ He has won a DriverÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ¢s Championship with four different teams, a feat yet to be duplicated."	
+1C2-E-TEST-0082-69.29/001	Juan Manuel Fangio also known as 'El Maestro'	
+1C2-E-TEST-0082-69.29/002	Argentinean F1 driver	DEP=1C2-E-TEST-0082-69.29001
+1C2-E-TEST-0082-69.29/003	dominated the first decade of Formula 1 racing	DEP=1C2-E-TEST-0082-69.29001
+1C2-E-TEST-0082-69.29/004	won driver Championship with four different teams	DEP=1C2-E-TEST-0082-69.29001
+1C2-E-TEST-0082-69.29/005	feat yet to be duplicated.	DEP=1C2-E-TEST-0082-69.29004
+1C2-E-TEST-0082-69.66	"From 2000 to 2004 Schumacher won the Drivers title 5 years in a row, making him the only driver in F1 history to accomplish that feat.ÃÂÃÂ "	
+1C2-E-TEST-0082-69.66/001	Schumacher won the Drivers title 5 years in a row	
+1C2-E-TEST-0082-69.66/002	2000 to 2004	DEP=1C2-E-TEST-0082-69.66001
+1C2-E-TEST-0082-69.66/003	only driver in F1 history to accomplish that feat	DEP=1C2-E-TEST-0082-69.66001
+1C2-E-TEST-0082-7.16	Schumacher also holds the record for most wins in a single season with 13 in 2004.	
+1C2-E-TEST-0082-7.16/001	Schumacher holds the record for most wins in a single season	
+1C2-E-TEST-0082-7.16/002	13 wins in 2004	DEP=1C2-E-TEST-0082-7.16001
+1C2-E-TEST-0082-73.18	Stirling Moss of UK was a driver who competed regularly but was never able to win the race.	
+1C2-E-TEST-0082-73.18/001	Stirling Moss of UK was a driver who competed regularly	
+1C2-E-TEST-0082-73.18/002	never able to win the race.	DEP=1C2-E-TEST-0082-73.18001
+1C2-E-TEST-0082-73.23	Colin Chapman's Team Lotus took the championship to new standards in Formula One Racing.	
+1C2-E-TEST-0082-73.23/001	Colin Chapman's Team Lotus	
+1C2-E-TEST-0082-73.23/002	took the championship to new standards in Formula One Racing	DEP=1C2-E-TEST-0082-73.23001
+1C2-E-TEST-0082-73.30	"On the racing track, Brazilian Emerson Fittipaldi became the youngest driver to win the Grand Prix in Formula One History."	
+1C2-E-TEST-0082-73.30/001	Brazilian Emerson Fittipaldi became the youngest driver win Grand Prix	
+1C2-E-TEST-0082-73.46	"Schumacher, with Ferrari, won an unprecedented five consecutive driversÃÂÃ¢ÂÂ championships and six consecutive constructorsÃÂÃ¢ÂÂ championships between 1999 and 2004. Renault driver Fernando Alonso ended Schumacher's championship streak in September 2005."	
+1C2-E-TEST-0082-73.46/001	"Schumacher, with Ferrari, won five consecutive drivers championships"	
+1C2-E-TEST-0082-73.46/002	"Schumacher, with Ferrari won six consecutive constructors"	
+1C2-E-TEST-0082-73.46/003	between 1999 and 2004	DEP=1C2-E-TEST-0082-73.46002
+1C2-E-TEST-0082-73.46/004	Fernando Alonso ended Schumacher's championship streak	
+1C2-E-TEST-0082-73.46/005	Renault driver	DEP=1C2-E-TEST-0082-73.46004
+1C2-E-TEST-0082-73.46/006	September 2005	DEP=1C2-E-TEST-0082-73.46004
+1C2-E-TEST-0082-73.47	"Currently, the world championships are dominated by manufacturer-owned teams like Renault, BMW, Toyota, Honda and Ferrari."	
+1C2-E-TEST-0082-73.47/001	world championships are dominated by manufacturer-owned teams	
+1C2-E-TEST-0082-73.47/002	"Renault, BMW, Toyota, Honda and Ferrari."	DEP=1C2-E-TEST-0082-73.47001

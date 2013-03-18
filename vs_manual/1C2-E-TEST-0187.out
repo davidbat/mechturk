@@ -1,0 +1,130 @@
+1C2-E-TEST-0187-130.16	"However, there is still a large spectral region between 500 and 600 nm where chlorophyll absorbs very little light, and plants appear green because this light is reflected."	
+1C2-E-TEST-0187-130.16/001	large spectral region between 500 and 600 nm	
+1C2-E-TEST-0187-130.16/002	chlorophyll absorbs very little light	DEP=1C2-E-TEST-0187-130.16001
+1C2-E-TEST-0187-130.16/003	plants appear green because this light is reflected.	DEP=1C2-E-TEST-0187-130.16001
+1C2-E-TEST-0187-130.43	"It channels the energy of sunlight into chemical energy, converting it through the process of photosynthesis."	
+1C2-E-TEST-0187-130.43/001	channels the energy of sunlight into chemical energy	
+1C2-E-TEST-0187-130.43/002	converting it through the process of photosynthesis.	DEP=1C2-E-TEST-0187-130.43001
+1C2-E-TEST-0187-130.44	"In photosynthesis, chlorophyll absorbs energy to transform carbon dioxide and water into carbohydrates and oxygen."	
+1C2-E-TEST-0187-130.44/001	In photosynthesis chlorophyll absorbs energy	
+1C2-E-TEST-0187-130.44/002	transform carbon dioxide and water into carbohydrates and oxygen.	DEP=1C2-E-TEST-0187-130.44001
+1C2-E-TEST-0187-130.6	Chlorophyll absorbs certain wavelengths of light within the visible light spectrum.	
+1C2-E-TEST-0187-130.6/001	Chlorophyll absorbs certain wavelengths of light within the visible light spectrum.	
+1C2-E-TEST-0187-130.6/002	light within the visible spectrum.	DEP=1C2-E-TEST-0187-130.6001
+1C2-E-TEST-0187-130.7	"As shown in detail in the absorption spectra, chlorophyll absorbs light in the red (long wavelength) and the blue (short wavelength) regions of the visible light spectrum."	
+1C2-E-TEST-0187-130.7/001	shown in detail in the absorption spectra	DEP=1C2-E-TEST-0187-130.7002
+1C2-E-TEST-0187-130.7/002	chlorophyll absorbs light in the red and blue regions of visible spectrum	
+1C2-E-TEST-0187-130.7/003	red (long wavelength) and the blue (short wavelength)	DEP=1C2-E-TEST-0187-130.7002
+1C2-E-TEST-0187-130.8	"Green light is not absorbed but reflected, making the plant appear green."	
+1C2-E-TEST-0187-130.8/001	Green light is not absorbed	
+1C2-E-TEST-0187-130.8/002	Green light is reflected	
+1C2-E-TEST-0187-130.8/003	making the plant appear green.	DEP=1C2-E-TEST-0187-130.8002
+1C2-E-TEST-0187-147.153	"Or, is it because they absorb every color except green light?"	
+1C2-E-TEST-0187-147.153/001	they absorb every color except green light	
+1C2-E-TEST-0187-18.14	"The wavelength of the reflected light determines which color we see; red is the longest reflected wavelength, and violet is the shortest reflected wavelength."	
+1C2-E-TEST-0187-18.14/001	wavelength of the reflected light determines which color we see	
+1C2-E-TEST-0187-18.14/002	red is the longest reflected wavelength	DEP=1C2-E-TEST-0187-18.14001
+1C2-E-TEST-0187-18.14/003	violet is the shortest reflected wavelength	DEP=1C2-E-TEST-0187-18.14001
+1C2-E-TEST-0187-18.15	"So, we can determine that leaves are green because they reflect light in the green spectrum, namely about 560 to 490 nanometers."	
+1C2-E-TEST-0187-18.15/001	leaves are green because they reflect light in the green spectrum	
+1C2-E-TEST-0187-18.15/002	560 to 490 nanometers.	DEP=1C2-E-TEST-0187-18.15001
+1C2-E-TEST-0187-18.17	"But that only tells us why leaves appear green, not why they reflect that particular wavelength in the first place."	
+1C2-E-TEST-0187-18.17/001	only tells us why leaves appear green	
+1C2-E-TEST-0187-18.17/002	not why they reflect that particular wavelength in the first place.	DEP=1C2-E-TEST-0187-18.17.001
+1C2-E-TEST-0187-195.16	" Because chlorophyll absorb the wavelengths of visible light ( violet-blue and orange-red light) and scatter (reflect) the green light that eventually reaches our eyes, chlorophylls therefore appears green in color ."	
+1C2-E-TEST-0187-195.16/001	chlorophyll absorb the wavelengths of visible light	
+1C2-E-TEST-0187-195.16/002	( violet-blue and orange-red light)	DEP=1C2-E-TEST-0187-195.16001
+1C2-E-TEST-0187-195.16/003	scatter (reflect) the green light	
+1C2-E-TEST-0187-195.16/004	chlorophylls therefore appears green in color .	DEP=1C2-E-TEST-0187-195.16003
+1C2-E-TEST-0187-195.19	"Carotenoids pigment gives the color yellow, orange, and brown hues."	
+1C2-E-TEST-0187-195.19/001	Carotenoids pigment	
+1C2-E-TEST-0187-195.19/002	"gives color yellow, orange, and brown hues."	DEP=1C2-E-TEST-0187-195.19001
+1C2-E-TEST-0187-2.3	"The green color in leaves is caused by the presence of a compound called ""chlorophyll,"" which the plant produces to do photosynthesis, which is how plants get energy from sunlight."	
+1C2-E-TEST-0187-2.3/001	"Green color in leaves cause by compound called ""chlorophyll,"" "	
+1C2-E-TEST-0187-2.3/002	plant produces chlorophyll to do photosynthesis	
+1C2-E-TEST-0187-2.3/003	plants get energy from sunlight by photosynthesis	DEP=1C2-E-TEST-0187-2.3002
+1C2-E-TEST-0187-2.5	"The chlorophyll is green because it absorbs red and blue wavelengths of light -- and so green is not absorbed and is reflected, making the plant look green to your eyes."	
+1C2-E-TEST-0187-2.5/001	chlorophyll is green	
+1C2-E-TEST-0187-2.5/002	absorbs red and blue wavelengths of light	DEP=1C2-E-TEST-0187-2.5001
+1C2-E-TEST-0187-2.5/003	green is not absorbed and is reflected	DEP=1C2-E-TEST-0187-2.5001
+1C2-E-TEST-0187-2.5/004	making the plant look green to your eyes	DEP=1C2-E-TEST-0187-2.5003
+1C2-E-TEST-0187-21.21	"Photosynthetic pigment, such as chlorophyll, will only absorb certain wavelengths of light, and it's only the wavelengths that are absorbed which can influence the photosynthetic reaction."	
+1C2-E-TEST-0187-21.21/001	photosynthetic pigment chlorophyll	
+1C2-E-TEST-0187-21.21/002	only absorb certain wavelengths of light	DEP=1C2-E-TEST-0187-21.21001
+1C2-E-TEST-0187-21.21/003	wavelengths absorbed influence the photosynthetic reaction	
+1C2-E-TEST-0187-21.23	" When we look at a green leaf, green is the wavelength of light that is being reflected and not absorbed."	
+1C2-E-TEST-0187-21.23/001	green is the wavelength of light that is being reflected	
+1C2-E-TEST-0187-21.23/002	green is not absorbed	DEP=1C2-E-TEST-0187-21.23001
+1C2-E-TEST-0187-21.26	Blue and red light are the wavelengths absorbed by chlorophyll and used to drive photosynthesis.	
+1C2-E-TEST-0187-21.26/001	Blue and red light are the wavelengths absorbed by chlorophyll	
+1C2-E-TEST-0187-21.26/002	used to drive photosynthesis	DEP= 1C2-E-TEST-0187-21.26001
+1C2-E-TEST-0187-21.27	"Green light is not absorbed, it is reflected, and that is why leaves appear green."	
+1C2-E-TEST-0187-21.27/001	Green light is not absorbed	
+1C2-E-TEST-0187-21.27/002	it is reflected	DEP=1C2-E-TEST-0187-21.27001
+1C2-E-TEST-0187-21.27/003	that is why leaves appear green	DEP=1C2-E-TEST-0187-21.27002
+1C2-E-TEST-0187-268.11	Chlorophylls (cell membranes; chloroplasts): absorb red and blue wavelengths; thus the light reflected appears green to our eyes.	
+1C2-E-TEST-0187-268.11/001	Chlorophylls (cell membranes; chloroplasts)	
+1C2-E-TEST-0187-268.11/002	absorb red and blue wavelengths	DEP= 1C2-E-TEST-0187-268.11001
+1C2-E-TEST-0187-268.11/003	the light reflected appears green to our eyes	DEP=1C2-E-TEST-0187-268.11002
+1C2-E-TEST-0187-268.12	"Carotene & Chlorophyll: absorb red, blue-green, and blue wavelengths; thus the light reflected appears green to our eyes."	
+1C2-E-TEST-0187-268.12/001	" Carotene & Chlorophyll absorb red, blue-green, and blue wavelengths"	
+1C2-E-TEST-0187-268.12/002	the light reflected appears green to our eyes.	DEP=1C2-E-TEST-0187-268.12001
+1C2-E-TEST-0187-268.9	Carotenes (cell membranes; chloroplasts): absorb blue-green and blue wavelengths; thus the light reflected appears yellow to our eyes.	
+1C2-E-TEST-0187-268.9/001	Carotenes (cell membranes; chloroplasts)	
+1C2-E-TEST-0187-268.9/002	absorb blue-green and blue wavelengths	DEP=1C2-E-TEST-0187-268.9001
+1C2-E-TEST-0187-268.9/003	light reflected appears yellow to our eyes.	DEP=1C2-E-TEST-0187-268.9002
+1C2-E-TEST-0187-4.4	"The green color in leaves is caused by the presence of a compound called ""chlorophyll,"" which the plant produces to do photosynthesis, which is how plants get energy from sunlight."	
+1C2-E-TEST-0187-4.4/001	green color in leaves is caused by the presence of a chlorophyll	
+1C2-E-TEST-0187-4.4/002	the plant produces to do photosynthesis	DEP=1C2-E-TEST-0187-4.4001
+1C2-E-TEST-0187-4.4/003	plants get energy from sunlight.	DEP=1C2-E-TEST-0187-4.4003
+1C2-E-TEST-0187-4.6	"The chlorophyll is green because it absorbs red and blue wavelengths of light -- and so green is not absorbed and is reflected, making the plant look green to your eyes."	
+1C2-E-TEST-0187-4.6/001	chlorophyll is green because it absorbs red and blue wavelengths of light	
+1C2-E-TEST-0187-4.6/002	green is not absorbed and is reflected	
+1C2-E-TEST-0187-4.6/003	plant look green to your eyes	DEP=1C2-E-TEST-0187-4.6002
+1C2-E-TEST-0187-5.12	"As they absorb all other wavelengths except green, naturally green is reflected as the only remaining unabsorbed wavelength."	
+1C2-E-TEST-0187-5.12/001	green is reflected as the only remaining unabsorbed wavelength.	
+1C2-E-TEST-0187-6.10	This is due to visible light absorbed by the object which part of the decision.	
+1C2-E-TEST-0187-6.10/001	due to visible light absorbed by the object .	
+1C2-E-TEST-0187-6.10/002	part of the decision	DEP=1C2-E-TEST-0187-6.10001
+1C2-E-TEST-0187-80.10	The Chlorophyll cells within the plant leaves are perfectly optimized to absorb the red and blue light from the sun because this is the kind of light the plant can make use of in Photosynthesis.	
+1C2-E-TEST-0187-80.10/001	Chlorophyll cells within the plant leaves are perfectly optimized	
+1C2-E-TEST-0187-80.10/002	absorb the red and blue light from the sun	DEP=1C2-E-TEST-0187-80.10001
+1C2-E-TEST-0187-80.10/003	the kind of light the plant can make use of in Photosynthesis.	DEP=1C2-E-TEST-0187-80.10002
+1C2-E-TEST-0187-80.11	The remaining light is reflected back which makes the leaves appear green to our eyes.	
+1C2-E-TEST-0187-80.11/001	light is reflected back	
+1C2-E-TEST-0187-80.11/002	makes the leaves appear green to our eyes	DEP=1C2-E-TEST-0187-80.11001
+1C2-E-TEST-0187-80.4	In order for something to look a particular color it must reflect that color of light to our eyes.	
+1C2-E-TEST-0187-80.4/001	In order for something to look a particular color	DEP=1C2-E-TEST-0187-80.4002
+1C2-E-TEST-0187-80.4/002	it must reflect that color of light to our eyes	
+1C2-E-TEST-0187-80.5	"In the case of plants, this means they are reflecting only green light and are absorbing the red and blue frequencies of the light spectrum."	
+1C2-E-TEST-0187-80.5/001	In the case of plants	DEP=1C2-E-TEST-0187-80.5002
+1C2-E-TEST-0187-80.5/002	reflecting only green light	
+1C2-E-TEST-0187-80.5/003	absorbing the red and blue frequencies of the light spectrum.	DEP=1C2-E-TEST-0187-80.5001
+1C2-E-TEST-0187-80.6	"Since sunlight is made up of more red and blue light than green, this would suggest that plants absorb a lot of sunlight and are somehow optimized for this."	
+1C2-E-TEST-0187-80.6/001	sunlight is made up of more red and blue light than green	
+1C2-E-TEST-0187-80.6/002	suggests plants absorb a lot of sunlight	DEP=1C2-E-TEST-0187-80.6001
+1C2-E-TEST-0187-86.105	"Furthermore, the green and yellow light which is not used and passes through the leaf may well be absorbed"	
+1C2-E-TEST-0187-86.105/001	green and yellow light which is not used	
+1C2-E-TEST-0187-86.105/002	passes through the leaf	DEP=1C2-E-TEST-0187-86.105001
+1C2-E-TEST-0187-86.123	pigments that absorb red light and so they reflect and transmit red light well.	
+1C2-E-TEST-0187-86.123/001	pigments that absorb red light	
+1C2-E-TEST-0187-86.123/002	reflect and transmit red light well	DEP=1C2-E-TEST-0187-86.123001
+1C2-E-TEST-0187-86.204	"The fact that some land plants are blue, some red, some almost black"	
+1C2-E-TEST-0187-86.204/001	some land plants are blue	
+1C2-E-TEST-0187-86.204/002	some land plants red	DEP=1C2-E-TEST-0187-86.204001
+1C2-E-TEST-0187-86.204/003	some land plants almost black	DEP=1C2-E-TEST-0187-86.204001
+1C2-E-TEST-0187-86.39	Plants absorb light and use the energy of the light to make complex organic chemicals - fuels like sugar and	
+1C2-E-TEST-0187-86.39/001	Plants absorb light	
+1C2-E-TEST-0187-86.39/002	use the energy of the light to make complex organic chemicals	DEP=1C2-E-TEST-0187-86.39001
+1C2-E-TEST-0187-86.39/003	fuels like sugar	DEP=1C2-E-TEST-0187-86.39002
+1C2-E-TEST-0187-86.83	Plants are green because they absorb almost all of the blue and red light and transmit and reflect almost half of the green light and the yellow light and so their leaves appear yellow-green.	
+1C2-E-TEST-0187-86.83/001	Plants are green because they absorb almost all of the blue and red light	
+1C2-E-TEST-0187-86.83/002	transmit and reflect almost half the green light and the yellow light	DEP=1C2-E-TEST-0187-86.83001
+1C2-E-TEST-0187-86.83/003	leaves appear yellow-green.	DEP=1C2-E-TEST-0187-86.83002
+1C2-E-TEST-0187-9.14	"Chlorophyll doesn't work at all in green light, and that's why plants appear to be green, because the plant leaves absorb the other colors and reflect green light back to our eyes."	
+1C2-E-TEST-0187-9.14/001	Chlorophyll doesn't work at all in green light	
+1C2-E-TEST-0187-9.14/002	"plants appear to be green, because the plant leaves absorb the other colors "	DEP=1C2-E-TEST-0187-9.14001
+1C2-E-TEST-0187-9.14/003	reflect green light back to our eyes.	DEP=1C2-E-TEST-0187-9.14002
+1C2-E-TEST-0187-9.9	The function of chlorophyll is to absorb light from the sun and convert it into oxygen and water by the process of photosynthesis.	
+1C2-E-TEST-0187-9.9/001	function of chlorophyll is to absorb light from the sun and convert it into oxygen and water	
+1C2-E-TEST-0187-9.9/002	process of photosynthesis.	DEP=1C2-E-TEST-0187-9.9001

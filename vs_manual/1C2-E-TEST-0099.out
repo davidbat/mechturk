@@ -1,0 +1,319 @@
+1C2-E-TEST-0099-1.105	"By 1922, the popularity of tennis had grown to the extent that the club's small ground could no longer cope with the numbers of spectators and the renamed All England Lawn Tennis and Croquet Club moved to new grounds close to Wimbledon Park."	
+1C2-E-TEST-0099-1.105/001	by 1922	
+1C2-E-TEST-0099-1.105/002	the popularity	DEP=1C2-E-TEST-0099-1.105001
+1C2-E-TEST-0099-1.105/003	of tennis	DEP=1C2-E-TEST-0099-1.105002
+1C2-E-TEST-0099-1.105/004	had grown to the extent that the club's small ground	DEP=1C2-E-TEST-0099-1.105003
+1C2-E-TEST-0099-1.105/005	could no longer cope	DEP=1C2-E-TEST-0099-1.105004
+1C2-E-TEST-0099-1.105/006	with the numbers of spectators	DEP=1C2-E-TEST-0099-1.105005
+1C2-E-TEST-0099-1.105/007	and the renamed	DEP=1C2-E-TEST-0099-1.105006
+1C2-E-TEST-0099-1.105/008	All England Lawn Tennis	DEP=1C2-E-TEST-0099-1.105007
+1C2-E-TEST-0099-1.105/009	and Croquet Club	DEP=1C2-E-TEST-0099-1.105008
+1C2-E-TEST-0099-1.105/010	moved to new grounds	DEP=1C2-E-TEST-0099-1.105009
+1C2-E-TEST-0099-1.105/011	close to Wimbledon Park	DEP=1C2-E-TEST-0099-1.105010
+1C2-E-TEST-0099-1.162	The New Wimbledon Theatre is a Grade II listed Edwardian theatre built by J B Mullholland as the Wimbledon Theatre on the site of a large house with spacious grounds.	
+1C2-E-TEST-0099-1.162/001	The New Wimbledon Theatre	
+1C2-E-TEST-0099-1.162/002	is a Grade II listed Edwardian theatre	DEP=1C2-E-TEST-0099-1.162001
+1C2-E-TEST-0099-1.162/003	built by J B Mullholland	DEP=1C2-E-TEST-0099-1.162002
+1C2-E-TEST-0099-1.162/004	as the Wimbledon Theatre	DEP=1C2-E-TEST-0099-1.162003
+1C2-E-TEST-0099-1.162/005	on the site	DEP=1C2-E-TEST-0099-1.162004
+1C2-E-TEST-0099-1.162/006	of a large house	DEP=1C2-E-TEST-0099-1.162005
+1C2-E-TEST-0099-1.162/007	with spacious grounds.	DEP=1C2-E-TEST-0099-1.162006
+1C2-E-TEST-0099-1.43	"Transport links expanded further with new railway lines to Croydon (Wimbledon and Croydon Railway, opened in 1855) and Tooting (Tooting, Merton and Wimbledon Railway, opened in 1868)."	
+1C2-E-TEST-0099-1.43/001	tranport links	
+1C2-E-TEST-0099-1.43/002	expanded further	DEP=1C2-E-TEST-0099-1.43001
+1C2-E-TEST-0099-1.43/003	with new railway lines	DEP=1C2-E-TEST-0099-1.43002
+1C2-E-TEST-0099-1.43/004	to croydon	DEP=1C2-E-TEST-0099-1.43003
+1C2-E-TEST-0099-1.43/005	croydon railway opened 1855	DEP=1C2-E-TEST-0099-1.43004
+1C2-E-TEST-0099-1.43/006	and tooting	DEP=1C2-E-TEST-0099-1.43005
+1C2-E-TEST-0099-1.43/007	tooting metron railway opened 1868	DEP=1C2-E-TEST-0099-1.43006
+1C2-E-TEST-0099-1.44	The Metropolitan District Railway (now London Underground 's District Line ) extended its service over new tracks from Putney in 1889.	
+1C2-E-TEST-0099-1.44/001	metropolitan district railway	
+1C2-E-TEST-0099-1.44/002	now london's underground district line	DEP=1C2-E-TEST-0099-1.44001
+1C2-E-TEST-0099-1.44/003	extended service	DEP=1C2-E-TEST-0099-1.44002
+1C2-E-TEST-0099-1.44/004	over new tracks	DEP=1C2-E-TEST-0099-1.44003
+1C2-E-TEST-0099-1.44/005	from putney 1889	DEP=1C2-E-TEST-0099-1.44004
+1C2-E-TEST-0099-1.50	"Wimbledon got its first police station in 1870, situated in Victoria Crescent."	
+1C2-E-TEST-0099-1.50/001	Wimbledon got it's first police station	
+1C2-E-TEST-0099-1.50/002	in 1870	DEP=1C2-E-TEST-0099-1.50001
+1C2-E-TEST-0099-1.50/003	situated	DEP=1C2-E-TEST-0099-1.50002
+1C2-E-TEST-0099-1.50/004	in victoria crescent	DEP=1C2-E-TEST-0099-1.50003
+1C2-E-TEST-0099-1.55	"Wimbledon Hill Road, looking north-west from Wimbledon Bridge"	
+1C2-E-TEST-0099-1.55/001	wimbledon hill road	
+1C2-E-TEST-0099-1.55/002	looking	DEP=1C2-E-TEST-0099-1.55001
+1C2-E-TEST-0099-1.55/003	north-west	DEP=1C2-E-TEST-0099-1.55002
+1C2-E-TEST-0099-1.55/004	from wimbledon bridge	DEP=1C2-E-TEST-0099-1.55003
+1C2-E-TEST-0099-1.75	"Wimbledon lies in the south west area of London , south of Wandsworth , and east of Kingston upon Thames on the outskirts of Greater London ."	
+1C2-E-TEST-0099-1.75/001	Wimbledon lies	
+1C2-E-TEST-0099-1.75/002	south west area	DEP=1C2-E-TEST-0099-1.75001
+1C2-E-TEST-0099-1.75/003	of london	DEP=1C2-E-TEST-0099-1.75002
+1C2-E-TEST-0099-1.75/004	south	
+1C2-E-TEST-0099-1.75/005	of wandsworth	DEP=1C2-E-TEST-0099-1.75004
+1C2-E-TEST-0099-1.75/006	east	
+1C2-E-TEST-0099-1.75/007	of kingston upon thames	DEP=1C2-E-TEST-0099-1.75006
+1C2-E-TEST-0099-1.75/008	on the outskirts	
+1C2-E-TEST-0099-1.75/009	greater london	DEP=1C2-E-TEST-0099-1.75008
+1C2-E-TEST-0099-1.89	Wimbledon had its own borough of Wimbledon and was within the county of Surrey ; it was absorbed into the London Borough of Merton as part of the creation of Greater London in 1965.	
+1C2-E-TEST-0099-1.89/001	Wimbledon had its own borough	
+1C2-E-TEST-0099-1.89/002	of Wimbledon	DEP=1C2-E-TEST-0099-1.89001
+1C2-E-TEST-0099-1.89/003	and was within the county of Surrey	DEP=1C2-E-TEST-0099-1.89002
+1C2-E-TEST-0099-1.89/004	it was absorbed into the London Borough	DEP=1C2-E-TEST-0099-1.89003
+1C2-E-TEST-0099-1.89/005	of Merton	DEP=1C2-E-TEST-0099-1.89004
+1C2-E-TEST-0099-1.89/006	as part of the creation	DEP=1C2-E-TEST-0099-1.89005
+1C2-E-TEST-0099-1.89/007	of Greater London in 1965	DEP=1C2-E-TEST-0099-1.89006
+1C2-E-TEST-0099-125.11	"So when Jennins team was designing a retractable roof for the Centre Court, the main stage of the Wimbledon tennis championship, the most important thing to determine was how not to block the sunlight that feeds the world's most visible patch of grass."	
+1C2-E-TEST-0099-125.11/001	So when Jennins team	
+1C2-E-TEST-0099-125.11/002	was designing	DEP=1C2-E-TEST-0099-125.11001
+1C2-E-TEST-0099-125.11/003	a retractable roof	DEP=1C2-E-TEST-0099-125.11002
+1C2-E-TEST-0099-125.11/004	for centre court	DEP=1C2-E-TEST-0099-125.11003
+1C2-E-TEST-0099-125.11/005	the main stage	DEP=1C2-E-TEST-0099-125.11004
+1C2-E-TEST-0099-125.11/006	of tennis championship	DEP=1C2-E-TEST-0099-125.11005
+1C2-E-TEST-0099-125.11/007	the important thing	DEP=1C2-E-TEST-0099-125.11006
+1C2-E-TEST-0099-125.11/008	to determine	DEP=1C2-E-TEST-0099-125.11007
+1C2-E-TEST-0099-125.11/009	was how to not block sunlight	DEP=1C2-E-TEST-0099-125.11008
+1C2-E-TEST-0099-125.11/010	that feeds	DEP=1C2-E-TEST-0099-125.11009
+1C2-E-TEST-0099-125.11/011	the worlds	DEP=1C2-E-TEST-0099-125.11010
+1C2-E-TEST-0099-125.11/012	most visible patch	DEP=1C2-E-TEST-0099-125.11011
+1C2-E-TEST-0099-125.11/013	of grass	DEP=1C2-E-TEST-0099-125.11012
+1C2-E-TEST-0099-125.3	Populous designed the new fabric and steel rafter retractable roof at the All England Lawn Tennis Club in London.	
+1C2-E-TEST-0099-125.3/001	populous designed	
+1C2-E-TEST-0099-125.3/002	the new fabric	DEP=1C2-E-TEST-0099-125.3001
+1C2-E-TEST-0099-125.3/003	and steel rafter retractable roof	DEP=1C2-E-TEST-0099-125.3002
+1C2-E-TEST-0099-125.3/004	the all england lawn tennis club	DEP=1C2-E-TEST-0099-125.3003
+1C2-E-TEST-0099-125.3/005	in london	DEP=1C2-E-TEST-0099-125.3004
+1C2-E-TEST-0099-125.7	"The renovations to Centre Court at London's All England Lawn Tennis Club, home of the Wimbledon Championships, included the installation of a 56,000-square-foot retractable roof and increased the capacity of the stadium by 1,200 seats."	
+1C2-E-TEST-0099-125.7/001	The renovations	
+1C2-E-TEST-0099-125.7/002	to centre court	DEP=1C2-E-TEST-0099-125.7001
+1C2-E-TEST-0099-125.7/003	at london's	DEP=1C2-E-TEST-0099-125.7002
+1C2-E-TEST-0099-125.7/004	all england lawn tennis club	DEP=1C2-E-TEST-0099-125.7003
+1C2-E-TEST-0099-125.7/005	home	DEP=1C2-E-TEST-0099-125.7004
+1C2-E-TEST-0099-125.7/006	of the Wimbledon Championships	DEP=1C2-E-TEST-0099-125.7005
+1C2-E-TEST-0099-125.7/007	included installation of a 56000-square-foot retractable roof	DEP=1C2-E-TEST-0099-125.7001
+1C2-E-TEST-0099-125.7/008	and increased capacity	DEP=1C2-E-TEST-0099-125.7001
+1C2-E-TEST-0099-125.7/009	of stadium	DEP=1C2-E-TEST-0099-125.7008
+1C2-E-TEST-0099-125.7/010	by 1200 seats	DEP=1C2-E-TEST-0099-125.7009
+1C2-E-TEST-0099-131.29	"The Centre Court's capacity has been increased from 13,800 spectators to 15,000 by the addition of six rows of seating to the upper tier on three (east, north and west) sides."	
+1C2-E-TEST-0099-131.29/001	the centre court capacity	
+1C2-E-TEST-0099-131.29/002	has been increased	DEP=1C2-E-TEST-0099-131.29001
+1C2-E-TEST-0099-131.29/003	from 13,800 spectators	DEP=1C2-E-TEST-0099-131.29001
+1C2-E-TEST-0099-131.29/004	to 15000	DEP=1C2-E-TEST-0099-131.29002
+1C2-E-TEST-0099-131.29/005	by adding six rows of seating	DEP=1C2-E-TEST-0099-131.29002
+1C2-E-TEST-0099-131.29/006	to the upper tier	DEP=1C2-E-TEST-0099-131.29005
+1C2-E-TEST-0099-131.29/007	on east north and west sides	DEP=1C2-E-TEST-0099-131.29006
+1C2-E-TEST-0099-176.18	Services run from London Waterloo via Clapham Junction to Wimbledon Station (about 15 min).	
+1C2-E-TEST-0099-176.18/001	services	
+1C2-E-TEST-0099-176.18/002	run from london waterloo via clapham junction	DEP=1C2-E-TEST-0099-176.18001
+1C2-E-TEST-0099-176.18/003	to winbledon station	DEP=1C2-E-TEST-0099-176.18002
+1C2-E-TEST-0099-176.18/004	about 15 min	DEP=1C2-E-TEST-0099-176.18003
+1C2-E-TEST-0099-176.2	"Wimbledon is a well-known and affluent suburb in the southwest of London , England and is part of the London Borough of Merton [3] ."	
+1C2-E-TEST-0099-176.2/001	winbledon is a well-known	
+1C2-E-TEST-0099-176.2/002	and affluent suburb	DEP=1C2-E-TEST-0099-176.2001
+1C2-E-TEST-0099-176.2/003	in the southwest of london england	DEP=1C2-E-TEST-0099-176.2002
+1C2-E-TEST-0099-176.2/004	and is part of the laondon borough	DEP=1C2-E-TEST-0099-176.2003
+1C2-E-TEST-0099-176.2/005	merton	DEP=1C2-E-TEST-0099-176.2004
+1C2-E-TEST-0099-176.21	"Wimbledon Station has two entrances, one at the front of the station serving as a drop off point for cars and a taxi stop and one to the side that leads to buses and a shopping mall."	
+1C2-E-TEST-0099-176.21/001	wimbledon station	
+1C2-E-TEST-0099-176.21/002	has two entrances	DEP=1C2-E-TEST-0099-176.21001
+1C2-E-TEST-0099-176.21/003	one at the front of the station	DEP=1C2-E-TEST-0099-176.21002
+1C2-E-TEST-0099-176.21/004	serving as	DEP=1C2-E-TEST-0099-176.21003
+1C2-E-TEST-0099-176.21/005	a drop off point	DEP=1C2-E-TEST-0099-176.21004
+1C2-E-TEST-0099-176.21/006	for cars	DEP=1C2-E-TEST-0099-176.21005
+1C2-E-TEST-0099-176.21/007	and taxi stop	DEP=1C2-E-TEST-0099-176.21005
+1C2-E-TEST-0099-176.21/008	and one to the side	DEP=1C2-E-TEST-0099-176.21002
+1C2-E-TEST-0099-176.21/009	that leads	DEP=1C2-E-TEST-0099-176.21008
+1C2-E-TEST-0099-176.21/010	to buses	DEP=1C2-E-TEST-0099-176.21008
+1C2-E-TEST-0099-176.21/011	and a shopping mall	DEP=1C2-E-TEST-0099-176.21008
+1C2-E-TEST-0099-176.3	"It is, of course, best known for the All England Lawn Tennis Championships (or often just referred to as Wimbledon) held every summer and which form part of the worldwide tennis grand slam series."	
+1C2-E-TEST-0099-176.3/001	best known for all england lawn tennis championships	
+1C2-E-TEST-0099-176.3/002	held	DEP=1C2-E-TEST-0099-176.3001
+1C2-E-TEST-0099-176.3/003	every summer	DEP=1C2-E-TEST-0099-176.3002
+1C2-E-TEST-0099-176.3/004	and which form part	DEP=1C2-E-TEST-0099-176.3003
+1C2-E-TEST-0099-176.3/005	of the worldwide tennis grand slam series	DEP=1C2-E-TEST-0099-176.3004
+1C2-E-TEST-0099-176.35	"The A219 runs through Wimbledon Hill Road, Wimbledon Bridge to the Broadway and beyond."	
+1C2-E-TEST-0099-176.35/001	the a219	
+1C2-E-TEST-0099-176.35/002	wimbledon hill road	DEP=1C2-E-TEST-0099-176.35001
+1C2-E-TEST-0099-176.35/003	wimbledon bridge	DEP=1C2-E-TEST-0099-176.35002
+1C2-E-TEST-0099-176.35/004	to broadway	DEP=1C2-E-TEST-0099-176.35003
+1C2-E-TEST-0099-176.35/005	and beyond	DEP=1C2-E-TEST-0099-176.35004
+1C2-E-TEST-0099-176.44	"Wimbledon is served by local bus routes including routes 57 Kingston/Clapham Park), 93 (Putney Bridge/North Cheam), 131 (Kingston/Tooting Broadway), 156 (Vauxhall), 163 (Morden), 164 (Sutton), 200 (Raynes Park/Mitcham), 219 (Clapham Junction), 493 (Richmond/Tooting) and N87 Night Bus (Aldwych/Kingston)."	
+1C2-E-TEST-0099-176.44/001	wimbledon is served	
+1C2-E-TEST-0099-176.44/002	by local bus routes including routes	
+1C2-E-TEST-0099-176.44/003	57 kingston\/clapham park	DEP=1C2-E-TEST-0099-176.44002
+1C2-E-TEST-0099-176.44/004	93	DEP=1C2-E-TEST-0099-176.44002
+1C2-E-TEST-0099-176.44/005	putney bridge\/north cheam	DEP=1C2-E-TEST-0099-176.44004
+1C2-E-TEST-0099-176.44/006	131	DEP=1C2-E-TEST-0099-176.44002
+1C2-E-TEST-0099-176.44/007	kingston\/tooting broadway	DEP=1C2-E-TEST-0099-176.44006
+1C2-E-TEST-0099-176.44/008	156	DEP=1C2-E-TEST-0099-176.44002
+1C2-E-TEST-0099-176.44/009	vauxhall	DEP=1C2-E-TEST-0099-176.44008
+1C2-E-TEST-0099-176.44/010	163	DEP=1C2-E-TEST-0099-176.44002
+1C2-E-TEST-0099-176.44/011	morden	DEP=1C2-E-TEST-0099-176.44010
+1C2-E-TEST-0099-176.44/012	164	DEP=1C2-E-TEST-0099-176.44002
+1C2-E-TEST-0099-176.44/013	sutton	DEP=1C2-E-TEST-0099-176.44012
+1C2-E-TEST-0099-176.44/014	200	DEP=1C2-E-TEST-0099-176.44002
+1C2-E-TEST-0099-176.44/015	raynes park\/mitcham	DEP=1C2-E-TEST-0099-176.44014
+1C2-E-TEST-0099-176.44/016	219	DEP=1C2-E-TEST-0099-176.44002
+1C2-E-TEST-0099-176.44/017	clapham junction	DEP=1C2-E-TEST-0099-176.44016
+1C2-E-TEST-0099-176.44/018	493	DEP=1C2-E-TEST-0099-176.44002
+1C2-E-TEST-0099-176.44/019	richmond\/tooting	DEP=1C2-E-TEST-0099-176.44018
+1C2-E-TEST-0099-176.44/020	n87	DEP=1C2-E-TEST-0099-176.44002
+1C2-E-TEST-0099-176.44/021	and n87 night bus	DEP=1C2-E-TEST-0099-176.44020
+1C2-E-TEST-0099-176.44/022	aldwych\/kingston	DEP=1C2-E-TEST-0099-176.440021
+1C2-E-TEST-0099-176.86	"The football team AFC Wimbledon plays further west nowadays in a ground-share at Kingstonians, in Berrylands (after the original 'Crazy gang' was forcibily relocated to Milton Keynes by the then-owner for commercial reasons)."	
+1C2-E-TEST-0099-176.86/001	the football team afc	
+1C2-E-TEST-0099-176.86/002	plays	DEP=1C2-E-TEST-0099-176.86001
+1C2-E-TEST-0099-176.86/003	west nowadays	DEP=1C2-E-TEST-0099-176.86002
+1C2-E-TEST-0099-176.86/004	in a ground-share at kingstonians	DEP=1C2-E-TEST-0099-176.86003
+1C2-E-TEST-0099-176.86/005	in berrylands	DEP=1C2-E-TEST-0099-176.86004
+1C2-E-TEST-0099-176.86/006	after the original crazy gang	DEP=1C2-E-TEST-0099-176.86005
+1C2-E-TEST-0099-176.86/007	was forcibly relocated	DEP=1C2-E-TEST-0099-176.86006
+1C2-E-TEST-0099-176.86/008	to milton keynes	DEP=1C2-E-TEST-0099-176.86007
+1C2-E-TEST-0099-176.86/009	by the then-owner	DEP=1C2-E-TEST-0099-176.86008
+1C2-E-TEST-0099-176.86/010	for commercial reasons	DEP=1C2-E-TEST-0099-176.86009
+1C2-E-TEST-0099-176.88	Shops are to be found along the Broadway towards South Wimbledon and along Wimbledon Hill towards Wimbledon Village and and in Wimbledon Village itself.	
+1C2-E-TEST-0099-176.88/001	shops	
+1C2-E-TEST-0099-176.88/002	are to be found	DEP=1C2-E-TEST-0099-176.88001
+1C2-E-TEST-0099-176.88/003	along the broadway	DEP=1C2-E-TEST-0099-176.88002
+1C2-E-TEST-0099-176.88/004	towards south	DEP=1C2-E-TEST-0099-176.88003
+1C2-E-TEST-0099-176.88/005	and along hill	DEP=1C2-E-TEST-0099-176.88004
+1C2-E-TEST-0099-176.88/006	towards village	DEP=1C2-E-TEST-0099-176.88005
+1C2-E-TEST-0099-176.99	"Include Morrisons (The Broadway), M&S (Centre Court), Sainsburys (Worple Rd and The Broadway towards South Wimbledon), Tesco Metro (Centre Court, South Wimbledon & Wimbledon Village) and Waitrose (near Wimbledon Bridge)."	
+1C2-E-TEST-0099-176.99/001	include morrisons	
+1C2-E-TEST-0099-176.99/002	the broadway	DEP=1C2-E-TEST-0099-176.99001
+1C2-E-TEST-0099-176.99/003	m&s	DEP=1C2-E-TEST-0099-176.99002
+1C2-E-TEST-0099-176.99/004	centre court	DEP=1C2-E-TEST-0099-176.99003
+1C2-E-TEST-0099-176.99/005	sainsburys	DEP=1C2-E-TEST-0099-176.99004
+1C2-E-TEST-0099-176.99/006	worple rd	DEP=1C2-E-TEST-0099-176.99005
+1C2-E-TEST-0099-176.99/007	and the broadway	DEP=1C2-E-TEST-0099-176.99006
+1C2-E-TEST-0099-176.99/008	towards south wimbledon	DEP=1C2-E-TEST-0099-176.99007
+1C2-E-TEST-0099-176.99/009	Tesco Metro	DEP=1C2-E-TEST-0099-176.99008
+1C2-E-TEST-0099-176.99/010	Centre Court, South Wimbledon & Wimbledon Village	DEP=1C2-E-TEST-0099-176.99009
+1C2-E-TEST-0099-176.99/011	and Waitrose (near Wimbledon Bridge	DEP=1C2-E-TEST-0099-176.99010
+1C2-E-TEST-0099-216.21	"The main show courts, Centre Court and No. 1 Court, are used only for two weeks a year, during the Championships."	
+1C2-E-TEST-0099-216.21/001	the main show courts	
+1C2-E-TEST-0099-216.21/002	center court	DEP=1C2-E-TEST-0099-216.21001
+1C2-E-TEST-0099-216.21/003	and no 1 court	DEP=1C2-E-TEST-0099-216.21002
+1C2-E-TEST-0099-216.21/004	are used only two weeks a year	DEP=1C2-E-TEST-0099-216.21003
+1C2-E-TEST-0099-216.21/005	during the championships	DEP=1C2-E-TEST-0099-216.21004
+1C2-E-TEST-0099-216.22	"The remaining seventeen courts, however, are regularly used for other events hosted by the All England Lawn Tennis and Croquet Club. Wimbledon is the only Grand Slam event played on grass courts. At one time, all of the other Grand Slam events were played on grass."	
+1C2-E-TEST-0099-216.22/001	the remaining seventeen courts	
+1C2-E-TEST-0099-216.22/002	are regularly used	DEP=1C2-E-TEST-0099-216.22001
+1C2-E-TEST-0099-216.22/003	for other events hosted	DEP=1C2-E-TEST-0099-216.22002
+1C2-E-TEST-0099-216.22/004	by all england lawn tennis	DEP=1C2-E-TEST-0099-216.22003
+1C2-E-TEST-0099-216.22/005	and croquet club	DEP=1C2-E-TEST-0099-216.22004
+1C2-E-TEST-0099-216.22/006	wimbledon is the only grand slam event played	
+1C2-E-TEST-0099-216.22/007	on grass courts	DEP=1C2-E-TEST-0099-216.22006
+1C2-E-TEST-0099-216.22/008	at one time all	
+1C2-E-TEST-0099-216.22/009	all other grand slam events	DEP=1C2-E-TEST-0099-216.22008
+1C2-E-TEST-0099-216.22/010	are played	DEP=1C2-E-TEST-0099-216.22009
+1C2-E-TEST-0099-216.22/011	on grass	
+1C2-E-TEST-0099-216.26	"The main court, Centre Court, was opened in 1922 when the All England Lawn Tennis and Croquet Club moved from Worple Road to Church Road."	
+1C2-E-TEST-0099-216.26/001	the main court	
+1C2-E-TEST-0099-216.26/002	centre court	DEP=1C2-E-TEST-0099-216.26001
+1C2-E-TEST-0099-216.26/003	was opened in 1922	DEP=1C2-E-TEST-0099-216.26002
+1C2-E-TEST-0099-216.26/004	when the all england lawn tennis	DEP=1C2-E-TEST-0099-216.26003
+1C2-E-TEST-0099-216.26/005	and croquet club	DEP=1C2-E-TEST-0099-216.26004
+1C2-E-TEST-0099-216.26/006	moved from	DEP=1C2-E-TEST-0099-216.26005
+1C2-E-TEST-0099-216.26/007	worple road	DEP=1C2-E-TEST-0099-216.26006
+1C2-E-TEST-0099-216.26/008	to church road	DEP=1C2-E-TEST-0099-216.26007
+1C2-E-TEST-0099-216.27	"Due to possibility of rain during Wimbledon, a retractable roof is planned for the court; it is expected to be completed in 2009."	
+1C2-E-TEST-0099-216.27/001	due to possibility	
+1C2-E-TEST-0099-216.27/002	of rain during wimbledon	DEP=1C2-E-TEST-0099-216.27001
+1C2-E-TEST-0099-216.27/003	a retractable roof	DEP=1C2-E-TEST-0099-216.27002
+1C2-E-TEST-0099-216.27/004	is planned for the court	DEP=1C2-E-TEST-0099-216.27003
+1C2-E-TEST-0099-216.27/005	it is expected to be completed in 2009	DEP=1C2-E-TEST-0099-216.27004
+1C2-E-TEST-0099-270.23	It doesn't take long to get from the busy main road in Wimbledon to the much more peaceful backstreets of Wimbledon Village.	
+1C2-E-TEST-0099-270.23/001	It doesn't take long to get from the busy main road in wimbledon	
+1C2-E-TEST-0099-270.23/002	to the peaceful	DEP=1C2-E-TEST-0099-270.23001
+1C2-E-TEST-0099-270.23/003	backstreet	DEP=1C2-E-TEST-0099-270.23002
+1C2-E-TEST-0099-270.23/004	of wimbledon village	DEP=1C2-E-TEST-0099-270.23003
+1C2-E-TEST-0099-270.3	Becontree to Upminster Shoreditch to New Cross and New Cross Gate	
+1C2-E-TEST-0099-270.3/001	becontree	
+1C2-E-TEST-0099-270.3/002	to upminster shoreditch	DEP=1C2-E-TEST-0099-270.3001
+1C2-E-TEST-0099-270.3/003	to new cross	DEP=1C2-E-TEST-0099-270.3002
+1C2-E-TEST-0099-270.3/004	and new cross gate	DEP=1C2-E-TEST-0099-270.3003
+1C2-E-TEST-0099-270.32	"as part of the extension of the Metropolitan District Railway from Putney Bridge to Wimbledon, though the lines were actually built by the London and South Western Railway to connect this area to Clapham Junction."	
+1C2-E-TEST-0099-270.32/001	as part	
+1C2-E-TEST-0099-270.32/002	of the extension	DEP=1C2-E-TEST-0099-270.32001
+1C2-E-TEST-0099-270.32/003	the metropolitan district railway	DEP=1C2-E-TEST-0099-270.32002
+1C2-E-TEST-0099-270.32/004	from putney bridge to wimbledon	DEP=1C2-E-TEST-0099-270.32003
+1C2-E-TEST-0099-270.32/005	though the lines were actually built	DEP=1C2-E-TEST-0099-270.32004
+1C2-E-TEST-0099-270.32/006	by the london	DEP=1C2-E-TEST-0099-270.32005
+1C2-E-TEST-0099-270.32/007	and south western railway	DEP=1C2-E-TEST-0099-270.32006
+1C2-E-TEST-0099-270.32/008	to connect this area	DEP=1C2-E-TEST-0099-270.32007
+1C2-E-TEST-0099-270.32/009	to clapham junction	DEP=1C2-E-TEST-0099-270.32008
+1C2-E-TEST-0099-292.3	In 1877 on the area of the All England Croquet and Lawn Tennis Club the history of the most prestigious tennis tournament in the world began.	
+1C2-E-TEST-0099-292.3/001	in 1877	
+1C2-E-TEST-0099-292.3/002	the area	DEP=1C2-E-TEST-0099-292.3001
+1C2-E-TEST-0099-292.3/003	of the all england croquet	DEP=1C2-E-TEST-0099-292.3002
+1C2-E-TEST-0099-292.3/004	and lawn tennis club	DEP=1C2-E-TEST-0099-292.3003
+1C2-E-TEST-0099-292.3/005	the history	DEP=1C2-E-TEST-0099-292.3004
+1C2-E-TEST-0099-292.3/006	of the most prestigious tennis tournament	DEP=1C2-E-TEST-0099-292.3005
+1C2-E-TEST-0099-292.3/007	in the world	DEP=1C2-E-TEST-0099-292.3006
+1C2-E-TEST-0099-292.3/008	began	DEP=1C2-E-TEST-0099-292.3007
+1C2-E-TEST-0099-292.8	In 1922 new ground in Church Road was opened by King George V. New Centre Court had a capacity of 14 thousand people.	
+1C2-E-TEST-0099-292.8/001	1922	
+1C2-E-TEST-0099-292.8/002	new ground	DEP=1C2-E-TEST-0099-292.8001
+1C2-E-TEST-0099-292.8/003	in church road	DEP=1C2-E-TEST-0099-292.8002
+1C2-E-TEST-0099-292.8/004	was opened	DEP=1C2-E-TEST-0099-292.8003
+1C2-E-TEST-0099-292.8/005	by king george v	DEP=1C2-E-TEST-0099-292.8004
+1C2-E-TEST-0099-292.8/006	new centre court	DEP=1C2-E-TEST-0099-292.8005
+1C2-E-TEST-0099-292.8/007	had a capacity 14 thousand people	DEP=1C2-E-TEST-0099-292.8006
+1C2-E-TEST-0099-300.10	London Wimbledon is the most followed tennis show in the Grand Slam calendar; with TV viewers of countless millions and more than half a million spectators attending the All England lawn tennis and croquet Club to catch the action live.	
+1C2-E-TEST-0099-300.10/001	london wimbledon	
+1C2-E-TEST-0099-300.10/002	is the most followed tennis show	DEP=1C2-E-TEST-0099-300.10001
+1C2-E-TEST-0099-300.10/003	in the grand slam calendar	DEP=1C2-E-TEST-0099-300.10002
+1C2-E-TEST-0099-300.10/004	with tv viewers of	DEP=1C2-E-TEST-0099-300.10003
+1C2-E-TEST-0099-300.10/005	countless millions	DEP=1C2-E-TEST-0099-300.10004
+1C2-E-TEST-0099-300.10/006	and more than half million spectators	DEP=1C2-E-TEST-0099-300.10005
+1C2-E-TEST-0099-300.10/007	attending	DEP=1C2-E-TEST-0099-300.10006
+1C2-E-TEST-0099-300.10/008	the all england lawn tennis	DEP=1C2-E-TEST-0099-300.10006
+1C2-E-TEST-0099-300.10/009	and croquet club	DEP=1C2-E-TEST-0099-300.10008
+1C2-E-TEST-0099-300.10/010	to catch the action live	DEP=1C2-E-TEST-0099-300.10006
+1C2-E-TEST-0099-300.12	"For more information on Wimbledon Lawn Tennis Championship 2012 in London, please phone: +44 (0)20 8944 1066"	
+1C2-E-TEST-0099-300.12/001	for more information	
+1C2-E-TEST-0099-300.12/002	on wimbledon lawn tennis championship 2012 london	DEP=1C2-E-TEST-0099-300.12001
+1C2-E-TEST-0099-300.12/003	please phone	DEP=1C2-E-TEST-0099-300.12002
+1C2-E-TEST-0099-300.12/004	+440(0)20 8944 1066	DEP=1C2-E-TEST-0099-300.12003
+1C2-E-TEST-0099-300.2	"The Wimbledon Lawn Tennis Championship London features tennis stars like Federer, etc"	
+1C2-E-TEST-0099-300.2/001	the wimbledon lawn tennis championship london	
+1C2-E-TEST-0099-300.2/002	features tennis stars	DEP=1C2-E-TEST-0099-300.2001
+1C2-E-TEST-0099-300.2/003	like federer	DEP=1C2-E-TEST-0099-300.2002
+1C2-E-TEST-0099-300.8	Wimbledon Lawn Tennis Championship is the oldest tennis tournament in the world and the world's biggest-running and most celebrated tennis tournament.	
+1C2-E-TEST-0099-300.8/001	wimbledon lawn tennis championship	
+1C2-E-TEST-0099-300.8/002	is the oldest tennis tournament	DEP=1C2-E-TEST-0099-300.8001
+1C2-E-TEST-0099-300.8/003	in the world	DEP=1C2-E-TEST-0099-300.8002
+1C2-E-TEST-0099-300.8/004	and the world's biggest-running	DEP=1C2-E-TEST-0099-300.8003
+1C2-E-TEST-0099-300.8/005	and most celebrated	DEP=1C2-E-TEST-0099-300.8004
+1C2-E-TEST-0099-300.8/006	tennis tournament	DEP=1C2-E-TEST-0099-300.8005
+1C2-E-TEST-0099-300.9	"Considered the most important competition in the professional tennis calendar, Wimbledon Lawn Tennis Championship London is fiercely fought."	
+1C2-E-TEST-0099-300.9/001	considered the most important competition	
+1C2-E-TEST-0099-300.9/002	in the professional tennis calendar	DEP=1C2-E-TEST-0099-300.9001
+1C2-E-TEST-0099-300.9/003	wimbledon lawn tennis championship london	DEP=1C2-E-TEST-0099-300.9002
+1C2-E-TEST-0099-300.9/004	is fiercely fought	DEP=1C2-E-TEST-0099-300.9003
+1C2-E-TEST-0099-69.14	"You can take the 131 from Wimbledon Station or Kingston Town Centre, which stops right outside the ground."	
+1C2-E-TEST-0099-69.14/001	you can take the 131	
+1C2-E-TEST-0099-69.14/002	from wimbledon station	DEP=1C2-E-TEST-0099-69.14001
+1C2-E-TEST-0099-69.14/003	or kingston town centre	DEP=1C2-E-TEST-0099-69.14002
+1C2-E-TEST-0099-69.14/004	which stops right outside	DEP=1C2-E-TEST-0099-69.14003
+1C2-E-TEST-0099-69.14/005	the ground	DEP=1C2-E-TEST-0099-69.14004
+1C2-E-TEST-0099-69.6	Trains run from Waterloo every 15 minutes via Clapham Junction and Wimbledon (terminating at Shepperton or Strawberry Hill).	
+1C2-E-TEST-0099-69.6/001	trains run from	
+1C2-E-TEST-0099-69.6/002	waterloo	DEP=1C2-E-TEST-0099-69.6001
+1C2-E-TEST-0099-69.6/003	every 15 minutes	DEP=1C2-E-TEST-0099-69.6002
+1C2-E-TEST-0099-69.6/004	via clapham junction and wimbledon	DEP=1C2-E-TEST-0099-69.6003
+1C2-E-TEST-0099-69.6/005	terminating	DEP=1C2-E-TEST-0099-69.6004
+1C2-E-TEST-0099-69.6/006	at shepperton	DEP=1C2-E-TEST-0099-69.6005
+1C2-E-TEST-0099-69.6/007	or strawberry hill	DEP=1C2-E-TEST-0099-69.6006
+1C2-E-TEST-0099-79.12	Wimbledon's lightweight fabric retractable roof is set to retain the open-to-air stadium and focus spectators' attention on the action.	
+1C2-E-TEST-0099-79.12/001	wimbledon's lightweight fabric retractable roof	
+1C2-E-TEST-0099-79.12/002	is set to retain	DEP=1C2-E-TEST-0099-79.12001
+1C2-E-TEST-0099-79.12/003	the open-to-air stadium	DEP=1C2-E-TEST-0099-79.12002
+1C2-E-TEST-0099-79.12/004	and focus spectators attention	DEP=1C2-E-TEST-0099-79.12003
+1C2-E-TEST-0099-79.12/005	on the action	DEP=1C2-E-TEST-0099-79.12004
+1C2-E-TEST-0099-79.4	"On 17 May 2009, Centre Court at the All England Lawn Tennis Club (AELTC) in Wimbledon tested the functionality of its new retractable roof with upgraded 15,000-seat capacity."	
+1C2-E-TEST-0099-79.4/001	on 17 may 2009	
+1C2-E-TEST-0099-79.4/002	centre court	DEP=1C2-E-TEST-0099-79.4001
+1C2-E-TEST-0099-79.4/003	at the all england lawn tennis club	DEP=1C2-E-TEST-0099-79.4002
+1C2-E-TEST-0099-79.4/004	aeltc	DEP=1C2-E-TEST-0099-79.4003
+1C2-E-TEST-0099-79.4/005	in wimbledon tested the functionality	DEP=1C2-E-TEST-0099-79.4004
+1C2-E-TEST-0099-79.4/006	of its new retractable roof	DEP=1C2-E-TEST-0099-79.4005
+1C2-E-TEST-0099-79.4/007	with upgraded 15000-seat capacity	DEP=1C2-E-TEST-0099-79.4006
