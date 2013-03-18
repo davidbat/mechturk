@@ -1,0 +1,1 @@
+for i in `cat /tmp/t`; do echo $i;diff -bB *$i* ../../../../research/1CLICK/data/vs_manual/*$i*; read c; if [ $c = "y" ];then cp *$i* ../../../../research/1CLICK/data/vs_manual/; fi; done
