@@ -52,7 +52,7 @@
 1C2-E-TEST-0144-18.48/001	new project developed	DEP=1C2-E-TEST-0144-18.48004
 1C2-E-TEST-0144-18.48/004	energy generation from oil gas waste fluids	
 1C2-E-TEST-0144-18.73	A geothermal heat pump system consists of pipes buried in the shallow ground near the building.	
-1C2-E-TEST-0144-18.73/001	heat pump system	DEP=1C2-E-TEST-0144-18.73002
+1C2-E-TEST-0144-18.73/001	heat pump system	
 1C2-E-TEST-0144-18.73/002	pipes buried shallow ground	DEP=1C2-E-TEST-0144-18.73001
 1C2-E-TEST-0144-18.73/005	near buildings	DEP=1C2-E-TEST-0144-18.73002
 1C2-E-TEST-0144-18.92	A geothermal power plant (photo) uses geothermal steam or heat to drive turbine-generators to produce electricity.	
@@ -90,7 +90,7 @@
 1C2-E-TEST-0144-243.23/005	ground heat exchanger	DEP=1C2-E-TEST-0144-243.23003
 1C2-E-TEST-0144-243.23/006	geothermal heat pump	
 1C2-E-TEST-0144-243.23/007	water heat pump	
-1C2-E-TEST-0144-243.23/009	heat, cool, supply hot water	DEP=1C2-E-TEST-0144-243.23006 DEP=1C2-E-TEST-0144-243.23007
+1C2-E-TEST-0144-243.23/009	"heat, cool, supply hot water"	DEP=1C2-E-TEST-0144-243.23006 DEP=1C2-E-TEST-0144-243.23007
 1C2-E-TEST-0144-252.31	"As with all renewable energy sources, the energy is produced where it is found, regardless of whether it is used for generating electricity or direct applications."	
 1C2-E-TEST-0144-252.31/001	any renewable sources	DEP=1C2-E-TEST-0144-252.31002
 1C2-E-TEST-0144-252.31/002	energy produce where it is found	

@@ -27,7 +27,7 @@
 1C2-E-TEST-0010-112.20/002	from third album	DEP=1C2-E-TEST-0010-112.20001
 1C2-E-TEST-0010-112.20/003	it'samerica	DEP=1C2-E-TEST-0010-112.20002
 1C2-E-TEST-0010-112.20/004	on cma awards show	DEP=1C2-E-TEST-0010-112.20003
-1C2-E-TEST-0010-112.20/005	november 2008	DEP=1C2-E-TEST-0010-112.20004
+1C2-E-TEST-0010-112.20/005	8-Nov	DEP=1C2-E-TEST-0010-112.20004
 1C2-E-TEST-0010-112.5	"A third couple from Cumberland Gap, Tennesse, adopted him as well and, even though his ailments worsened, refused to give him up."	
 1C2-E-TEST-0010-112.5/001	third couple	
 1C2-E-TEST-0010-112.5/002	from cumberland gap	DEP=1C2-E-TEST-0010-112.5001
@@ -54,8 +54,8 @@
 1C2-E-TEST-0010-120.4/005	billboard country chart	DEP=1C2-E-TEST-0010-120.4004
 1C2-E-TEST-0010-15.2	"Rodney Atkins, born March 28, 1969 in Knoxville, Tennessee, is an American country singer."	
 1C2-E-TEST-0010-15.2/001	Rodney Atkins	
-1C2-E-TEST-0010-15.2/002	born March 28, 1969	DEP=1C2-E-TEST-0010-15.2001
-1C2-E-TEST-0010-15.2/003	in Knoxville, Tennessee	DEP=1C2-E-TEST-0010-15.2002
+1C2-E-TEST-0010-15.2/002	"born March 28, 1969"	DEP=1C2-E-TEST-0010-15.2001
+1C2-E-TEST-0010-15.2/003	"in Knoxville, Tennessee"	DEP=1C2-E-TEST-0010-15.2002
 1C2-E-TEST-0010-15.2/004	is an American country singer	DEP=1C2-E-TEST-0010-15.2001
 1C2-E-TEST-0010-15.6	"His adoptive mother had been raised in a coal mining family near a tannery camp, and his dad survived an upbringing marked by poverty and episodes of abuse."	
 1C2-E-TEST-0010-15.6/001	adoptive mother	
@@ -93,14 +93,14 @@
 1C2-E-TEST-0010-17.87/007	greenville Tn	DEP=1C2-E-TEST-0010-17.87006
 1C2-E-TEST-0010-17.87/008	where he was adopted	DEP=1C2-E-TEST-0010-17.87007
 1C2-E-TEST-0010-17.87/009	as a small baby	DEP=1C2-E-TEST-0010-17.87008
-1C2-E-TEST-0010-17.87/010	as well, for visits	DEP=1C2-E-TEST-0010-17.87009
+1C2-E-TEST-0010-17.87/010	"as well, for visits"	DEP=1C2-E-TEST-0010-17.87009
 1C2-E-TEST-0010-184.4	"Signed to Curb Records in 1996, he charted his first single on the Billboard country chart in 1997, but did not release an album until 2003's Honesty, which included the number 4 hit ""Honesty (Write Me a List)""."	
 1C2-E-TEST-0010-184.4/001	signed	
 1C2-E-TEST-0010-184.4/002	to curb records	DEP=1C2-E-TEST-0010-184.4001
 1C2-E-TEST-0010-184.4/003	1996	DEP=1C2-E-TEST-0010-184.4002
-1C2-E-TEST-0010-184.4/004	charted first single	DEP=1C2-E-TEST-0010-184.4003
-1C2-E-TEST-0010-184.4/005	on billboard country chart	DEP=1C2-E-TEST-0010-184.4004
-1C2-E-TEST-0010-184.4/006	in 1997	DEP=1C2-E-TEST-0010-184.4006
+1C2-E-TEST-0010-184.4/004	charted first single	DEP=1C2-E-TEST-0010-184.4005
+1C2-E-TEST-0010-184.4/005	on billboard country chart	
+1C2-E-TEST-0010-184.4/006	in 1997	DEP=1C2-E-TEST-0010-184.4005
 1C2-E-TEST-0010-184.4/007	but did not release album	DEP=1C2-E-TEST-0010-184.4006
 1C2-E-TEST-0010-184.4/008	until 2003	DEP=1C2-E-TEST-0010-184.4007
 1C2-E-TEST-0010-184.4/009	honesty	DEP=1C2-E-TEST-0010-184.4007
@@ -126,7 +126,7 @@
 1C2-E-TEST-0010-198.11/008	peaked at #12	DEP=1C2-E-TEST-0010-198.11007
 1C2-E-TEST-0010-198.11/009	41.a of america	DEP=1C2-E-TEST-0010-198.11008
 1C2-E-TEST-0010-198.11/010	released	DEP=1C2-E-TEST-0010-198.11009
-1C2-E-TEST-0010-198.11/011	november 2008	DEP=1C2-E-TEST-0010-198.11010
+1C2-E-TEST-0010-198.11/011	8-Nov	DEP=1C2-E-TEST-0010-198.11010
 1C2-E-TEST-0010-198.11/012	first version	DEP=1C2-E-TEST-0010-198.11011
 1C2-E-TEST-0010-198.11/013	of album	DEP=1C2-E-TEST-0010-198.11012
 1C2-E-TEST-0010-198.11/014	and song america	DEP=1C2-E-TEST-0010-198.11013

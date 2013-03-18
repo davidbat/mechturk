@@ -71,9 +71,9 @@
 1C2-E-TEST-0191-191.75/001	fission reactions would also produce more neutrons	
 1C2-E-TEST-0191-191.75/002	thereby assisting further fission reactions in the blanket.	DEP=1C2-E-TEST-0191-191.75001
 1C2-E-TEST-0191-215.23	"Although two to three neutrons are produced in the fission reaction for every nucleus that undergoes fission, not all of these neutrons are available for causing further fissions."	
-1C2-E-TEST-0191-215.23/001	Although two to three neutrons are produced in the fission reaction	
-1C2-E-TEST-0191-215.23/002	for every nucleus that undergoes fission	DEP=1C2-E-TEST-0191-215.23002
-1C2-E-TEST-0191-215.23/003	not all of these neutrons are available for causing further fissions.	DEP=1C2-E-TEST-0191-215.23002
+1C2-E-TEST-0191-215.23/001	Although two to three neutrons are produced in the fission reaction	DEP=1C2-E-TEST-0191-215.23003
+1C2-E-TEST-0191-215.23/002	for every nucleus that undergoes fission	DEP=1C2-E-TEST-0191-215.23001
+1C2-E-TEST-0191-215.23/003	not all of these neutrons are available for causing further fissions.	
 1C2-E-TEST-0191-215.56	"It is necessary, therefore, that before detonation, a nuclear weapon should contain no piece of fissionable material that is as large as the critical mass for the given conditions."	
 1C2-E-TEST-0191-215.56/001	before detonation	DEP=1C2-E-TEST-0191-215.56002
 1C2-E-TEST-0191-215.56/002	a nuclear weapon should contain no piece of fissionable material	

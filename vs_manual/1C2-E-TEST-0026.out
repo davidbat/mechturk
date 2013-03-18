@@ -71,8 +71,8 @@
 1C2-E-TEST-0026-2.16/002	spin city	DEP=1C2-E-TEST-0026-2.16002
 1C2-E-TEST-0026-2.16/003	law order	DEP=1C2-E-TEST-0026-2.16002
 1C2-E-TEST-0026-2.16/004	late 1990s securing roles two short-lived telivision series	
-1C2-E-TEST-0026-2.16/005	significant others	DEP=1C2-E-TEST-0026-2.16005
-1C2-E-TEST-0026-2.16/006	time of your life	DEP=1C2-E-TEST-0026-2.16005
+1C2-E-TEST-0026-2.16/005	significant others	DEP=1C2-E-TEST-0026-2.16004
+1C2-E-TEST-0026-2.16/006	time of your life	DEP=1C2-E-TEST-0026-2.16004
 1C2-E-TEST-0026-2.18	"In 2001, she appeared as the supporting character of a nurse in the big-budget epic Pearl Harbor , starring her future husband Ben Affleck."	
 1C2-E-TEST-0026-2.18/001	2001	DEP=1C2-E-TEST-0026-2.18002
 1C2-E-TEST-0026-2.18/002	appeared as supporting character of nurse	
@@ -157,7 +157,7 @@
 1C2-E-TEST-0026-4.19/001	received four consecutive emmy award nominations	
 1C2-E-TEST-0026-4.19/002	for outstanding lead actress in drama series	DEP=1C2-E-TEST-0026-4.19001
 1C2-E-TEST-0026-4.21	"In March 2005, Garner directed the fourth-season Alias episode, "" In Dreams "", which aired in May."	
-1C2-E-TEST-0026-4.21/001	march 2005	DEP=1C2-E-TEST-0026-4.21002
+1C2-E-TEST-0026-4.21/001	Mar-05	DEP=1C2-E-TEST-0026-4.21002
 1C2-E-TEST-0026-4.21/002	directed fourth season alias episode	
 1C2-E-TEST-0026-4.21/003	in dreams	DEP=1C2-E-TEST-0026-4.21002
 1C2-E-TEST-0026-4.21/004	aired in may	DEP=1C2-E-TEST-0026-4.21002

@@ -26,9 +26,9 @@
 1C2-E-TEST-0202-119.8	This strengthened monetary policy co-ordination and prepared for the establishment of the European System of Central Banks (ESCB).	
 1C2-E-TEST-0202-119.8/001	thi strengthened monetary policy co-ordination	
 1C2-E-TEST-0202-119.8/002	and prepared for establishment	DEP=1C2-E-TEST-0202-119.8001
-1C2-E-TEST-0202-119.8/003	of european system central banks	
-DEP=1C2-E-TEST-0202-119.8002		
-1C2-E-TEST-0202-119.9	The final stage started in January 1999 with the irrevocable fixing of exchange rates of the old currencies to the euro, the transfer of monetary policy to the European Central Bank and the introduction of the euro."	
+1C2-E-TEST-0202-119.8/003	of european system central banks	DEP=1C2-E-TEST-0202-119.8002
+		
+1C2-E-TEST-0202-119.9	"The final stage started in January 1999 with the irrevocable fixing of exchange rates of the old currencies to the euro, the transfer of monetary policy to the European Central Bank and the introduction of the euro."""	
 1C2-E-TEST-0202-119.9/001	final stage	
 1C2-E-TEST-0202-119.9/002	started january 1999	DEP=1C2-E-TEST-0202-119.9001
 1C2-E-TEST-0202-119.9/003	with irrevocable fixing exchange rate	DEP=1C2-E-TEST-0202-119.9002
@@ -50,11 +50,10 @@ DEP=1C2-E-TEST-0202-119.8002
 1C2-E-TEST-0202-119.98/007	whilst imports	DEP=1C2-E-TEST-0202-119.98006
 1C2-E-TEST-0202-119.98/008	would appear cheapear	DEP=1C2-E-TEST-0202-119.98007
 1C2-E-TEST-0202-119.99	The disruption to our competitive position could have long-term effects as businesses would have to find ways of regaining the competitiveness that they had lost.	
-1C2-E-TEST-0202-119.99/001	the disruption tocompetitve position	DEP=1C2-E-TEST-0202-119.99002
-1C2-E-TEST-0202-119.99/002	would have long-term effects	DEP=1C2-E-TEST-0202-119.99001
-1C2-E-TEST-0202-119.99/003	as businesses would have to	DEP=1C2-E-TEST-0202-119.99002
-1C2-E-TEST-0202-119.99/004	find ways of regaining competitiveness that they had lost	DEP=1C2-E-TEST-0202-119.99003
-1C2-E-TEST-0202-119.99/005	regaining competitiveness lost	
+1C2-E-TEST-0202-119.99/001	the disruption to competitve position	DEP=1C2-E-TEST-0202-119.99002
+1C2-E-TEST-0202-119.99/002	would have long-term effects	
+1C2-E-TEST-0202-119.99/003	as businesses would have to	DEP=1C2-E-TEST-0202-119.99003
+1C2-E-TEST-0202-119.99/004	find ways of regaining competitiveness that they had lost	
 1C2-E-TEST-0202-131.100	"Rising economic powers like China will have their own agendas, virtually assuring that any place at the table we would be given in exchange for abdicating our sovereignty over accounting standards used by US companies would be temporary."	
 1C2-E-TEST-0202-131.100/001	regaining rising economic powers	
 1C2-E-TEST-0202-131.100/002	like china	DEP=1C2-E-TEST-0202-131.100001
@@ -110,7 +109,7 @@ DEP=1C2-E-TEST-0202-119.8002
 1C2-E-TEST-0202-272.10/001	another option to stimulate growth	
 1C2-E-TEST-0202-272.10/002	for the few other countries	DEP=1C2-E-TEST-0202-272.10001
 1C2-E-TEST-0202-272.10/003	that markets are still willing	DEP=1C2-E-TEST-0202-272.10002
-1C2-E-TEST-0202-272.10/004	to lend to, to borrow and spend more	DEP=1C2-E-TEST-0202-272.10003
+1C2-E-TEST-0202-272.10/004	"to lend to, to borrow and spend more"	DEP=1C2-E-TEST-0202-272.10003
 1C2-E-TEST-0202-272.10/005	offsetting speding cuts	DEP=1C2-E-TEST-0202-272.10004
 1C2-E-TEST-0202-272.10/006	in southern europe	DEP=1C2-E-TEST-0202-272.10005
 1C2-E-TEST-0202-272.1013	"If national currencies still existed, countries like Greece and Portugal could resort to a proven means of reducing their lack of competitiveness."	
@@ -118,8 +117,8 @@ DEP=1C2-E-TEST-0202-119.8002
 1C2-E-TEST-0202-272.1013/002	countries like	DEP=1C2-E-TEST-0202-272.1013001
 1C2-E-TEST-0202-272.1013/003	greece and portugal	DEP=1C2-E-TEST-0202-272.1013002
 1C2-E-TEST-0202-272.1013/004	could resort to a proven means	DEP=1C2-E-TEST-0202-272.1013003
-1C2-E-TEST-0202-272.1013/005	of reducing lack competitiveness	
-DEP=1C2-E-TEST-0202-272.1013004		
+1C2-E-TEST-0202-272.1013/005	of reducing lack competitiveness	DEP=1C2-E-TEST-0202-272.1013004
+		
 1C2-E-TEST-0202-272.1212	"Banks, in turn, would come under pressure, both in Greece and in the rest of the euro zone."	
 1C2-E-TEST-0202-272.1212/001	banks in turn	
 1C2-E-TEST-0202-272.1212/002	would come under pressure	DEP=1C2-E-TEST-0202-272.1212001
@@ -131,8 +130,7 @@ DEP=1C2-E-TEST-0202-272.1013004
 1C2-E-TEST-0202-272.23/003	had lower debt levels	DEP=1C2-E-TEST-0202-272.23002
 1C2-E-TEST-0202-272.23/004	than germany	DEP=1C2-E-TEST-0202-272.23003
 1C2-E-TEST-0202-272.23/005	and spent less	DEP=1C2-E-TEST-0202-272.23004
-1C2-E-TEST-0202-272.23/006	than it earned taxes	
-DEP=1C2-E-TEST-0202-272.23005		
+1C2-E-TEST-0202-272.23/006	than it earned taxes	DEP=1C2-E-TEST-0202-272.23005
 1C2-E-TEST-0202-272.251	Many European banks will also be offered state money to shore up their balance sheets.	
 1C2-E-TEST-0202-272.251/001	many european banks	
 1C2-E-TEST-0202-272.251/002	will also be offered state money	DEP=1C2-E-TEST-0202-272.251001
@@ -140,16 +138,14 @@ DEP=1C2-E-TEST-0202-272.23005
 1C2-E-TEST-0202-272.252	"However, there are concerns that the scheme will not go far enough and that the European Central Bank will not pay a central role."	
 1C2-E-TEST-0202-272.252/001	there are concerns	
 1C2-E-TEST-0202-272.252/002	that the scheme will not go far enough	DEP=1C2-E-TEST-0202-272.252001
-1C2-E-TEST-0202-272.252/003	and that the european central bank	
-DEP=1C2-E-TEST-0202-272.252002		
+1C2-E-TEST-0202-272.252/003	and that the european central bank	DEP=1C2-E-TEST-0202-272.252002
 1C2-E-TEST-0202-272.252/004	will not pay	DEP=1C2-E-TEST-0202-272.252003
 1C2-E-TEST-0202-272.252/005	a central role	DEP=1C2-E-TEST-0202-272.252004
 1C2-E-TEST-0202-272.368	"They were not merely right about the single currency, the greatest economic issue of our age Ã¢ÂÂ they were right for the right reasons."	
 1C2-E-TEST-0202-272.368/001	they were not merely right	
 1C2-E-TEST-0202-272.368/002	about the single currency	DEP=1C2-E-TEST-0202-272.368001
 1C2-E-TEST-0202-272.368/003	the greatest economic issue of our age	DEP=1C2-E-TEST-0202-272.368002
-1C2-E-TEST-0202-272.368/004	thwy were righ for the right reasons	
-DEP=1C2-E-TEST-0202-272.368003		
+1C2-E-TEST-0202-272.368/004	thwy were righ for the right reasons	DEP=1C2-E-TEST-0202-272.368003
 1C2-E-TEST-0202-272.426	"The corporation's twisted coverage of the EU is a serious problem, because the economic collapse of the eurozone means a new treaty may be needed very soon."	
 1C2-E-TEST-0202-272.426/001	the corporation's	
 1C2-E-TEST-0202-272.426/002	twised coverage	DEP=1C2-E-TEST-0202-272.426001
@@ -213,8 +209,7 @@ DEP=1C2-E-TEST-0202-272.368003
 1C2-E-TEST-0202-98.20/001	under a single currency	
 1C2-E-TEST-0202-98.20/002	all countriesthat adopted euro	DEP=1C2-E-TEST-0202-98.20001
 1C2-E-TEST-0202-98.20/003	would have to give up	DEP=1C2-E-TEST-0202-98.20002
-1C2-E-TEST-0202-98.20/004	their own monetary sovereignty	
-DEP=1C2-E-TEST-0202-98.20003		
+1C2-E-TEST-0202-98.20/004	their own monetary sovereignty	DEP=1C2-E-TEST-0202-98.20003
 1C2-E-TEST-0202-98.29	Everybody was hopping on board and the euro started to look like an unbelievable success.	
 1C2-E-TEST-0202-98.29/001	everybody was hopping board	
 1C2-E-TEST-0202-98.29/002	and euro started to look like an unbelievable success	DEP=1C2-E-TEST-0202-98.29001

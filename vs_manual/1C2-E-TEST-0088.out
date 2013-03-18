@@ -1,157 +1,157 @@
-1C2-E-TEST-0088-118.12	Disneyland Paris (Eurodisney) is located 30 km east of Paris on the A4 freeway from Paris to Germany.
-1C2-E-TEST-0088-118.12/001	Disneyland Paris (Eurodisney) is located 30 km east of Paris 
+1C2-E-TEST-0088-118.12	Disneyland Paris (Eurodisney) is located 30 km east of Paris on the A4 freeway from Paris to Germany.	
+1C2-E-TEST-0088-118.12/001	Disneyland Paris (Eurodisney) is located 30 km east of Paris 	
 1C2-E-TEST-0088-118.12/002	located on the A4 freeway from Paris to Germany.	DEP=1C2-E-TEST-0088-118.12001
-1C2-E-TEST-0088-118.20	"For transport from Paris to Disneyland Paris, board RER A metro in Paris towards Marne La Vallee (don't board a RER A metro towards Boissy Saint Leger)."
-1C2-E-TEST-0088-118.20/001	"For transport from Paris to Disneyland Paris, board RER A metro in Paris"
+1C2-E-TEST-0088-118.20	"For transport from Paris to Disneyland Paris, board RER A metro in Paris towards Marne La Vallee (don't board a RER A metro towards Boissy Saint Leger)."	
+1C2-E-TEST-0088-118.20/001	"For transport from Paris to Disneyland Paris, board RER A metro in Paris"	
 1C2-E-TEST-0088-118.20/002	don't board a RER A metro towards Boissy Saint Leger	DEP=1C2-E-TEST-0088-118.20001
 1C2-E-TEST-0088-118.20/003	board a metrio towards Marne La Vallee 	DEP=1C2-E-TEST-0088-118.20001
-1C2-E-TEST-0088-118.27	Disneyland Paris has its own train station called Marne La Vallee Chessy.
-1C2-E-TEST-0088-118.27/001	Disneyland Paris has its own train station
+1C2-E-TEST-0088-118.27	Disneyland Paris has its own train station called Marne La Vallee Chessy.	
+1C2-E-TEST-0088-118.27/001	Disneyland Paris has its own train station	
 1C2-E-TEST-0088-118.27/002	Disneyland station is called Marne La Vallee Chessy	DEP=1C2-E-TEST-0088-118.27001
-1C2-E-TEST-0088-118.30	Buy train tickets online .
-1C2-E-TEST-0088-118.35	"The second park at Disneyland Paris, Walt Disney Studios, is also worth your time."
-1C2-E-TEST-0088-118.35/001	second park at Disneyland Paris Walt Disney Studios
-1C2-E-TEST-0088-118.37	"A whole day is a good compromise, though you could stay in this region of France for over a week without running out of things to do."
+1C2-E-TEST-0088-118.30	Buy train tickets online .	
+1C2-E-TEST-0088-118.35	"The second park at Disneyland Paris, Walt Disney Studios, is also worth your time."	
+1C2-E-TEST-0088-118.35/001	second park at Disneyland Paris Walt Disney Studios	
+1C2-E-TEST-0088-118.37	"A whole day is a good compromise, though you could stay in this region of France for over a week without running out of things to do."	
 1C2-E-TEST-0088-118.37/001	A whole day is a good compromise	DEP=1C2-E-TEST-0088-118.37002
-1C2-E-TEST-0088-118.37/002	you could stay in this region of France for over a week without running out of things to do
-1C2-E-TEST-0088-118.38	"As an alternative to Disneyland Paris hotels , you can book a timeshare rental for a week at MarriottsVillageD'IleDeFrance ."
-1C2-E-TEST-0088-118.38/001	"MarriottsVillageD'IleDeFrance an alternative to Disneyland Paris hotels ,"
+1C2-E-TEST-0088-118.37/002	you could stay in this region of France for over a week without running out of things to do	
+1C2-E-TEST-0088-118.38	"As an alternative to Disneyland Paris hotels , you can book a timeshare rental for a week at MarriottsVillageD'IleDeFrance ."	
+1C2-E-TEST-0088-118.38/001	"MarriottsVillageD'IleDeFrance an alternative to Disneyland Paris hotels ,"	
 1C2-E-TEST-0088-118.38/002	you can book a timeshare rental for a week at MarriottsVillageD'IleDeFrance .	DEP=1C2-E-TEST-0088-118.38001
-1C2-E-TEST-0088-118.39	"If you are in the US, try Disneyland in California or Disney World Orlando vacation packages if your destination is Florida."
-1C2-E-TEST-0088-118.39/001	If you are in the US try Disneyland in California 
-1C2-E-TEST-0088-118.39/002	if your destination is florida try Disney World Orlando vacation packages
-1C2-E-TEST-0088-118.4	Disneyland Paris is a must for children and entertains all ages.
-1C2-E-TEST-0088-118.4/001	Disneyland Paris is a must for children
+1C2-E-TEST-0088-118.39	"If you are in the US, try Disneyland in California or Disney World Orlando vacation packages if your destination is Florida."	
+1C2-E-TEST-0088-118.39/001	If you are in the US try Disneyland in California 	
+1C2-E-TEST-0088-118.39/002	if your destination is florida try Disney World Orlando vacation packages	
+1C2-E-TEST-0088-118.4	Disneyland Paris is a must for children and entertains all ages.	
+1C2-E-TEST-0088-118.4/001	Disneyland Paris is a must for children	
 1C2-E-TEST-0088-118.4/002	entertains all ages	DEP=1C2-E-TEST-0088-118.4001
-1C2-E-TEST-0088-118.42	Disneyland Paris tickets cost 61 euro / day per adult and 55 euro / day for children aged 3 to 11.
-1C2-E-TEST-0088-118.42/001	Disneyland Paris tickets cost 61 euro day per adult
-1C2-E-TEST-0088-118.42/002	Disneyland Paris tickets cost 55 euro day for children aged 3 to 11
-1C2-E-TEST-0088-2.194	[25] Arriving guests were transported to the Disneyland Hotel via tram .
-1C2-E-TEST-0088-2.194/001	Arriving guests were transported to the Disneyland Hotel via tram .
-1C2-E-TEST-0088-2.35	"Attractions include opening day's Jungle Cruise , the ""Temple of the Forbidden Eye"" in Indiana Jones Adventure , and Tarzan's Treehouse , which is a conversion of the earlier Swiss Family Robinson Tree House from the Walt Disney film, Swiss Family Robinson ."
-1C2-E-TEST-0088-2.35/001	Attractions include opening day's Jungle Cruise
-1C2-E-TEST-0088-2.35/002	Attractions include Tarzan's Treehouse
+1C2-E-TEST-0088-118.42	Disneyland Paris tickets cost 61 euro / day per adult and 55 euro / day for children aged 3 to 11.	
+1C2-E-TEST-0088-118.42/001	Disneyland Paris tickets cost 61 euro day per adult	
+1C2-E-TEST-0088-118.42/002	Disneyland Paris tickets cost 55 euro day for children aged 3 to 11	
+1C2-E-TEST-0088-2.194	[25] Arriving guests were transported to the Disneyland Hotel via tram .	
+1C2-E-TEST-0088-2.194/001	Arriving guests were transported to the Disneyland Hotel via tram .	
+1C2-E-TEST-0088-2.35	"Attractions include opening day's Jungle Cruise , the ""Temple of the Forbidden Eye"" in Indiana Jones Adventure , and Tarzan's Treehouse , which is a conversion of the earlier Swiss Family Robinson Tree House from the Walt Disney film, Swiss Family Robinson ."	
+1C2-E-TEST-0088-2.35/001	Attractions include opening day's Jungle Cruise	
+1C2-E-TEST-0088-2.35/002	Attractions include Tarzan's Treehouse	
 1C2-E-TEST-0088-2.35/003	"conversion of the earlier Swiss Family Robinson Tree House from the Walt Disney film, Swiss Family Robinson"	DEP=1C2-E-TEST-0088-2.35002
-1C2-E-TEST-0088-2.35/004	"Attractions include the ""Temple of the Forbidden Eye"" in Indiana Jones Adventure "
-1C2-E-TEST-0088-2.36	"Walt Disney's Enchanted Tiki Room which is located at the entrance to Adventureland is the first feature attraction to employ Audio-Animatronics , a computer synchronization of sound and robotics."
+1C2-E-TEST-0088-2.35/004	"Attractions include the ""Temple of the Forbidden Eye"" in Indiana Jones Adventure "	
+1C2-E-TEST-0088-2.36	"Walt Disney's Enchanted Tiki Room which is located at the entrance to Adventureland is the first feature attraction to employ Audio-Animatronics , a computer synchronization of sound and robotics."	
 1C2-E-TEST-0088-2.36/001	located at the entrance to Adventureland	DEP=1C2-E-TEST-0088-2.36002
-1C2-E-TEST-0088-2.36/002	Walt Disney's Enchanted Tiki Room is the first feature attraction to employ Audio-Animatronics
+1C2-E-TEST-0088-2.36/002	Walt Disney's Enchanted Tiki Room is the first feature attraction to employ Audio-Animatronics	
 1C2-E-TEST-0088-2.36/003	Audio-Animatronics a computer synchronization of sound and robotics.	DEP=1C2-E-TEST-0088-2.36002
-1C2-E-TEST-0088-2.4	Disney California Adventure Park was added in what used to be a parking lot for Disneyland guests.
-1C2-E-TEST-0088-2.4/001	Disney California Adventure Park was added in what used to be a parking lot for guests.
-1C2-E-TEST-0088-2.41	"Despite its age, it is still very popular with Disneyland guests, being home to some of the park's most popular attractions: Pirates of the Caribbean and the Haunted Mansion , including nighttime entertainment in Fantasmic! ."
-1C2-E-TEST-0088-2.41/001	home to some of the park's most popular attractions
-1C2-E-TEST-0088-2.41/002	"Pirates of the Caribbean and the Haunted Mansion, Fantasmic"	DEP=1C2-E-TEST-0088-2.41002
-1C2-E-TEST-0088-2.45	"According to Walt Disney, ""All of us have cause to be proud of our country's history, shaped by the pioneering spirit of our forefathers."
-1C2-E-TEST-0088-2.45/001	According to Walt Disney All of us have cause to be proud of our country's history
+1C2-E-TEST-0088-2.4	Disney California Adventure Park was added in what used to be a parking lot for Disneyland guests.	
+1C2-E-TEST-0088-2.4/001	Disney California Adventure Park was added in what used to be a parking lot for guests.	
+1C2-E-TEST-0088-2.41	"Despite its age, it is still very popular with Disneyland guests, being home to some of the park's most popular attractions: Pirates of the Caribbean and the Haunted Mansion , including nighttime entertainment in Fantasmic! ."	
+1C2-E-TEST-0088-2.41/001	home to some of the park's most popular attractions	
+1C2-E-TEST-0088-2.41/002	"Pirates of the Caribbean and the Haunted Mansion, Fantasmic"	DEP=1C2-E-TEST-0088-2.41001
+1C2-E-TEST-0088-2.45	"According to Walt Disney, ""All of us have cause to be proud of our country's history, shaped by the pioneering spirit of our forefathers."	
+1C2-E-TEST-0088-2.45/001	According to Walt Disney All of us have cause to be proud of our country's history	
 1C2-E-TEST-0088-2.45/002	history is shaped by the pioneering spirit of our forefathers	DEP=1C2-E-TEST-0088-2.45001
-1C2-E-TEST-0088-2.48	"Entertainment and attractions include Big Thunder Mountain Railroad , the Mark Twain Riverboat , the Sailing Ship Columbia , Pirate's Lair on Tom Sawyer Island , and Frontierland Shootin' Exposition."
-1C2-E-TEST-0088-2.48/001	Entertainment and attractions include Big Thunder Mountain Railroad
-1C2-E-TEST-0088-2.48/002	Entertainment and attractions include the Mark Twain Riverboat
-1C2-E-TEST-0088-2.48/003	Entertainment and attractions include the Sailing Ship Columbia
-1C2-E-TEST-0088-2.48/004	Entertainment and attractions include Pirate's Lair on Tom Sawyer Island 
-1C2-E-TEST-0088-2.48/005	Entertainment and attractions include Frontierland Shootin' Exposition
-1C2-E-TEST-0088-2.56	"In 2003, a dark ride called The Many Adventures of Winnie the Pooh replaced the Country Bear Jamboree , which closed in 2001."
-1C2-E-TEST-0088-2.56/001	dark ride called The Many Adventures of Winnie the Pooh replaced the Country Bear Jamboree 
-1C2-E-TEST-0088-2.56/002	Country Bear Jamboree closed in 2001
+1C2-E-TEST-0088-2.48	"Entertainment and attractions include Big Thunder Mountain Railroad , the Mark Twain Riverboat , the Sailing Ship Columbia , Pirate's Lair on Tom Sawyer Island , and Frontierland Shootin' Exposition."	
+1C2-E-TEST-0088-2.48/001	Entertainment and attractions include Big Thunder Mountain Railroad	
+1C2-E-TEST-0088-2.48/002	Entertainment and attractions include the Mark Twain Riverboat	
+1C2-E-TEST-0088-2.48/003	Entertainment and attractions include the Sailing Ship Columbia	
+1C2-E-TEST-0088-2.48/004	Entertainment and attractions include Pirate's Lair on Tom Sawyer Island 	
+1C2-E-TEST-0088-2.48/005	Entertainment and attractions include Frontierland Shootin' Exposition	
+1C2-E-TEST-0088-2.56	"In 2003, a dark ride called The Many Adventures of Winnie the Pooh replaced the Country Bear Jamboree , which closed in 2001."	
+1C2-E-TEST-0088-2.56/001	dark ride called The Many Adventures of Winnie the Pooh replaced the Country Bear Jamboree 	
+1C2-E-TEST-0088-2.56/002	Country Bear Jamboree closed in 2001	
 1C2-E-TEST-0088-2.56/003	In 2003	DEP=1C2-E-TEST-0088-2.56001
-1C2-E-TEST-0088-2.63	"Fantasyland was originally styled in a medieval European fairground fashion, but its 1983 refurbishment turned it into a Bavarian village."
-1C2-E-TEST-0088-2.63/001	Fantasyland was originally styled in a medieval European fairground fashion
+1C2-E-TEST-0088-2.63	"Fantasyland was originally styled in a medieval European fairground fashion, but its 1983 refurbishment turned it into a Bavarian village."	
+1C2-E-TEST-0088-2.63/001	Fantasyland was originally styled in a medieval European fairground fashion	
 1C2-E-TEST-0088-2.63/002	1983 refurbishment turned it into a Bavarian village	DEP=1C2-E-TEST-0088-2.63001
-1C2-E-TEST-0088-2.67	"Opened in 1959, changed in 1972, then closed in 1992 for reasons of security and the new installation of pneumatic ram firework shell mortars for ""Believe, There's Magic in the Stars""."
+1C2-E-TEST-0088-2.67	"Opened in 1959, changed in 1972, then closed in 1992 for reasons of security and the new installation of pneumatic ram firework shell mortars for ""Believe, There's Magic in the Stars""."	
 1C2-E-TEST-0088-2.67/001	"Opened in 1959, changed in 1972, then closed in 1992"	DEP=1C2-E-TEST-0088-2.67002
-1C2-E-TEST-0088-2.67/002	"closed for security and the new installation of pneumatic ram firework shell mortars ""Believe, There's Magic in the Stars""."
-1C2-E-TEST-0088-2.72	Mickey's Toontown opened in 1993 and was partly inspired by the fictional Los Angeles suburb of Toontown in the Walt Disney Studios ' 1988 release Who Framed Roger Rabbit .
-1C2-E-TEST-0088-2.72/001	Mickey's Toontown opened in 1993
+1C2-E-TEST-0088-2.67/002	"closed for security and the new installation of pneumatic ram firework shell mortars ""Believe, There's Magic in the Stars""."	
+1C2-E-TEST-0088-2.72	Mickey's Toontown opened in 1993 and was partly inspired by the fictional Los Angeles suburb of Toontown in the Walt Disney Studios ' 1988 release Who Framed Roger Rabbit .	
+1C2-E-TEST-0088-2.72/001	Mickey's Toontown opened in 1993	
 1C2-E-TEST-0088-2.72/002	partly inspired by the fictional Los Angeles suburb of Toontown in Who Framed Roger Rabbit	DEP=1C2-E-TEST-0088-2.72001
 1C2-E-TEST-0088-2.72/003	1988 release Who Framed Roger Rabbit	DEP=1C2-E-TEST-0088-2.72002
-1C2-E-TEST-0088-2.79	"During the 1955 inauguration Walt Disney dedicated Tomorrowland with these words: ""Tomorrow can be a wonderful age."
-1C2-E-TEST-0088-2.79/001	1955 inauguration Walt Disney dedicated Tomorrowland 
-1C2-E-TEST-0088-2.79/002	"dedicated tomorrowland with words ""Tomorrow can be a wonderful age""."
-1C2-E-TEST-0088-2.8	"A ninth area (albeit defunct) is Holidayland , a picnic ground which operated between 1957 and 1961 and is often referred to as the ""lost"" land of Disneyland."
-1C2-E-TEST-0088-2.8/001	A ninth area albeit defunct is Holidayland 
+1C2-E-TEST-0088-2.79	"During the 1955 inauguration Walt Disney dedicated Tomorrowland with these words: ""Tomorrow can be a wonderful age."	
+1C2-E-TEST-0088-2.79/001	1955 inauguration Walt Disney dedicated Tomorrowland 	
+1C2-E-TEST-0088-2.79/002	"dedicated tomorrowland with words ""Tomorrow can be a wonderful age""."	
+1C2-E-TEST-0088-2.8	"A ninth area (albeit defunct) is Holidayland , a picnic ground which operated between 1957 and 1961 and is often referred to as the ""lost"" land of Disneyland."	
+1C2-E-TEST-0088-2.8/001	A ninth area albeit defunct is Holidayland 	
 1C2-E-TEST-0088-2.8/002	picnic ground which operated between 1957 and 1961	DEP=1C2-E-TEST-0088-2.8001
 1C2-E-TEST-0088-2.8/003	often referred to as the lost land of Disneyland	DEP=1C2-E-TEST-0088-2.8001
-1C2-E-TEST-0088-2.82	"Disneyland producer Ward Kimball had rocket scientists Wernher von Braun , Willy Ley, and Heinz Haber serve as technical consultants during the original design of Tomorrowland."
-1C2-E-TEST-0088-2.82/001	Disneyland producer Ward Kimball had rocket scientists serve as technical consultants during the original design of Tomorrowland
+1C2-E-TEST-0088-2.82	"Disneyland producer Ward Kimball had rocket scientists Wernher von Braun , Willy Ley, and Heinz Haber serve as technical consultants during the original design of Tomorrowland."	
+1C2-E-TEST-0088-2.82/001	Disneyland producer Ward Kimball had rocket scientists serve as technical consultants during the original design of Tomorrowland	
 1C2-E-TEST-0088-2.82/002	"rocket scientists Wernher von Braun , Willy Ley, and Heinz Haber"	DEP=1C2-E-TEST-0088-2.82001
-1C2-E-TEST-0088-2.85	"Current attractions include Space Mountain , Innoventions , Captain EO Tribute , Autopia , the Disneyland Monorail Tomorrowland Station, the Astro Orbitor and Buzz Lightyear Astro Blasters ."
-1C2-E-TEST-0088-2.85/001	Current attractions include Space Mountain
-1C2-E-TEST-0088-2.85/002	Current attractions include Innoventions
-1C2-E-TEST-0088-2.85/003	Current attractions include Captain EO Tribute 
-1C2-E-TEST-0088-2.85/004	Current attractions include Autopia
-1C2-E-TEST-0088-2.85/005	Current attractions include the Disneyland Monorail Tomorrowland Station
-1C2-E-TEST-0088-2.85/006	Current attractions include the Astro Orbitor 
-1C2-E-TEST-0088-2.85/007	Current attractions include Buzz Lightyear Astro Blasters 
-1C2-E-TEST-0088-2.86	"Finding Nemo Submarine Voyage opened on June 11, 2007, resurrecting the original Submarine Voyage which closed in 1998."
-1C2-E-TEST-0088-2.86/001	Finding Nemo Submarine Voyage opened on June 11 2007
+1C2-E-TEST-0088-2.85	"Current attractions include Space Mountain , Innoventions , Captain EO Tribute , Autopia , the Disneyland Monorail Tomorrowland Station, the Astro Orbitor and Buzz Lightyear Astro Blasters ."	
+1C2-E-TEST-0088-2.85/001	Current attractions include Space Mountain	
+1C2-E-TEST-0088-2.85/002	Current attractions include Innoventions	
+1C2-E-TEST-0088-2.85/003	Current attractions include Captain EO Tribute 	
+1C2-E-TEST-0088-2.85/004	Current attractions include Autopia	
+1C2-E-TEST-0088-2.85/005	Current attractions include the Disneyland Monorail Tomorrowland Station	
+1C2-E-TEST-0088-2.85/006	Current attractions include the Astro Orbitor 	
+1C2-E-TEST-0088-2.85/007	Current attractions include Buzz Lightyear Astro Blasters 	
+1C2-E-TEST-0088-2.86	"Finding Nemo Submarine Voyage opened on June 11, 2007, resurrecting the original Submarine Voyage which closed in 1998."	
+1C2-E-TEST-0088-2.86/001	Finding Nemo Submarine Voyage opened on June 11 2007	
 1C2-E-TEST-0088-2.86/002	resurrecting the original Submarine Voyage which closed in 1998	DEP=1C2-E-TEST-0088-2.86001
-1C2-E-TEST-0088-8.15	"When Disneyland Park opened on July 17, 1955, the opening was shown on television as it happened."
-1C2-E-TEST-0088-8.15/001	"Disneyland Park opened on July 17, 1955"
+1C2-E-TEST-0088-8.15	"When Disneyland Park opened on July 17, 1955, the opening was shown on television as it happened."	
+1C2-E-TEST-0088-8.15/001	"Disneyland Park opened on July 17, 1955"	
 1C2-E-TEST-0088-8.15/002	the opening was shown on television as it happened	DEP=1C2-E-TEST-0088-8.15001
-1C2-E-TEST-0088-8.35	"At 4:45 that afternoon, the exact time the Walt Disney had given his speech on the opening day, his speech was played over speakers all over Disneyland."
-1C2-E-TEST-0088-8.35/001	Walt Disney speech was played over speakers all over Disneyland.
+1C2-E-TEST-0088-8.35	"At 4:45 that afternoon, the exact time the Walt Disney had given his speech on the opening day, his speech was played over speakers all over Disneyland."	
+1C2-E-TEST-0088-8.35/001	Walt Disney speech was played over speakers all over Disneyland.	
 1C2-E-TEST-0088-8.35/002	At 4:45 that afternoon	DEP=1C2-E-TEST-0088-8.35001
 1C2-E-TEST-0088-8.35/003	exact time the Walt Disney had given his speech on the opening day	DEP=1C2-E-TEST-0088-8.35002
-1C2-E-TEST-0088-8.41	"Main Street, U.S.A. is the first land people see when they come into Disneyland."
-1C2-E-TEST-0088-8.41/001	"Main Street, U.S.A. is the first land people see when they come into Disneyland."
-1C2-E-TEST-0088-8.42	"It was built to look like a small American town, much like the one Mr. Disney grew up in."
-1C2-E-TEST-0088-8.42/001	built to look like a small American town
+1C2-E-TEST-0088-8.41	"Main Street, U.S.A. is the first land people see when they come into Disneyland."	
+1C2-E-TEST-0088-8.41/001	"Main Street, U.S.A. is the first land people see when they come into Disneyland."	
+1C2-E-TEST-0088-8.42	"It was built to look like a small American town, much like the one Mr. Disney grew up in."	
+1C2-E-TEST-0088-8.42/001	built to look like a small American town	
 1C2-E-TEST-0088-8.42/002	much like the town Mr. Disney grew up in	DEP=1C2-E-TEST-0088-8.42001
-1C2-E-TEST-0088-8.43	A station for the Disneyland Railroad can be found here.
-1C2-E-TEST-0088-8.43/001	A station for the Disneyland Railroad can be found here.
-1C2-E-TEST-0088-8.44	It is located at the entrance to Disneyland.
-1C2-E-TEST-0088-8.45	Mr. Disney and some of his workers loved trains and wanted a railroad in their new park.
-1C2-E-TEST-0088-8.45/001	Mr. Disney and some of his workers loved trains
+1C2-E-TEST-0088-8.43	A station for the Disneyland Railroad can be found here.	
+1C2-E-TEST-0088-8.43/001	A station for the Disneyland Railroad can be found here.	
+1C2-E-TEST-0088-8.44	It is located at the entrance to Disneyland.	
+1C2-E-TEST-0088-8.45	Mr. Disney and some of his workers loved trains and wanted a railroad in their new park.	
+1C2-E-TEST-0088-8.45/001	Mr. Disney and some of his workers loved trains	
 1C2-E-TEST-0088-8.45/002	they wanted a railroad in their new park	DEP=1C2-E-TEST-0088-8.45001
-1C2-E-TEST-0088-8.46	Guests can ride steam -powered trains for a ride around the edge of Disneyland.
-1C2-E-TEST-0088-8.46/001	Guests can ride steam -powered trains for a ride around the edge of Disneyland.
-1C2-E-TEST-0088-8.5	Mr. Disney wanted to build a place that had all of the fun of the traveling fairs where parents and children could ride together.
-1C2-E-TEST-0088-8.5/001	Mr. Disney wanted to build a place that had all of the fun of the traveling fairs where parents and children could ride together.
-1C2-E-TEST-0088-8.52	"The main entry to Fantasyland is through the Sleeping Beauty castle , the symbol of Disneyland."
-1C2-E-TEST-0088-8.52/001	The main entry to Fantasyland is through the Sleeping Beauty castle
-1C2-E-TEST-0088-8.52/002	sleeping beauty castle symbol of Disneyland.
-1C2-E-TEST-0088-8.53	"Attractions (Disneyland does not use the term ""rides"") include Snow White's Scary Adventures and It's a Small World ."
-1C2-E-TEST-0088-8.53/001	Attractions include Snow White's Scary Adventures and It's a Small World .
-1C2-E-TEST-0088-8.53/002	"Disneyland does not use the term ""rides"" "
-1C2-E-TEST-0088-8.6	That is how Mr. Disney got the idea for Disneyland.
-1C2-E-TEST-0088-8.6/001	That is how Mr. Disney got the idea for Disneyland.
-1C2-E-TEST-0088-8.63	It's A Small World is a classic Disney attraction that is a boat ride taking guests around the world.
-1C2-E-TEST-0088-8.63/001	It's A Small World is a classic Disney attraction 
+1C2-E-TEST-0088-8.46	Guests can ride steam -powered trains for a ride around the edge of Disneyland.	
+1C2-E-TEST-0088-8.46/001	Guests can ride steam -powered trains for a ride around the edge of Disneyland.	
+1C2-E-TEST-0088-8.5	Mr. Disney wanted to build a place that had all of the fun of the traveling fairs where parents and children could ride together.	
+1C2-E-TEST-0088-8.5/001	Mr. Disney wanted to build a place that had all of the fun of the traveling fairs where parents and children could ride together.	
+1C2-E-TEST-0088-8.52	"The main entry to Fantasyland is through the Sleeping Beauty castle , the symbol of Disneyland."	
+1C2-E-TEST-0088-8.52/001	The main entry to Fantasyland is through the Sleeping Beauty castle	
+1C2-E-TEST-0088-8.52/002	sleeping beauty castle symbol of Disneyland.	
+1C2-E-TEST-0088-8.53	"Attractions (Disneyland does not use the term ""rides"") include Snow White's Scary Adventures and It's a Small World ."	
+1C2-E-TEST-0088-8.53/001	Attractions include Snow White's Scary Adventures and It's a Small World .	
+1C2-E-TEST-0088-8.53/002	"Disneyland does not use the term ""rides"" "	
+1C2-E-TEST-0088-8.6	That is how Mr. Disney got the idea for Disneyland.	
+1C2-E-TEST-0088-8.6/001	That is how Mr. Disney got the idea for Disneyland.	
+1C2-E-TEST-0088-8.63	It's A Small World is a classic Disney attraction that is a boat ride taking guests around the world.	
+1C2-E-TEST-0088-8.63/001	It's A Small World is a classic Disney attraction 	
 1C2-E-TEST-0088-8.63/002	It's A Small World is a boat ride taking guests around the world	DEP=1C2-E-TEST-0088-8.63001
-1C2-E-TEST-0088-8.64	"Each part of the world has dolls that sing the song ""It's a Small World"" in their language."
-1C2-E-TEST-0088-8.64/001	Each part of the world has dolls  that sing
+1C2-E-TEST-0088-8.64	"Each part of the world has dolls that sing the song ""It's a Small World"" in their language."	
+1C2-E-TEST-0088-8.64/001	Each part of the world has dolls  that sing	
 1C2-E-TEST-0088-8.64/002	"dolls sing the song ""It's a Small World"" in their language."	DEP=1C2-E-TEST-0088-8.64001
-1C2-E-TEST-0088-8.66	Pinocchio's Daring Journey is another ride that allows riders to explore the story of the Pinocchio Disney movie.
-1C2-E-TEST-0088-8.66/001	Pinocchio's Daring Journey allows riders to explore the story of the Pinocchio Disney movie
+1C2-E-TEST-0088-8.66	Pinocchio's Daring Journey is another ride that allows riders to explore the story of the Pinocchio Disney movie.	
+1C2-E-TEST-0088-8.66/001	Pinocchio's Daring Journey allows riders to explore the story of the Pinocchio Disney movie	
 1C2-E-TEST-0088-8.66/002	Pinocchio's Daring Journey is another ride	DEP=1C2-E-TEST-0088-8.66001
-1C2-E-TEST-0088-8.66/003	 
-1C2-E-TEST-0088-8.67	Guests can see different small villages of classic Disney stories on the Storybook Land Canal Boats.
-1C2-E-TEST-0088-8.67/001	Guests can see different small villages of classic Disney stories
+1C2-E-TEST-0088-8.66/003	 	
+1C2-E-TEST-0088-8.67	Guests can see different small villages of classic Disney stories on the Storybook Land Canal Boats.	
+1C2-E-TEST-0088-8.67/001	Guests can see different small villages of classic Disney stories	
 1C2-E-TEST-0088-8.67/002	Storybook Land Canal Boats.	DEP=1C2-E-TEST-0088-8.67001
-1C2-E-TEST-0088-8.70	One of Disneyland's first attractions can be ridden here.
-1C2-E-TEST-0088-8.70/001	One of Disneyland's first attractions can be ridden here.
-1C2-E-TEST-0088-8.72	Tarzan's Treehouse was originally named The Swiss Family Treehouse after an old novel.
-1C2-E-TEST-0088-8.72/001	Tarzan's Treehouse was originally named The Swiss Family Treehouse 
+1C2-E-TEST-0088-8.70	One of Disneyland's first attractions can be ridden here.	
+1C2-E-TEST-0088-8.70/001	One of Disneyland's first attractions can be ridden here.	
+1C2-E-TEST-0088-8.72	Tarzan's Treehouse was originally named The Swiss Family Treehouse after an old novel.	
+1C2-E-TEST-0088-8.72/001	Tarzan's Treehouse was originally named The Swiss Family Treehouse 	
 1C2-E-TEST-0088-8.72/002	It was named after an old novel	DEP=1C2-E-TEST-0088-8.72001
-1C2-E-TEST-0088-8.73	"The Indiana Jones Adventure is a ride in a jeep through ""dangerous"" caverns that include lava, a giant snake, and other perils."
-1C2-E-TEST-0088-8.73/001	The Indiana Jones Adventure is a ride in a jeep through dangerous caverns
+1C2-E-TEST-0088-8.73	"The Indiana Jones Adventure is a ride in a jeep through ""dangerous"" caverns that include lava, a giant snake, and other perils."	
+1C2-E-TEST-0088-8.73/001	The Indiana Jones Adventure is a ride in a jeep through dangerous caverns	
 1C2-E-TEST-0088-8.73/002	"It includes lava, a giant snake, and other perils."	DEP=1C2-E-TEST-0088-8.73001
-1C2-E-TEST-0088-8.81	Disneyland's newest attraction can be found here.
-1C2-E-TEST-0088-8.81/001	Disneyland's newest attraction can be found here.
-1C2-E-TEST-0088-8.82	"It is called "" Buzz Lightyear Astro Blasters"" and it opened in 2005 ."
-1C2-E-TEST-0088-8.82/001	It is called Buzz Lightyear Astro Blasters
+1C2-E-TEST-0088-8.81	Disneyland's newest attraction can be found here.	
+1C2-E-TEST-0088-8.81/001	Disneyland's newest attraction can be found here.	
+1C2-E-TEST-0088-8.82	"It is called "" Buzz Lightyear Astro Blasters"" and it opened in 2005 ."	
+1C2-E-TEST-0088-8.82/001	It is called Buzz Lightyear Astro Blasters	
 1C2-E-TEST-0088-8.82/002	opened in 2005	DEP=1C2-E-TEST-0088-8.82001
-1C2-E-TEST-0088-8.85	"It re-opened in 2007, as Finding Nemo Submarine Voyage [1] with characters from Disney's Finding Nemo ."
+1C2-E-TEST-0088-8.85	"It re-opened in 2007, as Finding Nemo Submarine Voyage [1] with characters from Disney's Finding Nemo ."	
 1C2-E-TEST-0088-8.85/001	It re-opened in 2007	DEP=1C2-E-TEST-0088-8.85002
-1C2-E-TEST-0088-8.85/002	Finding Nemo Submarine Voyage characters from Disney's Finding Nemo 
-1C2-E-TEST-0088-8.89	Mickey's Toontown is where Mickey Mouse and his friends are supposed to live.
-1C2-E-TEST-0088-8.89/001	Mickey's Toontown is where Mickey Mouse and his friends are supposed to live.
-1C2-E-TEST-0088-8.93	"Two of Disneyland's very popular attractions are in New Orleans Square: ""Pirates of the Caribbean"" and ""The Haunted Mansion"", which have both inspired movies."
-1C2-E-TEST-0088-8.93/001	Two of Disneyland's very popular attractions are in New Orleans Square Pirates of the Caribbean and The Haunted Mansion
+1C2-E-TEST-0088-8.85/002	Finding Nemo Submarine Voyage characters from Disney's Finding Nemo 	
+1C2-E-TEST-0088-8.89	Mickey's Toontown is where Mickey Mouse and his friends are supposed to live.	
+1C2-E-TEST-0088-8.89/001	Mickey's Toontown is where Mickey Mouse and his friends are supposed to live.	
+1C2-E-TEST-0088-8.93	"Two of Disneyland's very popular attractions are in New Orleans Square: ""Pirates of the Caribbean"" and ""The Haunted Mansion"", which have both inspired movies."	
+1C2-E-TEST-0088-8.93/001	Two of Disneyland's very popular attractions are in New Orleans Square Pirates of the Caribbean and The Haunted Mansion	
 1C2-E-TEST-0088-8.93/002	both attractions have inspired movies.	DEP=1C2-E-TEST-0088-8.93001
-1C2-E-TEST-0088-8.97	Splash Mountain is a very popular log ride that guests wait in line for a long time to enjoy.
-1C2-E-TEST-0088-8.97/001	Splash Mountain is a very popular log ride
+1C2-E-TEST-0088-8.97	Splash Mountain is a very popular log ride that guests wait in line for a long time to enjoy.	
+1C2-E-TEST-0088-8.97/001	Splash Mountain is a very popular log ride	
 1C2-E-TEST-0088-8.97/002	guests wait for that in line for a long time to enjoy	DEP=1C2-E-TEST-0088-8.97001
-1C2-E-TEST-0088-8.99	The Many Adventures of Winnie the Pooh was more recently added to Disneyland.
-1C2-E-TEST-0088-8.99/001	The Many Adventures of Winnie the Pooh was recently added to Disneyland.
+1C2-E-TEST-0088-8.99	The Many Adventures of Winnie the Pooh was more recently added to Disneyland.	
+1C2-E-TEST-0088-8.99/001	The Many Adventures of Winnie the Pooh was recently added to Disneyland.	

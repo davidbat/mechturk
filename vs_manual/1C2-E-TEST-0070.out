@@ -222,7 +222,7 @@
 1C2-E-TEST-0070-122.54/001	set major league records	
 1C2-E-TEST-0070-122.54/002	2004 season	DEP=1C2-E-TEST-0070-122.54001
 1C2-E-TEST-0070-122.60	"October 1 : Ichiro got his 258th and 259th hits, breaking the record set by George Sisler with the St. Louis Browns in 1920 ."	
-1C2-E-TEST-0070-122.60/001	October 1	
+1C2-E-TEST-0070-122.60/001	1-Oct	
 1C2-E-TEST-0070-122.60/002	258th 259th hits	DEP=1C2-E-TEST-0070-122.60001
 1C2-E-TEST-0070-122.60/003	breaking record	DEP=1C2-E-TEST-0070-122.60002
 1C2-E-TEST-0070-122.60/004	set	
@@ -234,7 +234,7 @@
 1C2-E-TEST-0070-126.10/002	at meiden	DEP=1C2-E-TEST-0070-126.10001
 1C2-E-TEST-0070-126.10/003	drafted by orix blue wave	
 1C2-E-TEST-0070-126.10/004	japan pacific league	DEP=1C2-E-TEST-0070-126.10003
-1C2-E-TEST-0070-126.10/005	november 1991	DEP=1C2-E-TEST-0070-126.10003
+1C2-E-TEST-0070-126.10/005	Nov-91	DEP=1C2-E-TEST-0070-126.10003
 1C2-E-TEST-0070-126.105	"Ichiro also joined Pete Rose and Ty Cobb as the only players to have nine career 200-hit seasons overall, though Rose took 15 seasons to reach the milestone, while Cobb needed 20."	
 1C2-E-TEST-0070-126.105/001	joined pete ross ty cobb	
 1C2-E-TEST-0070-126.105/002	nine career 200-hit seasons	DEP=1C2-E-TEST-0070-126.105001
@@ -348,7 +348,7 @@
 1C2-E-TEST-0070-126.82/001	in seattle	DEP=1C2-E-TEST-0070-126.82002
 1C2-E-TEST-0070-126.82/002	led majors	
 1C2-E-TEST-0070-126.82/003	224 hits	DEP=1C2-E-TEST-0070-126.82002
-1C2-E-TEST-0070-126.82/004	extending 200-hit season streak to six	DEP=1C2-E-TEST-0070-126.82005
+1C2-E-TEST-0070-126.82/004	extending 200-hit season streak to six	DEP=1C2-E-TEST-0070-126.82003
 1C2-E-TEST-0070-126.82/005	joining wade boggs wee willie keeler	DEP=1C2-E-TEST-0070-126.82004
 1C2-E-TEST-0070-126.85	"Ichiro racked up a league-leading 238 hits, becoming only one of eight players to collect 200 hits in seven career seasons, and the only player besides Wee Willie Keeler to do it in consecutive years (Keeler had eight)."	
 1C2-E-TEST-0070-126.85/001	racked up league-leading 238 hits	

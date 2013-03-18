@@ -27,7 +27,7 @@
 1C2-E-TEST-0078-1.36/003	and was third among point guards	DEP=1C2-E-TEST-0078-1.36002
 1C2-E-TEST-0078-1.36/004	in field goal percentage	DEP=1C2-E-TEST-0078-1.36003
 1C2-E-TEST-0078-1.53	"On 14 February 2007, after delivering consistent numbers in the first half of the 2006-07 season , Parker was selected to play in the 2007 NBA All-Star Game as a reserve guard."	
-1C2-E-TEST-0078-1.53/001	14 february 2007	
+1C2-E-TEST-0078-1.53/001	14-Feb-07	
 1C2-E-TEST-0078-1.53/002	after delivering consistent numbers	DEP=1C2-E-TEST-0078-1.53001
 1C2-E-TEST-0078-1.53/003	in the first half of the 2006-07 season	DEP=1C2-E-TEST-0078-1.53002
 1C2-E-TEST-0078-1.53/004	parker was selected	DEP=1C2-E-TEST-0078-1.53003
@@ -38,7 +38,7 @@
 1C2-E-TEST-0078-1.59/002	went on to face	DEP=1C2-E-TEST-0078-1.59001
 1C2-E-TEST-0078-1.59/003	the Cleveland Cavaliers	DEP=1C2-E-TEST-0078-1.59002
 1C2-E-TEST-0078-1.59/004	and swept them	DEP=1C2-E-TEST-0078-1.59003
-1C2-E-TEST-0078-1.59/005	4-0	DEP=1C2-E-TEST-0078-1.59004
+1C2-E-TEST-0078-1.59/005	Apr-00	DEP=1C2-E-TEST-0078-1.59004
 1C2-E-TEST-0078-1.59/006	to win the 2007 NBA Finals	DEP=1C2-E-TEST-0078-1.59005
 1C2-E-TEST-0078-1.68	"In the 2007-08 regular season, Parker recorded similar averages as the previous two seasons for points and rebounds, and set a career-high for assists per game."	
 1C2-E-TEST-0078-1.68/001	In the 2007-08 regular season	
@@ -54,16 +54,16 @@
 1C2-E-TEST-0078-1.80/003	to a 54-28 record	DEP=1C2-E-TEST-0078-1.80002
 1C2-E-TEST-0078-1.80/004	and the third seed for the playoffs	DEP=1C2-E-TEST-0078-1.80003
 1C2-E-TEST-0078-1.80/005	Parker also registered	DEP=1C2-E-TEST-0078-1.80004
-1C2-E-TEST-0078-1.80/006	career-highs in points and assists per game."	DEP=1C2-E-TEST-0078-1.80005
+1C2-E-TEST-0078-1.80/006	"career-highs in points and assists per game."""	DEP=1C2-E-TEST-0078-1.80005
 1C2-E-TEST-0078-128.10	"Employing his pace and high field goal percentage to great effect, Parker has been named to four NBA All-Star games, an All-NBA Second Team, and an All-NBA Third Team."	
 1C2-E-TEST-0078-128.10/001	Employing his pace	
 1C2-E-TEST-0078-128.10/002	pace	DEP=1C2-E-TEST-0078-128.10001
-1C2-E-TEST-0078-128.10/003and	high field goal percentage to great effect	DEP=1C2-E-TEST-0078-128.10002
+1C2-E-TEST-0078-128.10/003	and high field goal percentage to great effect	DEP=1C2-E-TEST-0078-128.10002
 1C2-E-TEST-0078-128.10/004	Parker has been named to four NBA All-Star games	DEP=1C2-E-TEST-0078-128.10003
 1C2-E-TEST-0078-128.10/005	an All-NBA Second Team	DEP=1C2-E-TEST-0078-128.10004
 1C2-E-TEST-0078-128.10/006	and an All-NBA Third Team	DEP=1C2-E-TEST-0078-128.10005
 1C2-E-TEST-0078-128.7	"William Anthony ""Tony"" Parker Jr. (born 17 May 1982) is a French professional basketball player who plays for the San Antonio Spurs of the National Basketball Association (NBA) in the United States."	
-1C2-E-TEST-0078-128.7/001	William Anthony ""Tony"" Parker Jr	
+1C2-E-TEST-0078-128.7/001	"William Anthony """"Tony"""" Parker Jr"	
 1C2-E-TEST-0078-128.7/002	born 17 May 1982	DEP=1C2-E-TEST-0078-128.7001
 1C2-E-TEST-0078-128.7/003	is a French professional basketball player	DEP=1C2-E-TEST-0078-128.7002
 1C2-E-TEST-0078-128.7/004	french professional basketball player	DEP=1C2-E-TEST-0078-128.7003
@@ -86,7 +86,7 @@
 1C2-E-TEST-0078-28.10/005	three nba championships	DEP=1C2-E-TEST-0078-28.10004
 1C2-E-TEST-0078-28.10/006	2003 2005 2007	DEP=1C2-E-TEST-0078-28.10005
 1C2-E-TEST-0078-28.11	"The 6' 1"" starting point guard was selected as an NBA All-Star twice (2006; 2007) and was the 2007 NBA Finals MVP."	
-1C2-E-TEST-0078-28.11/001	The 6' 1" starting point guard	
+1C2-E-TEST-0078-28.11/001	"The 6' 1"" starting point guard"	
 1C2-E-TEST-0078-28.11/002	starting point guard	DEP=1C2-E-TEST-0078-28.11001
 1C2-E-TEST-0078-28.11/003	was selected as an NBA All-Star twice	DEP=1C2-E-TEST-0078-28.11002
 1C2-E-TEST-0078-28.11/004	nba all-star	DEP=1C2-E-TEST-0078-28.11003
@@ -111,7 +111,7 @@
 1C2-E-TEST-0078-28.35/004	after considering	DEP=1C2-E-TEST-0078-28.35003
 1C2-E-TEST-0078-28.35/005	relatively small size	DEP=1C2-E-TEST-0078-28.35004
 1C2-E-TEST-0078-28.35/006	for basket ball player	DEP=1C2-E-TEST-0078-28.35005
-1C2-E-TEST-0078-28.35/007	6'2"	DEP=1C2-E-TEST-0078-28.35006
+1C2-E-TEST-0078-28.35/007	"6'2"""	DEP=1C2-E-TEST-0078-28.35006
 1C2-E-TEST-0078-28.35/008	and speed	DEP=1C2-E-TEST-0078-28.35007
 1C2-E-TEST-0078-28.42	"In 2001, Parker was drafted by NBA's San Antonio Spurs."	
 1C2-E-TEST-0078-28.42/001	In 2001	
@@ -136,7 +136,7 @@
 1C2-E-TEST-0078-28.48/003	and playmaker	DEP=1C2-E-TEST-0078-28.48002
 1C2-E-TEST-0078-28.48/004	in his sophomore season	DEP=1C2-E-TEST-0078-28.48003
 1C2-E-TEST-0078-28.48/005	2002-2003	DEP=1C2-E-TEST-0078-28.48004
-1C2-E-TEST-0078-28.48/006	won	DEP=1C2-E-TEST-0078-28.48006
+1C2-E-TEST-0078-28.48/006	won	DEP=1C2-E-TEST-0078-28.48005
 1C2-E-TEST-0078-28.48/007	first championship ring	DEP=1C2-E-TEST-0078-28.48006
 1C2-E-TEST-0078-28.49	"In the post season (2003), he went on to record two career bests in scoring and earned his first NBA championship ring when his team beat the New Jersey Nets 4-2 in the finals."	
 1C2-E-TEST-0078-28.49/001	post season	DEP=1C2-E-TEST-0078-28.49002
@@ -148,7 +148,7 @@
 1C2-E-TEST-0078-28.49/007	beat new jersey nets	DEP=1C2-E-TEST-0078-28.49006
 1C2-E-TEST-0078-28.49/008	4-2 in the finals	DEP=1C2-E-TEST-0078-28.49007
 1C2-E-TEST-0078-28.57	"Parker, who scored a series-high 24.5 points, accompanied by a high field goal percentage of 56.8% and of 57.1% from three point range, was named the 2007 NBA Finals MVP, becoming the first European-born player to receive the award."	
-1C2-E-TEST-0078-28.57/001	Parker, who scored a series-high 24.5 points	
+1C2-E-TEST-0078-28.57/001	"Parker, who scored a series-high 24.5 points"	
 1C2-E-TEST-0078-28.57/002	series-high 24.5 points	DEP=1C2-E-TEST-0078-28.57001
 1C2-E-TEST-0078-28.57/003	accompanied by a high field goal percentage of 56.8%	DEP=1C2-E-TEST-0078-28.57002
 1C2-E-TEST-0078-28.57/004	high field goal percentage	DEP=1C2-E-TEST-0078-28.57003

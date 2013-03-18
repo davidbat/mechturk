@@ -1,200 +1,201 @@
-1C2-E-TEST-0034-119.107	"[on winning the Best Actor Oscar] ""If you grow up in the suburbs of anywhere, a dream like this seems kind of vaguely ludicrous and completely unattainable."
-1C2-E-TEST-0034-119.107/001	"If you grow up in the suburbs of anywhere, a dream like this seems kind of vaguely ludicrous and completely unattainable."
+1C2-E-TEST-0034-119.107	"[on winning the Best Actor Oscar] ""If you grow up in the suburbs of anywhere, a dream like this seems kind of vaguely ludicrous and completely unattainable."	
+1C2-E-TEST-0034-119.107/001	"If you grow up in the suburbs of anywhere, a dream like this seems kind of vaguely ludicrous and completely unattainable."	
 1C2-E-TEST-0034-119.107/002	on winning the Best Actor Oscar	DEP=1C2-E-TEST-0034-119.107001
-1C2-E-TEST-0034-119.13	"Born in New Zealand, Russell has made his home in Australia since he was a small child."
-1C2-E-TEST-0034-119.13/001	russell was born in New Zealand
-1C2-E-TEST-0034-119.13/002	Russell has made his home in Australia since he was a small child
-1C2-E-TEST-0034-119.141	"I want to make movies that pierce people's hearts and touch them in some way, even if it's just for the night while they're in the cinema; in that moment, I want to bring actual tears to their eyes and goosebumps to their skin."
-1C2-E-TEST-0034-119.141/001	I want to make movies that pierce people's hearts and touch them in some way 
+1C2-E-TEST-0034-119.13	"Born in New Zealand, Russell has made his home in Australia since he was a small child."	
+1C2-E-TEST-0034-119.13/001	russell was born in New Zealand	
+1C2-E-TEST-0034-119.13/002	Russell has made his home in Australia since he was a small child	
+1C2-E-TEST-0034-119.141	"I want to make movies that pierce people's hearts and touch them in some way, even if it's just for the night while they're in the cinema; in that moment, I want to bring actual tears to their eyes and goosebumps to their skin."	
+1C2-E-TEST-0034-119.141/001	I want to make movies that pierce people's hearts and touch them in some way 	
 1C2-E-TEST-0034-119.141/002	even if it's just for the night while they're in the cinema	DEP=1C2-E-TEST-0034-119.141001
 1C2-E-TEST-0034-119.141/003	"in that moment, I want to bring actual tears to their eyes and goosebumps to their skin."	DEP=1C2-E-TEST-0034-119.141001
-1C2-E-TEST-0034-119.142	"That's what motivates me, and it may sound strange but if you're not focused on the audience, why are you bothering to make a movie?"""
-1C2-E-TEST-0034-119.142/001	That's what motivates me
+1C2-E-TEST-0034-119.142	"That's what motivates me, and it may sound strange but if you're not focused on the audience, why are you bothering to make a movie?"""	
+1C2-E-TEST-0034-119.142/001	That's what motivates me	
 1C2-E-TEST-0034-119.142/002	 it may sound strange 	DEP=1C2-E-TEST-0034-119.142001
 1C2-E-TEST-0034-119.142/003	"but if you're not focused on the audience, why are you bothering to make a movie"	DEP=1C2-E-TEST-0034-119.142001
-1C2-E-TEST-0034-119.167	"One thing that I don't want to do is imply that I'm trying to make out it's somebody else's fault It's not, I know it's my fault, I've got to face up to it and deal with it."
-1C2-E-TEST-0034-119.167/001	One thing that I don't want to do is imply that I'm trying to make out it's somebody else's fault 
+1C2-E-TEST-0034-119.167	"One thing that I don't want to do is imply that I'm trying to make out it's somebody else's fault It's not, I know it's my fault, I've got to face up to it and deal with it."	
+1C2-E-TEST-0034-119.167/001	One thing that I don't want to do is imply that I'm trying to make out it's somebody else's fault 	
 1C2-E-TEST-0034-119.167/002	It's not	DEP=1C2-E-TEST-0034-119.167001
 1C2-E-TEST-0034-119.167/003	I know it's my fault	DEP=1C2-E-TEST-0034-119.167001
 1C2-E-TEST-0034-119.167/004	I've got to face up to it and deal with it	DEP=1C2-E-TEST-0034-119.167001
-1C2-E-TEST-0034-119.22	"Virtuosity, a Sci-Fi extravaganza, was a fun film and, again, opened the door to even more American offers."
-1C2-E-TEST-0034-119.22/001	"Virtuosity, a Sci-Fi extravaganza, was a fun film"
+1C2-E-TEST-0034-119.22	"Virtuosity, a Sci-Fi extravaganza, was a fun film and, again, opened the door to even more American offers."	
+1C2-E-TEST-0034-119.22/001	"Virtuosity, a Sci-Fi extravaganza, was a fun film"	
 1C2-E-TEST-0034-119.22/002	it opened the door to even more American offers	DEP=1C2-E-TEST-0034-119.22001
-1C2-E-TEST-0034-119.24	"Missing the Oscar nod this time around he didn't seem deterred and signed to do his first film with The Walt Disney Company, Mystery, Alaska (1999)."
-1C2-E-TEST-0034-119.24/001	Missing the Oscar nod this time around he didn't seem deterred 
-1C2-E-TEST-0034-119.24/002	"he signed to do his first film with The Walt Disney Company, Mystery, Alaska 1999"
-1C2-E-TEST-0034-119.39	Russell's rock group is named 30 Odd Foot of Grunts.
-1C2-E-TEST-0034-119.39/001	Russell's rock group is named 30 Odd Foot of Grunts.
-1C2-E-TEST-0034-119.40	"They played their first US concert following Russell's success in Gladiator (2000) in Austin, Texas in August 2000."
-1C2-E-TEST-0034-119.40/001	following Russell's success in Gladiator 2000
+1C2-E-TEST-0034-119.24	"Missing the Oscar nod this time around he didn't seem deterred and signed to do his first film with The Walt Disney Company, Mystery, Alaska (1999)."	
+1C2-E-TEST-0034-119.24/001	Missing the Oscar nod this time around he didn't seem deterred 	
+1C2-E-TEST-0034-119.24/002	"he signed to do his first film with The Walt Disney Company, Mystery, Alaska 1999"	
+1C2-E-TEST-0034-119.39	Russell's rock group is named 30 Odd Foot of Grunts.	
+1C2-E-TEST-0034-119.39/001	Russell's rock group is named 30 Odd Foot of Grunts.	
+1C2-E-TEST-0034-119.40	"They played their first US concert following Russell's success in Gladiator (2000) in Austin, Texas in August 2000."	
+1C2-E-TEST-0034-119.40/001	following Russell's success in Gladiator 2000	
 1C2-E-TEST-0034-119.40/002	"They played their first US concert in Austin, Texas in August 2000"	DEP=1C2-E-TEST-0034-119.40001
-1C2-E-TEST-0034-137.9	He first co-starred with Denzel Washington in Virtuosity in 1995.
-1C2-E-TEST-0034-137.9/001	He first co-starred with Denzel Washington in Virtuosity in 1995.
-1C2-E-TEST-0034-14.20	"That same year, Crowe - who had been a musician since he was a teenager - formed the rock band 30 Odd Foot of Grunts with his old mates from Australia."
-1C2-E-TEST-0034-14.20/001	"That same year, Crowe formed the rock band 30 Odd Foot of Grunts with his old mates from Australia."
+1C2-E-TEST-0034-137.9	He first co-starred with Denzel Washington in Virtuosity in 1995.	
+1C2-E-TEST-0034-137.9/001	He first co-starred with Denzel Washington in Virtuosity in 1995.	
+1C2-E-TEST-0034-14.20	"That same year, Crowe - who had been a musician since he was a teenager - formed the rock band 30 Odd Foot of Grunts with his old mates from Australia."	
+1C2-E-TEST-0034-14.20/001	"That same year, Crowe formed the rock band 30 Odd Foot of Grunts with his old mates from Australia."	
 1C2-E-TEST-0034-14.20/002	who had been a musician since he was a teenager	DEP=1C2-E-TEST-0034-14.20001
-1C2-E-TEST-0034-14.39	"His beautifully realized, nuanced performance ranked as one of his best to date and earned the actor his third consecutive Best Actor Academy Award nomination, as well as a Golden Globe Award for Best Performance by an Actor in a Motion Picture - Drama."
-1C2-E-TEST-0034-14.39/001	"His beautifully realized, nuanced performance ranked as one of his best to date"
-1C2-E-TEST-0034-14.39/002	it earned the actor his third consecutive Best Actor Academy Award nomination
-1C2-E-TEST-0034-14.39/003	it earned the actor a Golden Globe Award for Best Performance by an Actor in a Motion Picture - Drama.
-1C2-E-TEST-0034-14.41	"During Crowe's acceptance of a BAFTA for Best Actor for ""A Beautiful Mind,"" the BAFTA show's producer cut him off mid-speech and mid-poem, causing a fracas backstage when Crowe reportedly pinned the producer against the wall, threatening him and hurling obscenities."
-1C2-E-TEST-0034-14.41/001	"During Crowe's acceptance of a BAFTA for Best Actor for ""A Beautiful Mind,"" the BAFTA show's producer cut him off mid-speech and mid-poem"
+1C2-E-TEST-0034-14.39	"His beautifully realized, nuanced performance ranked as one of his best to date and earned the actor his third consecutive Best Actor Academy Award nomination, as well as a Golden Globe Award for Best Performance by an Actor in a Motion Picture - Drama."	
+1C2-E-TEST-0034-14.39/001	"His beautifully realized, nuanced performance ranked as one of his best to date"	
+1C2-E-TEST-0034-14.39/002	it earned the actor his third consecutive Best Actor Academy Award nomination	
+1C2-E-TEST-0034-14.39/003	it earned the actor a Golden Globe Award for Best Performance by an Actor in a Motion Picture - Drama.	
+1C2-E-TEST-0034-14.41	"During Crowe's acceptance of a BAFTA for Best Actor for ""A Beautiful Mind,"" the BAFTA show's producer cut him off mid-speech and mid-poem, causing a fracas backstage when Crowe reportedly pinned the producer against the wall, threatening him and hurling obscenities."	
+1C2-E-TEST-0034-14.41/001	"During Crowe's acceptance of a BAFTA for Best Actor for ""A Beautiful Mind,"" the BAFTA show's producer cut him off mid-speech and mid-poem"	
 1C2-E-TEST-0034-14.41/002	that caused a fracas backstage 	DEP=1C2-E-TEST-0034-14.41001
 1C2-E-TEST-0034-14.41/003	"when Crowe reportedly pinned the producer against the wall, threatening him and hurling obscenities"	DEP=1C2-E-TEST-0034-14.41002
-1C2-E-TEST-0034-171.36	"He first co-starred with Denzel Washington in Virtuosity , and with Sharon Stone in The Quick and the Dead in 1995."
-1C2-E-TEST-0034-171.36/001	"He first co-starred with Denzel Washington in Virtuosity , "
-1C2-E-TEST-0034-171.36/002	He first co-starred with Sharon Stone in The Quick and the Dead in 1995.
-1C2-E-TEST-0034-171.37	"He went on to become a three-time Oscar nominee, winning the Academy Award as Best Actor in 2001 for Gladiator ."
-1C2-E-TEST-0034-171.37/001	He went on to become a three-time Oscar nominee
-1C2-E-TEST-0034-171.37/002	he won the Academy Award as Best Actor in 2001 for Gladiator .
-1C2-E-TEST-0034-171.45	"All three films were also nominated for best picture, and both Gladiator and A Beautiful Mind won the award."
-1C2-E-TEST-0034-171.45/001	All three films were also nominated for best picture
-1C2-E-TEST-0034-171.45/002	 both Gladiator and A Beautiful Mind won the award
-1C2-E-TEST-0034-215.10	"Crowe's maternal grandfather, Stan Wemyss, was a cinematographer who, according to Crowe, produced the first film by New Zealander Geoff Murphy, and was also named an MBE for filming footage of World War II."
-1C2-E-TEST-0034-215.10/001	"Crowe's maternal grandfather, Stan Wemyss, was a cinematographer "
+1C2-E-TEST-0034-171.36	"He first co-starred with Denzel Washington in Virtuosity , and with Sharon Stone in The Quick and the Dead in 1995."	
+1C2-E-TEST-0034-171.36/001	"He first co-starred with Denzel Washington in Virtuosity , "	
+1C2-E-TEST-0034-171.36/002	He first co-starred with Sharon Stone in The Quick and the Dead in 1995.	
+1C2-E-TEST-0034-171.37	"He went on to become a three-time Oscar nominee, winning the Academy Award as Best Actor in 2001 for Gladiator ."	
+1C2-E-TEST-0034-171.37/001	He went on to become a three-time Oscar nominee	
+1C2-E-TEST-0034-171.37/002	he won the Academy Award as Best Actor in 2001 for Gladiator .	
+1C2-E-TEST-0034-171.45	"All three films were also nominated for best picture, and both Gladiator and A Beautiful Mind won the award."	
+1C2-E-TEST-0034-171.45/001	All three films were also nominated for best picture	
+1C2-E-TEST-0034-171.45/002	 both Gladiator and A Beautiful Mind won the award	
+1C2-E-TEST-0034-215.10	"Crowe's maternal grandfather, Stan Wemyss, was a cinematographer who, according to Crowe, produced the first film by New Zealander Geoff Murphy, and was also named an MBE for filming footage of World War II."	
+1C2-E-TEST-0034-215.10/001	"Crowe's maternal grandfather, Stan Wemyss, was a cinematographer "	
 1C2-E-TEST-0034-215.10/002	"who, according to Crowe, produced the first film by New Zealander Geoff Murphy"	DEP=1C2-E-TEST-0034-215.10001
 1C2-E-TEST-0034-215.10/003	he was also named an MBE for filming footage of World War II.	DEP=1C2-E-TEST-0034-215.10001
-1C2-E-TEST-0034-215.11	"Crowe's maternal great-great grandmother was Mori, and as a result Crowe is registered on the Mori electoral roll in New Zealand; Crowe also has Welsh, Scottish, Norwegian, English and Irish ancestry.Two of Russell Crowe's cousins, Martin and Jeff Crowe are former New Zealand national cricket captains."
-1C2-E-TEST-0034-215.11/001	Crowe's maternal great-great grandmother was Mori
+1C2-E-TEST-0034-215.11	"Crowe's maternal great-great grandmother was Mori, and as a result Crowe is registered on the Mori electoral roll in New Zealand; Crowe also has Welsh, Scottish, Norwegian, English and Irish ancestry.Two of Russell Crowe's cousins, Martin and Jeff Crowe are former New Zealand national cricket captains."	
+1C2-E-TEST-0034-215.11/001	Crowe's maternal great-great grandmother was Mori	
 1C2-E-TEST-0034-215.11/002	 as a result Crowe is registered on the Mori electoral roll in New Zealand	DEP=1C2-E-TEST-0034-215.11001
-1C2-E-TEST-0034-215.11/003	"Crowe also has Welsh, Scottish, Norwegian, English and Irish ancestry"
-1C2-E-TEST-0034-215.11/004	"Two of Russell Crowe's cousins, Martin and Jeff Crowe are former New Zealand national cricket captains"
-1C2-E-TEST-0034-215.13	"The producer of the Australian TV series Spyforce was his mother's godfather, and Crowe at age five or six was hired for a line of dialogue in one episode, opposite series star Jack Thompson, who years later played Crowe's father in The Sum of Us and who coincidentally had been educated at the same school which Crowe was to attend for two years: Sydney Boys High School."
-1C2-E-TEST-0034-215.13/001	The producer of the Australian TV series Spyforce was his mother's godfather
-1C2-E-TEST-0034-215.13/002	"Crowe at age five or six was hired for a line of dialogue in one episode, opposite series star Jack Thompson"
+1C2-E-TEST-0034-215.11/003	"Crowe also has Welsh, Scottish, Norwegian, English and Irish ancestry"	
+1C2-E-TEST-0034-215.11/004	"Two of Russell Crowe's cousins, Martin and Jeff Crowe are former New Zealand national cricket captains"	
+1C2-E-TEST-0034-215.13	"The producer of the Australian TV series Spyforce was his mother's godfather, and Crowe at age five or six was hired for a line of dialogue in one episode, opposite series star Jack Thompson, who years later played Crowe's father in The Sum of Us and who coincidentally had been educated at the same school which Crowe was to attend for two years: Sydney Boys High School."	
+1C2-E-TEST-0034-215.13/001	The producer of the Australian TV series Spyforce was his mother's godfather	
+1C2-E-TEST-0034-215.13/002	"Crowe at age five or six was hired for a line of dialogue in one episode, opposite series star Jack Thompson"	
 1C2-E-TEST-0034-215.13/003	jack thompson years later played Crowe's father in The Sum of Us and who coincidentally had been educated at the same school which Crowe was to attend for two years: Sydney Boys High School.	DEP=1C2-E-TEST-0034-215.13002
-1C2-E-TEST-0034-215.2	"Russell Ira Crowe (born 7 April 1964) is an Academy Award-, BAFTA-, Golden Globe-, and Screen Actors Guild Award- winning New Zealand and Australian actor."
-1C2-E-TEST-0034-215.2/001	Russell Ira Crowe was born on 7 April 1964
-1C2-E-TEST-0034-215.2/002	"russell Ira crowe is an Academy Award-, BAFTA-, Golden Globe-, and Screen Actors Guild Award- winning New Zealand and Australian actor"
-1C2-E-TEST-0034-215.20	In 1986 he was given his first professional role by director Daniel Abineri in a production of The Rocky Horror Show.
-1C2-E-TEST-0034-215.20/001	In 1986 he was given his first professional role 
+1C2-E-TEST-0034-215.2	"Russell Ira Crowe (born 7 April 1964) is an Academy Award-, BAFTA-, Golden Globe-, and Screen Actors Guild Award- winning New Zealand and Australian actor."	
+1C2-E-TEST-0034-215.2/001	Russell Ira Crowe was born on 7 April 1964	
+1C2-E-TEST-0034-215.2/002	"russell Ira crowe is an Academy Award-, BAFTA-, Golden Globe-, and Screen Actors Guild Award- winning New Zealand and Australian actor"	
+1C2-E-TEST-0034-215.20	In 1986 he was given his first professional role by director Daniel Abineri in a production of The Rocky Horror Show.	
+1C2-E-TEST-0034-215.20/001	In 1986 he was given his first professional role 	
 1C2-E-TEST-0034-215.20/002	role was given by director Daniel Abineri	DEP=1C2-E-TEST-0034-215.20001
 1C2-E-TEST-0034-215.20/003	the role was in a production of The Rocky Horror Show.	DEP=1C2-E-TEST-0034-215.20001
-1C2-E-TEST-0034-215.22	"In the 1988 Australian production of Blood Brothers, Crowe played the role of Mickey.He was also cast again by Daniel Abineri in the role of Johnny in the stage musical of Bad Boy Johnny and the Prophets of Doom in 1989."
-1C2-E-TEST-0034-215.22/001	"In the 1988 Australian production of Blood Brothers, Crowe played the role of Mickey"
-1C2-E-TEST-0034-215.22/002	He was also cast again by Daniel Abineri in the role of Johnny in the stage musical of Bad Boy Johnny and the Prophets of Doom in 1989
-1C2-E-TEST-0034-215.28	"After appearing in the TV series Neighbours and Living with the Law, Crowe was cast in his first film, The Crossing (1990), a small-town love triangle directed by George Ogilvie."
-1C2-E-TEST-0034-215.28/001	"After appearing in the TV series Neighbours and Living with the Law, Crowe was cast in his first film"
+1C2-E-TEST-0034-215.22	"In the 1988 Australian production of Blood Brothers, Crowe played the role of Mickey.He was also cast again by Daniel Abineri in the role of Johnny in the stage musical of Bad Boy Johnny and the Prophets of Doom in 1989."	
+1C2-E-TEST-0034-215.22/001	"In the 1988 Australian production of Blood Brothers, Crowe played the role of Mickey"	
+1C2-E-TEST-0034-215.22/002	He was also cast again by Daniel Abineri in the role of Johnny in the stage musical of Bad Boy Johnny and the Prophets of Doom in 1989	
+1C2-E-TEST-0034-215.28	"After appearing in the TV series Neighbours and Living with the Law, Crowe was cast in his first film, The Crossing (1990), a small-town love triangle directed by George Ogilvie."	
+1C2-E-TEST-0034-215.28/001	"After appearing in the TV series Neighbours and Living with the Law, Crowe was cast in his first film"	
 1C2-E-TEST-0034-215.28/002	 The Crossing in 1990	DEP=1C2-E-TEST-0034-215.28001
 1C2-E-TEST-0034-215.28/003	 the film was a small-town love triangle directed by George Ogilvie	DEP=1C2-E-TEST-0034-215.28002
-1C2-E-TEST-0034-215.30	"In 1992, Crowe starred in the first episode of the second series of Police Rescue."
-1C2-E-TEST-0034-215.30/001	"In 1992, Crowe starred in the first episode of the second series of Police Rescue"
-1C2-E-TEST-0034-215.31	"Also in 1992 Crowe starred in Romper Stomper, an Australian film which follows the exploits and downfall of a racist skinhead group in blue-collar suburban Melbourne, directed by Geoffrey Wright."
-1C2-E-TEST-0034-215.31/001	Also in 1992 Crowe starred in Romper Stomper
+1C2-E-TEST-0034-215.30	"In 1992, Crowe starred in the first episode of the second series of Police Rescue."	
+1C2-E-TEST-0034-215.30/001	"In 1992, Crowe starred in the first episode of the second series of Police Rescue"	
+1C2-E-TEST-0034-215.31	"Also in 1992 Crowe starred in Romper Stomper, an Australian film which follows the exploits and downfall of a racist skinhead group in blue-collar suburban Melbourne, directed by Geoffrey Wright."	
+1C2-E-TEST-0034-215.31/001	Also in 1992 Crowe starred in Romper Stomper	
 1C2-E-TEST-0034-215.31/002	romper stomper is an Australian film 	DEP=1C2-E-TEST-0034-215.31001
 1C2-E-TEST-0034-215.31/003	which follows the exploits and downfall of a racist skinhead group in blue-collar suburban Melbourne	DEP=1C2-E-TEST-0034-215.31002
 1C2-E-TEST-0034-215.31/004	romper stomper was directed by Geoffrey Wright	DEP=1C2-E-TEST-0034-215.31003
-1C2-E-TEST-0034-215.33	"He went on to become a three-time Oscar nominee, winning the Academy Award as Best Actor in 2001 for Gladiator."
-1C2-E-TEST-0034-215.33/001	He went on to become a three-time Oscar nominee
-1C2-E-TEST-0034-215.33/002	he won the Academy Award as Best Actor in 2001 for Gladiator
-1C2-E-TEST-0034-215.34	Crowe wore his grandfather Stan Wemyss's Member of the Order of the British Empire medal to the ceremony.
-1C2-E-TEST-0034-215.34/001	Crowe wore his grandfather Stan Wemyss's Member of the Order of the British Empire medal to the ceremony
-1C2-E-TEST-0034-215.35	"Crowe received three consecutive best actor Oscar nominations for The Insider, Gladiator and A Beautiful Mind."
-1C2-E-TEST-0034-215.35/001	Crowe received three consecutive best actor Oscar nominations
+1C2-E-TEST-0034-215.33	"He went on to become a three-time Oscar nominee, winning the Academy Award as Best Actor in 2001 for Gladiator."	
+1C2-E-TEST-0034-215.33/001	He went on to become a three-time Oscar nominee	
+1C2-E-TEST-0034-215.33/002	he won the Academy Award as Best Actor in 2001 for Gladiator	
+1C2-E-TEST-0034-215.34	Crowe wore his grandfather Stan Wemyss's Member of the Order of the British Empire medal to the ceremony.	
+1C2-E-TEST-0034-215.34/001	Crowe wore his grandfather Stan Wemyss's Member of the Order of the British Empire medal to the ceremony	
+1C2-E-TEST-0034-215.35	"Crowe received three consecutive best actor Oscar nominations for The Insider, Gladiator and A Beautiful Mind."	
+1C2-E-TEST-0034-215.35/001	Crowe received three consecutive best actor Oscar nominations	
 1C2-E-TEST-0034-215.35/002	" for The Insider, Gladiator and A Beautiful Mind"	DEP=1C2-E-TEST-0034-215.35001
-1C2-E-TEST-0034-215.49	"Crowe recalled that ""it was something to do with some recording picked up by a French policewoman, I think, in either Libya or Algiers...it was about taking iconographic Americans out of the picture as a sort of cultural-destabilization plan""."
-1C2-E-TEST-0034-215.49/001	Crowe recalled
+1C2-E-TEST-0034-215.49	"Crowe recalled that ""it was something to do with some recording picked up by a French policewoman, I think, in either Libya or Algiers...it was about taking iconographic Americans out of the picture as a sort of cultural-destabilization plan""."	
+1C2-E-TEST-0034-215.49/001	Crowe recalled	
 1C2-E-TEST-0034-215.49/002	" it was something to do with some recording picked up by a French policewoman, I think, in either Libya or Algiers"	DEP=1C2-E-TEST-0034-215.49001
 1C2-E-TEST-0034-215.49/003	it was about taking iconographic Americans out of the picture as a sort of cultural-destabilization plan	DEP=1C2-E-TEST-0034-215.49001
-1C2-E-TEST-0034-215.5	"In the 2000s, he has been nominated for three Oscars, and in 2000, he won the Academy Award for Best Actor for his starring role in the film Gladiator."
-1C2-E-TEST-0034-215.5/001	"In the 2000s, he has been nominated for three Oscars"
-1C2-E-TEST-0034-215.5/002	in 2000 he won the Academy Award for Best Actor for his starring role in the film Gladiator
-1C2-E-TEST-0034-263.132	"The irony being that he is a New Zealand born Australian, who has often made clear his dislike of being in Hollywood."
-1C2-E-TEST-0034-263.132/001	The irony being that he is a New Zealand born Australian
+1C2-E-TEST-0034-215.5	"In the 2000s, he has been nominated for three Oscars, and in 2000, he won the Academy Award for Best Actor for his starring role in the film Gladiator."	
+1C2-E-TEST-0034-215.5/001	"In the 2000s, he has been nominated for three Oscars"	
+1C2-E-TEST-0034-215.5/002	in 2000 he won the Academy Award for Best Actor for his starring role in the film Gladiator	
+1C2-E-TEST-0034-263.132	"The irony being that he is a New Zealand born Australian, who has often made clear his dislike of being in Hollywood."	
+1C2-E-TEST-0034-263.132/001	The irony being that he is a New Zealand born Australian	
 1C2-E-TEST-0034-263.132/002	 who has often made clear his dislike of being in Hollywood	DEP=1C2-E-TEST-0034-263.132001
-1C2-E-TEST-0034-277.41	"After initial success in Australia, Crowe began acting in American films. He first co-starred with Denzel Washington in Virtuosity in 1995."
-1C2-E-TEST-0034-277.41/001	Crowe began acting in American films
+1C2-E-TEST-0034-277.41	"After initial success in Australia, Crowe began acting in American films. He first co-starred with Denzel Washington in Virtuosity in 1995."	
+1C2-E-TEST-0034-277.41/001	Crowe began acting in American films	
 1C2-E-TEST-0034-277.41/002	After initial success in Australia	DEP=1C2-E-TEST-0034-277.41001
-1C2-E-TEST-0034-277.41/003	He first co-starred with Denzel Washington in Virtuosity in 1995
-1C2-E-TEST-0034-277.54	"All three films were also nominated for best picture, and both Gladiator and A Beautiful Mind won the award. Within the six year stretch from 1997-2003, he also starred in two other best picture nominees, L.A. Confidential and Master and Commander: The Far Side of the World , though he was nominated for neither."
-1C2-E-TEST-0034-277.54/001	All three films were also nominated for best picture
-1C2-E-TEST-0034-277.54/002	both Gladiator and A Beautiful Mind won the award
-1C2-E-TEST-0034-277.54/003	"Within the six year stretch from 1997-2003, he also starred in two other best picture nominees"
+1C2-E-TEST-0034-277.41/003	He first co-starred with Denzel Washington in Virtuosity in 1995	
+1C2-E-TEST-0034-277.54	"All three films were also nominated for best picture, and both Gladiator and A Beautiful Mind won the award. Within the six year stretch from 1997-2003, he also starred in two other best picture nominees, L.A. Confidential and Master and Commander: The Far Side of the World , though he was nominated for neither."	
+1C2-E-TEST-0034-277.54/001	All three films were also nominated for best picture	
+1C2-E-TEST-0034-277.54/002	both Gladiator and A Beautiful Mind won the award	
+1C2-E-TEST-0034-277.54/003	"Within the six year stretch from 1997-2003, he also starred in two other best picture nominees"	
 1C2-E-TEST-0034-277.54/004	 L.A. Confidential and Master and Commander: The Far Side of the World	DEP=1C2-E-TEST-0034-277.54002
 1C2-E-TEST-0034-277.54/005	 though he was nominated for neither.	DEP=1C2-E-TEST-0034-277.54003
-1C2-E-TEST-0034-309.12	"Quotes: ""One of the most painful things of the LA Confidential character I played was that the author, James Ellroy, kept telling me that Bud White wasn't a drinker."		"One of the most painful things of the LA Confidential character I played was that the author, James Ellroy, kept telling me that Bud White wasn't a drinker"
-1C2-E-TEST-0034-309.12/001	Quotes	DEP=1C2-E-TEST-0034-309.12001
-1C2-E-TEST-0034-309.19	"If you grow up in the suburbs of anywhere, a dream like this seems kind of vaguely ludicrous and completely unattainable."
-1C2-E-TEST-0034-309.19/001	"If you grow up in the suburbs of anywhere, a dream like this seems kind of vaguely ludicrous "
+1C2-E-TEST-0034-309.12	"Quotes: ""One of the most painful things of the LA Confidential character I played was that the author, James Ellroy, kept telling me that Bud White wasn't a drinker."	
+1C2-E-TEST-0034-309.12/001	"One of the most painful things of the LA Confidential character I played was that the author, James Ellroy, kept telling me that Bud White wasn't a drinker"	
+1C2-E-TEST-0034-309.12/002	Quotes	DEP=1C2-E-TEST-0034-309.12001
+1C2-E-TEST-0034-309.19	"If you grow up in the suburbs of anywhere, a dream like this seems kind of vaguely ludicrous and completely unattainable."	
+1C2-E-TEST-0034-309.19/001	"If you grow up in the suburbs of anywhere, a dream like this seems kind of vaguely ludicrous "	
 1C2-E-TEST-0034-309.19/002	and completely unattainable	DEP=1C2-E-TEST-0034-309.19001
-1C2-E-TEST-0034-309.27	"It's cobbled together."" - Russell Crowe expressing surprise that a low-budget documentary of his band, 30 Odd Foot of Grunts, has been picked up for worldwide distribution."
-1C2-E-TEST-0034-309.27/001	It's cobbled together
-1C2-E-TEST-0034-309.27/002	Russell Crowe expressing surprise that a low-budget documentary of his band has been picked up for worldwide distribution.
+1C2-E-TEST-0034-309.27	"It's cobbled together."" - Russell Crowe expressing surprise that a low-budget documentary of his band, 30 Odd Foot of Grunts, has been picked up for worldwide distribution."	
+1C2-E-TEST-0034-309.27/001	It's cobbled together	
+1C2-E-TEST-0034-309.27/002	Russell Crowe expressing surprise that a low-budget documentary of his band has been picked up for worldwide distribution.	
 1C2-E-TEST-0034-309.27/003	 30 Odd Foot of Grunts	DEP=1C2-E-TEST-0034-309.27002
-1C2-E-TEST-0034-399.109	"After The Insider (1999), I know the exact chemical compounds in a commercial cigarette, but I`ve been smoking since I was 10."
-1C2-E-TEST-0034-399.109/001	"After The Insider (1999), I know the exact chemical compounds in a commercial cigarette"
+1C2-E-TEST-0034-399.109	"After The Insider (1999), I know the exact chemical compounds in a commercial cigarette, but I`ve been smoking since I was 10."	
+1C2-E-TEST-0034-399.109/001	"After The Insider (1999), I know the exact chemical compounds in a commercial cigarette"	
 1C2-E-TEST-0034-399.109/002	 but I`ve been smoking since I was 10	DEP=1C2-E-TEST-0034-399.109001
-1C2-E-TEST-0034-399.136	"I want to make movies that pierce people`s hearts and touch them in some way, even if it`s just for the night while they`re in the cinema; in that moment, I want to bring actual tears to their eyes and goosebumps to their skin."
-1C2-E-TEST-0034-399.136/001	I want to make movies that pierce people's hearts and touch them in some way 
+1C2-E-TEST-0034-399.136	"I want to make movies that pierce people`s hearts and touch them in some way, even if it`s just for the night while they`re in the cinema; in that moment, I want to bring actual tears to their eyes and goosebumps to their skin."	
+1C2-E-TEST-0034-399.136/001	I want to make movies that pierce people's hearts and touch them in some way 	
 1C2-E-TEST-0034-399.136/002	even if it's just for the night while they're in the cinema	DEP=1C2-E-TEST-0034-399.136001
 1C2-E-TEST-0034-399.136/003	"in that moment, I want to bring actual tears to their eyes and goosebumps to their skin."	DEP=1C2-E-TEST-0034-399.136001
-1C2-E-TEST-0034-399.17	"It`s cobbled together."" -- expressing surprise that a low-budget documentary of his band, 30 Odd Foot of Grunts, has been picked up for worldwide distribution."
-1C2-E-TEST-0034-399.17/001	It`s cobbled together expressing surprise that a low-budget documentary of his band has been picked up for worldwide distribution
+1C2-E-TEST-0034-399.17	"It`s cobbled together."" -- expressing surprise that a low-budget documentary of his band, 30 Odd Foot of Grunts, has been picked up for worldwide distribution."	
+1C2-E-TEST-0034-399.17/001	It`s cobbled together expressing surprise that a low-budget documentary of his band has been picked up for worldwide distribution	
 1C2-E-TEST-0034-399.17/002	 30 Odd Foot of Grunts	DEP=1C2-E-TEST-0034-399.17001
-1C2-E-TEST-0034-399.3	"One of the most painful things of the L.A. Confidential (1997) character I played was that the author, James Ellroy, kept telling me that Bud White wasn`t a drinker."
-1C2-E-TEST-0034-399.3/00`	"One of the most painful things of the L.A. Confidential in 1997 character I played was that the author, James Ellroy, kept telling me that Bud White wasn`t a drinker"
-1C2-E-TEST-0034-427.32	"He went on to become a three-time Oscar nominee, winning the Academy Award as Best Actor in 2001 for Gladiator."
-1C2-E-TEST-0034-427.32/001	He went on to become a three-time Oscar nominee
-1C2-E-TEST-0034-427.32/002	he won the Academy Award as Best Actor in 2001 for Gladiator
-1C2-E-TEST-0034-427.33	Crowe wore his grandfather Stan Wemysss Member of the Order of the British Empire medal to the ceremony.
-1C2-E-TEST-0034-427.33/001	Crowe wore his grandfather Stan Wemyss Member of the Order of the British Empire medal to the ceremony
-1C2-E-TEST-0034-427.35	Crowe won the best actor award for A Beautiful Mind at the 2002 BAFTA award ceremony.
-1C2-E-TEST-0034-427.35/001	Crowe won the best actor award for A Beautiful Mind 
-1C2-E-TEST-0034-427.35/002	crowe won the award at the 2002 BAFTA award ceremony
-1C2-E-TEST-0034-427.40	In 2005 he re-teamed with A Beautiful Mind director Ron Howard for Cinderella Man.
-1C2-E-TEST-0034-427.40/001	In 2005 he re-teamed with A Beautiful Mind director Ron Howard 
+1C2-E-TEST-0034-399.3	"One of the most painful things of the L.A. Confidential (1997) character I played was that the author, James Ellroy, kept telling me that Bud White wasn`t a drinker."	
+1C2-E-TEST-0034-399.3/00`	"One of the most painful things of the L.A. Confidential in 1997 character I played was that the author, James Ellroy, kept telling me that Bud White wasn`t a drinker"	
+1C2-E-TEST-0034-427.32	"He went on to become a three-time Oscar nominee, winning the Academy Award as Best Actor in 2001 for Gladiator."	
+1C2-E-TEST-0034-427.32/001	He went on to become a three-time Oscar nominee	
+1C2-E-TEST-0034-427.32/002	he won the Academy Award as Best Actor in 2001 for Gladiator	
+1C2-E-TEST-0034-427.33	Crowe wore his grandfather Stan Wemysss Member of the Order of the British Empire medal to the ceremony.	
+1C2-E-TEST-0034-427.33/001	Crowe wore his grandfather Stan Wemyss Member of the Order of the British Empire medal to the ceremony	
+1C2-E-TEST-0034-427.35	Crowe won the best actor award for A Beautiful Mind at the 2002 BAFTA award ceremony.	
+1C2-E-TEST-0034-427.35/001	Crowe won the best actor award for A Beautiful Mind 	
+1C2-E-TEST-0034-427.35/002	crowe won the award at the 2002 BAFTA award ceremony	
+1C2-E-TEST-0034-427.40	In 2005 he re-teamed with A Beautiful Mind director Ron Howard for Cinderella Man.	
+1C2-E-TEST-0034-427.40/001	In 2005 he re-teamed with A Beautiful Mind director Ron Howard 	
 1C2-E-TEST-0034-427.40/002	for Cinderella Man	DEP=1C2-E-TEST-0034-427.40001
-1C2-E-TEST-0034-427.41	"In 2006 he re-teamed with Gladiator director Ridley Scott for A Good Year, the first of two consecutive collaborations (the second being American Gangster co-starring again with Denzel Washington, released in late 2007)."
-1C2-E-TEST-0034-427.41/001	In 2006 he re-teamed with Gladiator director Ridley Scott 
+1C2-E-TEST-0034-427.41	"In 2006 he re-teamed with Gladiator director Ridley Scott for A Good Year, the first of two consecutive collaborations (the second being American Gangster co-starring again with Denzel Washington, released in late 2007)."	
+1C2-E-TEST-0034-427.41/001	In 2006 he re-teamed with Gladiator director Ridley Scott 	
 1C2-E-TEST-0034-427.41/002	for A Good Year	DEP=1C2-E-TEST-0034-427.41001
 1C2-E-TEST-0034-427.41/003	the first of two consecutive collaborations 	DEP=1C2-E-TEST-0034-427.41001
 1C2-E-TEST-0034-427.41/004	"the second being American Gangster co-starring again with Denzel Washington, released in late 2007"	DEP=1C2-E-TEST-0034-427.41003
-1C2-E-TEST-0034-47.3	Russell Crowe is a New Zealand / Australian actor.
-1C2-E-TEST-0034-47.4	He is perhaps best known for his Academy Award-winning role in Gladiator.
-1C2-E-TEST-0034-47.4/001	He is perhaps best known for his Academy Award-winning role in Gladiator
-1C2-E-TEST-0034-47.6	Russell Crowe was born in Wellington in New Zealand.
-1C2-E-TEST-0034-56.1	"2002: BAFTA Award for Best Actor in ""A Beautiful Mind""."
-1C2-E-TEST-0034-56.1/001	2002 BAFTA Award for Best Actor in A Beautiful Mind
-1C2-E-TEST-0034-56.12	"2000: Broadcast Film Critics Association Award for Best Actor in ""Gladiator""."
-1C2-E-TEST-0034-56.12/001	2000: Broadcast Film Critics Association Award for Best Actor in Gladiator
-1C2-E-TEST-0034-56.3	"2001: Broadcast Film Critics Association Award for Best Actor in ""A Beautiful Mind""."
-1C2-E-TEST-0034-56.3/001	2001: Broadcast Film Critics Association Award for Best Actor in A Beautiful Mind
-1C2-E-TEST-0034-98.14	"One of the most painful things of the L.A. Confidential (1997) character I played was that the author, James Ellroy , kept telling me that Bud White wasn't a drinker.I said, 'come on, this is 1953.He's a blue-collar bloke, a cop. You're telling me he doesn't sit around with the boys after his shift and have a beer?And Ellroy says, 'absolutely not'.So for five months and seven days, I didn't have a drink.It's probably the most painful period of my life""."
-1C2-E-TEST-0034-98.14/001	"One of the most painful things of the L.A. Confidential (1997) character I played was that the author, James Ellroy , kept telling me that Bud White wasn't a drinker"
+1C2-E-TEST-0034-47.3	Russell Crowe is a New Zealand / Australian actor.	
+1C2-E-TEST-0034-47.4	He is perhaps best known for his Academy Award-winning role in Gladiator.	
+1C2-E-TEST-0034-47.4/001	He is perhaps best known for his Academy Award-winning role in Gladiator	
+1C2-E-TEST-0034-47.6	Russell Crowe was born in Wellington in New Zealand.	
+1C2-E-TEST-0034-56.1	"2002: BAFTA Award for Best Actor in ""A Beautiful Mind""."	
+1C2-E-TEST-0034-56.1/001	2002 BAFTA Award for Best Actor in A Beautiful Mind	
+1C2-E-TEST-0034-56.12	"2000: Broadcast Film Critics Association Award for Best Actor in ""Gladiator""."	
+1C2-E-TEST-0034-56.12/001	2000: Broadcast Film Critics Association Award for Best Actor in Gladiator	
+1C2-E-TEST-0034-56.3	"2001: Broadcast Film Critics Association Award for Best Actor in ""A Beautiful Mind""."	
+1C2-E-TEST-0034-56.3/001	2001: Broadcast Film Critics Association Award for Best Actor in A Beautiful Mind	
+1C2-E-TEST-0034-98.14	"One of the most painful things of the L.A. Confidential (1997) character I played was that the author, James Ellroy , kept telling me that Bud White wasn't a drinker.I said, 'come on, this is 1953.He's a blue-collar bloke, a cop. You're telling me he doesn't sit around with the boys after his shift and have a beer?And Ellroy says, 'absolutely not'.So for five months and seven days, I didn't have a drink.It's probably the most painful period of my life""."	
+1C2-E-TEST-0034-98.14/001	"One of the most painful things of the L.A. Confidential (1997) character I played was that the author, James Ellroy , kept telling me that Bud White wasn't a drinker"	
 1C2-E-TEST-0034-98.14/002	".I said, 'come on, this is 1953"	DEP=1C2-E-TEST-0034-98.14001
 1C2-E-TEST-0034-98.14/003	"He's a blue-collar bloke, a cop"	DEP=1C2-E-TEST-0034-98.14002
 1C2-E-TEST-0034-98.14/004	You're telling me he doesn't sit around with the boys after his shift and have a beer?	DEP=1C2-E-TEST-0034-98.14003
 1C2-E-TEST-0034-98.14/005	"And Ellroy says, 'absolutely not"	DEP=1C2-E-TEST-0034-98.14004
 1C2-E-TEST-0034-98.14/006	"So for five months and seven days, I didn't have a drink"	DEP=1C2-E-TEST-0034-98.14005
 1C2-E-TEST-0034-98.14/007	It's probably the most painful period of my life	DEP=1C2-E-TEST-0034-98.14006
-1C2-E-TEST-0034-98.16	"[on winning the Best Actor Oscar] ""If you grow up in the suburbs of anywhere, a dream like this seems kind of vaguely ludicrous and completely unattainable."
-1C2-E-TEST-0034-98.16/001	"If you grow up in the suburbs of anywhere, a dream like this seems kind of vaguely ludicrous and completely unattainable"
+1C2-E-TEST-0034-98.16	"[on winning the Best Actor Oscar] ""If you grow up in the suburbs of anywhere, a dream like this seems kind of vaguely ludicrous and completely unattainable."	
+1C2-E-TEST-0034-98.16/001	"If you grow up in the suburbs of anywhere, a dream like this seems kind of vaguely ludicrous and completely unattainable"	
 1C2-E-TEST-0034-98.16/002	crowe said on winning the Best Actor Oscar	DEP=1C2-E-TEST-0034-98.16001
-1C2-E-TEST-0034-98.24	"It's cobbled together."" -- expressing surprise that a low-budget documentary of his band, 30 Odd Foot of Grunts, has been picked up for worldwide distribution."
-1C2-E-TEST-0034-98.24/001	It's cobbled together
+1C2-E-TEST-0034-98.24	"It's cobbled together."" -- expressing surprise that a low-budget documentary of his band, 30 Odd Foot of Grunts, has been picked up for worldwide distribution."	
+1C2-E-TEST-0034-98.24/001	It's cobbled together	
 1C2-E-TEST-0034-98.24/002	" expressing surprise that a low-budget documentary of his band, 30 Odd Foot of Grunts, has been picked up for worldwide distribution"	DEP=1C2-E-TEST-0034-98.24001
-1C2-E-TEST-0034-98.39	"All that stuff, this public persona of me - let's call him 'the wild man' - that is not helpful."
-1C2-E-TEST-0034-98.40	"It doesn't make me more of a box office draw. It's the quality of my work that makes people want to go to my films."""
-1C2-E-TEST-0034-98.40/001	It doesn't make me more of a box office draw
-1C2-E-TEST-0034-98.40/002	 It's the quality of my work that makes people want to go to my films
-1C2-E-TEST-0034-98.5	"Virtuosity (1995), starring Denzel Washington, put Russell in the body of a Virtual Serial Killer, Sid6.7 ... a role unlike any he had played so far. Virtuosity (1995), a Sci-Fi extravaganza, was a fun film and, again, opened the door to even more American offers."
-1C2-E-TEST-0034-98.5/001	"Virtuosity in 1995 starring Denzel Washington, put Russell in the body of a Virtual Serial Killer, Sid6.7 "
+1C2-E-TEST-0034-98.39	"All that stuff, this public persona of me - let's call him 'the wild man' - that is not helpful."	
+1C2-E-TEST-0034-98.40	"It doesn't make me more of a box office draw. It's the quality of my work that makes people want to go to my films."""	
+1C2-E-TEST-0034-98.40/001	It doesn't make me more of a box office draw	
+1C2-E-TEST-0034-98.40/002	 It's the quality of my work that makes people want to go to my films	
+1C2-E-TEST-0034-98.5	"Virtuosity (1995), starring Denzel Washington, put Russell in the body of a Virtual Serial Killer, Sid6.7 ... a role unlike any he had played so far. Virtuosity (1995), a Sci-Fi extravaganza, was a fun film and, again, opened the door to even more American offers."	
+1C2-E-TEST-0034-98.5/001	"Virtuosity in 1995 starring Denzel Washington, put Russell in the body of a Virtual Serial Killer, Sid6.7 "	
 1C2-E-TEST-0034-98.5/002	a role unlike any he had played so far.	DEP=1C2-E-TEST-0034-98.5001
-1C2-E-TEST-0034-98.5/003	" Virtuosity in 1995 a Sci-Fi extravaganza, was a fun film "
+1C2-E-TEST-0034-98.5/003	" Virtuosity in 1995 a Sci-Fi extravaganza, was a fun film "	
 1C2-E-TEST-0034-98.5/004	it opened the door to even more American offers	DEP=1C2-E-TEST-0034-98.5003
-1C2-E-TEST-0034-98.58	"I want to make movies that pierce people's hearts and touch them in some way, even if it's just for the night while they're in the cinema; in that moment, I want to bring actual tears to their eyes and goosebumps to their skin. That's what motivates me, and it may sound strange but if you're not focused on the audience, why are you bothering to make a movie?"""
-1C2-E-TEST-0034-98.58/001	I want to make movies that pierce people's hearts and touch them in some way 
+1C2-E-TEST-0034-98.58	"I want to make movies that pierce people's hearts and touch them in some way, even if it's just for the night while they're in the cinema; in that moment, I want to bring actual tears to their eyes and goosebumps to their skin. That's what motivates me, and it may sound strange but if you're not focused on the audience, why are you bothering to make a movie?"""	
+1C2-E-TEST-0034-98.58/001	I want to make movies that pierce people's hearts and touch them in some way 	
 1C2-E-TEST-0034-98.58/002	even if it's just for the night while they're in the cinema	DEP=1C2-E-TEST-0034-98.58001
 1C2-E-TEST-0034-98.58/003	"in that moment, I want to bring actual tears to their eyes and goosebumps to their skin"	DEP=1C2-E-TEST-0034-98.58001
-1C2-E-TEST-0034-98.58/004	That's what motivates me
+1C2-E-TEST-0034-98.58/004	That's what motivates me	
 1C2-E-TEST-0034-98.58/005	 it may sound strange 	DEP=1C2-E-TEST-0034-98.58004
 1C2-E-TEST-0034-98.58/006	"but if you're not focused on the audience, why are you bothering to make a movie"	DEP=1C2-E-TEST-0034-98.58005
-1C2-E-TEST-0034-98.6	"L.A. Confidential (1997), Russell's third American film, brought him the US fame and attention that his fans have felt he deserved all along."
-1C2-E-TEST-0034-98.6/001	"L.A. Confidential (1997), Russell's third American film, brought him the US fame"
+1C2-E-TEST-0034-98.6	"L.A. Confidential (1997), Russell's third American film, brought him the US fame and attention that his fans have felt he deserved all along."	
+1C2-E-TEST-0034-98.6/001	"L.A. Confidential (1997), Russell's third American film, brought him the US fame"	
 1C2-E-TEST-0034-98.6/002	 it brought attention that his fans have felt he deserved all along	DEP=1C2-E-TEST-0034-98.6001
-1C2-E-TEST-0034-98.7	"Missing the Oscar nod this time around, he didn't seem deterred and signed to do his first film with The Walt Disney Company, Mystery, Alaska (1999). He has recently achieved even more success and awards for his performances in Gladiator (2000) and A Beautiful Mind (2001)."
-1C2-E-TEST-0034-98.7/001	"Missing the Oscar nod this time around, he didn't seem deterred"
-1C2-E-TEST-0034-98.7/002	"he signed to do his first film with The Walt Disney Company, Mystery, Alaska in 1999"
-1C2-E-TEST-0034-98.7/003	 He has recently achieved even more success and awards for his performances 
+1C2-E-TEST-0034-98.7	"Missing the Oscar nod this time around, he didn't seem deterred and signed to do his first film with The Walt Disney Company, Mystery, Alaska (1999). He has recently achieved even more success and awards for his performances in Gladiator (2000) and A Beautiful Mind (2001)."	
+1C2-E-TEST-0034-98.7/001	"Missing the Oscar nod this time around, he didn't seem deterred"	
+1C2-E-TEST-0034-98.7/002	"he signed to do his first film with The Walt Disney Company, Mystery, Alaska in 1999"	
+1C2-E-TEST-0034-98.7/003	 He has recently achieved even more success and awards for his performances 	
 1C2-E-TEST-0034-98.7/004	Gladiator in 2000 	DEP=1C2-E-TEST-0034-98.7003
 1C2-E-TEST-0034-98.7/005	A Beautiful Mind in 2001	DEP=1C2-E-TEST-0034-98.7003

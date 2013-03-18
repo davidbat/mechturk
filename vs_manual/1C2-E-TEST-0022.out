@@ -15,14 +15,14 @@
 1C2-E-TEST-0022-160.17/003	Horton Hears a Who	DEP=1C2-E-TEST-0022-160.17002
 1C2-E-TEST-0022-160.17/004	and later starred in Another Cinderella Story	DEP=1C2-E-TEST-0022-160.17003
 1C2-E-TEST-0022-160.17/005	with Disney Channel star Drew Seeley for ABC Family	DEP=1C2-E-TEST-0022-160.17004
-1C2-E-TEST-0022-160.17/006Drew	Seeley	DEP=1C2-E-TEST-0022-160.17005
+1C2-E-TEST-0022-160.17/006	Drew Seeley	DEP=1C2-E-TEST-0022-160.17005
 1C2-E-TEST-0022-160.17/007	for ABC Family	DEP=1C2-E-TEST-0022-160.17006
 1C2-E-TEST-0022-173.10	Selena Gomez also appeared as herself in Lovato's Disney show Sonny With A Chance for one episode.	
 1C2-E-TEST-0022-173.10/001	Selena Gomez	
 1C2-E-TEST-0022-173.10/002	as herself	DEP=1C2-E-TEST-0022-173.10001
 1C2-E-TEST-0022-173.10/003	Lovato's Disney show	DEP=1C2-E-TEST-0022-173.10002
 1C2-E-TEST-0022-173.10/004	Sonny With A Chance for one episode	DEP=1C2-E-TEST-0022-173.10003
-1C2-E-TEST-0022-173.14	"In that year, Gomez sang over a cover song of \x93 Cruella de Vil"\x9D, and also performed in a music video."	
+1C2-E-TEST-0022-173.14	"In that year, Gomez sang over a cover song of \x93 Cruella de Vil\x9D, and also performed in a music video."""	
 1C2-E-TEST-0022-173.14/001	In that year	
 1C2-E-TEST-0022-173.14/002	Gomez sang over a cover song	DEP=1C2-E-TEST-0022-173.14001
 1C2-E-TEST-0022-173.14/003	Cruella de Vil	DEP=1C2-E-TEST-0022-173.14002
@@ -49,11 +49,11 @@
 1C2-E-TEST-0022-173.9/002	disney channel	DEP=1C2-E-TEST-0022-173.9001
 1C2-E-TEST-0022-173.9/003	directed tv movie	DEP=1C2-E-TEST-0022-173.9002
 1C2-E-TEST-0022-173.9/004	princess protection program	DEP=1C2-E-TEST-0022-173.9003
-1C2-E-TEST-0022-173.9/005	starring selena gomez and demi lovato	
-DEP=1C2-E-TEST-0022-173.9004		
+1C2-E-TEST-0022-173.9/005	starring selena gomez and demi lovato	DEP=1C2-E-TEST-0022-173.9004
+		
 1C2-E-TEST-0022-189.14	"Selena Marie Gomez was born in Grand Prairie, TX in 1992."	
 1C2-E-TEST-0022-189.14/001	Selena Marie Gomez	
-1C2-E-TEST-0022-189.14/002	born in Grand Prairie, TX	DEP=1C2-E-TEST-0022-189.14001
+1C2-E-TEST-0022-189.14/002	"born in Grand Prairie, TX"	DEP=1C2-E-TEST-0022-189.14001
 1C2-E-TEST-0022-189.14/003	1992	DEP=1C2-E-TEST-0022-189.14002
 1C2-E-TEST-0022-189.27	Selena Gomez has collaborated with the Jonas Brothers and Forever the Sickest Kids.	
 1C2-E-TEST-0022-189.27/001	collaborated with	
@@ -70,8 +70,7 @@ DEP=1C2-E-TEST-0022-173.9004
 1C2-E-TEST-0022-189.33/008	Naturally and Round and Round	DEP=1C2-E-TEST-0022-189.33007
 1C2-E-TEST-0022-189.33/009	to fans	DEP=1C2-E-TEST-0022-189.33008
 1C2-E-TEST-0022-189.33/010	rabid for	DEP=1C2-E-TEST-0022-189.33009
-1C2-E-TEST-0022-189.33/011	a Selena Gomez tour	
-DEP=1C2-E-TEST-0022-189.33010		
+1C2-E-TEST-0022-189.33/011	a Selena Gomez tour	DEP=1C2-E-TEST-0022-189.33010
 1C2-E-TEST-0022-189.33/012	and Selena Gomez tickets.	DEP=1C2-E-TEST-0022-189.33011
 1C2-E-TEST-0022-19.33	"Sings the theme tune to her Disney Channel show ""Wizards of Waverly Place"" (2007)."	
 1C2-E-TEST-0022-19.33/001	sings	
@@ -110,20 +109,18 @@ DEP=1C2-E-TEST-0022-189.33010
 1C2-E-TEST-0022-29.11/001	She earned	
 1C2-E-TEST-0022-29.11/002	a high school diploma	DEP=1C2-E-TEST-0022-29.11001
 1C2-E-TEST-0022-29.11/003	through homeschooling	DEP=1C2-E-TEST-0022-29.11002
-1C2-E-TEST-0022-29.11/004	May 2010	DEP=1C2-E-TEST-0022-29.11003
+1C2-E-TEST-0022-29.11/004	May-10	DEP=1C2-E-TEST-0022-29.11003
 1C2-E-TEST-0022-29.110	"[62] In October 2008, Gomez participated in St. Jude's Children's Hospital ""Runway For Life"" benefit."	
 1C2-E-TEST-0022-29.110/001	In October 2008	
 1C2-E-TEST-0022-29.110/002	Gomez participated	DEP=1C2-E-TEST-0022-29.110001
-1C2-E-TEST-0022-29.110/003	in St. Jude's Children's Hospital	
-DEP=1C2-E-TEST-0022-29.110002		
+1C2-E-TEST-0022-29.110/003	in St. Jude's Children's Hospital	DEP=1C2-E-TEST-0022-29.110002
 1C2-E-TEST-0022-29.110/004	Runway For Life benefit	DEP=1C2-E-TEST-0022-29.110003
 1C2-E-TEST-0022-29.126	"Gomez was named spokesperson for UNICEF 's 2009 Trick-or-Treat campaign, for the second year in a row."	
 1C2-E-TEST-0022-29.126/001	gomez named	
 1C2-E-TEST-0022-29.126/002	spokesperson	DEP=1C2-E-TEST-0022-29.126001
 1C2-E-TEST-0022-29.126/003	for unicef 2009	DEP=1C2-E-TEST-0022-29.126002
 1C2-E-TEST-0022-29.126/004	trick treat campaign	DEP=1C2-E-TEST-0022-29.126003
-1C2-E-TEST-0022-29.126/005	for the second year in a row	
-DEP=1C2-E-TEST-0022-29.126004		
+1C2-E-TEST-0022-29.126/005	for the second year in a row	DEP=1C2-E-TEST-0022-29.126004
 1C2-E-TEST-0022-29.33	"In July 2008, before Gomez' sixteenth birthday, she signed a recording deal with Hollywood Records , a music label owned by Disney."	
 1C2-E-TEST-0022-29.33/001	In July 2008	
 1C2-E-TEST-0022-29.33/002	before Gomez' sixteenth birthday	DEP=1C2-E-TEST-0022-29.33001
@@ -165,7 +162,7 @@ DEP=1C2-E-TEST-0022-29.126004
 1C2-E-TEST-0022-29.92/007	alongside	DEP=1C2-E-TEST-0022-29.92006
 1C2-E-TEST-0022-29.92/008	Adam Sandler	DEP=1C2-E-TEST-0022-29.92007
 1C2-E-TEST-0022-29.94/009	"Steve buscemi	DEP=1C2-E-TEST-0022-29.92005008
-1C2-E-TEST-0022-29.97	"Gomez has also been cast as the main role of Hannah Baker in the film adaptation of young-adult fiction novel, 13 Reasons Why which was written by Jay Asher ."	
+1C2-E-TEST-0022-29.97	Gomez has also been cast as the main role of Hannah Baker in the film adaptation of young-adult fiction novel, 13 Reasons Why which was written by Jay Asher ."""	
 1C2-E-TEST-0022-29.97/001	Gomez has also been cast	
 1C2-E-TEST-0022-29.97/002	cast as the main role	DEP=1C2-E-TEST-0022-29.97001
 1C2-E-TEST-0022-29.97/003	Hannah Baker	DEP=1C2-E-TEST-0022-29.97002
@@ -230,7 +227,7 @@ DEP=1C2-E-TEST-0022-29.126004
 1C2-E-TEST-0022-65.45/004	Ramona and Beezus	DEP=1C2-E-TEST-0022-65.45003
 1C2-E-TEST-0022-65.45/005	and released second album	DEP=1C2-E-TEST-0022-65.45004
 1C2-E-TEST-0022-65.45/006	a year without rain	DEP=1C2-E-TEST-0022-65.45005
-1C2-E-TEST-0022-65.45/007	which sold over sold 65,000 copies	DEP=1C2-E-TEST-0022-65.45006
+1C2-E-TEST-0022-65.45/007	"which sold over sold 65,000 copies"	DEP=1C2-E-TEST-0022-65.45006
 1C2-E-TEST-0022-72.19	"She then appeared in the movie Spy Kids 3-D: Game Over and a TV movie, Walker, Texas Ranger: Trial by Fire in 2005."	
 1C2-E-TEST-0022-72.19/001	appeared	
 1C2-E-TEST-0022-72.19/002	in the movie spy kids 3-d game over	DEP=1C2-E-TEST-0022-72.19001
@@ -238,10 +235,10 @@ DEP=1C2-E-TEST-0022-29.126004
 1C2-E-TEST-0022-72.19/004	walker texas ranger trial fire	DEP=1C2-E-TEST-0022-72.19003
 1C2-E-TEST-0022-72.19/005	in 2005	DEP=1C2-E-TEST-0022-72.19004
 1C2-E-TEST-0022-72.21	"Gomez began her career with the Disney Channel in 2005, when she appeared for a few episodes on The Suite Life of Zack and Cody and then on Hannah Montana in 2006."	
-1C2-E-TEST-0022-72.21/001	gomez began her career	DEP=1C2-E-TEST-0022-72.21003
+1C2-E-TEST-0022-72.21/001	gomez began her career	
 1C2-E-TEST-0022-72.21/002	with disney channel	DEP=1C2-E-TEST-0022-72.21001
-1C2-E-TEST-0022-72.21/003	in 2005	DEP=1C2-E-TEST-0022-72.21002
-1C2-E-TEST-0022-72.21/004	where she appeared for a few episodes	DEP=1C2-E-TEST-0022-72.21003
+1C2-E-TEST-0022-72.21/003	in 2005	DEP=1C2-E-TEST-0022-72.21001
+1C2-E-TEST-0022-72.21/004	where she appeared for a few episodes	DEP=1C2-E-TEST-0022-72.21002
 1C2-E-TEST-0022-72.21/005	on suite life zack cody	DEP=1C2-E-TEST-0022-72.21004
 1C2-E-TEST-0022-72.21/006	and then hannah montana	DEP=1C2-E-TEST-0022-72.21005
 1C2-E-TEST-0022-72.21/007	in 2006	DEP=1C2-E-TEST-0022-72.21006
@@ -264,9 +261,8 @@ DEP=1C2-E-TEST-0022-29.126004
 1C2-E-TEST-0022-89.17/002	clothing line	
 1C2-E-TEST-0022-89.17/003	in Kmart	
 1C2-E-TEST-0022-89.17/004	called Dream out loud	DEP=1C2-E-TEST-0022-89.17003
-1		
-C2-E-TEST-0022-89.3	"Along with co-star Demi Lovato , Gomez performs the song ""One in the Same"" for the movie."	
+1C2-E-TEST-0022-89.3	"Along with co-star Demi Lovato , Gomez performs the song ""One in the Same"" for the movie."	
 1C2-E-TEST-0022-89.3/001	alongside co-star demi lovato	
 1C2-E-TEST-0022-89.3/002	gomez performs	DEP=1C2-E-TEST-0022-89.3001
 1C2-E-TEST-0022-89.3/003	the song	DEP=1C2-E-TEST-0022-89.3002
-1C2-E-TEST-0022-89.3/004	"one in the same" for the movie	DEP=1C2-E-TEST-0022-89.3003
+1C2-E-TEST-0022-89.3/004	one in the same for the movie	DEP=1C2-E-TEST-0022-89.3003

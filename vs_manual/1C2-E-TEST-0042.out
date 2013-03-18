@@ -33,8 +33,8 @@
 1C2-E-TEST-0042-148.107	Military convoys rumbled down South Florida's highways and many Americans around the country were digging bomb shelters even before Kennedy disclosed the U-2's photographs and warned the Soviets that any nuclear missile launched from Cuba would be regarded as an attack on the United States.	
 1C2-E-TEST-0042-148.107/001	military convoys rumbled	DEP=1C2-E-TEST-0042-148.107002
 1C2-E-TEST-0042-148.107/002	South florida highways	
-1C2-E-TEST-0042-148.107/003	americans Digging bomb shelters	DEP=1C2-E-TEST-0042-148.107003
-1C2-E-TEST-0042-148.107/004	Disclosed U-2 photographs	
+1C2-E-TEST-0042-148.107/003	americans Digging bomb shelters	
+1C2-E-TEST-0042-148.107/004	Disclosed U-2 photographs	DEP=1C2-E-TEST-0042-148.107003
 1C2-E-TEST-0042-148.107/005	Nuclear missiles launched	
 1C2-E-TEST-0042-148.107/006	regarded attack united states	DEP=1C2-E-TEST-0042-148.107005
 1C2-E-TEST-0042-148.110	"In Washington, Kennedy met with his Executive Committee of top advisers and after seven days of intense debate ordered a naval quarantine around Cuba -- approved on Oct."	
@@ -63,7 +63,7 @@
 1C2-E-TEST-0042-148.99/003	cemented antagonistic relationship between united states and cuba	
 1C2-E-TEST-0042-148.99/004	outlasted cold war and persists today	DEP=1C2-E-TEST-0042-148.99003
 1C2-E-TEST-0042-2.265	"On 6 June 1968, the Los Angeles office called me at about two o'clock in the morning to tell me that Robert Kennedy had been killed."	
-1C2-E-TEST-0042-2.265/001	6 june 1968	DEP=1C2-E-TEST-0042-2.265003
+1C2-E-TEST-0042-2.265/001	6-Jun-68	DEP=1C2-E-TEST-0042-2.265003
 1C2-E-TEST-0042-2.265/002	los angeles office called at two in morning	DEP=1C2-E-TEST-0042-2.265003
 1C2-E-TEST-0042-2.265/003	robert kenedy killed	
 1C2-E-TEST-0042-2.302	"He tapped Chief of Homicide Detectives Hugh Brown, with whom he had worked for fifteen years, to head SUS, telling Brown that if there was a ""great conspiracy"" linking the RFK murder with those of JFK and Martin Luther King, Jr., it had better be unveiled because their work would be subject to ""much fine-comb study."""	

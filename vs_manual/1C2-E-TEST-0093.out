@@ -95,7 +95,7 @@
 1C2-E-TEST-0093-3.31/002	city atlanta and airlines	DEP=1C2-E-TEST-0093-3.31003
 1C2-E-TEST-0093-3.31/003	work on master plan for future development	
 1C2-E-TEST-0093-3.31/004	construction began on present midfield terminal	
-1C2-E-TEST-0093-3.31/005	january 1977	DEP=1C2-E-TEST-0093-3.31004
+1C2-E-TEST-0093-3.31/005	Jan-77	DEP=1C2-E-TEST-0093-3.31004
 1C2-E-TEST-0093-3.31/006	under administration mayor maynard jackson	DEP=1C2-E-TEST-0093-3.31004
 1C2-E-TEST-0093-3.38	"Although Eastern was a larger airline than Delta until airline deregulation in 1978, Delta was an early adopter of the hub and spoke route system, with Atlanta as its primary hub between the Midwest and Florida, giving it an early competitive advantage in the Atlanta market."	
 1C2-E-TEST-0093-3.38/001	eastern larger airline	
@@ -136,7 +136,7 @@
 1C2-E-TEST-0093-4.4/011	1971	DEP=1C2-E-TEST-0093-4.4012
 1C2-E-TEST-0093-4.4/012	airport named william b. hartsfield	
 1C2-E-TEST-0093-4.4/013	honor mayor developed airport	DEP=1C2-E-TEST-0093-4.4012
-1C2-E-TEST-0093-4.4/014	october 2003	DEP=1C2-E-TEST-0093-4.4015
+1C2-E-TEST-0093-4.4/014	Oct-03	DEP=1C2-E-TEST-0093-4.4015
 1C2-E-TEST-0093-4.4/015	name changed to hartsfield-jackson atlanta internation airport	
 1C2-E-TEST-0093-4.4/016	recognition mayor maynard jackson	DEP=1C2-E-TEST-0093-4.4015
 1C2-E-TEST-0093-4.4/017	contribution to modernization atlanta airport	DEP=1C2-E-TEST-0093-4.4016
@@ -147,7 +147,7 @@
 1C2-E-TEST-0093-9.2/004	atlanta georgia united states	DEP=1C2-E-TEST-0093-9.2003
 1C2-E-TEST-0093-9.3	It has been the world's busiest airport by passenger traffic as well as landings and take-offs.	
 1C2-E-TEST-0093-9.3/001	worlds busiest airport by passenger traffic	
-1C2-E-TEST-0093-9.3/002	worlds busiest airport by landings and take-offs	DEP=1C2-E-TEST-0093-9.3002
+1C2-E-TEST-0093-9.3/002	worlds busiest airport by landings and take-offs	
 1C2-E-TEST-0093-9.4	"Additionally, Delta Air Lines operates the world's largest airline hub from the airport."	
 1C2-E-TEST-0093-9.4/001	delta air lines	DEP=1C2-E-TEST-0093-9.4002
 1C2-E-TEST-0093-9.4/002	operates world largest airline hub	

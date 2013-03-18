@@ -1,9 +1,9 @@
-1C2-E-TEST-0046-2.136	[76] Choosing not to seek re-election, Hayes looked forward to retiring from politics in 1872.	
+1C2-E-TEST-0046-2.136	"[76] Choosing not to seek re-election, Hayes looked forward to retiring from politics in 1872."	
 1C2-E-TEST-0046-2.136/001	Choosing not to seek re-election	
 1C2-E-TEST-0046-2.136/002	Hayes	DEP=1C2-E-TEST-0046-2.136001
 1C2-E-TEST-0046-2.136/003	looked forward to retiring from politics	DEP=1C2-E-TEST-0046-2.136002
 1C2-E-TEST-0046-2.136/004	in 1872	DEP=1C2-E-TEST-0046-2.136003
-1C2-E-TEST-0046-2.299	[161] Hayes awarded the disputed land in the Gran Chaco region to Paraguay, and the Paraguayans honored him by renaming a city ( Villa Hayes ) and a department ( Presidente Hayes ) in his honor.	
+1C2-E-TEST-0046-2.299	"[161] Hayes awarded the disputed land in the Gran Chaco region to Paraguay, and the Paraguayans honored him by renaming a city ( Villa Hayes ) and a department ( Presidente Hayes ) in his honor."	
 1C2-E-TEST-0046-2.299/001	Hayes awarded	
 1C2-E-TEST-0046-2.299/002	the disputed land	DEP=1C2-E-TEST-0046-2.299001
 1C2-E-TEST-0046-2.299/003	in the Gran Chaco region	DEP=1C2-E-TEST-0046-2.299002
@@ -12,7 +12,7 @@
 1C2-E-TEST-0046-2.299/006	renaming a city ( Villa Hayes )	DEP=1C2-E-TEST-0046-2.299005
 1C2-E-TEST-0046-2.299/007	and a department ( Presidente Hayes )	DEP=1C2-E-TEST-0046-2.299006
 1C2-E-TEST-0046-2.299/008	in his honor	DEP=1C2-E-TEST-0046-2.299007
-1C2-E-TEST-0046-2.300	[161] Hayes was also perturbed over the plans of Ferdinand de Lesseps , the builder of the Suez Canal , to construct a canal across the Isthmus of Panama , which was then owned by Colombia .	
+1C2-E-TEST-0046-2.300	"[161] Hayes was also perturbed over the plans of Ferdinand de Lesseps , the builder of the Suez Canal , to construct a canal across the Isthmus of Panama , which was then owned by Colombia ."	
 1C2-E-TEST-0046-2.300/001	hayes	
 1C2-E-TEST-0046-2.300/002	was also perturbed	DEP=1C2-E-TEST-0046-2.300001
 1C2-E-TEST-0046-2.300/003	over the plans	DEP=1C2-E-TEST-0046-2.300002
@@ -21,13 +21,13 @@
 1C2-E-TEST-0046-2.300/006	to construct a canal	DEP=1C2-E-TEST-0046-2.300005
 1C2-E-TEST-0046-2.300/007	across the Isthmus of Panama	DEP=1C2-E-TEST-0046-2.300006
 1C2-E-TEST-0046-2.300/008	which was then owned by Colombia	DEP=1C2-E-TEST-0046-2.300007
-1C2-E-TEST-0046-2.301	[162] Concerned about a repetition of French adventurism in Mexico , Hayes interpreted the Monroe Doctrine firmly.	
+1C2-E-TEST-0046-2.301	"[162] Concerned about a repetition of French adventurism in Mexico , Hayes interpreted the Monroe Doctrine firmly."	
 1C2-E-TEST-0046-2.301/001	concerned	
 1C2-E-TEST-0046-2.301/002	about a repetition	DEP=1C2-E-TEST-0046-2.301001
 1C2-E-TEST-0046-2.301/003	of French adventurism in Mexico	DEP=1C2-E-TEST-0046-2.301002
 1C2-E-TEST-0046-2.301/004	Hayes interpreted	DEP=1C2-E-TEST-0046-2.301003
 1C2-E-TEST-0046-2.301/005	the Monroe Doctrine firmly.	DEP=1C2-E-TEST-0046-2.301004
-1C2-E-TEST-0046-2.302	[163] In a message to Congress, Hayes explained his opinion on the canal: "The policy of this country is a canal under American control...	
+1C2-E-TEST-0046-2.302	"[163] In a message to Congress, Hayes explained his opinion on the canal: ""The policy of this country is a canal under American control..."	
 1C2-E-TEST-0046-2.302/001	message	
 1C2-E-TEST-0046-2.302/002	to Congress	DEP=1C2-E-TEST-0046-2.302001
 1C2-E-TEST-0046-2.302/003	Hayes explained	DEP=1C2-E-TEST-0046-2.302002
@@ -47,7 +47,7 @@
 1C2-E-TEST-0046-2.308/007	Mexican revolutionaries	DEP=1C2-E-TEST-0046-2.308006
 1C2-E-TEST-0046-2.308/008	to raise armies	DEP=1C2-E-TEST-0046-2.308007
 1C2-E-TEST-0046-2.308/009	in the United States	DEP=1C2-E-TEST-0046-2.308008
-1C2-E-TEST-0046-2.309	[165] The violence along the border decreased, and in 1880 Hayes revoked the order allowing pursuit into Mexico.	
+1C2-E-TEST-0046-2.309	"[165] The violence along the border decreased, and in 1880 Hayes revoked the order allowing pursuit into Mexico."	
 1C2-E-TEST-0046-2.309/001	violence	
 1C2-E-TEST-0046-2.309/002	along the border	DEP=1C2-E-TEST-0046-2.309001
 1C2-E-TEST-0046-2.309/003	decreased	DEP=1C2-E-TEST-0046-2.309002
@@ -57,7 +57,7 @@
 1C2-E-TEST-0046-2.309/007	allowing	DEP=1C2-E-TEST-0046-2.309006
 1C2-E-TEST-0046-2.309/008	pursuit	DEP=1C2-E-TEST-0046-2.309007
 1C2-E-TEST-0046-2.309/009	into mexico	DEP=1C2-E-TEST-0046-2.309008
-1C2-E-TEST-0046-2.316	[168] Hayes vetoed the bill, believing that the United States should not abrogate treaties without negotiation.	
+1C2-E-TEST-0046-2.316	"[168] Hayes vetoed the bill, believing that the United States should not abrogate treaties without negotiation."	
 1C2-E-TEST-0046-2.316/001	hayes	
 1C2-E-TEST-0046-2.316/002	vetoed	DEP=1C2-E-TEST-0046-2.316001
 1C2-E-TEST-0046-2.316/003	bill	DEP=1C2-E-TEST-0046-2.316002
@@ -94,7 +94,7 @@
 1C2-E-TEST-0046-2.338/008	present-day oklahoma	DEP=1C2-E-TEST-0046-2.338007
 1C2-E-TEST-0046-2.338/009	because of misunderstanding involved	DEP=1C2-E-TEST-0046-2.338008
 1C2-E-TEST-0046-2.338/010	during grant administration	
-1C2-E-TEST-0046-2.339	[178] The tribe's problems came to Hayes's attention after their chief, Standing Bear , filed a lawsuit to contest Schurz's demand that they stay in Indian Territory.	
+1C2-E-TEST-0046-2.339	"[178] The tribe's problems came to Hayes's attention after their chief, Standing Bear , filed a lawsuit to contest Schurz's demand that they stay in Indian Territory."	
 1C2-E-TEST-0046-2.339/001	tribe's problems	
 1C2-E-TEST-0046-2.339/002	came to	DEP=1C2-E-TEST-0046-2.339001
 1C2-E-TEST-0046-2.339/003	Hayes's attention	DEP=1C2-E-TEST-0046-2.339002
@@ -105,7 +105,7 @@
 1C2-E-TEST-0046-2.339/008	Schurz's demand	DEP=1C2-E-TEST-0046-2.339007
 1C2-E-TEST-0046-2.339/009	that they stay	DEP=1C2-E-TEST-0046-2.339008
 1C2-E-TEST-0046-2.339/010	in Indian Territory	DEP=1C2-E-TEST-0046-2.339009
-1C2-E-TEST-0046-2.340	Overruling Schurz, Hayes set up a commission in 1880 that ruled Ponca were free to return to Nebraska or stay on their reservation in Indian Territory.	
+1C2-E-TEST-0046-2.340	"Overruling Schurz, Hayes set up a commission in 1880 that ruled Ponca were free to return to Nebraska or stay on their reservation in Indian Territory."	
 1C2-E-TEST-0046-2.340/001	overruling	
 1C2-E-TEST-0046-2.340/002	schurz	DEP=1C2-E-TEST-0046-2.340001
 1C2-E-TEST-0046-2.340/003	hayes	DEP=1C2-E-TEST-0046-2.340002
@@ -119,7 +119,7 @@
 1C2-E-TEST-0046-2.340/011	to nebraska	DEP=1C2-E-TEST-0046-2.340010
 1C2-E-TEST-0046-2.340/012	or stay	DEP=1C2-E-TEST-0046-2.340011
 1C2-E-TEST-0046-2.340/013	on reservation in Indian Territory	DEP=1C2-E-TEST-0046-2.340012
-1C2-E-TEST-0046-2.344	Hayes and his wife, Lucy , were known for their policy of keeping an alcohol-free White House, giving rise to her nickname "Lemonade Lucy." [180] The first reception at the Hayes White House included wine .	
+1C2-E-TEST-0046-2.344	"Hayes and his wife, Lucy , were known for their policy of keeping an alcohol-free White House, giving rise to her nickname ""Lemonade Lucy."" [180] The first reception at the Hayes White House included wine ."	
 1C2-E-TEST-0046-2.344/001	Hayes	
 1C2-E-TEST-0046-2.344/002	and his wife	DEP=1C2-E-TEST-0046-2.344001
 1C2-E-TEST-0046-2.344/003	lucy	DEP=1C2-E-TEST-0046-2.344002
@@ -134,8 +134,8 @@
 1C2-E-TEST-0046-2.344/012	The first reception	DEP=1C2-E-TEST-0046-2.344011
 1C2-E-TEST-0046-2.344/013	at the Hayes White House	DEP=1C2-E-TEST-0046-2.344012
 1C2-E-TEST-0046-2.344/014	included wine	DEP=1C2-E-TEST-0046-2.344013
-1C2-E-TEST-0046-2.345	[181] However, Hayes was dismayed at drunken behavior at receptions hosted by ambassadors around Washington, leading him to follow his wife's temperance leanings.	
-1C2-E-TEST-0046-2.345/001	However, Hayes	
+1C2-E-TEST-0046-2.345	"[181] However, Hayes was dismayed at drunken behavior at receptions hosted by ambassadors around Washington, leading him to follow his wife's temperance leanings."	
+1C2-E-TEST-0046-2.345/001	"However, Hayes"	
 1C2-E-TEST-0046-2.345/002	dismayed at	DEP=1C2-E-TEST-0046-2.345001
 1C2-E-TEST-0046-2.345/003	drunken behavior	DEP=1C2-E-TEST-0046-2.345002
 1C2-E-TEST-0046-2.345/004	at receptions	DEP=1C2-E-TEST-0046-2.345003
@@ -146,7 +146,7 @@
 1C2-E-TEST-0046-2.345/009	follow	DEP=1C2-E-TEST-0046-2.345008
 1C2-E-TEST-0046-2.345/010	his wife's	DEP=1C2-E-TEST-0046-2.345009
 1C2-E-TEST-0046-2.345/011	temperance leanings	DEP=1C2-E-TEST-0046-2.345010
-1C2-E-TEST-0046-2.347	Critics charged Hayes with parsimony, but Hayes spent more money (which came out of his personal budget) after the ban, ordering that any savings from eliminating alcohol be used on more lavish entertainment.	
+1C2-E-TEST-0046-2.347	"Critics charged Hayes with parsimony, but Hayes spent more money (which came out of his personal budget) after the ban, ordering that any savings from eliminating alcohol be used on more lavish entertainment."	
 1C2-E-TEST-0046-2.347/001	critics	
 1C2-E-TEST-0046-2.347/002	charged	DEP=1C2-E-TEST-0046-2.347001
 1C2-E-TEST-0046-2.347/003	hayes	DEP=1C2-E-TEST-0046-2.347002
@@ -160,7 +160,7 @@
 1C2-E-TEST-0046-2.347/011	that any savings	DEP=1C2-E-TEST-0046-2.347010
 1C2-E-TEST-0046-2.347/012	Eliminating alcohol	DEP=1C2-E-TEST-0046-2.347011
 1C2-E-TEST-0046-2.347/013	be used on more lavish entertainment	DEP=1C2-E-TEST-0046-2.347012
-1C2-E-TEST-0046-2.36	Hayes moved to Cincinnati in 1850, and opened a law office with John W. Herron, a lawyer from Chillicothe .	
+1C2-E-TEST-0046-2.36	"Hayes moved to Cincinnati in 1850, and opened a law office with John W. Herron, a lawyer from Chillicothe ."	
 1C2-E-TEST-0046-2.36/001	hayes	
 1C2-E-TEST-0046-2.36/002	moved	DEP=1C2-E-TEST-0046-2.36001
 1C2-E-TEST-0046-2.36/003	to cincinnati	DEP=1C2-E-TEST-0046-2.36002
@@ -170,7 +170,7 @@
 1C2-E-TEST-0046-2.36/007	with john w. herron	DEP=1C2-E-TEST-0046-2.36006
 1C2-E-TEST-0046-2.36/008	a lawyer	DEP=1C2-E-TEST-0046-2.36007
 1C2-E-TEST-0046-2.36/009	from chillicothe	DEP=1C2-E-TEST-0046-2.36008
-1C2-E-TEST-0046-2.38	[24] Hayes found business better in Cincinnati, and enjoyed the social attractions of the larger city, joining the Cincinnati Literary Society and the Odd Fellows Club .	
+1C2-E-TEST-0046-2.38	"[24] Hayes found business better in Cincinnati, and enjoyed the social attractions of the larger city, joining the Cincinnati Literary Society and the Odd Fellows Club ."	
 1C2-E-TEST-0046-2.38/001	Hayes found	
 1C2-E-TEST-0046-2.38/002	business better	DEP=1C2-E-TEST-0046-2.38001
 1C2-E-TEST-0046-2.38/003	in Cincinnati	DEP=1C2-E-TEST-0046-2.38002
@@ -181,15 +181,15 @@
 1C2-E-TEST-0046-2.38/008	joining	DEP=1C2-E-TEST-0046-2.38007
 1C2-E-TEST-0046-2.38/009	cincinnati literary society	DEP=1C2-E-TEST-0046-2.38008
 1C2-E-TEST-0046-2.38/010	odd fellows club	DEP=1C2-E-TEST-0046-2.38008
-1C2-E-TEST-0046-2.4	Rutherford Birchard Hayes was born in Delaware , Ohio , on October 4, 1822, the son of Rutherford Hayes and Sophia Birchard.	
+1C2-E-TEST-0046-2.4	"Rutherford Birchard Hayes was born in Delaware , Ohio , on October 4, 1822, the son of Rutherford Hayes and Sophia Birchard."	
 1C2-E-TEST-0046-2.4/001	rutherford birchard hayes	
 1C2-E-TEST-0046-2.4/002	born	
 1C2-E-TEST-0046-2.4/003	delaware ohio	DEP=1C2-E-TEST-0046-2.4002
-1C2-E-TEST-0046-2.4/004	October 4, 1822,	DEP=1C2-E-TEST-0046-2.4002
+1C2-E-TEST-0046-2.4/004	"October 4, 1822,"	DEP=1C2-E-TEST-0046-2.4002
 1C2-E-TEST-0046-2.4/005	Son	
 1C2-E-TEST-0046-2.4/006	of rutherford hayes	DEP=1C2-E-TEST-0046-2.4005
 1C2-E-TEST-0046-2.4/007	and sophia birchard	DEP=1C2-E-TEST-0046-2.4005
-1C2-E-TEST-0046-2.47	Hayes had begun his law practice dealing primarily with commercial cases but won greater prominence in Cincinnati as a criminal defense attorney, [29] defending several people accused of murder.	
+1C2-E-TEST-0046-2.47	"Hayes had begun his law practice dealing primarily with commercial cases but won greater prominence in Cincinnati as a criminal defense attorney, [29] defending several people accused of murder."	
 1C2-E-TEST-0046-2.47/001	hayes	
 1C2-E-TEST-0046-2.47/002	had begun law practice	
 1C2-E-TEST-0046-2.47/003	dealing primarily	
@@ -201,7 +201,7 @@
 1C2-E-TEST-0046-2.47/009	several people	DEP=1C2-E-TEST-0046-2.47008
 1C2-E-TEST-0046-2.47/010	accused	DEP=1C2-E-TEST-0046-2.47009
 1C2-E-TEST-0046-2.47/011	of murder	DEP=1C2-E-TEST-0046-2.47010
-1C2-E-TEST-0046-2.5	Hayes' father, a Vermont storekeeper, took the family to Ohio in 1817 but died ten weeks before his son's birth.	
+1C2-E-TEST-0046-2.5	"Hayes' father, a Vermont storekeeper, took the family to Ohio in 1817 but died ten weeks before his son's birth."	
 1C2-E-TEST-0046-2.5/001	hayes'	
 1C2-E-TEST-0046-2.5/002	father	DEP=1C2-E-TEST-0046-2.5001
 1C2-E-TEST-0046-2.5/003	vermont storekeeper	DEP=1C2-E-TEST-0046-2.5002
@@ -212,7 +212,7 @@
 1C2-E-TEST-0046-2.5/008	died	
 1C2-E-TEST-0046-2.5/009	ten weeks before	DEP=1C2-E-TEST-0046-2.5008
 1C2-E-TEST-0046-2.5/010	his Son's birth	DEP=1C2-E-TEST-0046-2.5009
-1C2-E-TEST-0046-2.60	Considering that the two sides might be irreconcilable, he suggested that the Union "[l]et them go." [37] Although Ohio had voted for Lincoln in 1860, the Cincinnati voters turned against the Republican party after secession, and the Democrats and Know-Nothings combined to sweep the city elections in April 1861, ejecting Hayes from the city solicitor's office.	
+1C2-E-TEST-0046-2.60	"Considering that the two sides might be irreconcilable, he suggested that the Union ""[l]et them go."" [37] Although Ohio had voted for Lincoln in 1860, the Cincinnati voters turned against the Republican party after secession, and the Democrats and Know-Nothings combined to sweep the city elections in April 1861, ejecting Hayes from the city solicitor's office."	
 1C2-E-TEST-0046-2.60/001	considering	
 1C2-E-TEST-0046-2.60/002	the two sides	DEP=1C2-E-TEST-0046-2.60001
 1C2-E-TEST-0046-2.60/003	might be irreconcilable	DEP=1C2-E-TEST-0046-2.60002
@@ -234,7 +234,7 @@
 1C2-E-TEST-0046-2.60/019	ejecting	DEP=1C2-E-TEST-0046-2.60018
 1C2-E-TEST-0046-2.60/020	hayes	DEP=1C2-E-TEST-0046-2.60019
 1C2-E-TEST-0046-2.60/021	from city solicitor's office	DEP=1C2-E-TEST-0046-2.60020
-1C2-E-TEST-0046-2.62	[38] After the Confederates had fired on Fort Sumter , Hayes resolved his doubts and joined a volunteer company composed of his Literary Society friends.	
+1C2-E-TEST-0046-2.62	"[38] After the Confederates had fired on Fort Sumter , Hayes resolved his doubts and joined a volunteer company composed of his Literary Society friends."	
 1C2-E-TEST-0046-2.62/001	after the confederates	
 1C2-E-TEST-0046-2.62/002	had fired	DEP=1C2-E-TEST-0046-2.62001
 1C2-E-TEST-0046-2.62/003	on fort sumter	DEP=1C2-E-TEST-0046-2.62002
@@ -245,7 +245,7 @@
 1C2-E-TEST-0046-2.62/008	a volunteer company	DEP=1C2-E-TEST-0046-2.62007
 1C2-E-TEST-0046-2.62/009	composed of	DEP=1C2-E-TEST-0046-2.62008
 1C2-E-TEST-0046-2.62/010	his literary society friends	DEP=1C2-E-TEST-0046-2.62009
-1C2-E-TEST-0046-2.64	Hayes was promoted to major , and his friend and college classmate Stanley Matthews was appointed lieutenant colonel ; [40] also joining the regiment as a private was another future president, William McKinley .	
+1C2-E-TEST-0046-2.64	"Hayes was promoted to major , and his friend and college classmate Stanley Matthews was appointed lieutenant colonel ; [40] also joining the regiment as a private was another future president, William McKinley ."	
 1C2-E-TEST-0046-2.64/001	hayes	
 1C2-E-TEST-0046-2.64/002	was promoted	DEP=1C2-E-TEST-0046-2.64001
 1C2-E-TEST-0046-2.64/003	to major	DEP=1C2-E-TEST-0046-2.64002
@@ -258,7 +258,7 @@
 1C2-E-TEST-0046-2.64/010	as a private	DEP=1C2-E-TEST-0046-2.64009
 1C2-E-TEST-0046-2.64/011	was another future president	DEP=1C2-E-TEST-0046-2.64010
 1C2-E-TEST-0046-2.64/012	william mckinley	DEP=1C2-E-TEST-0046-2.64011
-1C2-E-TEST-0046-2.66	After a month of training, Hayes and the 23rd Ohio set out for western Virginia in July 1861 as a part of the Kanawha Division .	
+1C2-E-TEST-0046-2.66	"After a month of training, Hayes and the 23rd Ohio set out for western Virginia in July 1861 as a part of the Kanawha Division ."	
 1C2-E-TEST-0046-2.66/001	after a month	
 1C2-E-TEST-0046-2.66/002	of training	DEP=1C2-E-TEST-0046-2.66001
 1C2-E-TEST-0046-2.66/003	hayes	DEP=1C2-E-TEST-0046-2.66002
@@ -268,9 +268,9 @@
 1C2-E-TEST-0046-2.66/007	in july 1861	DEP=1C2-E-TEST-0046-2.66006
 1C2-E-TEST-0046-2.66/008	as a part	DEP=1C2-E-TEST-0046-2.66007
 1C2-E-TEST-0046-2.66/009	of kanawha division	DEP=1C2-E-TEST-0046-2.66008
-1C2-E-TEST-0046-2.67	[41] They passed the next few months out of contact with the enemy until September, when the regiment encountered Confederates at Carnifex Ferry in present-day West Virginia and drove them back.	
-1C2-E-TEST-0046-2.67/001	they passed	
-1C2-E-TEST-0046-2.67/002	the next few months	DEP=1C2-E-TEST-0046-2.67002
+1C2-E-TEST-0046-2.67	"[41] They passed the next few months out of contact with the enemy until September, when the regiment encountered Confederates at Carnifex Ferry in present-day West Virginia and drove them back."	
+1C2-E-TEST-0046-2.67/001	they passed	DEP=1C2-E-TEST-0046-2.67002
+1C2-E-TEST-0046-2.67/002	the next few months	
 1C2-E-TEST-0046-2.67/003	out of contact	DEP=1C2-E-TEST-0046-2.67002
 1C2-E-TEST-0046-2.67/004	with the enemy	DEP=1C2-E-TEST-0046-2.67003
 1C2-E-TEST-0046-2.67/005	until september	DEP=1C2-E-TEST-0046-2.67004
@@ -280,7 +280,7 @@
 1C2-E-TEST-0046-2.67/009	in present-day west virginia	DEP=1C2-E-TEST-0046-2.67008
 1C2-E-TEST-0046-2.67/010	and drove	DEP=1C2-E-TEST-0046-2.67009
 1C2-E-TEST-0046-2.67/011	them back	DEP=1C2-E-TEST-0046-2.67010
-1C2-E-TEST-0046-2.68	[42] In November, Hayes was promoted to lieutenant colonel (Matthews having been promoted to colonel of another regiment) and led his troops deeper into western Virginia, where they entered winter quarters.	
+1C2-E-TEST-0046-2.68	"[42] In November, Hayes was promoted to lieutenant colonel (Matthews having been promoted to colonel of another regiment) and led his troops deeper into western Virginia, where they entered winter quarters."	
 1C2-E-TEST-0046-2.68/001	in november	
 1C2-E-TEST-0046-2.68/002	hayes	DEP=1C2-E-TEST-0046-2.68001
 1C2-E-TEST-0046-2.68/003	was promoted	DEP=1C2-E-TEST-0046-2.68002
@@ -294,7 +294,7 @@
 1C2-E-TEST-0046-2.68/011	into western virginia	DEP=1C2-E-TEST-0046-2.68010
 1C2-E-TEST-0046-2.68/012	where they entered	DEP=1C2-E-TEST-0046-2.68011
 1C2-E-TEST-0046-2.68/013	winter quarters	DEP=1C2-E-TEST-0046-2.68012
-1C2-E-TEST-0046-2.70	[44] That September, Hayes' regiment was called east to reinforce General John Pope 's Army of Virginia at the Second Battle of Bull Run .	
+1C2-E-TEST-0046-2.70	"[44] That September, Hayes' regiment was called east to reinforce General John Pope 's Army of Virginia at the Second Battle of Bull Run ."	
 1C2-E-TEST-0046-2.70/001	that september	
 1C2-E-TEST-0046-2.70/002	hayes'	DEP=1C2-E-TEST-0046-2.70001
 1C2-E-TEST-0046-2.70/003	regiment	DEP=1C2-E-TEST-0046-2.70002
@@ -304,7 +304,7 @@
 1C2-E-TEST-0046-2.70/007	of virginia	DEP=1C2-E-TEST-0046-2.70006
 1C2-E-TEST-0046-2.70/008	at second battle	DEP=1C2-E-TEST-0046-2.70007
 1C2-E-TEST-0046-2.70/009	of the bull run	DEP=1C2-E-TEST-0046-2.70008
-1C2-E-TEST-0046-2.71	[45] Although Hayes and his troops did not arrive in time for the battle, they joined the Army of the Potomac as it hurried north to cut off Robert E. Lee 's Army of Northern Virginia , which was advancing into Maryland .	
+1C2-E-TEST-0046-2.71	"[45] Although Hayes and his troops did not arrive in time for the battle, they joined the Army of the Potomac as it hurried north to cut off Robert E. Lee 's Army of Northern Virginia , which was advancing into Maryland ."	
 1C2-E-TEST-0046-2.71/001	although hayes	
 1C2-E-TEST-0046-2.71/002	and his troops	DEP=1C2-E-TEST-0046-2.71001
 1C2-E-TEST-0046-2.71/003	did not arrive	DEP=1C2-E-TEST-0046-2.71002
@@ -319,7 +319,7 @@
 1C2-E-TEST-0046-2.71/012	northern virginia	DEP=1C2-E-TEST-0046-2.71011
 1C2-E-TEST-0046-2.71/013	which was advancing	DEP=1C2-E-TEST-0046-2.71012
 1C2-E-TEST-0046-2.71/014	into maryland	DEP=1C2-E-TEST-0046-2.71013
-1C2-E-TEST-0046-2.73	[46] Hayes led a charge against an entrenched position and was shot through his left arm, fracturing the bone.	
+1C2-E-TEST-0046-2.73	"[46] Hayes led a charge against an entrenched position and was shot through his left arm, fracturing the bone."	
 1C2-E-TEST-0046-2.73/001	hayes	
 1C2-E-TEST-0046-2.73/002	led	DEP=1C2-E-TEST-0046-2.73001
 1C2-E-TEST-0046-2.73/003	a charge	DEP=1C2-E-TEST-0046-2.73002
@@ -328,7 +328,7 @@
 1C2-E-TEST-0046-2.73/006	through his left arm	DEP=1C2-E-TEST-0046-2.73005
 1C2-E-TEST-0046-2.73/007	fracturing	DEP=1C2-E-TEST-0046-2.73006
 1C2-E-TEST-0046-2.73/008	the bone	DEP=1C2-E-TEST-0046-2.73007
-1C2-E-TEST-0046-2.74	[47] The regiment continued on to Antietam , but Hayes was out of action for the rest of the campaign.	
+1C2-E-TEST-0046-2.74	"[47] The regiment continued on to Antietam , but Hayes was out of action for the rest of the campaign."	
 1C2-E-TEST-0046-2.74/001	the regiment	
 1C2-E-TEST-0046-2.74/002	continued on	DEP=1C2-E-TEST-0046-2.74001
 1C2-E-TEST-0046-2.74/003	to antietam	DEP=1C2-E-TEST-0046-2.74002
@@ -336,7 +336,7 @@
 1C2-E-TEST-0046-2.74/005	was out of action	DEP=1C2-E-TEST-0046-2.74004
 1C2-E-TEST-0046-2.74/006	for the rest	DEP=1C2-E-TEST-0046-2.74005
 1C2-E-TEST-0046-2.74/007	of the campaign	DEP=1C2-E-TEST-0046-2.74006
-1C2-E-TEST-0046-2.80	[50] Hayes saw little action until July 1863, when the division skirmished with John Hunt Morgan 's cavalry at the Battle of Buffington Island .	
+1C2-E-TEST-0046-2.80	"[50] Hayes saw little action until July 1863, when the division skirmished with John Hunt Morgan 's cavalry at the Battle of Buffington Island ."	
 1C2-E-TEST-0046-2.80/001	hayes saw	
 1C2-E-TEST-0046-2.80/002	litlle action	DEP=1C2-E-TEST-0046-2.80001
 1C2-E-TEST-0046-2.80/003	until july 1863	DEP=1C2-E-TEST-0046-2.80002
@@ -346,7 +346,7 @@
 1C2-E-TEST-0046-2.80/007	cavalry	DEP=1C2-E-TEST-0046-2.80006
 1C2-E-TEST-0046-2.80/008	at the battle	DEP=1C2-E-TEST-0046-2.80007
 1C2-E-TEST-0046-2.80/009	of buffington island	DEP=1C2-E-TEST-0046-2.80008
-1C2-E-TEST-0046-2.84	[53] On May 9, they engaged Confederate troops at Cloyd's Mountain , where Hayes and his men charged the enemy entrenchments and drove the rebels from the field.	
+1C2-E-TEST-0046-2.84	"[53] On May 9, they engaged Confederate troops at Cloyd's Mountain , where Hayes and his men charged the enemy entrenchments and drove the rebels from the field."	
 1C2-E-TEST-0046-2.84/001	on May 9	
 1C2-E-TEST-0046-2.84/002	they engaged	DEP=1C2-E-TEST-0046-2.84001
 1C2-E-TEST-0046-2.84/003	confederate troops	DEP=1C2-E-TEST-0046-2.84002
@@ -365,7 +365,7 @@
 1C2-E-TEST-0046-2.87/004	to the shenandoah valley	DEP=1C2-E-TEST-0046-2.87003
 1C2-E-TEST-0046-2.87/005	for the valley campaigns	DEP=1C2-E-TEST-0046-2.87004
 1C2-E-TEST-0046-2.87/006	of 1864	DEP=1C2-E-TEST-0046-2.87005
-1C2-E-TEST-0046-2.91	[54] Hayes thought that Hunter lacked aggression, writing in a letter home that "General Crook would have taken Lynchburg." [54] Before the army could make another attempt, Confederate General Jubal Early 's raid into Maryland forced their recall to the north.	
+1C2-E-TEST-0046-2.91	"[54] Hayes thought that Hunter lacked aggression, writing in a letter home that ""General Crook would have taken Lynchburg."" [54] Before the army could make another attempt, Confederate General Jubal Early 's raid into Maryland forced their recall to the north."	
 1C2-E-TEST-0046-2.91/001	hayes	
 1C2-E-TEST-0046-2.91/002	thought	DEP=1C2-E-TEST-0046-2.91001
 1C2-E-TEST-0046-2.91/003	that hunter	DEP=1C2-E-TEST-0046-2.91002
@@ -383,7 +383,7 @@
 1C2-E-TEST-0046-2.91/015	forced	DEP=1C2-E-TEST-0046-2.91014
 1C2-E-TEST-0046-2.91/016	their recall	DEP=1C2-E-TEST-0046-2.91015
 1C2-E-TEST-0046-2.91/017	to the north	DEP=1C2-E-TEST-0046-2.91016
-1C2-E-TEST-0046-2.96	Hayes's troops fended off a Confederate assault at Berryville and advanced to Opequon Creek , where they broke the enemy lines and pursued them farther south.	
+1C2-E-TEST-0046-2.96	"Hayes's troops fended off a Confederate assault at Berryville and advanced to Opequon Creek , where they broke the enemy lines and pursued them farther south."	
 1C2-E-TEST-0046-2.96/001	hayes	
 1C2-E-TEST-0046-2.96/002	troops	DEP=1C2-E-TEST-0046-2.96001
 1C2-E-TEST-0046-2.96/003	fended off	DEP=1C2-E-TEST-0046-2.96002
@@ -395,7 +395,7 @@
 1C2-E-TEST-0046-2.96/009	the enemy lines	DEP=1C2-E-TEST-0046-2.96008
 1C2-E-TEST-0046-2.96/010	and pursued them	DEP=1C2-E-TEST-0046-2.96009
 1C2-E-TEST-0046-2.96/011	farther south	DEP=1C2-E-TEST-0046-2.96010
-1C2-E-TEST-0046-2.99	[58] Hayes' conduct drew the attention of his superiors, with Ulysses S. Grant later writing of Hayes that "[h]is conduct on the field was marked by conspicuous gallantry as well as the display of qualities of a higher order than that of mere personal daring." [59]	
+1C2-E-TEST-0046-2.99	"[58] Hayes' conduct drew the attention of his superiors, with Ulysses S. Grant later writing of Hayes that ""[h]is conduct on the field was marked by conspicuous gallantry as well as the display of qualities of a higher order than that of mere personal daring."" [59]"	
 1C2-E-TEST-0046-2.99/001	hayes'	
 1C2-E-TEST-0046-2.99/002	conduct	DEP=1C2-E-TEST-0046-2.99001
 1C2-E-TEST-0046-2.99/003	drew	DEP=1C2-E-TEST-0046-2.99002
@@ -412,7 +412,7 @@
 1C2-E-TEST-0046-2.99/014	of qualities	DEP=1C2-E-TEST-0046-2.99013
 1C2-E-TEST-0046-2.99/015	of a higher order	DEP=1C2-E-TEST-0046-2.99014
 1C2-E-TEST-0046-2.99/016	than that of Mere personal daring	DEP=1C2-E-TEST-0046-2.99015
-1C2-E-TEST-0046-36.10	He was the second USA President, who was born after ten Weeks of his father's death, His father Rutherford Hayes was a shopkeeper and his mother's name was Sophia Birchard.\xA0His uncle Sardis Birchard became his guardian and later a father figure throughout his life, in his schooling period he learnt ancient Greek and Latin from common schools, latterly he enrolled the Methodist Academy in Norwalk.	
+1C2-E-TEST-0046-36.10	"He was the second USA President, who was born after ten Weeks of his father's death, His father Rutherford Hayes was a shopkeeper and his mother's name was Sophia Birchard.\xA0His uncle Sardis Birchard became his guardian and later a father figure throughout his life, in his schooling period he learnt ancient Greek and Latin from common schools, latterly he enrolled the Methodist Academy in Norwalk."	
 1C2-E-TEST-0046-36.10/001	He	
 1C2-E-TEST-0046-36.10/002	was the second USA President	DEP=1C2-E-TEST-0046-36.10001
 1C2-E-TEST-0046-36.10/003	who was born	DEP=1C2-E-TEST-0046-36.10002
@@ -433,7 +433,7 @@
 1C2-E-TEST-0046-36.10/018	he enrolled	DEP=1C2-E-TEST-0046-36.10017
 1C2-E-TEST-0046-36.10/019	the methodist academy	DEP=1C2-E-TEST-0046-36.10018
 1C2-E-TEST-0046-36.10/020	in norwalk	DEP=1C2-E-TEST-0046-36.10019
-1C2-E-TEST-0046-36.11	In 1842 he done his graduation from Kenyon College in Gambier, Ohio with honors, in January 1845 he completed law from Harvard Law School and started his law practice.	
+1C2-E-TEST-0046-36.11	"In 1842 he done his graduation from Kenyon College in Gambier, Ohio with honors, in January 1845 he completed law from Harvard Law School and started his law practice."	
 1C2-E-TEST-0046-36.11/001	1842	
 1C2-E-TEST-0046-36.11/002	he done	DEP=1C2-E-TEST-0046-36.11001
 1C2-E-TEST-0046-36.11/003	his graduation	DEP=1C2-E-TEST-0046-36.11002
@@ -459,7 +459,7 @@
 1C2-E-TEST-0046-36.14/011	and Finally joined	DEP=1C2-E-TEST-0046-36.14010
 1C2-E-TEST-0046-36.14/012	the republican	DEP=1C2-E-TEST-0046-36.14011
 1C2-E-TEST-0046-36.14/013	in 1864	DEP=1C2-E-TEST-0046-36.14012
-1C2-E-TEST-0046-36.15	In 1865 he was elected as Member of U.S. House of Representatives from Ohio's 2nd district, in 1868 he became the 29th Governor of Ohio, in 1876 he became the 32nd Governor of Ohio and finally on March 4, 1877 he was elected the 19th USA President.	
+1C2-E-TEST-0046-36.15	"In 1865 he was elected as Member of U.S. House of Representatives from Ohio's 2nd district, in 1868 he became the 29th Governor of Ohio, in 1876 he became the 32nd Governor of Ohio and finally on March 4, 1877 he was elected the 19th USA President."	
 1C2-E-TEST-0046-36.15/001	1865	
 1C2-E-TEST-0046-36.15/002	he was elected	DEP=1C2-E-TEST-0046-36.15001
 1C2-E-TEST-0046-36.15/003	as a Member	DEP=1C2-E-TEST-0046-36.15002
@@ -471,10 +471,10 @@
 1C2-E-TEST-0046-36.15/009	of ohio	DEP=1C2-E-TEST-0046-36.15008
 1C2-E-TEST-0046-36.15/010	in 1876	DEP=1C2-E-TEST-0046-36.15009
 1C2-E-TEST-0046-36.15/011	he became the 32nd Governor of Ohio	DEP=1C2-E-TEST-0046-36.15010
-1C2-E-TEST-0046-36.15/012	and finally on March 4, 1877	DEP=1C2-E-TEST-0046-36.15011
+1C2-E-TEST-0046-36.15/012	"and finally on March 4, 1877"	DEP=1C2-E-TEST-0046-36.15011
 1C2-E-TEST-0046-36.15/013	he was elected	DEP=1C2-E-TEST-0046-36.15012
 1C2-E-TEST-0046-36.15/014	the 19th USA President	DEP=1C2-E-TEST-0046-36.15014
-1C2-E-TEST-0046-36.17	Hayes was the first USA President who took his oath in White House; he took his oath on Sunday March 5, 1877 publically. He was denoted for his reform of Civil Services, Domestic policy, Foreign Policy, and Civil Rights.	
+1C2-E-TEST-0046-36.17	"Hayes was the first USA President who took his oath in White House; he took his oath on Sunday March 5, 1877 publically. He was denoted for his reform of Civil Services, Domestic policy, Foreign Policy, and Civil Rights."	
 1C2-E-TEST-0046-36.17/001	hayes	
 1C2-E-TEST-0046-36.17/002	was the first	DEP=1C2-E-TEST-0046-36.17001
 1C2-E-TEST-0046-36.17/003	usa president	DEP=1C2-E-TEST-0046-36.17002
@@ -484,7 +484,7 @@
 1C2-E-TEST-0046-36.17/007	he took	DEP=1C2-E-TEST-0046-36.17006
 1C2-E-TEST-0046-36.17/008	his oath	DEP=1C2-E-TEST-0046-36.17007
 1C2-E-TEST-0046-36.17/009	on sunday	DEP=1C2-E-TEST-0046-36.17008
-1C2-E-TEST-0046-36.17/010	March 5, 1877	DEP=1C2-E-TEST-0046-36.17009
+1C2-E-TEST-0046-36.17/010	"March 5, 1877"	DEP=1C2-E-TEST-0046-36.17009
 1C2-E-TEST-0046-36.17/011	publically	DEP=1C2-E-TEST-0046-36.17010
 1C2-E-TEST-0046-36.17/012	he was denoted	DEP=1C2-E-TEST-0046-36.17011
 1C2-E-TEST-0046-36.17/013	for his reform	DEP=1C2-E-TEST-0046-36.17012
@@ -492,18 +492,18 @@
 1C2-E-TEST-0046-36.17/015	domestic policy	DEP=1C2-E-TEST-0046-36.17014
 1C2-E-TEST-0046-36.17/016	foreign policy	DEP=1C2-E-TEST-0046-36.17015
 1C2-E-TEST-0046-36.17/017	civil rights	DEP=1C2-E-TEST-0046-36.17016
-1C2-E-TEST-0046-5.1	Rutherford Birchard Hayes was born October 4, 1822, in Delaware, Ohio.	
+1C2-E-TEST-0046-5.1	"Rutherford Birchard Hayes was born October 4, 1822, in Delaware, Ohio."	
 1C2-E-TEST-0046-5.1/001	rutherford birchard hayes	
 1C2-E-TEST-0046-5.1/002	born	DEP=1C2-E-TEST-0046-5.1001
-1C2-E-TEST-0046-5.1/003	October 4, 1822,	DEP=1C2-E-TEST-0046-5.1002
+1C2-E-TEST-0046-5.1/003	"October 4, 1822,"	DEP=1C2-E-TEST-0046-5.1002
 1C2-E-TEST-0046-5.1/004	in delaware ohio	DEP=1C2-E-TEST-0046-5.1002
-1C2-E-TEST-0046-5.2	Hayes married Lucy Webb December 30, 1852, and together, they had eight children.	
+1C2-E-TEST-0046-5.2	"Hayes married Lucy Webb December 30, 1852, and together, they had eight children."	
 1C2-E-TEST-0046-5.2/001	hayes	
 1C2-E-TEST-0046-5.2/002	married	DEP=1C2-E-TEST-0046-5.2001
 1C2-E-TEST-0046-5.2/003	lucy webb	DEP=1C2-E-TEST-0046-5.2002
-1C2-E-TEST-0046-5.2/004	December 30, 1852	DEP=1C2-E-TEST-0046-5.2002
+1C2-E-TEST-0046-5.2/004	"December 30, 1852"	DEP=1C2-E-TEST-0046-5.2002
 1C2-E-TEST-0046-5.2/005	together had eight children	
-1C2-E-TEST-0046-5.3	Hayes was a congressman and Governor of Ohio before becoming a "dark horse" Republican candidate for President in 1876. Running against Democrat Samuel J. Tilden, Hayes lost the popular vote but won the Presidency by one vote in the Electoral College, the closest Presidential election in history except in 1824, when John Quincy Adams received fewer electoral votes than his opponent but was elected in the House of Representatives, and in 2000, when George W. Bush narrowly won over over Albert Gore. Some people accused Hayes of "stealing" the election, but he turned out to be so honest and hardworking that both his own party and the Democrats respected him. His Vice President was William A. Wheeler.	
+1C2-E-TEST-0046-5.3	"Hayes was a congressman and Governor of Ohio before becoming a ""dark horse"" Republican candidate for President in 1876. Running against Democrat Samuel J. Tilden, Hayes lost the popular vote but won the Presidency by one vote in the Electoral College, the closest Presidential election in history except in 1824, when John Quincy Adams received fewer electoral votes than his opponent but was elected in the House of Representatives, and in 2000, when George W. Bush narrowly won over over Albert Gore. Some people accused Hayes of ""stealing"" the election, but he turned out to be so honest and hardworking that both his own party and the Democrats respected him. His Vice President was William A. Wheeler."	
 1C2-E-TEST-0046-5.3/001	hayes	
 1C2-E-TEST-0046-5.3/002	congressman	DEP=1C2-E-TEST-0046-5.3001
 1C2-E-TEST-0046-5.3/003	governor	DEP=1C2-E-TEST-0046-5.3002
@@ -529,12 +529,12 @@
 1C2-E-TEST-0046-5.3/023	and in 2000	DEP=1C2-E-TEST-0046-5.3022
 1C2-E-TEST-0046-5.3/024	when George W. Bush narrowly won over over Albert Gore	DEP=1C2-E-TEST-0046-5.3023
 1C2-E-TEST-0046-5.3/025	Some people accused Hayes	DEP=1C2-E-TEST-0046-5.3024
-1C2-E-TEST-0046-5.3/026	of "stealing" the election	DEP=1C2-E-TEST-0046-5.3025
+1C2-E-TEST-0046-5.3/026	"of ""stealing"" the election"	DEP=1C2-E-TEST-0046-5.3025
 1C2-E-TEST-0046-5.3/027	but he turned out to be so honest	DEP=1C2-E-TEST-0046-5.3026
 1C2-E-TEST-0046-5.3/028	and hardworking	DEP=1C2-E-TEST-0046-5.3027
 1C2-E-TEST-0046-5.3/029	that both his own party and the Democrats respected him	DEP=1C2-E-TEST-0046-5.3028
 1C2-E-TEST-0046-5.3/030	His Vice President was William A. Wheeler	DEP=1C2-E-TEST-0046-5.3029
-1C2-E-TEST-0046-5.4	The period between the end of the Civil War in 1877 and 1881, when Hayes took office, was known as the Reconstruction Era.	
+1C2-E-TEST-0046-5.4	"The period between the end of the Civil War in 1877 and 1881, when Hayes took office, was known as the Reconstruction Era."	
 1C2-E-TEST-0046-5.4/001	period	
 1C2-E-TEST-0046-5.4/002	between the end	DEP=1C2-E-TEST-0046-5.4001
 1C2-E-TEST-0046-5.4/003	of the civil war	DEP=1C2-E-TEST-0046-5.4002
@@ -544,7 +544,7 @@
 1C2-E-TEST-0046-5.4/007	office	DEP=1C2-E-TEST-0046-5.4006
 1C2-E-TEST-0046-5.4/008	was known	DEP=1C2-E-TEST-0046-5.4007
 1C2-E-TEST-0046-5.4/009	as the reconstruction era	DEP=1C2-E-TEST-0046-5.4008
-1C2-E-TEST-0046-5.7	Hayes was the first President to visit the West Coast, taking the train all the way across the country. He was also the first President to have a telephone in the White House. While Hayes was President, Thomas Edison invented the electric light bulb and the phonograph.	
+1C2-E-TEST-0046-5.7	"Hayes was the first President to visit the West Coast, taking the train all the way across the country. He was also the first President to have a telephone in the White House. While Hayes was President, Thomas Edison invented the electric light bulb and the phonograph."	
 1C2-E-TEST-0046-5.7/001	hayes wasthe fisrt president	
 1C2-E-TEST-0046-5.7/002	to visit	DEP=1C2-E-TEST-0046-5.7001
 1C2-E-TEST-0046-5.7/003	the west coast	DEP=1C2-E-TEST-0046-5.7002
