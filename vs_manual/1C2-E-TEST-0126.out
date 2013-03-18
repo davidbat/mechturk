@@ -1,60 +1,44 @@
-1C2-E-TEST-0126-1.12	"St. Thomas' Cathedral is the first Anglican Church in Mumbai, situated near the Flora Fountain."	
-1C2-E-TEST-0126-1.12/001	st thomas cathedral	
+1C2-E-TEST-0126-1.12	"St. Thomas' Cathedral is the first Anglican Church in Mumbai, situated near the Flora Fountain."
+1C2-E-TEST-0126-1.12/001	st thomas cathedral
 1C2-E-TEST-0126-1.12/002	first anglican church mumbai	DEP=1C2-E-TEST-0126-1.12001
-1C2-E-TEST-0126-1.12/003	situated	
-1C2-E-TEST-0126-1.12/004	flora fountain	DEP=1C2-E-TEST-0126-1.12003
-1C2-E-TEST-0126-1.13	"Built in 1718, St. Thomas Cathedral was an effort to improve the moral standards of the growing British settlement."	
-1C2-E-TEST-0126-1.13/001	1718	
-1C2-E-TEST-0126-1.13/002	st thomas cathedral	DEP=1C2-E-TEST-0126-1.13001
-1C2-E-TEST-0126-1.13/003	improve moral standards	DEP=1C2-E-TEST-0126-1.13004
-1C2-E-TEST-0126-1.13/004	growing british settlement	
-1C2-E-TEST-0126-1.15	Wodehouse Church is another major church situated on Wodehouse Road at Colaba in Mumbai. Christian devotees flock the Wodehouse church on a regular basis.	
-1C2-E-TEST-0126-1.15/001	wodehouse church	DEP=1C2-E-TEST-0126-1.15002
-1C2-E-TEST-0126-1.15/002	major church	
-1C2-E-TEST-0126-1.15/003	situated	
-1C2-E-TEST-0126-1.15/004	wodehouse road colaba mumbai	DEP=1C2-E-TEST-0126-1.15001
-1C2-E-TEST-0126-1.15/005	devotees flock	DEP=1C2-E-TEST-0126-1.15001
-1C2-E-TEST-0126-1.15/006	regular basis	DEP=1C2-E-TEST-0126-1.15005
-1C2-E-TEST-0126-1.6	"Mary Church is among the most prominent churches in Mumbai, with devotees flocking here from all faith."	
-1C2-E-TEST-0126-1.6/001	mary church	
-1C2-E-TEST-0126-1.6/002	prominent mumbai	DEP=1C2-E-TEST-0126-1.6001
-1C2-E-TEST-0126-1.6/003	devotees flocking faiths	
-1C2-E-TEST-0126-1.9	St. Michael's Church is among the oldest Catholic churches in Mumbai.	
-1C2-E-TEST-0126-1.9/001	st. michael church	
-1C2-E-TEST-0126-1.9/002	oldest catholic	DEP=1C2-E-TEST-0126-1.9001
-1C2-E-TEST-0126-1.9/003	mumbai	DEP=1C2-E-TEST-0126-1.9002
-1C2-E-TEST-0126-16.10	Mary Church is famous for the kind rituals that reinforce the power of prayers.	
-1C2-E-TEST-0126-16.10/001	mary church	
-1C2-E-TEST-0126-16.10/002	famous rituals	DEP=1C2-E-TEST-0126-16.10001
-1C2-E-TEST-0126-16.10/003	power prayers	DEP=1C2-E-TEST-0126-16.10002
-1C2-E-TEST-0126-16.15	"Mount Mary Church is one of the most prominent churches in Mumbai, situated on a quiet hillock in suburban Bandra."	
-1C2-E-TEST-0126-16.15/001	mount mary church	DEP=1C2-E-TEST-0126-16.15002
-1C2-E-TEST-0126-16.15/002	prominent	
-1C2-E-TEST-0126-16.15/003	quiet hillock	DEP=1C2-E-TEST-0126-16.15006
-1C2-E-TEST-0126-16.15/004	suburban bandra	DEP=1C2-E-TEST-0126-16.15006
-1C2-E-TEST-0126-16.15/005	mumbai	DEP=1C2-E-TEST-0126-16.15006
-1C2-E-TEST-0126-16.15/006	situated	DEP=1C2-E-TEST-0126-16.15001
-1C2-E-TEST-0126-4.3	"- 62 Shahid Bhagathsing Road, Near Electrical House, Colaba, Mumbai, India"	
-1C2-E-TEST-0126-4.3/001	62 shahid bhagathsing road	
-1C2-E-TEST-0126-4.3/002	electrical house	DEP=1C2-E-TEST-0126-4.3001
+1C2-E-TEST-0126-1.12/003	situated near flora fountain	DEP=1C2-E-TEST-0126-1.12001
+1C2-E-TEST-0126-1.13	"Built in 1718, St. Thomas Cathedral was an effort to improve the moral standards of the growing British settlement."
+1C2-E-TEST-0126-1.13/001	built in 1718	DEP=1C2-E-TEST-0126-1.13002
+1C2-E-TEST-0126-1.13/002	st thomas cathedral
+1C2-E-TEST-0126-1.13/003	effort to improve moral standards of growing british settlement	DEP=1C2-E-TEST-0126-1.13002
+1C2-E-TEST-0126-1.15	Wodehouse Church is another major church situated on Wodehouse Road at Colaba in Mumbai. Christian devotees flock the Wodehouse church on a regular basis.
+1C2-E-TEST-0126-1.15/001	wodehouse church is another major church
+1C2-E-TEST-0126-1.15/002	situated on wodehouse road colaba mumbai	DEP=1C2-E-TEST-0126-1.15001
+1C2-E-TEST-0126-1.15/003	christian devotees flock on a regular basis	DEP=1C2-E-TEST-0126-1.15001
+1C2-E-TEST-0126-1.6	"Mary Church is among the most prominent churches in Mumbai, with devotees flocking here from all faith."
+1C2-E-TEST-0126-1.6/001	mary church is among the most prominent churches in mumbai
+1C2-E-TEST-0126-1.6/002	devotees flocking from all faiths	DEP=1C2-E-TEST-0126-1.6001
+1C2-E-TEST-0126-1.9	St. Michael's Church is among the oldest Catholic churches in Mumbai.
+1C2-E-TEST-0126-1.9/001	st. michael church
+1C2-E-TEST-0126-1.9/002	among the oldest catholic churches	DEP=1C2-E-TEST-0126-1.9001
+1C2-E-TEST-0126-16.10	Mary Church is famous for the kind rituals that reinforce the power of prayers.
+1C2-E-TEST-0126-16.10/001	mary church
+1C2-E-TEST-0126-16.10/002	famous for rituals that reinforce power of prayer	DEP=1C2-E-TEST-0126-16.10001
+1C2-E-TEST-0126-16.15	"Mount Mary Church is one of the most prominent churches in Mumbai, situated on a quiet hillock in suburban Bandra."
+1C2-E-TEST-0126-16.15/001	mount mary church
+1C2-E-TEST-0126-16.15/002	one of the most prominent churches	DEP=1C2-E-TEST-0126-16.15001
+1C2-E-TEST-0126-16.15/003	situated on quiet hillock in suburban bandra	DEP=1C2-E-TEST-0126-16.15001
+1C2-E-TEST-0126-4.3	"- 62 Shahid Bhagathsing Road, Near Electrical House, Colaba, Mumbai, India"
+1C2-E-TEST-0126-4.3/001	62 shahid bhagathsing road
+1C2-E-TEST-0126-4.3/002	near electrical house	DEP=1C2-E-TEST-0126-4.3001
 1C2-E-TEST-0126-4.3/003	colaba mumbai india	DEP=1C2-E-TEST-0126-4.3001
-1C2-E-TEST-0126-62.8	Bandra Mount Mary Church	
-1C2-E-TEST-0126-62.8/001	bandra mount mary church	
-1C2-E-TEST-0126-7.2	"Situated on a quiet hillock in suburban Bandra, Mount Mary church is one of the most prominent church in Mumbai with exquisite interiors."	
-1C2-E-TEST-0126-7.2/001	mount mary church	DEP=1C2-E-TEST-0126-7.2002
-1C2-E-TEST-0126-7.2/002	prominent	
-1C2-E-TEST-0126-7.2/003	quiet hillock	DEP=1C2-E-TEST-0126-7.2006
-1C2-E-TEST-0126-7.2/004	suburban bandra	DEP=1C2-E-TEST-0126-7.2006
-1C2-E-TEST-0126-7.2/005	mumbai	DEP=1C2-E-TEST-0126-7.2006
-1C2-E-TEST-0126-7.2/006	situated	DEP=1C2-E-TEST-0126-7.2001
-1C2-E-TEST-0126-7.2/007	exquisite interiors	DEP=1C2-E-TEST-0126-7.2001
-1C2-E-TEST-0126-82.3	"St. Thomas Cathedral of Mumbai is situated on the D.N. Road in the Fort area, near the magnificent Flora Fountain."	
-1C2-E-TEST-0126-82.3/001	st thomas cathedral	
-1C2-E-TEST-0126-82.3/002	dn road fort area mumbai	DEP=1C2-E-TEST-0126-82.3001
-1C2-E-TEST-0126-82.3/003	magnificient flora fountain	DEP=1C2-E-TEST-0126-82.3002
-1C2-E-TEST-0126-82.6	"Saint Thomas Cathedral of Bombay owes its name to St. Thomas, an ardent disciple of Christ."	
-1C2-E-TEST-0126-82.6/001	saint thomas cathedral	DEP=1C2-E-TEST-0126-82.6002
-1C2-E-TEST-0126-82.6/002	owes name	DEP=1C2-E-TEST-0126-82.6003
-1C2-E-TEST-0126-82.6/003	st. thomas	
-1C2-E-TEST-0126-82.6/004	ardent disciple	DEP=1C2-E-TEST-0126-82.6003
-1C2-E-TEST-0126-82.6/005	christ	DEP=1C2-E-TEST-0126-82.6004
+1C2-E-TEST-0126-62.8	Bandra Mount Mary Church
+1C2-E-TEST-0126-62.8/001	bandra mount mary church
+1C2-E-TEST-0126-7.2	"Situated on a quiet hillock in suburban Bandra, Mount Mary church is one of the most prominent church in Mumbai with exquisite interiors."
+1C2-E-TEST-0126-7.2/001	mount mary church
+1C2-E-TEST-0126-7.2/002	situated on a quiet hillock in suburban bandra	DEP=1C2-E-TEST-0126-7.2001
+1C2-E-TEST-0126-7.2/003	one of the most prominent churches	DEP=1C2-E-TEST-0126-7.2001
+1C2-E-TEST-0126-7.2/004	exquisite interiors	DEP=1C2-E-TEST-0126-7.2001
+1C2-E-TEST-0126-82.3	"St. Thomas Cathedral of Mumbai is situated on the D.N. Road in the Fort area, near the magnificent Flora Fountain."
+1C2-E-TEST-0126-82.3/001	st thomas cathedral
+1C2-E-TEST-0126-82.3/002	situated on dn road fort area mumbai	DEP=1C2-E-TEST-0126-82.3001
+1C2-E-TEST-0126-82.3/003	situated near magnificient flora fountain	DEP=1C2-E-TEST-0126-82.3001
+1C2-E-TEST-0126-82.6	"Saint Thomas Cathedral of Bombay owes its name to St. Thomas, an ardent disciple of Christ."
+1C2-E-TEST-0126-82.6/001	saint thomas cathedral of bombay
+1C2-E-TEST-0126-82.6/002	owes name to st. thomas	DEP=1C2-E-TEST-0126-82.6001
+1C2-E-TEST-0126-82.6/003	st. thomas an ardent disciple of christ	DEP=1C2-E-TEST-0126-82.6001

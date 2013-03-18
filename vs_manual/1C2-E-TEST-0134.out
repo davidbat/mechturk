@@ -1,46 +1,44 @@
-1C2-E-TEST-0134-1.001	redimix_nh_concrete Batch Plants in: Columbia Littleton Campton Laconia Bow Manchester Amherst Nashua Dover Berwick, ME	
-1C2-E-TEST-0134-1.001/001	redimix_nh_concrete batch plants	
-1C2-E-TEST-0134-1.001/002	columbia littleton campton laconia bow manchester amherst dover berwick	DEP=1C2-E-TEST-0134-1.001001
-1C2-E-TEST-0134-107.001	Manchester Redimix Concrete - Construction Company in Manchester (603) 669-2373	
-1C2-E-TEST-0134-107.001/001	manchester redimix	
-1C2-E-TEST-0134-107.001/002	construction company	DEP=1C2-E-TEST-0134-107.001001
-1C2-E-TEST-0134-107.001/003	Manchester 603 669-2373	DEP=1C2-E-TEST-0134-107.001001
-1C2-E-TEST-0134-11.14	Nashua Redimix Concrete	
-1C2-E-TEST-0134-11.14/001	nashua redimix	
-1C2-E-TEST-0134-11.3	Redimix Companies, Inc. is the leading supplier of ready-mixed concrete in New Hampshire, and we serve York County, Maine with our Berwick, Maine location.	
-1C2-E-TEST-0134-11.3/001	redimix companies inc.	
-1C2-E-TEST-0134-11.3/002	leading supplier	
-1C2-E-TEST-0134-11.3/003	ready-mixed	
-1C2-E-TEST-0134-11.3/004	new hampshire	DEP=1C2-E-TEST-0134-11.3001
-1C2-E-TEST-0134-11.3/005	york county maine	DEP=1C2-E-TEST-0134-11.3004
-1C2-E-TEST-0134-11.3/006	berwick maine location	DEP=1C2-E-TEST-0134-11.3004
-1C2-E-TEST-0134-11.4	Our four operating divisions are Manchester Redimix Concrete, Nashua Redimix Concrete, Persons Concrete and Seacoast Redimix Concrete.	
-1C2-E-TEST-0134-11.4/001	four operating divisions	
+1C2-E-TEST-0134-1.001	"redimix_nh_concrete Batch Plants in: Columbia Littleton Campton Laconia Bow Manchester Amherst Nashua Dover Berwick, ME"
+1C2-E-TEST-0134-1.001/001	redimix_nh_concrete batch plants
+1C2-E-TEST-0134-1.001/002	columbia littleton campton laconia bow manchester amherst dover berwick me	DEP=1C2-E-TEST-0134-1.001001
+1C2-E-TEST-0134-107.001	Manchester Redimix Concrete - Construction Company in Manchester (603) 669-2373
+1C2-E-TEST-0134-107.001/001	manchester redimix concrete construction company
+1C2-E-TEST-0134-107.001/002	Manchester	DEP=1C2-E-TEST-0134-107.001001
+1C2-E-TEST-0134-107.001/003	603 669-2373	DEP=1C2-E-TEST-0134-107.001001
+1C2-E-TEST-0134-11.14	Nashua Redimix Concrete
+1C2-E-TEST-0134-11.14/001	nashua redimix
+1C2-E-TEST-0134-11.3	"Redimix Companies, Inc. is the leading supplier of ready-mixed concrete in New Hampshire, and we serve York County, Maine with our Berwick, Maine location."
+1C2-E-TEST-0134-11.3/001	redimix companies inc.
+1C2-E-TEST-0134-11.3/002	leading supplier of ready-mixed concrete	DEP=1C2-E-TEST-0134-11.3001
+1C2-E-TEST-0134-11.3/003	in new hampshire	DEP=1C2-E-TEST-0134-11.3001
+1C2-E-TEST-0134-11.3/004	server york county maine	DEP=1C2-E-TEST-0134-11.3001
+1C2-E-TEST-0134-11.3/005	berwick maine location	DEP=1C2-E-TEST-0134-11.3004
+1C2-E-TEST-0134-11.4	"Our four operating divisions are Manchester Redimix Concrete, Nashua Redimix Concrete, Persons Concrete and Seacoast Redimix Concrete."
+1C2-E-TEST-0134-11.4/001	four operating divisions
 1C2-E-TEST-0134-11.4/002	manchester redimix	DEP=1C2-E-TEST-0134-11.4001
 1C2-E-TEST-0134-11.4/003	nashua redimix	DEP=1C2-E-TEST-0134-11.4001
-1C2-E-TEST-0134-11.4/004	persons	DEP=1C2-E-TEST-0134-11.4001
+1C2-E-TEST-0134-11.4/004	persons concrete	DEP=1C2-E-TEST-0134-11.4001
 1C2-E-TEST-0134-11.4/005	seacoast redimix	DEP=1C2-E-TEST-0134-11.4001
-1C2-E-TEST-0134-21.001	Southern New Hampshire Redimix/Seacoast Area Redimix 1-800-400-9474	
-1C2-E-TEST-0134-21.001/001	southern new hampshire redimix\/seacoast area redimix	
-1C2-E-TEST-0134-21.001/002	1-800-400-9474	DEP=1C2-E-TEST-0134-21.001001
-1C2-E-TEST-0134-21.002	Persons Concrete: 1-800-998-4434	
-1C2-E-TEST-0134-21.002/001	persons	
+1C2-E-TEST-0134-21.001	Southern New Hampshire Redimix/Seacoast Area Redimix 1-800-400-9474
+1C2-E-TEST-0134-21.001/001	southern new hampshire redimix
+1C2-E-TEST-0134-21.001/002	seacoast area redimix
+1C2-E-TEST-0134-21.001/003	1-800-400-9474	DEP=1C2-E-TEST-0134-21.001002
+1C2-E-TEST-0134-21.002	Persons Concrete: 1-800-998-4434
+1C2-E-TEST-0134-21.002/001	persons concrete
 1C2-E-TEST-0134-21.002/002	1-800-998-4434	DEP=1C2-E-TEST-0134-21.002001
-1C2-E-TEST-0134-5.001	Local Ready Mix Concrete is the number one provider in New Hampshire, when you need a high quality aggregates and other materials.	
-1C2-E-TEST-0134-5.001/001	local ready	DEP=1C2-E-TEST-0134-5.001004
-1C2-E-TEST-0134-5.001/002	number one provider	DEP=1C2-E-TEST-0134-5.001001
-1C2-E-TEST-0134-5.001/003	high quality aggregates materials	
-1C2-E-TEST-0134-5.001/004	new hampshire	
-1C2-E-TEST-0134-5.3	Local Ready Mix Concrete is the number one provider in New Hampshire, when you need a high quality aggregates and other materials. call us now to save on all of your concrete delivery.	
-1C2-E-TEST-0134-5.3/001	local ready	DEP=1C2-E-TEST-0134-5.3004
-1C2-E-TEST-0134-5.3/002	number one provider	DEP=1C2-E-TEST-0134-5.3001
-1C2-E-TEST-0134-5.3/003	high quality aggregates materials	
-1C2-E-TEST-0134-5.3/004	new hampshire	
-1C2-E-TEST-0134-5.3/005	save	
-1C2-E-TEST-0134-5.3/006	delivery	DEP=1C2-E-TEST-0134-5.3005
-1C2-E-TEST-0134-60.33	Our four operating divisions are Manchester Redimix Concrete, Nashua Redimix Concrete, Persons Concrete and Seacoast Redimix Concrete.	
-1C2-E-TEST-0134-60.33/001	four operating divisions	
-1C2-E-TEST-0134-60.33/002	manchester redimix	DEP=1C2-E-TEST-0134-60.33001
-1C2-E-TEST-0134-60.33/003	nashua redimix	DEP=1C2-E-TEST-0134-60.33001
-1C2-E-TEST-0134-60.33/004	persons	DEP=1C2-E-TEST-0134-60.33001
-1C2-E-TEST-0134-60.33/005	seacoast redimix	DEP=1C2-E-TEST-0134-60.33001
+1C2-E-TEST-0134-5.001	"Local Ready Mix Concrete is the number one provider in New Hampshire, when you need a high quality aggregates and other materials."
+1C2-E-TEST-0134-5.001/001	local ready mix concrete
+1C2-E-TEST-0134-5.001/002	number one provider in new hampshire	DEP=1C2-E-TEST-0134-5.001001
+1C2-E-TEST-0134-5.001/003	high quality aggregates materials	DEP=1C2-E-TEST-0134-5.001001
+1C2-E-TEST-0134-5.3     Local Ready Mix Concrete is the number one provider in New Hampshire, when you need a high quality aggregates and other materials. call us now to save on all of your concrete delivery.
+1C2-E-TEST-0134-5.3/001 local ready mix concrete
+1C2-E-TEST-0134-5.3/002 number one provider     DEP=1C2-E-TEST-0134-5.3001
+1C2-E-TEST-0134-5.3/003 high quality aggregates materials	DEP=1C2-E-TEST-0134-5.3001
+1C2-E-TEST-0134-5.3/004 new hampshire	DEP=1C2-E-TEST-0134-5.3001
+1C2-E-TEST-0134-60.33   Our four operating divisions are Manchester Redimix Concrete, Nashua Redimix Concrete, Persons Concrete and Seacoast Redimix Concrete.
+1C2-E-TEST-0134-60.33/001       four operating divisions
+1C2-E-TEST-0134-60.33/002       manchester redimix concrete      DEP=1C2-E-TEST-0134-60.33001
+1C2-E-TEST-0134-60.33/003       nashua redimix concrete  DEP=1C2-E-TEST-0134-60.33001
+1C2-E-TEST-0134-60.33/004       persons concrete DEP=1C2-E-TEST-0134-60.33001
+1C2-E-TEST-0134-60.33/005       seacoast redimix concrete        DEP=1C2-E-TEST-0134-60.33001
+
