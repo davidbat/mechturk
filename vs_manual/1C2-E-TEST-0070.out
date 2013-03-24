@@ -262,7 +262,7 @@
 1C2-E-TEST-0070-126.141/004	replace last name to first name	DEP=1C2-E-TEST-0070-126.141005
 1C2-E-TEST-0070-126.141/005	jersey	
 1C2-E-TEST-0070-126.141/006	publicity stunt	DEP=1C2-E-TEST-0070-126.141004
-1C2-E-TEST-0070-126.141/007	promote rising star	DEP=1C2-E-TEST-0070-126.141007
+1C2-E-TEST-0070-126.141/007	promote rising star	DEP=1C2-E-TEST-0070-126.141006
 1C2-E-TEST-0070-126.31	"Ichiro again led the league with a .342 batting average, and had career highs of 25 home runs and 49 steals."	
 1C2-E-TEST-0070-126.31/001	led league	
 1C2-E-TEST-0070-126.31/002	.342 batting average	DEP=1C2-E-TEST-0070-126.31001

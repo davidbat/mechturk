@@ -13,7 +13,7 @@
 1C2-E-TEST-0166-1.31/004	ensure that proper embedment is achieved	DEP=1C2-E-TEST-0166-1.31002
 1C2-E-TEST-0166-122.25	The grade designation is equal to the minimum yield strength of the bar in ksi (1000 psi).	
 1C2-E-TEST-0166-122.25/001	grade designation is equal to the minimum yield strength of the bar in ksi	
-1C2-E-TEST-0166-122.25/002	ksi is 100 psi	DEP=1C2-E-TEST-0166-122.25002
+1C2-E-TEST-0166-122.25/002	ksi is 100 psi	DEP=1C2-E-TEST-0166-122.25001
 1C2-E-TEST-0166-20.8	ASTM A 706 Low-alloy steel deformed and plain bars for concrete reinforcement	
 1C2-E-TEST-0166-20.8/001	ASTM  a 706 low alloy steel	
 1C2-E-TEST-0166-20.8/002	deformed and plain bars for concrete reinforcement	DEP=1C2-E-TEST-0166-20.8001

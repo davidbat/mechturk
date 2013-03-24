@@ -1,5 +1,5 @@
 1C2-E-TEST-0087-2.100	"[102] In October 2011 the University of Texas System Board of Regents approved a $25 million funding program to build a 100,000 square feet (9,300ÃÂ m2) addition to the Naveen Jindal School of Management with an estimated completion date in 2014."	
-1C2-E-TEST-0087-2.100/001	Oct-11	
+1C2-E-TEST-0087-2.100/001	11-Oct	
 1C2-E-TEST-0087-2.100/002	the university	DEP=1C2-E-TEST-0087-2.100001
 1C2-E-TEST-0087-2.100/003	of texas system board	DEP=1C2-E-TEST-0087-2.100002
 1C2-E-TEST-0087-2.100/004	of regents	DEP=1C2-E-TEST-0087-2.100003
@@ -11,7 +11,7 @@
 1C2-E-TEST-0087-2.100/010	with an estimated completion date	DEP=1C2-E-TEST-0087-2.100009
 1C2-E-TEST-0087-2.100/011	in 2014	DEP=1C2-E-TEST-0087-2.100010
 1C2-E-TEST-0087-2.101	"[103] [104] In November 2011 the UT System Board of Regents has approved initial plans for a fourth, 600 bed residential facility, including a dining hall with seating for 800, a recreation center and a parking garage."	
-1C2-E-TEST-0087-2.101/001	Nov-11	
+1C2-E-TEST-0087-2.101/001	11-Nov	
 1C2-E-TEST-0087-2.101/002	the UT system board	DEP=1C2-E-TEST-0087-2.101001
 1C2-E-TEST-0087-2.101/003	of regents	DEP=1C2-E-TEST-0087-2.101002
 1C2-E-TEST-0087-2.101/004	has approved initial plans	DEP=1C2-E-TEST-0087-2.101003
@@ -46,7 +46,7 @@
 1C2-E-TEST-0087-2.108/008	in 2009	DEP=1C2-E-TEST-0087-2.108007
 1C2-E-TEST-0087-2.109	"[107] UTD's 89,000-square-foot Activity Center contains a fitness center, racquetball courts, squash courts, basketball courts, a multi-purpose room, and indoor swimming pool."	
 1C2-E-TEST-0087-2.109/001	utd's	
-1C2-E-TEST-0087-2.109/002	"89,000-square-foot"	DEP=1C2-E-TEST-0087-2.109002
+1C2-E-TEST-0087-2.109/002	"89,000-square-foot"	DEP=1C2-E-TEST-0087-2.109001
 1C2-E-TEST-0087-2.109/003	activity centre contains	DEP=1C2-E-TEST-0087-2.109002
 1C2-E-TEST-0087-2.109/004	fitness centre	DEP=1C2-E-TEST-0087-2.109003
 1C2-E-TEST-0087-2.109/005	racquetball courts	DEP=1C2-E-TEST-0087-2.109003
@@ -102,7 +102,7 @@
 1C2-E-TEST-0087-2.123/003	in all three and law schools acceptance rate	DEP=1C2-E-TEST-0087-2.123002
 1C2-E-TEST-0087-2.123/004	for UTD pre-law graduates 86% in 2009	DEP=1C2-E-TEST-0087-2.123003
 1C2-E-TEST-0087-2.124	[113] In November 2009, the UT Dallas team won the National Mediation Tournament championship in the advocate/client division."""	
-1C2-E-TEST-0087-2.124/001	Nov-09	
+1C2-E-TEST-0087-2.124/001	9-Nov	
 1C2-E-TEST-0087-2.124/002	ut dallas debate team	DEP=1C2-E-TEST-0087-2.124001
 1C2-E-TEST-0087-2.124/003	won national mediation tournament championship	DEP=1C2-E-TEST-0087-2.124002
 1C2-E-TEST-0087-2.124/004	in advocate/client division	DEP=1C2-E-TEST-0087-2.124003

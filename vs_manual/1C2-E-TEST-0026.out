@@ -68,7 +68,7 @@
 1C2-E-TEST-0026-2.14/006	Roundabout theatre company	DEP=1C2-E-TEST-0026-2.14004
 1C2-E-TEST-0026-2.16	"In the late 1990s, she made brief appearances in individual episodes of Spin City and Law & Order while also securing roles in two short-lived television series, Significant Others and Time of Your Life ."	
 1C2-E-TEST-0026-2.16/001	late 1990s made brief appearances in individual episodes	
-1C2-E-TEST-0026-2.16/002	spin city	DEP=1C2-E-TEST-0026-2.16002
+1C2-E-TEST-0026-2.16/002	spin city	DEP=1C2-E-TEST-0026-2.16001
 1C2-E-TEST-0026-2.16/003	law order	DEP=1C2-E-TEST-0026-2.16002
 1C2-E-TEST-0026-2.16/004	late 1990s securing roles two short-lived telivision series	
 1C2-E-TEST-0026-2.16/005	significant others	DEP=1C2-E-TEST-0026-2.16004
@@ -157,7 +157,7 @@
 1C2-E-TEST-0026-4.19/001	received four consecutive emmy award nominations	
 1C2-E-TEST-0026-4.19/002	for outstanding lead actress in drama series	DEP=1C2-E-TEST-0026-4.19001
 1C2-E-TEST-0026-4.21	"In March 2005, Garner directed the fourth-season Alias episode, "" In Dreams "", which aired in May."	
-1C2-E-TEST-0026-4.21/001	Mar-05	DEP=1C2-E-TEST-0026-4.21002
+1C2-E-TEST-0026-4.21/001	5-Mar	DEP=1C2-E-TEST-0026-4.21002
 1C2-E-TEST-0026-4.21/002	directed fourth season alias episode	
 1C2-E-TEST-0026-4.21/003	in dreams	DEP=1C2-E-TEST-0026-4.21002
 1C2-E-TEST-0026-4.21/004	aired in may	DEP=1C2-E-TEST-0026-4.21002
